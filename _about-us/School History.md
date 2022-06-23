@@ -92,4 +92,4 @@ Critical Social Inquiry and Media Literacy as AI's second niche</p>
 <br>
 <p><img style="width: 35%;" src="/images/history14.jpg" align = "left"/>
 <strong>2018</strong><br />
-Critical Social Inquiry and Media Literacy as AI's second niche</p>
+For her leadership in starting the school’s EMP and creating a vibrant music culture, Ms Ng Sheh Feng is conferred the President’s Award for Teachers.</p>
