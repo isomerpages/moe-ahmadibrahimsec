@@ -63,12 +63,33 @@ description: ""
 <br><p><img style="width: 35%;" src="/images/history05.jpg" align = "left"/>
 <strong>1987</strong><br />
 AI was given the Guinness Stout Effort Award in recognition of the school’s concerted efforts in integrating visually impaired students into mainstream education through the Open Education Programme</p>
-<p><img style="width: 38%;" src="/images/history06.jpg" align = "left"/>
+<p><img style="width: 35%;" src="/images/history06.jpg" align = "left"/>
 <strong>1998</strong><br />
 AI celebrated its 35th Anniversary with a carnival and a musical production, ‘The King and I’. Through the 1990s, right up to 2002, AI had staged numerous plays and musicals.</p>
-<p><img style="width: 38%;" src="/images/history07.jpg" align = "left"/>
+<p><img style="width: 35%;" src="/images/history07.jpg" align = "left"/>
 <strong>2006</strong><br />
 AI was recognised as a Niche Programme School for Shooting, given its Shooting competition achievements and strong track record in producing outstanding Shooters for the national youth team.</p>
-<p><img style="width: 28%;" src="/images/history08.jpg" align = "left"/>
-<strong>2006</strong><br />
-AI was recognised as a Niche Programme School for Shooting, given its Shooting competition achievements and strong track record in producing outstanding Shooters for the national youth team.</p>
+<p><img style="width: 20%;" src="/images/history08.jpg" align = "left"/>
+<strong>2008</strong><br />
+Ms Deborah Ng, the school’s resource teacher for the visually impaired, was honoured with the NIE-Exxon Mobil Caring Teacher Award.</p>
+<br><br>
+<p><img style="width: 20%;" src="/images/history09.jpg" align = "left"/>
+<strong>2011</strong><br />
+Mr Burton T S Row was honoured to be one out of twelve finalists for the President’s Award for Teachers.</p>
+<br><br>
+<p><img style="width: 35%;" src="/images/history10.jpg" align = "left"/>
+<strong>2012</strong><br />
+AISS celebrated its 50th Year in grand fashion with Community Outreach in Yishun neighbourhood in March, a Concert at the Republic Polytechnic in April (Guest-of-Honour, Mr Khaw Boon Wan) and a Gala “Reunion” Dinner in November in the school premises (Guest-of-Honour, President Tony Tan). The school also opened its AI Heritage Boulevard and WeBreathe Room (The Student Centre) on that day. From the last three and a half decades, the school evolved from a small rural school to a modern, well-equipped and well-managed institution. In its own way, Ahmad Ibrahim Secondary School now ranks among the best educational institutions in Singapore!</p>
+<p><img style="width: 35%;" src="/images/history11.jpg" align = "left"/>
+<strong>2015</strong><br />
+AI’s signature programme, Outdoor Learning Experience (OLE), received MOE’s endorsement. The school’s Learning for Life Programme is now Character Development through OLE.</p>
+<p><img style="width: 35%;" src="/images/history12.jpg" align = "left"/>
+<strong>2016</strong><br />
+AI is one of the four schools in Singapore offering the Enhanced Music Programme (EMP) which aims at increasing accessibility to students with music talent and interest to pursue GCE ‘O’ level Music or Higher Music. Complementary is the introduction of the MusicPreparatory Course (MPC) for lower secondary students who are musically talented.</p>
+<p><img style="width: 35%;" src="/images/history13.jpg" align = "left"/>
+<strong>2016</strong><br />
+Critical Social Inquiry and Media Literacy as AI's second niche</p>
+<br>
+<p><img style="width: 35%;" src="/images/history14.jpg" align = "left"/>
+<strong>2018</strong><br />
+Critical Social Inquiry and Media Literacy as AI's second niche</p>
