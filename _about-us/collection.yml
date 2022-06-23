@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Direct School Admission.md
       - E Open House.md
       - Frequently Asked Questions (FAQ).md
