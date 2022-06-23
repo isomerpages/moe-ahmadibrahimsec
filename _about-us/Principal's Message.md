@@ -3,6 +3,8 @@ title: Principal's Message
 permalink: /about-us/principals-message
 description: ""
 ---
+<h3>Who am I?</h3>
+<img style="width: 25%;" src="/images/Tan-KX-AI2020-220.jpg" align = "left"/>
 <p>My posting to AI is my second tour of duty as principal. Students often ask what led to me being appointed as one of the younger principals they have met. Ironical as it may seem, I did not rise to this position on multiple successes. On the contrary, it was setbacks and disappointments that shaped me to who I am today.</p>
 <p>This journey began with a personal disappointment of not fulfilling my aspiration to qualify for Special Assistance Plan (SAP) schools after my PSLE. My peers who had performed worse than I did in the Preliminary Exams eventually did better than me for PSLE. I was filled with anger and self-doubt.</p>
 <p>Four years later, I realized that it was a blessing in disguise. Not qualifying for a SAP school gave me the opportunity to immerse myself in a completely different culture where many of my friends spoke English fluently. I read English Literature for the &lsquo;O&rsquo; levels. I experienced literacy appreciation days and participated in mass-dancing after the examinations. I also had the opportunity to lead my class in the school funfair. Unbeknownst to me, these experiences empowered me with leadership skills and helped shaped myself and my classmates into leaders of the future.</p>
