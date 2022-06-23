@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - AI Distinctive Programmes/.keep
       - School History.md
       - School Identity.md
       - School Organisation Chart.md
