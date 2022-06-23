@@ -54,3 +54,5 @@ description: ""
 <h3>Key Milestones</h3>
 <p><img style="width: 35%;" src="/images/history01.jpg" align = "left"/>
 <strong>1963</strong><br />School Opening Ahmad Ibrahim Secondary School was founded. As one of the pioneer government schools in Singapore, AI was named after former Minister for Labour and Assemblyman for Sembawang, Encik Ahmad Ibrahim, for his contributions in the early nation-building years. The school was first located at Sembawang Hills estate.</p>
+<p><img style="width: 35%;" src="/images/history02.jpg" align = "left"/>
+<strong>1967</strong><br />First pilot school for the Open Education Programme for the blind AI was chosen as the first pilot school for the Open Education Programme for the blind, whereby the visually-impaired students were integrated into mainstream classes.</p>
