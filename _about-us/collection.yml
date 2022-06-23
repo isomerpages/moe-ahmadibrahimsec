@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Organisation Chart.md
       - Sec 1 Registration.md
       - School Calendar.md
       - Direct School Admission.md
