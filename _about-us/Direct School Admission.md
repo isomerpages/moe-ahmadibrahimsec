@@ -40,4 +40,4 @@ d) possess positive attitude, good communication skills and have demonstrated le
 </tr>
 </tbody>
 </table>
-<p><em><br />The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></em></p>
+<p style="text-align: center;"><em><br />The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></em></p>
