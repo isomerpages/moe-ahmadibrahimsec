@@ -66,3 +66,9 @@ AI was given the Guinness Stout Effort Award in recognition of the school’s co
 <p><img style="width: 38%;" src="/images/history06.jpg" align = "left"/>
 <strong>1998</strong><br />
 AI celebrated its 35th Anniversary with a carnival and a musical production, ‘The King and I’. Through the 1990s, right up to 2002, AI had staged numerous plays and musicals.</p>
+<p><img style="width: 38%;" src="/images/history07.jpg" align = "left"/>
+<strong>2006</strong><br />
+AI was recognised as a Niche Programme School for Shooting, given its Shooting competition achievements and strong track record in producing outstanding Shooters for the national youth team.</p>
+<p><img style="width: 28%;" src="/images/history08.jpg" align = "left"/>
+<strong>2006</strong><br />
+AI was recognised as a Niche Programme School for Shooting, given its Shooting competition achievements and strong track record in producing outstanding Shooters for the national youth team.</p>
