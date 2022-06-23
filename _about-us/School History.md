@@ -56,3 +56,13 @@ description: ""
 <strong>1963</strong><br />School Opening Ahmad Ibrahim Secondary School was founded. As one of the pioneer government schools in Singapore, AI was named after former Minister for Labour and Assemblyman for Sembawang, Encik Ahmad Ibrahim, for his contributions in the early nation-building years. The school was first located at Sembawang Hills estate.</p>
 <p><img style="width: 35%;" src="/images/history02.jpg" align = "left"/>
 <strong>1967</strong><br />First pilot school for the Open Education Programme for the blind AI was chosen as the first pilot school for the Open Education Programme for the blind, whereby the visually-impaired students were integrated into mainstream classes.</p>
+<p><img style="width: 35%;" src="/images/history03.jpg" align = "left"/>
+<strong>1980</strong><br />Well established as pride of the North AI was known as a well-established school of good reputation –‘Pride of the North’.</p>
+<p><img style="width: 35%;" src="/images/history04.jpg" align = "left"/>
+<strong>1950</strong><br />The school moved to a new building in Yishun. It was also the first school to function in that area.</p>
+<br><p><img style="width: 35%;" src="/images/history05.jpg" align = "left"/>
+<strong>1987</strong><br />
+AI was given the Guinness Stout Effort Award in recognition of the school’s concerted efforts in integrating visually impaired students into mainstream education through the Open Education Programme</p>
+<p><img style="width: 38%;" src="/images/history06.jpg" align = "left"/>
+<strong>1998</strong><br />
+AI celebrated its 35th Anniversary with a carnival and a musical production, ‘The King and I’. Through the 1990s, right up to 2002, AI had staged numerous plays and musicals.</p>
