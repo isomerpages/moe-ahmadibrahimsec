@@ -44,4 +44,5 @@ description: ""
 </tbody>
 </table>
 <h3>We are awarded the Yellow Flame Award!</h3>
+<p>As part of AI's school values of care and gratitude, we have continued to focus on environmental education for our students via various learning activities, platforms and partnerships with different organisations. These whole-school efforts has resulted in the school being awarded the "Yellow Flame Award" in the annual School Green Awards audit which reflects a score of over 80%. We hope that with these continued efforts, AISS students and staff will be beacons of hope, advocating for various environmental concerns and making our world a better place to live in.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAUcPAJztHxIcgvu8okXewx0znK8s357DMqbl4EFE_eUE2AS44w_R9_3TZOSssZ9CQHZzHeg7K_Qjz/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
