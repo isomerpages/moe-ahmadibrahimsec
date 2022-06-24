@@ -78,3 +78,19 @@ third_nav_title: AI Distinctive Programmes
 <p><u><strong>Talent Development</strong></u></p>
 <p>At AISS, we believe that every student should have an equal opportunity to develop their talents. We do talent identification and development through the General Music Programme as well as via the school&rsquo;s AESPIRE concerts, and provide training and performance opportunities for anything from beatboxing to pen-tapping!</p>
 <p><strong>Nur Amirah Bte Rohaizad</strong>. Class of 2019. Represented Singapore at the Tokyo Child Aid Concert in Japan in 2018.<br /><strong>Kalaivani D/O Regupathy</strong>. Class of 2019. Represented Singapore at the Tokyo Child Aid Concert in Japan in 2019.<br /><strong>Nur Amirah Bte Rohaizad</strong>,&nbsp;<strong>Mohamad Shahzuie B Jaffar</strong>,&nbsp;<strong>Izzarilhan B Selamat</strong>. Recorded the soundtrack to the Cultural Medallion Fund Project: Nona Asiah - A Musical Journey<br /><strong>Sarefina Sindhu Victor</strong>. SYF Celebrations Performance at Singer-Songwriters Showcase @ Esplanade Library.<br /><strong>Nur Amirah Bte Rohaizad</strong>,&nbsp;<strong>Sarefina Sindhu Victor</strong>,&nbsp;<strong>Izzarilhan B Selamat</strong>,&nbsp;<strong>Kalaivani D/O Regupathy</strong>,&nbsp;<strong>Natasha Tan</strong>. SYF Celebrations Performance at Causeway Point Mall.</p>
+<p><strong><u>Links<br /></u></strong></p>
+<ol>
+<li>Secondary School Posting Booklet&nbsp;[<em><strong>To be updated</strong></em>]</li>
+<li><a href="http://go.gov.sg/musicelectiveprogramme" target="_blank" rel="noopener">MOE EMP Webpage</a></li>
+<li><a href="http://go.gov.sg/enhancedmusicprogramme" target="_blank" rel="noopener">MOE MEP Webpage</a></li>
+<li><a href="http://go.gov.sg/olmsyllabus" target="_blank" rel="noopener">OLM Teaching and Learning Syllabus</a></li>
+<li><a href="http://go.gov.sg/empmepyoutubepage" target="_blank" rel="noopener">EMP/MEP YouTube Page</a></li>
+<li>[All Levels] EMP/MEP Publicity Videos:</li>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=6dwp2ImDRjE" target="_blank" rel="noopener">https://www.youtube.com/watch?v=6dwp2ImDRjE</a></li>
+<li><a href="https://www.youtube.com/watch?v=T3IrEkM967w" target="_blank" rel="noopener">https://www.youtube.com/watch?v=T3IrEkM967w</a>&nbsp;</li>
+</ul>
+<li>Links to&nbsp;<a href="https://www.instagram.com/aespireaiss/?hl=en" target="_blank" rel="noopener">Instagram</a>&nbsp;and&nbsp;<a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" target="_blank" rel="noopener">YouTube</a>&nbsp;Channel</li>
+</ol>
+<p><strong><u>Contact details of relevant personnel</u></strong></p>
+<p>Ms Lee Jia Ling (Music Coordinator) -&nbsp;<a href="mailto:Lee_Jia_Ling_A@moe.edu.sg" target="">Lee_Jia_Ling_A@moe.edu.sg</a><br />Ms Ng Sheh Feng (HOD/Aesthetics &amp; Craft) -&nbsp;<a href="mailto:Ng_Sheh_Feng@moe.edu.sg" target="">Ng_Sheh_Feng@moe.edu.sg</a><br />Ms Amelia Dizon (Music Teacher) -&nbsp;<a href="mailto:amelia_y_dizon@moe.edu.sg" target="">amelia_y_dizon@moe.edu.sg</a></p>
