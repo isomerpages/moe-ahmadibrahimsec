@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Alumni/ALUMNI FEATURED NEWS.md
       - Alumni/ALUMNI.md
       - Alumni/.keep
       - EXTERNAL ORGANISATIONS.md
