@@ -2,5 +2,6 @@ collections:
   partnerships:
     output: true
     order:
+      - Alumni/ALUMNI.md
       - Alumni/.keep
       - EXTERNAL ORGANISATIONS.md
