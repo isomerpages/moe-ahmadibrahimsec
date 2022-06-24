@@ -70,3 +70,5 @@ description: ""
 <li><strong><a href="https://omny.fm/shows/capital-958m/8-29-08-2018" target="_blank" rel="noopener">Capital 95.8M</a></strong></li>
 <li><strong><a href="https://www.academyofsingaporeteachers.moe.gov.sg/ast/slot/u2597/PAT/Publications/index.html#book/" target="_blank" rel="noopener">Stories of Finalists (Academy of Singapore Teachers)</a></strong></li>
 </ul>
+<h3>AI emerged 1st runner up in Chinese Newspaper Editorial Competition</h3>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3NLt4Bl1LhHk1rpwJ6_DNVoYLgAJAb98cTEW2ABzm6cO_WosH8NUn9CvR064LwlJuwcA2LvKt9LL_/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
