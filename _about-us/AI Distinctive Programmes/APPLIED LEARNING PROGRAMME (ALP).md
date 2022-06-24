@@ -27,3 +27,5 @@ third_nav_title: AI Distinctive Programmes
 <p>Students are also given the opportunity to extend their learning beyond our classroom walls. In March 2021, selected Secondary 2 and 3 students had a taste of tertiary life as they ventured to Ngee Ann Polytechnic to attend a 3-day module entitled Social Innovations for Future Change.</p>
 <p>Through simulations and in-depth discussions on topics ranging from the lack of clean water and housing in less developed countries to casual racism, students ended the module hopeful and inspired to think about how they, too, could make a difference as global citizens.&nbsp;</p>
 <img src="/images/alp4.png">
+<p><strong>Where can I learn more about the school&rsquo;s ALP?&nbsp;</strong></p>
+<p>If you&rsquo;d like to learn more about what our students experience in the ALP and view some of the digital products done by our students, head over to&nbsp;<strong><a href="https://alpataiss.wixsite.com/aiss" target="_blank" rel="noopener">https://alpataiss.wixsite.com/aiss</a></strong></p>
