@@ -125,6 +125,13 @@ description: ""
 <div style="text-align: right;"><em>(Context featured from&nbsp;<a href="https://www.schoolbag.sg/story/hitting-the-right-music-note" target="_blank" rel="noopener"><strong>https://www.schoolbag.sg/story/hitting-the-right-music-note)</strong></a></em></div>
 <h3>Jessica Long received the North West Outstanding All-Rounder Student Award 2018</h3>
 <img style="width: 75%;" src="/images/om12.jpg" />
-	<p>Jessica Long of 4E4 (2018) received the North West Outstanding All-Rounder Student Award 2018 in recognition of her achievements in the following domains:</p>
+<p>Jessica Long of 4E4 (2018) received the North West Outstanding All-Rounder Student Award 2018 in recognition of her achievements in the following domains:</p>
 <p>&ndash; Academic<br />&ndash; Leadership<br />&ndash; Co-curriculum<br />&ndash; Community Service&nbsp;<br />&ndash; Her volunteerism and involvement in caring for the environment.</p>
 <p>Congratulations, Jessica! You are an inspiration to all of us!</p>
+<h3>AI Choir Performing at CHJIMES 2017</h3>
+<img style="width: 55%;" src="/images/om13.png" />
+<p>On 14 Mar 2017, we received a letter of compliment. It was from a member of public who attended a choir performance at CHJIMES. This is what she wrote:</p>
+<p><strong><em>"I am attending the Voices of Singapore Festival at Chijmes right now and I want to compliment the choir of Ahmad Ibrahim Secondary School for not just their stellar performance but more importantly, their demonstration of love and care for one another.</em></strong></p>
+<p><strong><em>I was especially touched when I witnessed a number of the students helping their fellow choir members who are visually challenged up &amp; down the stairs and to move into position.</em></strong></p>
+<p><strong><em>Kudos to the school for providing these children with an inclusive, supportive and loving environment&hellip;. My heartfelt compliments to the choir teachers and each and every choir member of Ahmad Ibrahim Secondary School for showing us what love and care mean.</em></strong></p>
+<p><strong><em>A Singaporean with a grateful heart,<br />Lily"</em></strong></p>
