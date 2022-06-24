@@ -88,3 +88,11 @@ description: ""
 <h3>Vanfled Poh - Made to be amongst the best</h3>
 <img style="width: 75%;" src="/images/om8.jpg" />
 <p style="text-align: center;"><strong>Vanfled Poh entered Yishun Junior College with 16 points (L1R4) and made to be amongst the best.</strong></p>
+<h3>Appreciation from the public</h3>
+<img style="width: 75%;" src="/images/om9.jpg" /><b>
+	<p style="text-align: center;"><strong>Reverend Israel Selvam with our Sec 4E4 students</strong></p>
+<p>"Dear Principal, greetings to you!</p>
+<p>I am writing this to appreciate the Secondary 4 students who were walking about Chong Pang today to show kindness to the society. I saw them while having my breakfast and asked them and they explained very nicely and I had a note of encouragement myself and wrote for others. Took some pictures and then saw them again and took a wefie together.</p>
+<p>Why I did this? I know the encouragers need that touch too. I wanted to appreciate them and also appreciate yourself and the school leadership for stepping out into the society to show care and love in practical ways. I managed to see the form teacher and one other DNT teacher too and appreciated them too.</p>
+<p>Well done Ahmad Ibrahim and I want to personally wish and bless all taking their exams this year. God bless!</p>
+<p>Regards<br />Israel Selvam (Reverend)<br />Yishun Christian Church (Anglican)"</p>	
