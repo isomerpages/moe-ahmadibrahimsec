@@ -113,3 +113,4 @@ description: ""
 	<p>AI students and alumni performed in "Our Wondrous Earth", the Purple Symphony's concert presented at the University Cultural Centre on Sunday 1 July 2018. As Singapore's largest inclusive orchestra, The Purple Symphony comprises more than 100 talented musicians on western and Chinese instruments, with and without special needs, including a special choir.</p>
 <p>VI student Lawrence Gabriel Villar Angel performed as a flute soloist in two items, while alumnae Stephanie Ow and Siti Sakinah Binte Zainal were soloists on the erhu and piano respectively. Recent alumna Nurul Natasya Binte Idrus also performed on percussion as part of the orchestra.</p>
 <p>Congratulations to all the musicians, and we look forward to more performances by our VI friends!</p>
+<h3>Charming the crowd, Musically!</h3>
