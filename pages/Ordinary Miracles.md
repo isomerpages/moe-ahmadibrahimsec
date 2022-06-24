@@ -141,3 +141,7 @@ description: ""
 <p>Thank you to all who contributed, and congratulations to AI!</p>
 <img style="width: 100%;" src="/images/om15.png" />
 <h3>AI Students received commendation</h3>
+<p><strong><em>"Dear Sir/Mdm,</em></strong></p>
+<p><strong><em>I was driving along Chong Pang area at around 6 pm today when I saw a student from your school assisting an elderly lady pushing her trolley of cardboard and crossing the road. Her action is rather commendable especially when she herself has a stack of books in her arms. I am impressed with her good deeds and would like to commend AISS for nurturing such a good student.</em></strong></p>
+<p><strong><em>Thank you.</em></strong></p>
+<p><strong><em>Regards<br /></em></strong><strong><em>Nurhafeza H A Azal"</em></strong></p>
