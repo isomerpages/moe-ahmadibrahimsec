@@ -10,3 +10,5 @@ description: ""
 <h3>AI celebrates the Lunar New Year with residents of Nam Hong Welfare Service Society</h3>
 <img src="/images/om1.jpg">
 <p style="text-align: center;"><strong><a href="http://www.namhongwelfare.org.sg/zh-hans/%E7%88%B1%E5%BF%83%E6%9C%8D%E5%8A%A1-%E5%9C%A8%E6%82%A8%E5%B7%A6%E5%8F%B3-2019%E5%B9%B42%E6%9C%884%E6%97%A5/" target="_blank" rel="noopener">Click here to read more</a></strong></p>
+
+<h3>C. B. Paul Science Quiz 2019</h3>
