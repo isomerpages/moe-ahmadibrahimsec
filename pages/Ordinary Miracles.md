@@ -119,3 +119,12 @@ description: ""
 <h3>Green Service Club aim to to design and conduct their own AI green trail!&nbsp;</h3>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTS7oD3fPIyHyQpPE-VX4G0wZhqIdUjjBwGkPyCINKo9UtZAxXoNgOQDr-xZK6u13HGUY-XETwiN34m/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p>Sec 2-4 students from Green Service Club were guiding the public through a nature trail at Tampines Eco-Green on 2nd June 2018. Before this event, they went through days of training, practice and rehearsal with WWF and NParks. Furthermore, they also organised their own recee to find out more on what they could offer and share with the public during the Festival of Biodiversity. The students even aim to design and conduct their own AI green trail!</p>
+<h3>Our Music Teacher, Miss Sheh Feng, featured in SchoolBag: The Education News site</h3>
+<img style="width: 75%;" src="/images/om11.jpg" />
+<p>With a wealth of musical experience, performing across the world and working with internationally-renowned ensembles such as the Ex Cathedra choir (UK) and NOTUS (USA) to spearheading Ahmad Ibrahim Secondary School&rsquo;s Enhanced Music Programme, music teacher Miss Ng Sheh Feng has led many students to pursue their love for music. Needless to say, she is an accomplished music guide for many.<br />However,&nbsp;<strong><em><a href="https://www.schoolbag.sg/story/hitting-the-right-music-note" target="_blank" rel="noopener">(cont...)</a></em></strong></p>
+<div style="text-align: right;"><em>(Context featured from&nbsp;<a href="https://www.schoolbag.sg/story/hitting-the-right-music-note" target="_blank" rel="noopener"><strong>https://www.schoolbag.sg/story/hitting-the-right-music-note)</strong></a></em></div>
+<h3>Jessica Long received the North West Outstanding All-Rounder Student Award 2018</h3>
+<img style="width: 75%;" src="/images/om12.jpg" />
+	<p>Jessica Long of 4E4 (2018) received the North West Outstanding All-Rounder Student Award 2018 in recognition of her achievements in the following domains:</p>
+<p>&ndash; Academic<br />&ndash; Leadership<br />&ndash; Co-curriculum<br />&ndash; Community Service&nbsp;<br />&ndash; Her volunteerism and involvement in caring for the environment.</p>
+<p>Congratulations, Jessica! You are an inspiration to all of us!</p>
