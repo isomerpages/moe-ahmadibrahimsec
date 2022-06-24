@@ -19,3 +19,11 @@ third_nav_title: AI Distinctive Programmes
 <p><strong><em>Effective and Discerning Users of Media</em></strong>. In our ALP, students learn to be more discerning when accessing information online. They hone their skills in distinguishing reliable information from fake news and learn how the media can, at times, portray information from a certain angle to achieve a desired outcome.</p>
 <p><strong><u>Student Infographics&nbsp;</u></strong></p>
 <img src="/images/alp2.png">
+<p><strong>What kind of stretch opportunities do we provide students beyond ALP lessons?&nbsp;<br /></strong>Beyond lessons, the school&rsquo;s ALP provides numerous opportunities to stretch students&rsquo; abilities.</p>
+<p><strong>In mAI Opinion Talkshows<br /></strong>In school, students take the lead in hosting the In mAI Opinion talk show, where guest speakers are invited to discuss hot-button issues in society.</p>
+<p>In July 2021, our Secondary 3 students had the great privilege of listening in to Visiting Assistant Professor Koh Choon Hwee from the Lee Kuan Yew School of Public Policy (NUS). Professor Koh helped our students understand societal issues in the Middle East, ranging from stereotypes, prejudice, and Islamophobia, widening their perspectives beyond our region. Two AI students hosted the session and moderated the Question-and-Answer segment of the workshop.&nbsp;</p>
+<img src="/images/alp3.jpg">
+<p><strong>Applied Learning Module @ Ngee Ann Polytechnic &ndash; Social Innovations for Future Change</strong></p>
+<p>Students are also given the opportunity to extend their learning beyond our classroom walls. In March 2021, selected Secondary 2 and 3 students had a taste of tertiary life as they ventured to Ngee Ann Polytechnic to attend a 3-day module entitled Social Innovations for Future Change.</p>
+<p>Through simulations and in-depth discussions on topics ranging from the lack of clean water and housing in less developed countries to casual racism, students ended the module hopeful and inspired to think about how they, too, could make a difference as global citizens.&nbsp;</p>
+<img src="/images/alp4.png">
