@@ -135,3 +135,7 @@ description: ""
 <p><strong><em>I was especially touched when I witnessed a number of the students helping their fellow choir members who are visually challenged up &amp; down the stairs and to move into position.</em></strong></p>
 <p><strong><em>Kudos to the school for providing these children with an inclusive, supportive and loving environment&hellip;. My heartfelt compliments to the choir teachers and each and every choir member of Ahmad Ibrahim Secondary School for showing us what love and care mean.</em></strong></p>
 <p><strong><em>A Singaporean with a grateful heart,<br />Lily"</em></strong></p>
+<h3>AI received the North West Outstanding School Partner Award 2018 &ndash; Bronze Award</h3>
+<img style="width: 85%;" src="/images/om14.png" />
+<p>This award is given to schools that had participated actively in the North West CDC programmes . Since 2016, AISS has participated in programmes such as WeCare, We Recycle @ North West, WeCare @ North West, and Bright Spots @ North West.&nbsp;</p>
+<p>Thank you to all who contributed, and congratulations to AI!</p>
