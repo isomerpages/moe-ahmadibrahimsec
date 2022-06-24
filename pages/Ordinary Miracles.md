@@ -114,3 +114,5 @@ description: ""
 <p>VI student Lawrence Gabriel Villar Angel performed as a flute soloist in two items, while alumnae Stephanie Ow and Siti Sakinah Binte Zainal were soloists on the erhu and piano respectively. Recent alumna Nurul Natasya Binte Idrus also performed on percussion as part of the orchestra.</p>
 <p>Congratulations to all the musicians, and we look forward to more performances by our VI friends!</p>
 <h3>Charming the crowd, Musically!</h3>
+	<p>The AI Choir was invited to perform on Friday 29 June as part of the Singapore Youth Festival (SYF) Celebrations 2018 at the Esplanade Concourse. Spanning two weekends, SYF Celebrations brought the arts to the public &ndash; both at city areas and community spaces, with close to 210 student performances and activities in various art forms, such as music, dance and drama</p>
+<p>In line with the theme for the segment, the AI Choir sang three songs from the Musicals to an appreciative audience. AI is proud to be a part of the SYF and look forward to bringing more performances to the public!</p>
