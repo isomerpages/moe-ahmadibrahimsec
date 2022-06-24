@@ -34,3 +34,7 @@ description: ""
 <li>Green Education</li>
 <li>Curricular programmes for English, Geography, Mother Tongue, etc</li>
 </ul>
+<hr><b>
+<h4><strong>Partnership Opportunities</strong></h4>
+<p>To explore partnership opportunities with AISS, please contact <strong>Ms Ng Sheh Feng (HOD/ Aesthetics &amp; Craft)</strong>&nbsp;at&nbsp;<strong><a href="mailto:Ng_Sheh_Feng@moe.edu.sg" target="">Ng_Sheh_Feng@moe.edu.sg</a></strong></p>
+	<hr>
