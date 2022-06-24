@@ -5,7 +5,7 @@ description: ""
 ---
 <hr><b>
 <h3 style="text-align: center;">External partners as valuable resources &ndash;<br />strategic partnerships with the community to enhance student education outcomes</h3>
-<hr>
+</b><hr>
 <p>AI believes that the school is a member of the community, and that external partners are valuable resources to enhance school educational outcomes. Thus, we actively engage with external partners, be they local schools, institutes of higher learning, community, corporate, or overseas partners.</p>
 <p>We work with partners for key school programmes as well as to complement student education at AI. Some partners that we have worked with:</p>
 <ul>
@@ -35,6 +35,6 @@ description: ""
 <li>Curricular programmes for English, Geography, Mother Tongue, etc</li>
 </ul>
 <hr><b>
-<h4><strong>Partnership Opportunities</strong></h4>
+<h4><strong>Partnership Opportunities</strong></h4></b>
 <p>To explore partnership opportunities with AISS, please contact <strong>Ms Ng Sheh Feng (HOD/ Aesthetics &amp; Craft)</strong>&nbsp;at&nbsp;<strong><a href="mailto:Ng_Sheh_Feng@moe.edu.sg" target="">Ng_Sheh_Feng@moe.edu.sg</a></strong></p>
-	<hr>
+<hr>
