@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Alumni/.keep
-      - ALUMNI.md
       - EXTERNAL ORGANISATIONS.md
