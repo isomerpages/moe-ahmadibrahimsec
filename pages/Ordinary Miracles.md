@@ -171,3 +171,17 @@ description: ""
 <p><em><strong>Ahmad Ibrahim chose to stop play to check on the opposing player who had fallen. Ahmad Ibrahim didn&rsquo;t win that game. However, their teacher was immensely proud of the values and sportsmanship that his students had exhibited. In sports, it is extremely difficult to make such a moral decision, especially when you know that the decision might cost you the game.&nbsp;</strong></em></p>
 <p><em><strong>However, for players of Ahmad Ibrahim, we applaud their courage to stand up for what they believe was right.</strong></em>&rdquo;</p>
 <p>5 Oct 2015</p>
+<h3>Primary school teacher thanked AI student for returning her bag left on a bus</h3>
+<p>Helping someone without the expectation of getting something in return is important...</p>
+<p>On the 17th of September, an Ahmad Ibrahim (AI) student found a primary school teacher&rsquo;s bag that had been left on a bus and then safely returned it to the primary school.&nbsp;</p>
+<p>Later, our school received an appreciation email from the primary school teacher. She expressed her heartfelt gratitude to an AISS boy who picked up her bag left on a bus and later returned it to her.</p>
+<p>&ldquo;This morning at about 7 a.m., in my hurry, I alighted from the bus without my bag. I called up Yishun bus interchange but the staff told me they did not find anything. It was not until about 3p.m. when one of your boys came to my school to return the bag. He had apparently carried it to school and kept it with him so that he could return me after school. Unfortunately, I did not manage to thank him personally for his kind gesture so I did not get his name.</p>
+<p>I hope you would highlight this kind act performed by one of your students to the school. This is a true testament to our work in education and the important role of schools in developing concerned citizens of tomorrow:) Good job AI!&rdquo;</p>
+<p>Our Principal shared the email with the whole school at a morning assembly. The school is proud of AI students who live out the school values of care and responsibility in their actions and behaviours. The action of the AI student has certainly warmed many hearts.</p>
+<p>28 Sep 2015</p>
+<h3>Students directing their determination and efforts to helping the environment at Sembawang Park</h3>
+<p>If we want to achieve something great, we should take the first step...</p>
+<img style="width: 100%;" src="/images/om20.png">
+<p>On our Community Day held on 13 Mar 2015, our students fanned out with dedication to clean up Sembawang park during their service learning.</p>
+<p>We are heartened to receive an email from a member of the public who said &ldquo;Well done, boys and girls&rdquo; together with photos of our students cleaning the Sembawang Park and encouraging the residents to work together towards a clean and green Singapore.</p>
+<p>Service Learning provides opportunity for every AI student to live out Encik Ahmad Ibrahim&rsquo;s spirit of service to the community, to be a good ambassador of the school and to the community, and to demonstrate values in action.</p>
