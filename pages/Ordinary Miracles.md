@@ -161,3 +161,13 @@ description: ""
 <img style="width: 32%;" src="/images/om18.png" align = "left" />
 <p>The art exhibition and our VI students are featured in Straits Times Life! Section, check it out -&nbsp;<a href="http://www.straitstimes.com/lifestyle/see-the-dreams-of-the-visually-impaired" target="_blank" rel="noopener"><strong>here</strong></a></p>
 <p>It&rsquo;s a very meaningful experience visiting the exhibition, as it marks our students&rsquo; 2-year journey discovering about themselves and learning to express their hopes and dreams publicly.</p>
+<h3>AI Students received commendation</h3>
+<img style="width: 55%;" src="/images/om19.jpg" align = "left" />
+<p>Peixi (2nd from right) and her teammates</p>
+<p>It's not whether you win or lose, it's how you play the game...</p>
+<p>On the 18 Sep 2015, at Singapore Schools Sports Council (SSSC) Colours Award Ceremony held at CHIJ St Theresa&rsquo;s Convent, the SSSC Chairman spoke at length about the spirit and values of Ahmad Ibrahim Secondary students.</p>
+<p>Here is part of speech:</p>
+<p>&ldquo;<em><strong>Let me share with you about what Ahmad Ibrahim Secondary School&rsquo;s &lsquo;B&rsquo; Division Basketball girls team did at the National School Games. With just a few minutes to go, Ahmad Ibrahim gained possession of the ball in a neck to neck game. As Ahmad Ibrahim was trying to advance, one of the players from the defending team tripped and fell.&nbsp;</strong></em></p>
+<p><em><strong>Ahmad Ibrahim chose to stop play to check on the opposing player who had fallen. Ahmad Ibrahim didn&rsquo;t win that game. However, their teacher was immensely proud of the values and sportsmanship that his students had exhibited. In sports, it is extremely difficult to make such a moral decision, especially when you know that the decision might cost you the game.&nbsp;</strong></em></p>
+<p><em><strong>However, for players of Ahmad Ibrahim, we applaud their courage to stand up for what they believe was right.</strong></em>&rdquo;</p>
+<p>5 Oct 2015</p>
