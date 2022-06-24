@@ -55,3 +55,18 @@ description: ""
 <h3>Bringing musical cheer to Tan Tock Seng Hospital</h3>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKZqM3EXF9fgahhWV4GyB-86Zw7gi8hE2ZfreOc1anqlNn2hvT8r1AICvAJjkKMbMeOvYQczk_8CBg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p><span style="color: #000000; font-size: large;">Instead of enjoying their post-examination holiday whilst the teachers busied themselves with marking, Secondary Two and Three students Enhanced Music Programme students and other AESPIRE volunteers brought lively tunes to the TTSH Atrium through the Art of Healing Programme. The audience, comprising staff, patients, and visitors were treated to songs of hope and nostalgia, as well as instrumental performances on the piano and zhongruan.</span><span style="color: #990000; font-family: Crimson Text, serif; font-size: xx-large;"><br /><br /></span><iframe class="ive_eobj_center" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTanTockSengHospital%2Fvideos%2F274942563151298%2F&amp;show_text=1&amp;width=560" width="560" height="501" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+<h3>Ms Ng Sheh Feng received the President's Award for Teachers</h3>
+<img style="width: 75%;" src="/images/om4.jpg" />
+<div style="text-align: center;">Ms Ng Sheh Feng, Subject Head Partnerships, receiving the President's Award for Teachers</div>
+<div style="text-align: center;">from President Halimah at the Teachers' Day reception at the Istana on 29 Aug 2018</div>
+<p>For her leadership in starting the school&rsquo;s EMP and creating a vibrant music culture, Ms Ng Sheh Feng is conferred the President&rsquo;s Award for Teachers.&nbsp; She received the award from President Halimah at yesterday&rsquo;s Teachers&rsquo; Day reception at the Istana. Congratulations to Ms Ng!&nbsp;</p><img style="width: 75%;" src="/images/om5.jpg" />
+<div style="text-align: center;">Music student, Angie Than An Qi of 3N2, giving her citation to express</div>
+<div style="text-align: center;">her gratitude to Ms Ng for inspiring her to pursue music</div>
+<p>And Angie Than An Qi, our EMP student, had the privilege of being at Istana and reading the citation to express her gratitude to Ms Ng. Just to also share, Ms Ng was featured in Channel News Asia, the Straits Times and a radio interview by 958 城市频道.</p>
+<p>You can access the links below and read her story.</p>
+<ul>
+<li><strong><a href="https://www.channelnewsasia.com/news/singapore/8-teachers-receive-president-s-award-for-dedication-to-students-10663984" target="_blank" rel="noopener">ChannelNewsAsia</a></strong></li>
+<li><strong><a href="https://www.straitstimes.com/singapore/education/a-teacher-driven-to-make-music-accessible-to-all-even-for-blind-students" target="_blank" rel="noopener">Straits Times</a></strong></li>
+<li><strong><a href="https://omny.fm/shows/capital-958m/8-29-08-2018" target="_blank" rel="noopener">Capital 95.8M</a></strong></li>
+<li><strong><a href="https://www.academyofsingaporeteachers.moe.gov.sg/ast/slot/u2597/PAT/Publications/index.html#book/" target="_blank" rel="noopener">Stories of Finalists (Academy of Singapore Teachers)</a></strong></li>
+</ul>
