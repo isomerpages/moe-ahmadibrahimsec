@@ -95,4 +95,11 @@ description: ""
 <p>I am writing this to appreciate the Secondary 4 students who were walking about Chong Pang today to show kindness to the society. I saw them while having my breakfast and asked them and they explained very nicely and I had a note of encouragement myself and wrote for others. Took some pictures and then saw them again and took a wefie together.</p>
 <p>Why I did this? I know the encouragers need that touch too. I wanted to appreciate them and also appreciate yourself and the school leadership for stepping out into the society to show care and love in practical ways. I managed to see the form teacher and one other DNT teacher too and appreciated them too.</p>
 <p>Well done Ahmad Ibrahim and I want to personally wish and bless all taking their exams this year. God bless!</p>
-<p>Regards<br />Israel Selvam (Reverend)<br />Yishun Christian Church (Anglican)"</p>	
+<p>Regards<br />Israel Selvam (Reverend)<br />Yishun Christian Church (Anglican)"</p>
+<h3>Appreciation from the public</h3>
+	<p>"Dear Sir/Madam,</p>
+<p>I would like to show my deepest gratitude to 2 of your students Mingqian (3N1) and Guo Jie (2N2) for returning my wallet back to me.</p>
+<p>This just happened today at 5pm, when I received a unknown call from one of the above mention girl, who told me I dropped my wallet at the bus-stop and the girls waited patiently as I rush down.</p>
+<p>The girls have been honest and responsible in their action as a student of your school and definitely thanks to their parents who have good upbringing of their children&rsquo;s.</p>
+<p>Regards<br />Nisha"</p>
+	<h3>Expressions through Sonic Alchemy</h3>
