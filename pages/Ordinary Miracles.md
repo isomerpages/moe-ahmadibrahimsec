@@ -145,3 +145,5 @@ description: ""
 <p><strong><em>I was driving along Chong Pang area at around 6 pm today when I saw a student from your school assisting an elderly lady pushing her trolley of cardboard and crossing the road. Her action is rather commendable especially when she herself has a stack of books in her arms. I am impressed with her good deeds and would like to commend AISS for nurturing such a good student.</em></strong></p>
 <p><strong><em>Thank you.</em></strong></p>
 <p><strong><em>Regards<br /></em></strong><strong><em>Nurhafeza H A Azal"</em></strong></p>
+<img style="width: 100%;" src="/images/om16.png" />
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHHgh7YLQ9p5IAu8QSxr1HZGb9vxGQBtf90RU-WlUp8ZbbCAaoCdHGHGGjrZFUq9Ongqk4eTYbbOz0/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
