@@ -103,3 +103,13 @@ description: ""
 <p>The girls have been honest and responsible in their action as a student of your school and definitely thanks to their parents who have good upbringing of their children&rsquo;s.</p>
 <p>Regards<br />Nisha"</p>
 	<h3>Expressions through Sonic Alchemy</h3>
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCM-JPxa77JT9laH5UJm9YaA3ezT79VL1ozNtzVPmLiZ7eLt2ENyf-MiWK-A4wTGZsy-NwgDKw3843/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>Our school was invited to perform on Friday 29 June 2018, and Sunday 1 July 2018 as part of the Singapore Youth Festival (SYF) Celebrations 2018 at the Padang Atrium at National Gallery Singapore. A mixture of 16 Secondary 2 and 3 students were selected and trained for the 30-minute performance, with the guidance of an industry practitioner, Mr Mervin Wong.</p>
+<p>This experience inspired the students and aroused their curiosities to explore the possibilities in creative music making with technology. The performers acquired knowledge on the elements of live music creation and performance, forging new friendships in the process. As many students did not have any music background prior to this project, it was a truly empowering and refreshing experience for the students.&nbsp;</p>
+<p>AI is proud to have partnered with Arts Education Branch for this project, and look forward to bringing to the public more talents of AI!</p>
+<h3>Championing environmental awareness through music</h3>
+<img style="width: 75%;" src="/images/om10.jpg" /><b>
+<p style="text-align: center;"><strong>Lawrence Gabriel (1E2)&nbsp;</strong><strong>performed as a flute&nbsp;</strong><strong>soloist at Purple Symphony Concert at UCC</strong></p>
+	<p>AI students and alumni performed in "Our Wondrous Earth", the Purple Symphony's concert presented at the University Cultural Centre on Sunday 1 July 2018. As Singapore's largest inclusive orchestra, The Purple Symphony comprises more than 100 talented musicians on western and Chinese instruments, with and without special needs, including a special choir.</p>
+<p>VI student Lawrence Gabriel Villar Angel performed as a flute soloist in two items, while alumnae Stephanie Ow and Siti Sakinah Binte Zainal were soloists on the erhu and piano respectively. Recent alumna Nurul Natasya Binte Idrus also performed on percussion as part of the orchestra.</p>
+<p>Congratulations to all the musicians, and we look forward to more performances by our VI friends!</p>
