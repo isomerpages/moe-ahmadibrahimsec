@@ -139,3 +139,5 @@ description: ""
 <img style="width: 85%;" src="/images/om14.png" />
 <p>This award is given to schools that had participated actively in the North West CDC programmes . Since 2016, AISS has participated in programmes such as WeCare, We Recycle @ North West, WeCare @ North West, and Bright Spots @ North West.&nbsp;</p>
 <p>Thank you to all who contributed, and congratulations to AI!</p>
+<img style="width: 100%;" src="/images/om15.png" />
+<h3>AI Students received commendation</h3>
