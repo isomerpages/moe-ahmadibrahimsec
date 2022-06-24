@@ -1,13 +1,9 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: ORDINARY MIRACLES
+    url: /ordinary-miracles
+  - title: ABOUT US
+    url: /about-us/principals-message
+    sublinks:
+      - title: PRINCIPAL'S MESSAGE
+        url: /about-us/principals-message
