@@ -52,3 +52,5 @@ description: ""
 <div><iframe src="https://www.youtube.com/embed/dNcGpoXLMJ0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p>Mercado Jose Gabriel Domingo (1E1) was the other finalist from Ahmad Ibrahim Secondary. Although he is only Secondary One, he delivered his speech with much confidence. Watch Gabriel in action below. </p>
 <iframe src="https://www.youtube.com/embed/ayH2sCUvMqY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h3>Bringing musical cheer to Tan Tock Seng Hospital</h3>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKZqM3EXF9fgahhWV4GyB-86Zw7gi8hE2ZfreOc1anqlNn2hvT8r1AICvAJjkKMbMeOvYQczk_8CBg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
