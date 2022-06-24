@@ -158,6 +158,6 @@ description: ""
 <p><strong><em>I am sorry as I am unable to take their names down. Do convey my gratitude to them and a job well done for their act.</em></strong></p>
 <p><strong><em>Thank you.&rsquo;</em></strong></p>
 <h3>AI featured in the news: Unseen Constellation</h3>
-<img style="width: 35%;" src="/images/om18.png" align = "left" />
+<img style="width: 32%;" src="/images/om18.png" align = "left" />
 <p>The art exhibition and our VI students are featured in Straits Times Life! Section, check it out -&nbsp;<a href="http://www.straitstimes.com/lifestyle/see-the-dreams-of-the-visually-impaired" target="_blank" rel="noopener"><strong>here</strong></a></p>
 <p>It&rsquo;s a very meaningful experience visiting the exhibition, as it marks our students&rsquo; 2-year journey discovering about themselves and learning to express their hopes and dreams publicly.</p>
