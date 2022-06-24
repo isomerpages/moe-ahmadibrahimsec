@@ -147,3 +147,17 @@ description: ""
 <p><strong><em>Regards<br /></em></strong><strong><em>Nurhafeza H A Azal"</em></strong></p>
 <img style="width: 100%;" src="/images/om16.png" />
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHHgh7YLQ9p5IAu8QSxr1HZGb9vxGQBtf90RU-WlUp8ZbbCAaoCdHGHGGjrZFUq9Ongqk4eTYbbOz0/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4>AI OLE featured in SingTeach - A Classroom Without Walls</h4>
+<img style="width: 75%;" src="/images/om17.png" />
+<p>Many might think that outdoor education merely involves giving students a chance to try their hands at fun outdoor activities. However, converting an otherwise concrete classroom into one that is surrounded by the natural environment actually provide learners with more than just that. This inspired...<em><strong><a href="http://singteach.nie.edu.sg/issue63-classroom01/" target="_blank" rel="noopener">(cont.)</a></strong></em></p>
+<p style="text-align: right;"><em><strong>(Context featured from&nbsp;<a href="http://singteach.nie.edu.sg/issue63-classroom01/" target="">http://singteach.nie.edu.sg/issue63-classroom01/</a>)</strong></em></p>
+<h3>AI Students received commendation</h3>
+<p>A member of the public shared with the school in the first week of Term 3, 2016:</p>
+<p><strong><em>&lsquo;I am writing in to you to express my gratitude to a group of your young students for their responsible act this afternoon.</em></strong></p>
+<p><strong><em>We were all travelling in SMRT bus no. 965 at around 3pm when we saw smoke emitting from the bus along Gambas Avenue. A group of your students approached the lady driver and told her about the smoke in Mandarin. A female student then translated it to us and advised everyone to remain calm. The driver was reluctant to open the door because we were in the middle of the road and letting us off is very dangerous and may cause an accident. Your students convinced the driver and even helped her stop all oncoming traffic before letting us all alight safely to the side of the road. Their act of selflessness is truly commendable and is definitely praiseworthy.</em></strong></p>
+<p><strong><em>I am sorry as I am unable to take their names down. Do convey my gratitude to them and a job well done for their act.</em></strong></p>
+<p><strong><em>Thank you.&rsquo;</em></strong></p>
+<h3>AI featured in the news: Unseen Constellation</h3>
+<img style="width: 35%;" src="/images/om18.png" align = "left" />
+<p>The art exhibition and our VI students are featured in Straits Times Life! Section, check it out -&nbsp;<a href="http://www.straitstimes.com/lifestyle/see-the-dreams-of-the-visually-impaired" target="_blank" rel="noopener"><strong>here</strong></a></p>
+<p>It&rsquo;s a very meaningful experience visiting the exhibition, as it marks our students&rsquo; 2-year journey discovering about themselves and learning to express their hopes and dreams publicly.</p>
