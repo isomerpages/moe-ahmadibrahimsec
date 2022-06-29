@@ -209,3 +209,17 @@ description: ""
 <h4><strong>Congratulations to Tiffany Ang Li Shan!</strong></h4>
 <img src="/images/slide.jpg">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrXNONmkhgxad2n7bbJLWAyRGOcWJz24l9EfYOzsj16DxI6u6tDS1bwpjmW4CqhHmH_lM_T5oWZKwE/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>AISS's EMP &amp; MPC Students Featured in Singapore Rhapsodies at the National Gallery Singapore</strong></h4>
+<p>On 29th January 2016, our students from the pioneer batches of the Enhanced Music Programme and Music Preparatory Course performed at the launch event for Singapore Rhapsodies, a concert series at the National Gallery Singapore that seeks to preserve and celebrate Singapore&rsquo;s rich music heritage.&nbsp;</p>
+<p>Adelyn Koh (Sec 3), Koh Ming Yang (Sec 1) and Jessie Phay (Sec 1) performed on the iconic red Steinway piano at the National Gallery&rsquo;s Singapore Courtyard. Adelyn, who performed her original composition titled &ldquo;Friendship&rdquo;, was interviewed by The Straits Times. She said that it was great to be able to perform on the red Steinway piano, and it sounded much grander than the pianos she rehearsed on.</p>
+<p>Click here for more<br /><a href="http://www.straitstimes.com/lifestyle/arts/sing50-steinway-at-national-gallery"><strong>Sing50 steinway at national gallery</strong></a></p>
+<img style="width: 65%;" src="/images/DSC_2047.jpg" /><br>
+<img style="width: 65%;" src="/images/DSC_2054.jpg" />
+<h4><strong>SYF Art Exhibition 2014</strong></h4>
+<p>Congratulations to Alecia Chua Qin Ying and An Si Tong of Secondary 5N2 whose works were shortlisted and featured at this year&rsquo;s Singapore Youth Festival Art Exhibition 2014, which were held at Lasalle College of the Arts. Their works went through two rounds of judging before it made it to the exhibition. Another student, ex AI Muhammad Khairi , whose work from 2 years ago was shortlisted, received the Certificate of Participation.</p>
+<p>Alecia Chua Qin Ying and An Si Tong both received the Certificate of Recognition (Special Mention) and Certificate of Recognition in Category B respectively at the Singapore Youth Festival Exhibition 2014.</p>
+<p>Their mentor, Art Teacher Ms Nur Syahira is very proud of them. As this is the year that they have to juggle the challenges of schoolwork in order to do well in their national exams, they not only displayed a powerful mastery of graphite on paper, they have exemplified the AI values of resilience, responsibility and excellence.</p>
+<img style="width: 65%;" src="/images/alecia.png" />
+<p>Alecia's work entitled "Chance" deals with the subject of love. She says "Love is a game of chance... sometimes you win, sometimes you lose. Sometimes you soar, sometimes you crash." Her work is also mentioned on MOE's Facebook page. <a href="https://www.facebook.com/moesingapore/photos/a.10150100883752004.314002.6788957003/10153039970422004/?type=1&theater">Read more...</a></p>
+<img style="width: 65%;" src="/images/sitong.png" />
+<p> Si Tong investigates her life and identity - observing, analyzing, evaluating her experiences and thoughts.</p>
