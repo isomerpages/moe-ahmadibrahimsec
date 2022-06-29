@@ -2,5 +2,6 @@ collections:
   past-cca-achievements:
     output: true
     order:
+      - PERFORMING ARTS.md
       - UNIFORMED GROUPS.md
       - SPORTS.md
