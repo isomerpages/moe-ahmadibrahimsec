@@ -24,3 +24,7 @@ third_nav_title: Alumni
 <li><strong>Muhammad Nasiruddin B Jumari, High Jump; Graduated in 2008</strong> <a href="http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015" target="_blank" rel="noopener">http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015</a></li>
 <li><strong>Siraaj B Ramadhan, Floorball; Graduated in 2008<br /></strong><a href="https://www.myactivesg.com/team-singapore/athletes/s/siraaj-bin-ramadhan" target="_blank" rel="noopener">https://www.myactivesg.com/team-singapore/athletes/s/siraaj-bin-ramadhan</a></li>
 </ul>
+<h4><strong>Jasmine Ser</strong></h4>
+<p>Proud alumna from Ahmad Ibrahim Secondary School Class of 4E4 (2006), Jasmine Ser, has made Singapore proud by winning the first gold medal in four years at the 2014 Commonwealth Games.</p>
+<img style="width: 65%;" src="/images/jasmine_old.png" />
+<p style="text-align: center;">Jasmine Ser (Far Left) with her Sec 4E4 friends (2006) in AISS School Yearbook</p>
