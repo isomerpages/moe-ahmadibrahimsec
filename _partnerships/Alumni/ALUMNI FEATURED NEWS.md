@@ -9,3 +9,4 @@ third_nav_title: Alumni
 <img src="/images/slide.jpg">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrXNONmkhgxad2n7bbJLWAyRGOcWJz24l9EfYOzsj16DxI6u6tDS1bwpjmW4CqhHmH_lM_T5oWZKwE/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>AI in the News!</strong></h4>
+<img src="/images/afna.png">
