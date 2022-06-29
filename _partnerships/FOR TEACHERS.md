@@ -28,10 +28,8 @@ description: ""
 <p><em><strong>* Please login to&nbsp;<u>iCON email</u>&nbsp;first before accessing the link</strong></em></p>
 <h4><strong>Forgot your IAMS / iCON passwords?</strong></h4>
 <p><strong>Here is what you need to do:</strong></p>
-<p><strong><u>IAMS</u></strong></p>
-<p>Self-reset at&nbsp;<strong><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener">https://idp.mims.moe.gov.sg/nidp/saml2/sso</a></strong>, or approach our school's IAMS local administrator for assistance.</p>
-<p><strong><u>iCON</u></strong></p>
-<p>Self-reset at&nbsp;<strong><a href="https://icon.moe.edu.sg/" target="">https://icon.moe.edu.sg</a></strong>, or contact the SSOE Service Desk at&nbsp;<strong>1800-7663-663</strong>&nbsp;or&nbsp;<strong><a href="mailto:help@moe.edu.sg" target="">help@moe.edu.sg</a></strong>&nbsp;for assistance.</p>
+<p><strong><u>IAMS<br /></u></strong>Self-reset at&nbsp;<strong><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener">https://idp.mims.moe.gov.sg/nidp/saml2/sso</a></strong>, or approach our school's IAMS local administrator for assistance.</p>
+<p><strong><u>iCON<br /></u></strong>Self-reset at&nbsp;<strong><a href="https://icon.moe.edu.sg/" target="">https://icon.moe.edu.sg</a></strong>, or contact the SSOE Service Desk at&nbsp;<strong>1800-7663-663</strong>&nbsp;or&nbsp;<strong><a href="mailto:help@moe.edu.sg" target="">help@moe.edu.sg</a></strong>&nbsp;for assistance.</p>
 <p>---</p>
 <h4><strong>Segregated Wireless Network (SWN)</strong></h4>
 <p>Teacher may connect to SWN Wi-Fi network to access internet for teaching and learning purpose.</p>
