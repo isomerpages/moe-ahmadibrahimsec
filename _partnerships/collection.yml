@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - For Parents/FOR PARENTS.md
       - For Parents/.keep
       - FOR STUDENTS.md
       - FOR TEACHERS.md
