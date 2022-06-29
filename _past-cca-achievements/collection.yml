@@ -2,4 +2,5 @@ collections:
   past-cca-achievements:
     output: true
     order:
+      - UNIFORMED GROUPS.md
       - SPORTS.md
