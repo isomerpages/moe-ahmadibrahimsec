@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Alumni/SCHOOL MATTERS.md
       - Alumni/ALUMNI FEATURED INTERVIEWS.md
       - Alumni/ALUMNI ACHIEVEMENTS.md
       - Alumni/ALUMNI GALLERY.md
