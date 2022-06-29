@@ -31,3 +31,35 @@ third_nav_title: Alumni
 <li>(Even Week)</li>
 </ul>
 </ul>
+<h4><strong>Booklist &amp; Stationery List (2022)</strong></h4>
+<p>Booklist &amp; Stationery list for Year 2022 will be updated soon.<br />Please come back again on a later date.<br /><br /></p>
+<ul>
+<li><strong>Sec 1&nbsp;</strong><strong>(Updated on 3 Jan 22)</strong><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/AISS%20S1%20EXP%20Booklist.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/AISS%20S1%20NA%20Booklist.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/AISS%20S1%20NT%20Booklist.pdf" target="_blank" rel="noopener">Normal Technical</a><br /><br /></li>
+<li><strong>Sec 2</strong><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/2%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/2%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/2%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+</ul>
+<ul>
+<li><strong>Sec 3</strong><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/3%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/3%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/3%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+</ul>
+<ul>
+<li><strong>Sec 4</strong><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/4%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/4%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/4%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+</ul>
+<ul>
+<li><strong><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/AISS%20S5%20NA_updated%203%20Jan%2021.pdf" target="_blank" rel="noopener">Sec 5</a></strong><strong><em><br />(Updated on 3 Jan 22)</em></strong></li>
+</ul>
+<h4><strong>Purchase of Uniform attire (2021)</strong></h4>
+<p>From January 2021<br />Only at Retail Outlet at Sembawang Shopping Centre (#02-13)</p>
+<p>Mondays to Saturdays<br />11.30 am to 8.00 pm</p>
+<p>Sundays<br />11.30 am to 6.00 pm</p>
+<h4><strong>Exam Timetable (Mid-Year)<br /></strong></h4>
+<ul>
+<li><strong>Sec 1 Express &amp; 1 Normal Academic</strong></li>
+<li><strong>Sec 1 Normal Technical</strong></li>
+<li><strong>Sec 2 Express &amp; 1 Normal Academic</strong></li>
+<li><strong>Sec 2 Normal Technical</strong></li>
+<li><strong>Sec 3 Express</strong></li>
+<li><strong>Sec 3 Normal Academic</strong></li>
+<li><strong>Sec 3 Normal Technical</strong></li>
+</ul>
+<h4><strong>EDUSAVE CHARACTER AWARD (ECHA)</strong></h4>
+<ul>
+<li><a href="/files/ECHA_Parents%20Letter_2021%20and%20Nomination%20Form.pdf" target="_blank" rel="noopener">Edusave Character Award (ECHA) &ndash; Parent Letter and Nomination Form 2021</a></li>
