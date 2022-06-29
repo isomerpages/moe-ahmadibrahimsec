@@ -74,7 +74,7 @@ third_nav_title: Alumni
 <div>For more information, please refer&nbsp;<strong><a href="https://ahmadibrahimsec.moe.edu.sg/co-curriculum/cce" target="">here</a></strong>.</div>
 <h4><strong>Parents Gateway<br /></strong></h4>
 <ul>
-<li><a href="https://ahmadibrahimsec.moe.edu.sg/partnerships/for-parents/parents-gateway" target="">Registration Guide</a></li>
-<li><a href="https://ahmadibrahimsec.moe.edu.sg/partnerships/for-parents/parents-gateway" target="">Travel Declaration</a></li>
+<li><a href="/partnerships/for-parents/parents-gateway" target="">Registration Guide</a></li>
+<li><a href="/partnerships/for-parents/parents-gateway" target="">Travel Declaration</a></li>
 <li><a href="/files/4%20User%20Guide%20for%20Parents_Oct%202019.pdf" target="_blank" rel="noopener">Quick User Guide for Parents</a></li>
 </ul>
