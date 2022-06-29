@@ -28,3 +28,12 @@ third_nav_title: Alumni
 <p>Proud alumna from Ahmad Ibrahim Secondary School Class of 4E4 (2006), Jasmine Ser, has made Singapore proud by winning the first gold medal in four years at the 2014 Commonwealth Games.</p>
 <img style="width: 65%;" src="/images/jasmine_old.png" />
 <p style="text-align: center;">Jasmine Ser (Far Left) with her Sec 4E4 friends (2006) in AISS School Yearbook</p>
+<h4><em>&ldquo;Congratulations, Jasmine for your outstanding win at the Commonwealth Games! Thank you for bringing Singapore such great honour. AI is proud of YOU!"</em></h4>
+<p style="text-align: right;">- Ms Chew Ing Lim<br />Principal</p>
+<h4><strong>Alumni featured in Malay Newspaper</strong></h4>
+<p>Two of our alumni were featured in the local Malay newspaper recently. I believe teachers, especially those who have taught them before will be happy to note how they have since progress on.</p>
+<p>The first alumnus is Nuraziana Mohamed Said. She was featured in the Berita Minggu newspaper last Saturday. Nuraziana was our VI student. From AI she went on to ITE to do accountancy and is now in her final year in UNISIM pursuing her degree in Malay Language and Literature. Definitely a story of resilience &ndash; one that could motivate our current students to charge on and succeed in life regardless of the challenges they are facing.</p>
+<p>In another article a few weeks back, another alumnus, Ms Shakila Jamal Mohamed was featured for being one of the recipient of the President&rsquo;s Award for Teachers 2013. In her interview, she attributed her success partly to a Mrs David, her former teacher at AI.</p>
+<p>Mrs David, according to Shakila, was responsible for turning her from a quiet and passive student into a more confident person (and of course, a successful educator).</p>
+<p><a href="http://www.moe.gov.sg/media/press/2013/09/presidents-award-for-teachers-2014.php">http://www.moe.gov.sg/media/press/2013/09/presidents-award-for-teachers-2014.php</a></p>
+<p>Newspaper Articles:<br /><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Alumni/ai_berita%20minggu_29092013b.pdf">Article 1</a><br /><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Alumni/ai_berita%20harian_06092013.pdf">Article 2</a></p>
