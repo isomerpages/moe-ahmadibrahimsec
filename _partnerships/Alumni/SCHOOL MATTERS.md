@@ -62,4 +62,19 @@ third_nav_title: Alumni
 </ul>
 <h4><strong>EDUSAVE CHARACTER AWARD (ECHA)</strong></h4>
 <ul>
-<li><a href="/files/ECHA_Parents%20Letter_2021%20and%20Nomination%20Form.pdf" target="_blank" rel="noopener">Edusave Character Award (ECHA) &ndash; Parent Letter and Nomination Form 2021</a></li>
+<li><a href="/files/ECHA_Parents%20Letter_2021%20and%20Nomination%20Form.pdf" target="_blank" rel="noopener">Edusave Character Award (ECHA) &ndash; Parent Letter and Nomination Form 2021</a></li></ul>
+<h4><strong>Growing Years (GY) and eTeens programme</strong></h4>
+<ul>
+<li>Parents may opt their children out of Growing Years,&nbsp;<em>eTeens&nbsp;</em>and/or supplementary sexuality education programmes by MOE-approved external providers.<br /><br /></li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/Co-curriculum/CCE/Forms/2022%20SEd%20Parent%20Acknowledgemt%20and%20Opt%20Out%20Form.pdf" target="_blank" rel="noopener">here</a></strong>.&nbsp;A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>21/01/2022</strong>.<br /><br /></li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens&nbsp;</em>programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/Co-curriculum/CCE/Forms/2022%20SEd%20Parent%20Acknowledgemt%20and%20Opt%20Out%20Form%20with%20eTeens.pdf" target="_blank" rel="noopener">here</a></strong>.&nbsp;A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>21/01/2022</strong>.<br /><br /></li>
+<li>Parents can contact the school at&nbsp;<strong><a href="mailto:aiss@moe.edu.sg" target="">aiss@moe.edu.sg</a></strong>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.<br /><br /></li>
+<li>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</li>
+</ul>
+<div>For more information, please refer&nbsp;<strong><a href="https://ahmadibrahimsec.moe.edu.sg/co-curriculum/cce" target="">here</a></strong>.</div>
+<h4><strong>Parents Gateway<br /></strong></h4>
+<ul>
+<li><a href="https://ahmadibrahimsec.moe.edu.sg/partnerships/for-parents/parents-gateway" target="">Registration Guide</a></li>
+<li><a href="https://ahmadibrahimsec.moe.edu.sg/partnerships/for-parents/parents-gateway" target="">Travel Declaration</a></li>
+<li><a href="/files/4%20User%20Guide%20for%20Parents_Oct%202019.pdf" target="_blank" rel="noopener">Quick User Guide for Parents</a></li>
+</ul>
