@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - PERFORMING ARTS.md
       - CLUB & SOCIETY.md
       - SSSC AWARD.md
       - CCA Achievements/UNIFORMED GROUPS.md
