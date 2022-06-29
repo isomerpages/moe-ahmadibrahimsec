@@ -42,9 +42,9 @@ third_nav_title: For Parents
 <p><strong>Note:</strong>&nbsp;Supported OS Versions -&nbsp;<strong>Android 6.0 or later</strong>&nbsp;&amp;&nbsp;<strong>iOS 9.1 or later</strong></p>
 </div>
 </li>
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Simple</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">How to declare not travelling Parents Gateway app?</label>
 <div>
-<p>This is a simple one line item</p>
+<p>Image not loading</p>
 </div>
 </li>
 </ul>
