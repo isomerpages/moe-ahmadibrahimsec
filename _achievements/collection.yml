@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - ALUMNI ACHIEVEMENTS.md
       - HONOURS ROLL.md
