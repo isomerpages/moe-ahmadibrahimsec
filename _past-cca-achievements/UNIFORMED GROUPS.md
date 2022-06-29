@@ -28,8 +28,7 @@ description: ""
 </tr>
 <tr class="">
 <td class="" style="width: 96.9375px; text-align: center;">
-<p class=""><strong class=""><span class="" lang="EN-US"><span style="color: #000000; font-size: small;">Best Unit competitions</span></span></strong></p>
-<p class=""><strong class=""><span class="" lang="EN-US"><span style="color: #000000; font-size: small;">**</span></span></strong></p>
+<p class=""><strong class=""><span class="" lang="EN-US"><span style="color: #000000; font-size: small;">Best Unit competitions<br /></span></span></strong><strong class=""><span class="" lang="EN-US"><span style="color: #000000; font-size: small;">**</span></span></strong></p>
 </td>
 <td class="" style="width: 85.8281px; text-align: center;">
 <p class=""><span class="" lang="EN-US"><span style="color: #000000; font-size: small;">Performance for year 2011</span></span></p>
