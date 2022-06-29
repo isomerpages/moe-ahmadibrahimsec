@@ -23,3 +23,10 @@ description: ""
 <li>Her volunteerism and involvement in caring for the environment.</li>
 </ul>
 <p>Congratulations, Jessica! You are an inspiration to all of us!</p>
+<h4><strong>The Queen's Commonwealth Essay Competition 2017</strong></h4>
+<p>The Queen&rsquo;s Commonwealth Essay Competition is the world&rsquo;s oldest schools&rsquo; international writing competition, managed by The Royal Commonwealth Society since 1883. Every year, it offers all Commonwealth youth aged 18 and under the opportunity to express their hopes for the future, opinions of the present, and thoughts on the past through the written word. The competition is used by individuals and teachers to build confidence, develop writing skills, support creativity and encourage critical thinking, using literacy to empower young people to become global citizens.<br />This year&rsquo;s theme invited young people to reflect on the topic of &lsquo;A Commonwealth for Peace&rsquo;. Over 12,300 young people from across the Commonwealth entered the Competition.<br />Among the 18 entries from Ahmad Ibrahim Secondary School, the following three students achieved commendable results:</p>
+<p style="text-align: center;"><strong>Gold Award:</strong>&nbsp;Allyn Tay Shi Yi (2E4)<br /><strong>Silver Award:</strong>&nbsp;Leong Wai Yip Winston (1E3)<br /><strong>Bronze Award:</strong>&nbsp;Chloe Kaitlyn Leung Hui En (2E2)</p>
+<h4><strong>31st YMCA Plain English Speaking Awards (PESA)</strong></h4>
+<img style="width: 75%;" src="/images/PESA%20Logo.png" />
+<p>This year, total of four students from the Public Speaking Programme represented the school to take part in the&nbsp;<strong><em>31st Plain English Speaking Awards (PESA)</em></strong>, an annual public-speaking competition organised by the YMCA.&nbsp;<br />Lau Jiaxi (1E2) and Loke Xin Yue (2N1) participated in the Lower Secondary category, while Chan Jun Da Edward (3E4) and Nawal bte Muhammad Mustafah (3E4) took part in the Upper Secondary category.</p>
+<h4><strong>International Competitions and Assessments for Schools (ICAS) English Competition</strong></h4>
