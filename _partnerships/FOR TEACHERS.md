@@ -26,3 +26,19 @@ description: ""
 <li><a href="https://traisi.moe.gov.sg/AD/login.asp" target="_blank" rel="noopener">TRAISI</a></li>
 </ul>
 <p><em><strong>* Please login to&nbsp;<u>iCON email</u>&nbsp;first before accessing the link</strong></em></p>
+<h4><strong>Forgot your IAMS / iCON passwords?</strong></h4>
+<p><strong>Here is what you need to do:</strong></p>
+<p><strong><u>IAMS</u></strong></p>
+<p>Self-reset at&nbsp;<strong><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener">https://idp.mims.moe.gov.sg/nidp/saml2/sso</a></strong>, or approach our school's IAMS local administrator for assistance.</p>
+<p><strong><u>iCON</u></strong></p>
+<p>Self-reset at&nbsp;<strong><a href="https://icon.moe.edu.sg/" target="">https://icon.moe.edu.sg</a></strong>, or contact the SSOE Service Desk at&nbsp;<strong>1800-7663-663</strong>&nbsp;or&nbsp;<strong><a href="mailto:help@moe.edu.sg" target="">help@moe.edu.sg</a></strong>&nbsp;for assistance.</p>
+<p>---</p>
+<h4><strong>Segregated Wireless Network (SWN)</strong></h4>
+<p>Teacher may connect to SWN Wi-Fi network to access internet for teaching and learning purpose.</p>
+<p><strong><u>To connect to SWN Wi-Fi:</u></strong></p>
+<ol>
+<li>Select SWN@SSOE from available Wi-Fi network list<br /><br /></li>
+<li>Once connected, a login page will pop up.<br /><br /></li>
+<li>Login using your IAMS account. (Remember to check on the box to agree the T&amp;C.)</li>
+</ol>
+<p>Note: You can&rsquo;t login to more than one device using the same account at the same time. Please&nbsp;remember to logout from SWN at&nbsp;<a href="http://portal.swn.moe.edu.sg/"><strong>http://portal.swn.moe.edu.sg</strong></a>&nbsp;when you have finished using the connection.</p>
