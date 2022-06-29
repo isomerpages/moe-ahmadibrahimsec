@@ -202,3 +202,4 @@ description: ""
 <h4><strong>N.E.mation 11</strong></h4>
 <p>This year, AI students from a variety of CCAs joined the Nemation! 11 media competition and emerged as third position in the finals. Our team [Blank Space] created the video clip named the &ldquo;Our Five Pillars of Defence&rdquo; and were featured in various media such as the Newpaper and the Pioneer magazine. It was an exciting learning journey for us !</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrcM9CRh9W1ptXhd77dpCUEO3WowrJQQs-Pofmn1kEeDX49U6WOimR18WC1sEqdElE5wtJZy9ysbJz/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" ></iframe>
+<h4><strong>AI Students performed during Singapore Youth Festival</strong></h4>
