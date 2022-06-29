@@ -2,11 +2,11 @@ collections:
   partnerships:
     output: true
     order:
+      - Alumni/.keep
+      - Alumni/ALUMNI.md
       - Alumni/SCHOOL MATTERS.md
       - Alumni/ALUMNI FEATURED INTERVIEWS.md
       - Alumni/ALUMNI ACHIEVEMENTS.md
       - Alumni/ALUMNI GALLERY.md
       - Alumni/ALUMNI FEATURED NEWS.md
-      - Alumni/ALUMNI.md
-      - Alumni/.keep
       - EXTERNAL ORGANISATIONS.md
