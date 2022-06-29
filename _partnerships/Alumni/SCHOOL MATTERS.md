@@ -41,7 +41,7 @@ third_nav_title: Alumni
 <li><strong>Sec 3</strong><br />-&nbsp;<a href="/files/3%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/3%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/3%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 </ul>
 <ul>
-<li><strong>Sec 4</strong><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/4%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/4%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/4%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+<li><strong>Sec 4</strong><br />-&nbsp;<a href="/files/4%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/4%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/4%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 </ul>
 <ul>
 <li><strong><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/AISS%20S5%20NA_updated%203%20Jan%2021.pdf" target="_blank" rel="noopener">Sec 5</a></strong><strong><em><br />(Updated on 3 Jan 22)</em></strong></li>
