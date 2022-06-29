@@ -30,3 +30,172 @@ description: ""
 <img style="width: 75%;" src="/images/PESA%20Logo.png" />
 <p>This year, total of four students from the Public Speaking Programme represented the school to take part in the&nbsp;<strong><em>31st Plain English Speaking Awards (PESA)</em></strong>, an annual public-speaking competition organised by the YMCA.&nbsp;<br />Lau Jiaxi (1E2) and Loke Xin Yue (2N1) participated in the Lower Secondary category, while Chan Jun Da Edward (3E4) and Nawal bte Muhammad Mustafah (3E4) took part in the Upper Secondary category.</p>
 <h4><strong>International Competitions and Assessments for Schools (ICAS) English Competition</strong></h4>
+<p><strong><u>2017<br /></u></strong>62 students from Secondary One and Secondary Two took part in the 2017 ICAS English assessment organised by the University of New South Wales. In this international assessment, students are assessed in their reading and language skills, where they are required to locate, identify, interpret, infer and synthesise information in and about texts.</p>
+<p>This year, the school achieved a total of 5 Distinction, 22 Credit and 5 Merit awards.</p>
+<p><strong>Distinction</strong></p>
+<table>
+<tbody>
+<tr>
+<td>1E1 Hulda Grace Teo</td>
+<td>2E3 Beer-Sheba Tan</td>
+</tr>
+<tr>
+<td>1E4 Alysia Nadia Binte Mohamed Satria</td>
+<td>2E4 Chaves John Benryk Barnedo</td>
+</tr>
+<tr>
+<td>1E4 Lim Yue Long, Xavier</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Credit</strong></p>
+<table>
+<tbody>
+<tr>
+<td>1E1 Muhammad Mujahid Bin Nazaruddin</td>
+<td>1E4 Hiap Xin Yi Darleene</td>
+</tr>
+<tr>
+<td>1E2 Tan Qing Wen</td>
+<td>1E4 Lee Yong Wei</td>
+</tr>
+<tr>
+<td>1E2 Ammar Fariheen Bin Shaffiq</td>
+<td>1E4 Lucas Tan Jia Le</td>
+</tr>
+<tr>
+<td>1E2 Angel Oh Shi Qi</td>
+<td>1E4 Shanice Tan Hui</td>
+</tr>
+<tr>
+<td>1E2 Chong Kar Yan</td>
+<td>2E2 Erni Faizah Bte Iskandar</td>
+</tr>
+<tr>
+<td>1E2 Heng Jin Long</td>
+<td>2E2 John Kenneth Layba Agpaoa</td>
+</tr>
+<tr>
+<td>1E2 Isabel Hah Rui En</td>
+<td>2E2 Nicole Kayle Penaanda Dacumos</td>
+</tr>
+<tr>
+<td>1E2 Muhammad Ilhan Bin Emran</td>
+<td>2E3 John Rajan Kenisha Janet</td>
+</tr>
+<tr>
+<td>1E2 Sammi Wong Zi He</td>
+<td>2E3 Ernest Ng Ming Yi</td>
+</tr>
+<tr>
+<td>1E2 Seah Ka Min</td>
+<td>2E4 Nyimas Fasya 'Ayuni Bte K M H&nbsp;</td>
+</tr>
+<tr>
+<td>1E3 Beh Long Jek Lucius</td>
+<td>2N1 Nyla Chempaka Dewi Bte I</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Merit</strong></p>
+<table>
+<tbody>
+<tr>
+<td>1E2 Chua Chong Yee Keith</td>
+<td>2E4 Nova Litty Augustine</td>
+</tr>
+<tr>
+<td>1E3 Leong Wai Yip Winston</td>
+<td>2N2 Ariel Kwa Jie Yun</td>
+</tr>
+<tr>
+<td>1E4 Puar Chin Yi, Theseus</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>2016<br /></u></strong>The International Competitions and Assessments for Schools (ICAS) assesses and measures how students fare on an international scale, involving over two million students from over 20 countries each year. In 2016, 35 Secondary One students were selected to participate in the ICAS English Competition, of which 14 received Certificates of Credit and Merit. Mave Ong (1E2) was awarded the Certificate of Distinction, which recognises participants who scored the top 11% of their cohort.</p>
+<table>
+<tbody>
+<tr>
+<td colspan="2" width="601">
+<p><strong>ICAS English Competition Awardees</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="601">
+<p><strong>Distinction</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="601">
+<p>Mave Ong Qing Xuan(1E2)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="601">
+<p><strong>Credit</strong></p>
+</td>
+</tr>
+<tr>
+<td width="301">
+<p>Austin Q. Hilario (1E1)</p>
+</td>
+<td width="301">
+<p>Deen Latoza Ferozdeen (1E1)</p>
+</td>
+</tr>
+<tr>
+<td width="301">
+<p>Wong Wai Yi (1E1)</p>
+</td>
+<td width="301">
+<p>Erni Faizah Bte Iskandar (1E2)</p>
+</td>
+</tr>
+<tr>
+<td width="301">
+<p>Nicole Kayle Penaanda Dacumos (1E2)</p>
+</td>
+<td width="301">
+<p>Chaves John Benryk Barnedo (1E4)</p>
+</td>
+</tr>
+<tr>
+<td width="301">
+<p>Jessie Phay Jie Xin (1E4)</p>
+</td>
+<td width="301">
+<p>Nova Litty Augustine (1E4)</p>
+</td>
+</tr>
+<tr>
+<td width="301">
+<p>Zuryn Aisyah Bte Zainudin (1E4)</p>
+</td>
+<td width="301">
+<p>Ariel Kwa Jie Yun (1E2)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="601">
+<p><strong>Merit</strong></p>
+</td>
+</tr>
+<tr>
+<td width="301">
+<p>John Kenneth Layba Agpaoa (1E2)</p>
+</td>
+<td width="301">
+<p>Beer-Sheba Tan (1E3)</p>
+</td>
+</tr>
+<tr>
+<td width="301">
+<p>Ernest Ng Ming Yi (1E3)</p>
+</td>
+<td width="301">
+<p>Amanndave Singh Bessi (1N2)</p>
+</td>
+</tr>
+</tbody>
+</table>
