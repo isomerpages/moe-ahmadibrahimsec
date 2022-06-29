@@ -206,3 +206,6 @@ description: ""
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSetpnwxQ_N31_SuThxrS0w1e9KjLBHO9OvbWDGuRKPtmdkQShVUu5_cFpSGLZTSPV-j52bSd3Dki0b/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p>Nur Amirah Bte Rohaizad, Izzarilhan B Selamat, Sarefina Sindhu Victor, Kalaivani D/O Regupathy, and Natasha Eliza Tan Hui Ling performed their arrangement of &ldquo;Happy&rdquo; (William Pharrell) at Causeway Point on 9 July. These Secondary 1 &ndash; 3 AI students met through the Youth Arts Incubation Programme (supported by the Business Times Budding Artists Fund), having been talent-identified through their General Music Programme in school.</p>
 <p><strong>We&rsquo;re very proud of these musically talented students, and look forward to hearing more from them in the future!</strong></p>
+<h4><strong>Congratulations to Tiffany Ang Li Shan!</strong></h4>
+<img src="/images/slide.jpg">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrXNONmkhgxad2n7bbJLWAyRGOcWJz24l9EfYOzsj16DxI6u6tDS1bwpjmW4CqhHmH_lM_T5oWZKwE/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
