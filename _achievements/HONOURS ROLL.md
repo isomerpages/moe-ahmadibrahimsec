@@ -223,3 +223,19 @@ description: ""
 <p>Alecia's work entitled "Chance" deals with the subject of love. She says "Love is a game of chance... sometimes you win, sometimes you lose. Sometimes you soar, sometimes you crash." Her work is also mentioned on MOE's Facebook page. <a href="https://www.facebook.com/moesingapore/photos/a.10150100883752004.314002.6788957003/10153039970422004/?type=1&theater">Read more...</a></p>
 <img style="width: 65%;" src="/images/sitong.png" />
 <p> Si Tong investigates her life and identity - observing, analyzing, evaluating her experiences and thoughts.</p>
+<h4><strong>Human Values Drama Festival 2014</strong></h4>
+<p><strong>Text from The Straits Times 5th August 2014</strong></p>
+<p>&ldquo;Ahmad Ibrahim Secondary School student Phua Jia Heng,15, bagged the Best Actor award for his convincing portrayal of an autistic boy at the final of the Human Values Drama Festival at the Republic Polytechnic yesterday. More than 500 students from 26 schools took part in this year&rsquo;s festival which aims to promote good values through theatre performances. &ldquo;</p>
+<p>&ldquo;Ahmad Ibrahim is especially proud of Phua Jia Heng as he embodies the spirit of resilience and the value of diligence by managing his time and the dual challenges of rehearsal and his preliminary exams well. Kudos to Ji Heng! We are very proud of him.&rdquo; Jocelyn Liao, Teacher-in-Charge of ODDS</p>
+<h4><strong>All Singapore Secondary Mathematics Competition for Normal Course Students 2013</strong></h4>
+<h4><strong>We wish to congratulate the following students of AISS:</strong></h4>
+<p>Jasper Tay Hao Wei of 2N1 for winning the individual prize for the Lower Secondary Normal Academic category of the "All Singapore Secondary Mathematics Competition for Normal Course Students 2013" with 20th position out of a total of 177 participants in his category.</p>
+<h4><strong>N.E.mation 7</strong></h4>
+<p>AISS has emerged as the Champion of the competition N.E.mation 7,</p>
+<p>We would like to thank and congratulate the team, consisting of Frances, Marcus Yeo, Xin Hui and Kar Yan all from Secondary 3.<br />Also not forgetting the teachers in charge; Ms Carine Liauw, Mdm Irene Yong, Mrs Silia Goh and Mr Fauzi as well as the students' parents who have been supporting them all this time!</p>
+<p>We would like to thank all who voted for our team 'We want to go to USA' and making their dream come true, we truely appreciate all the help!</p>
+<p>Below are the links for the publications that the students were featured in:</p>
+<ul>
+<li><a href="http://news.asiaone.com/News/Latest%2BNews/Singapore/Story/A1Story20130215-402400.html" target="_blank" rel="noopener">AsiaOne (republished from Straits Times online)</a></li>
+<li><a href="https://www.mindef.gov.sg/imindef/resourcelibrary/cyberpioneer/topics/articles/news/2013/feb/15feb13_news2.html#.WJwsVBJ97IG" target="_blank" rel="noopener">cyberPioneer (MINDEF's own news team)</a></li>
+</ul>
