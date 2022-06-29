@@ -44,7 +44,7 @@ third_nav_title: Alumni
 <li><strong>Sec 4</strong><br />-&nbsp;<a href="/files/4%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/4%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/4%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 </ul>
 <ul>
-<li><strong><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/School%20Matters/uniform,booklistandstationery/2022/AISS%20S5%20NA_updated%203%20Jan%2021.pdf" target="_blank" rel="noopener">Sec 5</a></strong><strong><em><br />(Updated on 3 Jan 22)</em></strong></li>
+<li><strong><a href="/files/AISS%20S5%20NA_updated%203%20Jan%2021.pdf" target="_blank" rel="noopener">Sec 5</a></strong><strong><em><br />(Updated on 3 Jan 22)</em></strong></li>
 </ul>
 <h4><strong>Purchase of Uniform attire (2021)</strong></h4>
 <p>From January 2021<br />Only at Retail Outlet at Sembawang Shopping Centre (#02-13)</p>
