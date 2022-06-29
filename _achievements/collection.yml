@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Achievements/UNIFORMED GROUPS.md
       - CCA Achievements/SPORTS.md
       - CCA Achievements/.keep
       - ALUMNI ACHIEVEMENTS.md
