@@ -27,6 +27,21 @@ links:
         url: https://sites.google.com/moe.edu.sg/aisse-openhouse2021/home
       - title: FREQUENTLY ASKED QUESTIONS
         url: /about-us/frequently-asked-questions-faq
+  - title: PARTNERSHIPS
+    url: /partnerships/for-parents
+    sublinks:
+      - title: FOR PARENTS
+        url: /partnerships/for-parents
+      - title: FOR STUDENTS
+        url: /partnerships/for-students
+      - title: FOR TEACHERS
+        url: /partnerships/for-teachers
+      - title: SCHOOL MATTERS
+        url: /partnerships/school-matters
+      - title: ALUMNI
+        url: /partnerships/alumni
+      - title: EXTERNAL ORGANISATIONS
+        url: /partnerships/external-organisations
   - title: NEWS & EVENTS
     url: /news-n-events/2021
     sublinks:
