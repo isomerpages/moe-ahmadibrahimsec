@@ -1,4 +1,5 @@
 collections:
   past-cca-achievements:
     output: true
-    order: []
+    order:
+      - SPORTS.md
