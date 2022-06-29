@@ -19,3 +19,6 @@ third_nav_title: For Parents
 <li>To reinforce school values in all activities&nbsp;<strong>RISE &ndash; Resilience , Integrity , Steadfastness , Excellence</strong>&nbsp;with Care , Courage , and Gratitude</li>
 </ul>
 <hr>
+<h4><strong>Bridging the Parents and school</strong></h4>
+<p>Visit the AI PSG Facebook page at&nbsp;<strong><a href="https://www.facebook.com/psg.aiss/" target="_blank" rel="noopener">https://www.facebook.com/psg.aiss/</a><br /></strong><strong>To Volunteer and any other matters please contact:<br /></strong>Please contact AI PSG at&nbsp;<strong><a href="mailto:PSG@aiss.edu.sg" target="">PSG@aiss.edu.sg</a></strong></p>
+<hr>
