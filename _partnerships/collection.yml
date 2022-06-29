@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - FOR TEACHERS.md
       - SCHOOL MATTERS.md
       - Alumni/.keep
       - Alumni/ALUMNI.md
