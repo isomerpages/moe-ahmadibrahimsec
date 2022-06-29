@@ -14,3 +14,20 @@ third_nav_title: Alumni
 <ul>
 <li><a href="https://go.gov.sg/aiss-sec3-subjcombination" target="">More information here</a></li>
 </ul>
+<h4><strong>PERSONALISED LEARNING DEVICE PROGRAMME (PLD)</strong></h4>
+<ul>
+<li><a href="/partnerships/for-parents/personalised-learning-device-programme-pld" target="">AISS PLD Information for Parents &amp; Students</a></li>
+<li><a href="https://go.gov.sg/ndlp-aiss" target="_blank" rel="noopener">AISS PLD Official Website</a></li>
+</ul>
+<h4><strong>AISS PLD Hub Website for AISS Students</strong></h4>
+<ul>
+<li><a href="https://sites.google.com/moe.edu.sg/ictaiss4students/home" target="_blank" rel="noopener">AISS PLD Hub Website</a></li>
+</ul>
+<h4><strong>School Timetable</strong></h4>
+<ul>
+<li><strong>Term 3&nbsp;</strong><em>(To be updated soon)</em><br /></li>
+<ul>
+<li>(Odd Week)</li>
+<li>(Even Week)</li>
+</ul>
+</ul>
