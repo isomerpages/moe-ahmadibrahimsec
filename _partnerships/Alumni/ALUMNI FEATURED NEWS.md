@@ -19,16 +19,8 @@ third_nav_title: Alumni
 <p><strong><u>Click the link below to learn more about them:</u></strong></p>
 <ul>
 <li><strong>Ser Xiang Wei Jasmine, Shooting, 徐湘玮; Graduated in 2006 </strong><a href="https://www.myactivesg.com/team-singapore/athletes/s/ser-xiang-wei-jasmine" target="_blank" rel="noopener">https://www.myactivesg.com/team-singapore/athletes/s/ser-xiang-wei-jasmine</a></li>
-</ul>
-<ul>
 <li><strong>Lin Qingyi Micky, Netball, Captain, 林清易; Graduated in 2001<br /></strong><a href="https://www.myactivesg.com/team-singapore/athletes/l/lin-qingyi-micky" target="_blank" rel="noopener">https://www.myactivesg.com/team-singapore/athletes/l/lin-qingyi-micky</a></li>
-</ul>
-<ul>
 <li><strong>Chen Huifen, Netball, Co-Vice Captain, 陈慧芬; Graduated in 2001 </strong><a href="https://www.myactivesg.com/team-singapore/athletes/c/chen-huifen" target="_blank" rel="noopener">https://www.myactivesg.com/team-singapore/athletes/c/chen-huifen</a></li>
-</ul>
-<ul>
 <li><strong>Muhammad Nasiruddin B Jumari, High Jump; Graduated in 2008</strong> <a href="http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015" target="_blank" rel="noopener">http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015</a></li>
-</ul>
-<ul>
 <li><strong>Siraaj B Ramadhan, Floorball; Graduated in 2008<br /></strong><a href="https://www.myactivesg.com/team-singapore/athletes/s/siraaj-bin-ramadhan" target="_blank" rel="noopener">https://www.myactivesg.com/team-singapore/athletes/s/siraaj-bin-ramadhan</a></li>
 </ul>
