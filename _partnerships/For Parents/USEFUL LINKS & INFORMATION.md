@@ -35,4 +35,7 @@ third_nav_title: For Parents
 <li>
 <p><a href="/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf" target="_blank" rel="noopener">Option B</a></p>
 </li>
-</ul>
+</ul><hr>
+<h4><strong>NDLP@AISS for Parents / Guardians</strong></h4>
+<p>Dear Parents/Guardians,</p>
+<p>Click the following <strong><a href="https://go.gov.sg/ndlp-aiss" target="_blank" rel="noopener">here</a></strong>&nbsp;to learn more regarding&nbsp;National Digital Literacy Programme (NDLP) in AISS.</p>
