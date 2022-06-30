@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - STUDENT DEVELOPMENT/CHARACTER AND CITIZENSHIP EDUCATION.md
       - STUDENT DEVELOPMENT/STUDENT LEADERSHIP.md
       - STUDENT DEVELOPMENT/DISCIPLINE.md
       - STUDENT DEVELOPMENT/.keep
