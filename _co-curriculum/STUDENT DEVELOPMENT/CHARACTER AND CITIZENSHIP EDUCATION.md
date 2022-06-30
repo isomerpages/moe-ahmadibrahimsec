@@ -361,14 +361,70 @@ third_nav_title: STUDENT DEVELOPMENT
 </div>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">eTeens Programme</label>
 <div>
-<p>This is a simple one line item</p>
+<ol>
+<li>
+<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 and secondary 4 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens&nbsp;</em>is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
+</li>
+<li>
+<p><u></u>Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em>eTeens&nbsp;</em>programme is that students are empowered to make wise, informed and sensible decisions.<u></u></p>
+</li>
+</ol>
+<h4><strong>At Ahmad Ibrahim Secondary School, the following lessons from the&nbsp;<em>eTeens</em>&nbsp;Programme will be taught in 2022:</strong></h4>
+<table width="819">
+<thead>
+<tr>
+<td style="text-align: center;" width="177">
+<p><strong>Topics/Lessons</strong></p>
+</td>
+<td style="text-align: center;" width="482">
+<p><strong>Programme Learning Objectives</strong></p>
+</td>
+<td style="text-align: center;" width="160">
+<p><strong>Time Period<br /></strong><strong>(e.g. Term 3 Week 9)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" width="177">
+<p>Mass Talk by HPB appointed vendor</p>
+</td>
+<td width="482">
+<p>&middot; Awareness of the different STIs and HIV/AIDS</p>
+<p>&middot; Modes of transmission</p>
+<p>&middot; Modes of protection, specifically on how the condom is used</p>
+<p>&middot; Consequences and impact of STIs/HIV&nbsp;</p>
+</td>
+<td style="text-align: center;" width="160">
+<p>Term 4 Week 1</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="177">
+<p>Classroom-based Lesson</p>
+</td>
+<td width="482">
+<p>&middot; Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making&nbsp;</p>
+</td>
+<td style="text-align: center;" width="160">
+<p>Term 4 Week 2</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Information for Parents</label>
 <div>
-<p>This is a simple one line item</p>
+<ul>
+<li>Parents may opt their children out of Growing Years,&nbsp;<em>eTeens&nbsp;</em>and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="/files/2022%20SEd%20Parent%20Acknowledgemt%20and%20Opt%20Out%20Form.pdf" target="_blank" rel="noopener">here</a></strong>.&nbsp;A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>11/02/2022</strong>.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens&nbsp;</em>programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="/files/2022%20SEd%20Parent%20Acknowledgemt%20and%20Opt%20Out%20Form%20with%20eTeens.pdf" target="_blank" rel="noopener">here</a></strong>.&nbsp;A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;<strong>11/02/2022</strong>.</li>
+<li>Parents can contact the school at&nbsp;<strong><a href="mailto:aiss@moe.edu.sg" target="">aiss@moe.edu.sg</a></strong> for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</li>
+<li>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</li>
+</ul>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
