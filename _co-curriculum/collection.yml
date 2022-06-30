@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - UNIFORMED GROUPS/SCOUTS.md
       - UNIFORMED GROUPS/ST JOHN BRIGADE SINGAPORE.md
       - UNIFORMED GROUPS/.keep
       - PERFORMING ARTS/CONCERT BAND.md
