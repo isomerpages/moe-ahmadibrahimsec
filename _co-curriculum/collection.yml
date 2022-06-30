@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CLUBS/GREEN SERVICE CLUB.md
       - CLUBS/.keep
       - CO CURRICULUM.md
