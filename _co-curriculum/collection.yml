@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - UNIFORMED GROUPS/GIRL GUIDES.md
       - UNIFORMED GROUPS/NATIONAL CADET CORPS (LAND).md
       - UNIFORMED GROUPS/NATIONAL POLICE CADET CORPS (NPCC).md
       - UNIFORMED GROUPS/SCOUTS.md
