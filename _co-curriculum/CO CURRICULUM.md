@@ -90,3 +90,13 @@ description: ""
 <p style="text-align: center;">To become empathetic and compassionate individuals who are confident and creative, demonstrating passion and love for the art of drama</p>
 
 <h4><strong>CLUBS</strong></h4>
+<p style="text-align: center;"><strong>(AI) ROBOTICS CLUB</strong></p>
+<a href="/co-curriculum/clubs/ai-robotics-club">
+<img style="width: 40%;" src="/images/infocomm.png" />
+</a>
+<p style="text-align: center;">One big happy band family since 1970 - music from the heart is most pure</p>
+<p style="text-align: center;"><strong>CHINESE ORCHESTRA</strong></p>
+<a href="/co-curriculum/performing-arts/chinese-orchestra">
+<img style="width: 40%;" src="/images/ai%20co%20thumbnail.jpg" />
+</a>
+<p style="text-align: center;">To provide a platform for our members to deepen their instrument skills and develop and appreciation of cultural music</p>
