@@ -17,3 +17,57 @@ third_nav_title: PERFORMING ARTS
 <div style="text-align: right;">- Allyn Tay, Alumnus</div>
 </blockquote>
 <hr>
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
+<div>
+<p>To promote the learning and appreciation of Chinese orchestral music among the students through learning, performing and experiencing.</p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
+<div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTWmIjWTed9J18DHSiMmr-FthgH2OjlRWEvhVOk42N_15gxU-n78vAE8SX1YoQRACXKI4P2Hmx28cB/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>With bated breath, the CO members straightened up at the sight of the curtains parting. The conductor, Gladys Law from 4E4, dressed in Chinese-Indian fusion costume, raised and flicked her baton in the air. The strings section deftly plucked, strummed and picked. They were joined by the wind section, whose fingers danced across the bamboo platforms, and the percussions, weaved rhythms with their tapping and tempo. Together, they were one, serenading their audience.</p>
+<p>Then, in an unexpected twist, two young ladies, Shakaana and Yuthika from 1E1, lithe and svelte in their rainbow-coloured saree, twirled onto stage and into the hearts of the audience, moving to the tune of Munnaeru Vaalibaa.</p>
+<p>This year&rsquo;s annual AI Chinese New Year concert saw a refreshing eclectic fusion of culture and orchestral entertainment.</p>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<div>
+<ul>
+<li>2019 Singapore Youth Festival &ndash;&nbsp;Certificate of Accomplishment</li>
+<li>2017 Singapore Youth Festival &ndash; Certificate of Accomplishment</li>
+<li>2015 Singapore Youth Festival &ndash; Certificate of Distinction</li>
+<li>2013 Singapore Youth Festival &ndash; Certificate of Distinction</li>
+</ul>
+</div>
+</li>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<div>
+<p>AI Chinese New Year Concert<br />AI Achievement Day Concert<br />SYF Arts Presentation<br />Combined Performing Arts Concert<br />Inter-schools Music Exchange</p>
+</div>
+</li>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDguUANg0aWAjj1tg1CcFE4ecVBgTJkYtOocR8ChbptDc_7Ntk5Z0bw2fLwPduNhkpUdmPgrkMYW9t/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+</div>
+</li>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
+<div>
+<p><strong>Wednesday</strong><br />3.45 to 6.30 pm</p>
+<p><strong>Friday</strong><br />1.30 to 5.00 pm</p>
+</div>
+</li>
+<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
+<div>
+<p><strong><u>Executive Committee</u></strong></p>
+<p><strong>Chairperson<br /></strong>Celeste Wong Jing Man&nbsp;(3E2)</p>
+<p><strong>Vice-chairpersons<br /></strong>Kelly Soh Shi Ya&nbsp;(3E4) and&nbsp;Ong Ti Gwan&nbsp;(3N2)</p>
+</div>
+</li>
+<li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
+<div>
+<p><strong>Mdm Phua Eng Sze (OIC)<br /></strong><strong>Contact:&nbsp;</strong><a href="mailto:phua_eng_sze@moe.edu.sg" target="">phua_eng_sze@moe.edu.sg</a></p>
+<p>Ms Wang Xuejuan<br />Mdm Xie Xiaowen<br />Mr Zhang Xin Wen</p>
+</div>
+</li>
+</ul>
