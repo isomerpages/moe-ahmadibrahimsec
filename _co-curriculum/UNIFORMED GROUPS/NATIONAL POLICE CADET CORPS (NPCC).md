@@ -24,6 +24,7 @@ third_nav_title: UNIFORMED GROUPS
 <div>
 <p>This is a simple one line item</p>
 </div>
+</li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
 <p>This is a simple one line item</p>
