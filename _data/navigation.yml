@@ -27,6 +27,25 @@ links:
         url: https://sites.google.com/moe.edu.sg/aisse-openhouse2021/home
       - title: FREQUENTLY ASKED QUESTIONS
         url: /about-us/frequently-asked-questions-faq
+  - title: CO-CURRICULUM
+    url: /co-curriculum
+  - title: ACHIEVEMENTS
+    url: /achievements/o-level-results
+    sublinks:
+      - title: O LEVEL RESULTS
+        url: /achievements/o-level-results
+      - title: N LEVEL RESULTS
+        url: /achievements/n-level-results
+      - title: OUTSTANDING ACHIEVEMENTS
+        url: /achievements/outstanding-achievements
+      - title: SCHOOL & STUDENT ACHIEVEMENTS
+        url: /achievements/school-n-student-achievements
+      - title: CCA ACHIEVEMENTS
+        url: /achievements/cca-achievements/sports
+      - title: ALUMNI ACHIEVEMENTS
+        url: /partnerships/alumni/alumni-achievements
+      - title: HONOURS ROLL
+        url: /achievements/honours-roll
   - title: PARTNERSHIPS
     url: /partnerships/for-parents
     sublinks:
@@ -57,22 +76,5 @@ links:
         url: /news-n-events/2017
       - title: "2016"
         url: /news-n-events/2016
-  - title: ACHIEVEMENTS
-    url: /achievements/o-level-results
-    sublinks:
-      - title: O LEVEL RESULTS
-        url: /achievements/o-level-results
-      - title: N LEVEL RESULTS
-        url: /achievements/n-level-results
-      - title: OUTSTANDING ACHIEVEMENTS
-        url: /achievements/outstanding-achievements
-      - title: SCHOOL & STUDENT ACHIEVEMENTS
-        url: /achievements/school-n-student-achievements
-      - title: CCA ACHIEVEMENTS
-        url: /achievements/cca-achievements/sports
-      - title: ALUMNI ACHIEVEMENTS
-        url: /partnerships/alumni/alumni-achievements
-      - title: HONOURS ROLL
-        url: /achievements/honours-roll
-  - title: CO-CURRICULUM
-    url: /co-curriculum
+  - title: CURRICULUM
+    url: /curriculum
