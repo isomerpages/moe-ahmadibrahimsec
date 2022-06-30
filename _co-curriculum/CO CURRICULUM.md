@@ -40,7 +40,6 @@ description: ""
 <img style="width: 40%;" src="/images/ai%20track%20and%20field%20thumbnail.jpg" />
 </a>
 <p style="text-align: center;">We believe that every student that has the potential to succeed through hard work and perseverance with sound practice, talent. With hard work, bring success.</p>
-
 <h4><strong>UNIFORMED GROUPS</strong></h4>
 <p style="text-align: center;"><strong>GIRL GUIDES</strong></p>
 <a href="/co-curriculum/uniformed-groups/girl-guides">
@@ -65,5 +64,30 @@ description: ""
 <a href="/co-curriculum/uniformed-groups/st-john-brigade-singapore">
 <img style="width: 40%;" src="/images/ai%20sjab%20thumbnail.jpg" /></a>
 <p style="text-align: center;">"PRO FIDE" and "PRO UTILITATE HOMINUM" ("For the faith" and "For the service of mankind")</p>
+
 <h4><strong>PERFORMING ARTS</strong></h4>
+<p style="text-align: center;"><strong>GIRL GUIDES</strong></p>
+<a href="/co-curriculum/uniformed-groups/girl-guides">
+<img style="width: 40%;" src="/images/ai%20girl%20guide%20thumbnail.jpg" />
+</a>
+<p style="text-align: center;">Our motto, "Be Prepared", stands them in good stead as they plan, organise and carry out duties that must be entrusted to them</p>
+<p style="text-align: center;"><strong>NATIONAL CADET CORPS (LAND)</strong></p>
+<a href="/co-curriculum/uniformed-groups/national-cadet-corps-land">
+<img style="width: 40%;" src="/images/ncc_new.jpg" />
+</a>
+<p style="text-align: center;">To nurture responsible, resilient and resourceful cadets to become successful citizens</p>
+<p style="text-align: center;"><strong>NATIONAL POLICE CADET CORPS (NPCC)</strong></p>
+<a href="/co-curriculum/uniformed-groups/national-police-cadet-corps-npcc">
+<img style="width: 40%;" src="/images/NPCC%20Thumbnail%20website.jpg" /></a>
+<p style="text-align: center;">Aims to develop its members as confident person, self-directed learner, active contributor and concerned citizen through its wide range of activities</p>
+<p style="text-align: center;"><strong>SCOUTS</strong></p>
+<a href="/co-curriculum/uniformed-groups/scouts">
+<img style="width: 40%;" src="/images/ai%20scouts%20thumbnail.jpg" />
+</a>
+<p style="text-align: center;">Each scout a gentleman clean in thought, word and deed who strives to be a servant leader.</p>
+<p style="text-align: center;"><strong>ST JOHN BRIGADE SINGAPORE</strong></p>
+<a href="/co-curriculum/uniformed-groups/st-john-brigade-singapore">
+<img style="width: 40%;" src="/images/ai%20sjab%20thumbnail.jpg" /></a>
+<p style="text-align: center;">"PRO FIDE" and "PRO UTILITATE HOMINUM" ("For the faith" and "For the service of mankind")</p>
+
 <h4><strong>CLUBS</strong></h4>
