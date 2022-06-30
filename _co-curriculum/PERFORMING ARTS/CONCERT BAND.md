@@ -161,7 +161,8 @@ third_nav_title: PERFORMING ARTS
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Ms Lee Jia Ling (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:lee_jia_ling_a@moe.edu.sg" target="">lee_jia_ling_a@moe.edu.sg</a></strong></p>
+<p>Miss Lui Ying Jie<br />Mr Mohd Na&rsquo;im Sa&rsquo;dollah<br />Ms Nurul Aqilah</p>
 </div>
 </li>
 </ul>
