@@ -41,27 +41,34 @@ third_nav_title: SPORTS
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Gallery</label>
 <div>
-<p>This is a simple one line item</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfXfPFZMN9bV4tA2yEUK76ufWhrKectM5NZPlBW-jlBAkefvTzQU6BpZZgkwAhMOZTU4jriCgf_YXt/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements/Participation</label>
 <div>
-<p>This is a simple one line item</p>
+<p><u><strong>2019<br /></strong></u><strong>NSG Football League 4 Championships</strong><br />B Boys: 3rd Placing</p>
+<p><strong>NSG Football Championships</strong><br />C Boys: Merit Award</p>
+<p><u><strong>2018<br /></strong></u>B Boys: 1st Round&nbsp;<br />C Boys: 2nd Round</p>
+<p><strong><u>2017<br /></u></strong>C Division North Zone Football Competition &ndash; 3rd Place<br />C Division Nationals - Quarter-finalist<br />B Division North Zone Football Competition &ndash; 1st Round</p>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Monday</strong><br />(During competition season)</p>
+<p><strong>Wednesday<br /></strong>3.30 to 5.30 pm</p>
+<p><strong>Friday<br /></strong>3.00 to 5.00 pm</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p>This is a simple one line item</p>
+<p>Captain<br />Johan Wahyudi Bin Jailani (3N2)</p>
+<p>Vice Captain<br />Mohammad Zharfan Bin Shanafian (3E1)</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Mr B Vinayagam (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:b_vinayagam@moe.edu.sg" target="">b_vinayagam@moe.edu.sg</a></strong></p>
+<p>Mr Ryan Fong Tjen Shan<br />Mr David Ng</p>
 </div>
 </li>
 </ul>
