@@ -94,9 +94,9 @@ description: ""
 <a href="/co-curriculum/clubs/ai-robotics-club">
 <img style="width: 40%;" src="/images/infocomm.png" />
 </a>
-<p style="text-align: center;">One big happy band family since 1970 - music from the heart is most pure</p>
-<p style="text-align: center;"><strong>CHINESE ORCHESTRA</strong></p>
-<a href="/co-curriculum/performing-arts/chinese-orchestra">
-<img style="width: 40%;" src="/images/ai%20co%20thumbnail.jpg" />
+<p style="text-align: center;">To equip students with essential skills that will better prepare them for the 21st century</p>
+<p style="text-align: center;"><strong>GREEN SERVICE CLUB</strong></p>
+<a href="/co-curriculum/clubs/green-service-club">
+<img style="width: 40%;" src="/images/ai%20gsc%20thumbnail.jpg" />
 </a>
-<p style="text-align: center;">To provide a platform for our members to deepen their instrument skills and develop and appreciation of cultural music</p>
+<p style="text-align: center;">Provide a platform where it provides eye-opening experiences for them to know what it is like to do service in the community</p>
