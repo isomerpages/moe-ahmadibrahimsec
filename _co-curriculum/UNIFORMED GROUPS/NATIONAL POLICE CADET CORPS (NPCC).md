@@ -18,32 +18,42 @@ third_nav_title: UNIFORMED GROUPS
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Reflections</label>
 <div>
-<p>This is a simple one line item</p>
+<blockquote>
+<div><em>"Being in NPCC has allowed me to experience and learn many things that are beneficial to my life. Before joining NPCC, I was shy and wouldn't try to get to know more people. After going through Area Camps and participating in Harmony Camp, I have become a little more outgoing which has allowed me to foster new friendships. In NPCC, we are taught to step out of our comfort zone and take initiative. That has indeed helped me to hone my leadership capabilities as the Chairman of AI NPCC. I am grateful for all the experiences throughout my journey as a NPCC cadet. It has definitely played an integral part in shaping my character to be who I am today."</em></div>
+<div style="text-align: right;">- Randy Chong Jing Xuan 4E2</div>
+</blockquote>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Unit Overall Proficiency Award (UOPA)</strong></p>
+<p>2011 : Bronze Award<br />2012 : Silver Award<br />2013 : Bronze Award<br />2014 : Bronze Award<br />2015 : Silver Award<br />2016 : Gold Award<br />2017 : Gold Award<br />2018 : Gold Award<br />2019 : Gold Award</p>
+<p><strong>Best Unit Cadet</strong></p>
+<p>2012 : SSG Li Jian Xing &amp; SSG Nur Aqilah Diyanah<br />2013 : SSG Md Shahirul Shukor &amp; SSG Sen Shu Hui<br />2014 : SSG Adam Malik &amp; SSG Soh Yu Qi<br />2015 : SSG Jet Law &amp; SSG Vivian Quek<br />2016 : SSG Kenneth Chia &amp; SSG Jessica Lim<br />2017 : SI Kwok Si-yang &amp; SSG Partiban Tharani<br />2018 : SSG Girish S/O Balakrishnan &amp; SSG Chen Huixin<br />2019 : SSG Raihanatunnisa &amp; SSG Ryan&nbsp;</p>
+<p><strong>SPF-NPCC Badge Awardee<br /></strong>2017 : SI Kwok Si-yang<br />2018 : SSG Wang Le Chen<br />2020 : SI Ho Zheng Yang Xanthus</p>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<p>This is a simple one line item</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSR2BwgSBFjnxREemwfIEsGbuRf08rOlZ0YXGWLHXjDjtyuJ_B-YBq-LoTEzh5IrS2l8aA9aLjm6wQv/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Wednesday<br /></strong>3.45 &ndash; 6.15 PM</p>
+<p><strong>Friday<br /></strong>2.30 &ndash; 6.00 PM</p>
+<p>(Training sessions by HQ will be updated once details are released)</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p>This is a simple one line item</p>
+<img src="/images/NPCC.jpg">
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Ms Siti Salmiah (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:siti_salmiah_amin@moe.edu.sg" target="">siti_salmiah_amin@moe.edu.sg</a></strong></p>
+<p>Ms Kasturi d/o Manoselvam<br />Mr Mohd Imran Ishak<br />Ms Ow Hui Mei Wendy<br />Ms Siti Fatima Binte Azmi</p>
 </div>
 </li>
 </ul>
