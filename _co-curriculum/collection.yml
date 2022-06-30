@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - PERFORMING ARTS/ORATORICAL DEBATE AND DRAMA SOCIETY (ODDS).md
       - PERFORMING ARTS/.keep
       - CLUBS/(AI) ROBOTICS CLUB.md
       - CLUBS/GREEN SERVICE CLUB.md
