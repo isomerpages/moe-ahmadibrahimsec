@@ -29,27 +29,133 @@ third_nav_title: UNIFORMED GROUPS
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements & Badge Winners</label>
 <div>
-<p>This is a simple one line item</p>
+<table>
+<tbody>
+<tr>
+<td width="208">&nbsp;</td>
+<td width="132">
+<p><strong>2018</strong></p>
+</td>
+<td width="132">
+<p><strong>2019</strong></p>
+</td>
+</tr>
+<tr>
+<td width="208">
+<p><strong>Performance for the year</strong></p>
+</td>
+<td width="132">
+<p>GOLD</p>
+</td>
+<td width="132">
+<p>GOLD</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<h4><strong>Badge Winners</strong></h4>
+</div>
+<div>
+<div>
+<table width="0">
+<tbody>
+<tr>
+<td width="68">&nbsp;</td>
+<td width="235">
+<p><strong>2018</strong></p>
+</td>
+<td width="376">
+<p><strong>2019</strong></p>
+</td>
+</tr>
+<tr>
+<td width="68">
+<p><strong>Bronze badge</strong></p>
+</td>
+<td width="235">
+<p style="text-align: center;">Nil</p>
+</td>
+<td width="376">
+<p>SHREYA S NAIR (2E2)</p>
+<p>TEO QI EN, VERNICE (2E3)</p>
+<p>LIM XIN NING RENIE (2E4)</p>
+<p>JAANUPRIYA D/O KUMARAVEL (2N1)</p>
+<p>MONI ANSLY (2N1)</p>
+<p>NUR IRDINA BINTE ABDULLAH (2T1)</p>
+<p>ZARINAH AYUNI BINTE MOHAMAD JONIT (2T1)</p>
+<p>NUR LAILA MAISARAH BINTE RUSMAN (3E2)</p>
+<p>SHASHAIN AFFIKHA PUTRI BINTE MOHAMED AFFENDY (3E3)</p>
+<p>PUTERI RINA MARIANA BINTE RA'INE (3N2)</p>
+</td>
+</tr>
+<tr>
+<td width="68">
+<p><strong>Silver badge</strong></p>
+</td>
+<td width="235">
+<p>ARIELLE DAVEISHA NUSSY (4E1)</p>
+<p>WOON JUN XUAN JASMINE (4E3)</p>
+<p>VEDAPRIYA NAIR (4E3)</p>
+</td>
+<td width="376">
+<p>NUR INDAH RUBINA BINTE NEKMAT (3E2)</p>
+<p>NUR LAILA MAISARAH BINTE RUSMAN (3E2)</p>
+<p>TAN JING XUAN (3E2)</p>
+<p>RAKSHANA THAHSEEN D/O MOHAMED KAMALUDEEN (3E3)</p>
+<p>SHASHAIN AFFIKHA PUTRI BINTE MOHAMED AFFENDY (3E3)</p>
+<p>J TANISHA (3E4)</p>
+<p>JORIN WONG EN TING (3E4)</p>
+<p>PUTERI RINA MARIANA BINTE RA'INE (3N2)</p>
+</td>
+</tr>
+<tr>
+<td width="68">
+<p><strong>Gold badge</strong></p>
+</td>
+<td width="235">
+<p>LYNUS PHUA YI XUAN (4E4)</p>
+<p>NURUL AIN BTE AZMAN (4N2)</p>
+<p>SONG JIE MIN JAYMEE (4E1)</p>
+<p>SU SAN HTOO (4E2)</p>
+</td>
+<td width="376">
+<p style="text-align: center;">Nil</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
 <div>
-<p>This is a simple one line item</p>
+<p>CCA Carnival<br />Achievement Day Parade<br />School National Day Parade<br />National Day Parade Contingent&nbsp;<br />Thinking Day<br />Vietnam Cultural Immersion trip<br />Sree Narayana Mission Home Service Learning<br />North Division Outdoor Challenge<br />Public Cookie Sale<br />Girls got talent competition</p>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Wednesday</strong><br />3.45 to 6.00 pm</p>
+<p><strong>Friday</strong><br />2.00 to 5.30 pm</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Company Leader (CL)<br /></strong>TAN JING XUAN (3E2)</p>
+<p><strong>Assistant Company Leader (ACL)<br /></strong>J TANISHA&nbsp;(3E4)</p>
+<p><strong>Welfare<br /></strong>NUR INDAH RUBINA BINTE NEKMAT&nbsp;(3E2)</p>
+<p><strong>Senior Patrol Leader<br /></strong>NUR LAILA MAISARAH BINTE RUSMAN&nbsp;(3E2)</p>
+<p><strong>Quarter Mistress, Scribe<br /></strong>RAKSHANA THAHSEEN D/O MOHAMED KAMALUDEEN&nbsp;(3E3)</p>
+<p><strong>PT Instructor, Discipline Mistress<br /></strong>JORIN WONG EN TING (3E4)</p>
+<p><strong>Treasurer<br /></strong>SHASHAIN AFFIKHA PUTRI BINTE MOHAMED AFFENDY&nbsp;(3E3)</p>
+<p><strong>PT Instructor, Welfare<br /></strong>PUTERI RINA MARIANA BINTE RA'INE (3N2)</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Mdm Santhi D/O Mutrawipillai Sanmugum&nbsp;</strong><strong>(OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:santhi_mutrawipillai_sanmu@moe.edu.sg" target="">santhi_mutrawipillai_sanmu@moe.edu.sg</a></strong></p>
+<p>Ms Amelia Y Dizon<br />Ms Noor Azizah Bte Ibrahim<br />Ms Hazel Toh Hui Teng</p>
 </div>
 </li>
 </ul>
