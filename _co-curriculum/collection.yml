@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - SPORTS/BASKETBALL.md
       - SPORTS/SHOOTING.md
       - SPORTS/FOOTBALL.md
       - SPORTS/TRACK & FIELD.md
