@@ -2,6 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - MOTHER TONGUE/TAMIL.md
+      - MOTHER TONGUE/TAMIL LANGUAGE UNIT.md
       - MOTHER TONGUE/.keep
       - CURRICULUM.md
