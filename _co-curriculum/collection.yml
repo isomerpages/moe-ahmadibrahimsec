@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - STUDENT DEVELOPMENT/STUDENT LEADERSHIP.md
       - STUDENT DEVELOPMENT/DISCIPLINE.md
       - STUDENT DEVELOPMENT/.keep
       - SPORTS/BASKETBALL.md
