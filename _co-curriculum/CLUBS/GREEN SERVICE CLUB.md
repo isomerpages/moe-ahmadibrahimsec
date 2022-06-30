@@ -12,4 +12,46 @@ third_nav_title: CLUBS
 <p><em>Going through the exhibitions and activities, I realised that Singapore has very rich biodiversity despite its small size, and that we should do our best to conserve the wildlife here. Also, while designing the AI Green Trail, I learnt that we do interact with nature on a daily basis, sometimes without realising it and appreciating it enough."</em></p>
 <p style="text-align: right;">- Wren Eu (4E4)</p>
 </blockquote>
-<hr />
+<hr>
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+</ul>
