@@ -427,14 +427,65 @@ third_nav_title: STUDENT DEVELOPMENT
 </ul>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Values-in-Action (VIA) Programme</label>
 <div>
-<p>This is a simple one line item</p>
+<p>Being named after Encik Ahmad Ibrahim serves as a reminder and an inspiration for all students and staffs to emulate his qualities of determination, courage, integrity and service. The Values-in-Action (VIA) Programme provides a great platform for educators to nurture in our students the same spirit of community service that Encik Ahmad Ibrahim had. Covid-19 situation this year has changed almost everything but it has not changed our passion of wanting to serve and contribute back to the society.&nbsp;</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQaKrnVXjFpW5OEyGMdgSNamie7S6w8nMFdIe6JN0y1vkfmccRx0WKvd9cZ6ftapGiEpfptIKa0OGN/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>Schools went into full Home-based Learning (HBL) in Term 1 where the form teachers could only meet their form class students through online platforms like zoom and google meet. Riding on that new norm and momentum, CCE department brought service learning to a next higher level &ndash; virtual. Safe-distancing Service Learning during Covid-19 is still possible as students will now apply their communication skills and knowledge to address community needs. Entirely student-initiated, students did a needs analysis to find out about the various community groups that need help. The class then decided which community service project to take up.</p>
+<p>Because of the pandemic, the classes could not gather like the past to discuss, but it was great because they found other means to reach out to one another and they could do it at their own time. This pandemic allowed students the opportunities to expand their knowledge on social issues and responsibilities as they learned that they could also play a part to help. Many classes did video and performance to show their gratitude and appreciation to the frontline warriors. Their learning is amplified and deeper civil engagement is fostered.</p>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
+<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Organisation Chart</label>
 <div>
-<p>This is a simple one line item</p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Name</th>
+</tr>
+<tr>
+<td style="text-align: center;">M Siva Balan (HOD/CCE)</td>
+</tr>
+<tr>
+<td style="text-align: center;">Tay Mui Khim&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">Rozilawati</td>
+</tr>
+<tr>
+<td style="text-align: center;">Silia Goh</td>
+</tr>
+<tr>
+<td style="text-align: center;">Tania Chia</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Chong Wensheng</td>
+</tr>
+<tr>
+<td style="text-align: center;">Lee Jia Min</td>
+</tr>
+<tr>
+<td style="text-align: center;">Lee Huimin</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ngui Lilian</td>
+</tr>
+<tr>
+<td style="text-align: center;">Phua Eng Sze</td>
+</tr>
+<tr>
+<td style="text-align: center;">Seah Yen Sin</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Tan Hong Chan</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Tan Wei Hong</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Yeu Chee Wee Thomas</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
