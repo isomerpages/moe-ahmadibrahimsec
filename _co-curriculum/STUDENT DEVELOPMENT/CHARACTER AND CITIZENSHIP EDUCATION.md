@@ -21,14 +21,344 @@ third_nav_title: STUDENT DEVELOPMENT
 <p>The Lower Secondary classes focus on school improvement and environmental education projects. The Upper Secondary classes identify the needs of the different groups of people in the community and reach out to them. The 9-week structured Service Learning lessons culminates in the Community Day held at the end of Term 1. Some examples are shown below. In addition, CCA groups provides opportunities for students to participate in Values-in-Action activities.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">MOE Sexuality Education in Schools</label>
 <div>
-<p>This is a simple one line item</p>
+<ol>
+<li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
+<li>The goals of Sexuality Education are to:<br />(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;<br />(ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br />(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.</li>
+<li>The key messages of Sexuality Education are:<br />(i) Love and respect yourself as you love and respect others;<br />(ii) Build positive relationships based on love and respect (which are the foundation for strong families);<br />(iii)Make responsible decisions for yourself, your family and society; and<br />(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br /><br />You may click&nbsp;<strong><a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener">here</a></strong>&nbsp;for more information on MOE Sexuality Education.</li>
+</ol>
+<p><strong>OVERVIEW OF AHMAD IBRAHIM SECONDARY SCHOOL&rsquo;S SEXUALITY EDUCATION PROGRAMME FOR 2021</strong></p>
+<ol>
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">here</a></strong> for more information on the scope of Sexuality Education in the school curriculum.<br /><br /></li>
+<li>The subjects that incorporate topics on sexuality include:<br />a. Science<br />b. Character and Citizenship Education (CCE)</li>
+</ol>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Growing Years (GY) Programme</label>
 <div>
-<p>This is a simple one line item</p>
+<p>i. &ldquo;The Teenage Years (2nd Edition)&rdquo; (Lower Sec) Teaching &amp; Learning resource package<br />ii. &ldquo;Sense &amp; Sexuality (2nd Edition)&rdquo; (Upper Sec) Teaching &amp; Learning resource package&nbsp;</p>
+<ol>
+<li>The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.<br /><br /></li>
+<li>Through &ldquo;The Teenage Years&rdquo; and &ldquo;Sense &amp; Sexuality&rdquo; packages, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</li>
+</ol>
+<p><strong>At Ahmad Ibrahim Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:</strong></p>
+<h4><strong>Secondary 1</strong></h4>
+<div>
+<table width="931">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>LESSON</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives<br /></strong><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="165">
+<p><strong>TIME PERIOD<br /></strong><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Steady or not?</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<div>&middot; Exercise continuous self-monitoring and self-reflection to improve how one regulates emotions, thoughts and behaviours.</div>
+<div>Value and strengthen positive relationships with family, friends and others.</div>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 9</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Being aware, being safe</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Be aware of the power of socialising forces and consciously incorporate positive influences, constructive feedback from others and personal experiences in the construction of one&rsquo;s self-perception and identity.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 10</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>More than meets the eye</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Recognise and evaluate the motives behind one&rsquo;s decisions and actions. Have the moral courage to make values-based decisions regardless of circumstances.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 4 Week 1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Secondary 2</strong></h4>
+</div>
+<div>
+<table width="931">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>LESSON</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives<br /></strong><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="165">
+<p><strong>TIME PERIOD<br /></strong><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" width="112">
+<p>A&nbsp;role for everyone</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Be aware of the power of socialising forces and consciously incorporate positive influences, constructive feedback from others and personal experiences in the construction of one&rsquo;s self-perception and identity.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 4</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Being aware, being safe</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Be aware of the power of socialising forces and consciously incorporate positive influences, constructive feedback from others and personal experiences in the construction of one&rsquo;s self-perception and identity.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 5</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Do I or don&rsquo;t I?</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Value and strengthen positive relationships with family, friends and others.</p>
+<p>&middot; Recognise and evaluate the motives behind one&rsquo;s decisions and actions. Have the moral courage to make values-based decisions regardless of circumstances.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 7</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4><strong>Secondary 3</strong></h4>
+<div>
+<table width="931">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>LESSON</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives<br /></strong><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="165">
+<p><strong>TIME PERIOD<br /></strong><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Love Yourself, Love Others</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Evaluate accuracy of self-perception. Analyse implications of self-perception.</p>
+<p>&middot; Identify the factors that cause emotional reactions and evaluate expectations from self and others to manage one&rsquo;s emotions, thoughts and behaviour.</p>
+<p>&middot; Recognise and cherish positive relationships to build a supportive network of family, friends and others.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 3</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Mending a Broken Heart</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Identify the factors that cause emotional reactions and evaluate expectations from self and others to manage one&rsquo;s emotions, thoughts and behaviour.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 6</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>When Respect Takes Centre Stage</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Reflect on and evaluate broader social and moral issues when stating viewpoints and making decisions. Act on and live by responsible decisions, and have the conviction to stand by the decisions made.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 8</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4><strong>Secondary 4</strong></h4>
+<div>
+<table width="931">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>LESSON</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives<br /></strong><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="165">
+<p><strong>TIME PERIOD<br /></strong><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Levelling the Ground</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Evaluate accuracy of self-perception. Analyse implications of self-perception.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 2 Week 6</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>When Love Hurts</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Identify the factors that cause emotional reactions and evaluate expectations from self and others to manage one&rsquo;s emotions, thoughts and behaviour.</p>
+<p>&middot; Recognise and cherish positive relationships to build a supportive network of family, friends and others.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 1</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>For Better or For Worse</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Recognise and cherish positive relationships to build a supportive network of family, friends and others.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 2</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">
+<p>There's Always More to a Story</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Reflect on and evaluate broader social and moral issues when stating viewpoints and making decisions. Act on and live by responsible decisions, and have the conviction to stand by the decisions made.</p>
+</td>
+<td style="text-align: center;" width="165">
+<p>Term 3 Week 4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Secondary 5</strong></h4>
+<div>
+<table width="931">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>LESSON</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives<br /></strong><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="165">
+<p><strong>TIME PERIOD<br /></strong><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Levelling the Ground</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<p>&middot; Evaluate accuracy of self-perception. Analyse implications of self-perception.</p>
+</td>
+<td width="165">
+<p style="text-align: center;">Term 2 Week 6</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
