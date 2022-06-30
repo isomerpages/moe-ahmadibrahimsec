@@ -110,22 +110,26 @@ third_nav_title: SPORTS
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<p>This is a simple one line item</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT30XgBnl0InRzmaAyco140JD-vLly6OHpj7dgbrwkwgy4WYezSLUdKw9IGe0Mieca6HjJ4ATy1fqrp/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Mondays &amp; Wednesdays<br /></strong>3.00 &ndash; 5.00 PM</p>
+<p><strong>Fridays<br /></strong>1.30 &ndash; 4.30 PM</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Club Captains<br /></strong>PANG XIN TONG<br />SAYSHAA DEVI D/O SURESH</p>
+<p><strong>Club Vice-captains<br /></strong>ANG JUN KAI, RYAN<br />CHONG SIEW FEN</p>
+<p><strong>Training Leaders<br /></strong>CHAW MIN MIN<br />SAW KAI LI KELLY<br />CHONG XUE MIN</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Mr Luo Zhengyang (OIC)<br /></strong><strong>Contact:&nbsp;</strong><strong><a href="mailto:luo_zhengyang@moe.edu.sg" target="">luo_zhengyang@moe.edu.sg</a></strong></p>
+<p>Mr Tan Hong Chan<br />Mrs Loh Yen Cheng Lilian<br />Mr Tan Boon Seng</p>
 </div>
 </li>
 </ul>
