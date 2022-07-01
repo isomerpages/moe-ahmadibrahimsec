@@ -186,7 +186,6 @@ third_nav_title: MOTHER TONGUE
 <p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual&nbsp;<strong>Chinese New Year Celebration</strong>, as well as&nbsp;<strong>Mother Tongue Fortnight Programme</strong>. A singing competition,&nbsp;<strong>Chang Chu Xin Sheng</strong>, was also held to engage students in Chinese popular culture.</p>
 <p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local&nbsp;<strong>Chinese Language theatrical productions</strong>. During Home Based Learning in 2020, AI students also had the privilege to engage in an online conference with a local writer-cum-lecturer. Through these activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
 <p>3. To allow students to immerse in an authentically Chinese environment, selected students are brought to China for our annual<strong>&nbsp;Overseas Immersion Programme</strong>. Students get to interact with the Chinese students, and see the past, present and future of China, the economic power house of the world. Who knows, our AI students might be working in China or with their China counterparts in the future!</p>
-<div>
 <p><u>寓乐于课堂之外</u></p>
 <p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p>
 <p>1. 学习华文不但能让学生培养语言技能，也能让学生传承文化。为了让学生体验华族文化，我校每年都让学生参与<strong>农历新年活动</strong>，以及年度<strong>母语双周活动</strong>。我校也曾主办<strong>《唱出欣声》</strong>歌唱比赛，让学生有机会沉浸在华文流行文化之中。</p>
@@ -194,11 +193,29 @@ third_nav_title: MOTHER TONGUE
 <p>华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华语剧场。2020年，居家学习（HBL）期间，AI学生也很荣幸和本地作家兼大学讲师，进行了一场<strong>线上座谈会</strong>。通过这些活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
 <p>2. 我校每年也举办<strong>中国浸濡活动</strong>，带领获选的学生到中国去，沉浸在华文华语环境。学生有机会和中国学生交流，也有机会一览中国历史古迹，一睹中国当下的风貌，从中一探中国未来的发展趋势。说不定，我们AI 学生将来也需要到中国公干，或和中国同事紧密合作。</p>
 </div>
-</div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Experiencing Chinese Culture</label>
 <div>
-
+<p><strong>Mother Tongue Fortnight</strong></p>
+<p>&ldquo;After Chang&rsquo;e ate up the elixir, she drifted all the way up into the sky, towards the big, round moon&hellip;&hellip;&rdquo;</p>
+<p>As the student who was acting as Chang&rsquo;e got into her character, the class roared with a thunderous applause.</p>
+<p>&ldquo;嫦娥吃下了仙丹后，缓缓地升上天空，向月亮飞去&hellip;&hellip;&rdquo;</p>
+<p>饰演嫦娥的学生卖力地表演，教室里欢呼声和掌声此起彼落，也为今年的母语双周画上完美的句点。</p>
+<p>This year, AI tagged on the theme of Mid-Autumn Festival for our Mother Tongue Fortnight Programme. Other than viewing videos to understand the origins of Mid-Autumn Festival and mooncakes, students also had the opportunity to make lanterns and guess lantern-riddles, both which are related to the Festival.</p>
+<p>今年我校以中秋为主题，为母语双周设计了一系列的活动。学生除了观看视频，了解中秋节和月饼的由来，还有机会参与一些与中秋节相关的活动，例如制作灯笼和猜灯谜等。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdHcNmNSJiQSvmCaFrKXcmvAmwpGNRR5DI7k520V2TfdH5zdUQ1eNKIWsSULUhoSj0zmsk27eh3zbJ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>AI students also had a hand in making mooncakes. Unlike how it is usually done, students used plasticine as ingredients, instead of flour. They re-enacted the story of &ldquo;The Revolt by Emperor Zhu Yuan Zhang&rdquo; by stuffing well-wishes into their mooncake, and passing it around anonymously. Although they could not indulge in their own mooncakes, they could feel the warmth as they unravel the messages hidden within the mooncakes.</p>
+<p>除此之外，学生还尝试制作月饼。今年因为防控新冠病毒（COVID-19）的缘故，制作月饼有别于一般的做法，导师让学生&ldquo;重现&rdquo;朱元璋月饼起义的故事。在活动中，学生用粘土制作月饼，把写上祝福语的字条夹在月饼中，送给其他同学。虽然学生无法品尝他们制作的月饼，但却能感受到来自朋友满满的祝福！</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQijkPFEgeMKbPEJ_0yy033V_aA5CA8ayoGqJm7E-p9I-VTQseXVVMQzFptJT5e9NVh5SZd6ATyN2Sa/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>AI students also had a hand in making mooncakes. Unlike how it is usually done, students used plasticine as ingredients, instead of flour. They re-enacted the story of &ldquo;The Revolt by Emperor Zhu Yuan Zhang&rdquo; by stuffing well-wishes into their mooncake, and passing it around anonymously. Although they could not indulge in their own mooncakes, they could feel the warmth as they unravel the messages hidden within the mooncakes.</p>
+<p>除此之外，学生还尝试制作月饼。今年因为防控新冠病毒（COVID-19）的缘故，制作月饼有别于一般的做法，导师让学生&ldquo;重现&rdquo;朱元璋月饼起义的故事。在活动中，学生用粘土制作月饼，把写上祝福语的字条夹在月饼中，送给其他同学。虽然学生无法品尝他们制作的月饼，但却能感受到来自朋友满满的祝福！</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0wSKyqJtJ0IsA5UrUmtqTzYcg1Mn2pUc31IwEASQOgldUcAT9-zIws-A0VsaPo_oRhQQ08nckEGwc/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>Last but not least, every student participated in the dramatization of &ldquo;Hou Yi Shoots the Suns&rdquo; and &ldquo;Chang&rsquo;e Drifts to the Moon&rdquo; legend, drawing the programme to close with a fairy tale ending.<br /><br />最后，学生还通过话剧的方式临场表演了&ldquo;后羿射日&rdquo;和&ldquo;嫦娥奔月&rdquo;这两个故事。今年的母语双周也在学生生动的演绎中拉下帷幕。</p>
+<div><iframe class="ive_eobj_center" src="https://www.youtube.com/embed/oNc5maq0a-4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p><strong>Chinese New Year 2020</strong></p>
+<p>Every year, our school holds a series of Chinese New Year celebrations. This year is no exception.<br />每年，伊布拉欣中学都会举办一系列的华人新年庆祝活动。今年也不例外。</p>
+<p>One of the activities was calligraphy. We invited professional calligraphy teachers to teach students to write&nbsp;New Year couplets. Outstanding pieces were selected to use as decorations in the school hall and classrooms.&nbsp;</p>
+<p>其中一项活动是新年挥春。我们邀请了专业的书法老师教学生写春联。学生优秀的书法作品都获选用来装饰学校礼堂和课室。</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
