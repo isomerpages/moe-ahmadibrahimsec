@@ -47,14 +47,51 @@ description: ""
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThiWrA70k0GYH3B0Sx3u9Vlf5YQsX6LIyWBELx5oTJUeVc32X5AXXD53iFaafvN8rDkV7I0GV24lsp/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Swimming programme for Secondary 1 students</label>
 <div>
-
+<p>The swimming programme is introduced for the Secondary One students to provide them with a platform to learn basic swimming strokes, water safety awareness and basic rescue techniques. This also enhances their readiness for the outdoor programmes subsequently.</p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Organisation Chart</label>
 <div>
-
+<table width="82%">
+<tbody>
+<tr>
+<th style="text-align: left;">
+<div><strong>Name</strong></div>
+</th>
+<th style="text-align: left;">
+<div><strong>Ext No.</strong></div>
+</th>
+</tr>
+<tr>
+<td>Mr Yao Zijian (HOD / Physical Sports &amp; Outdoor Education)&nbsp;</td>
+<td>9016&nbsp;</td>
+</tr>
+<tr>
+<td>Mr Tan Boon Seng</td>
+<td>9047</td>
+</tr>
+<tr>
+<td>Ms Lilian Loh</td>
+<td>9045</td>
+</tr>
+<tr>
+<td>Mr Fong Tjenshan</td>
+<td>9047</td>
+</tr>
+<tr>
+<td>
+<div>Mr Toh Wei Xiong, Tommy</div>
+</td>
+<td>9047</td>
+</tr>
+<tr>
+<td>Miss Tsang Win Han</td>
+<td>9047</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
