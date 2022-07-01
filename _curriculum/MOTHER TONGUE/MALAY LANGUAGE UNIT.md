@@ -33,9 +33,19 @@ third_nav_title: MOTHER TONGUE
 <p><strong><a href="http://tinyurl.com/ML4N2016newspaperarticle">http://tinyurl.com/ML4N2016newspaperarticle</a></strong></p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Overseas Immersion Programme</label>
 <div>
-<p>NEA Environment Champion Programme<br />NUS-NParks Marine Debris Monitoring Programme<br />NIE-NParks Marine Ecotoxicology Monitoring Programme<br />WWF Eco-Schools Programme<br />WWF Leadership Programme<br />Nature Society (Singapore) Every Singaporean A Naturalist (NSS-ESN) Programme</p>
+<p style="text-align: center;"><strong>ML Cultural Trip to Pulau Langkawi<br /></strong><em>Planting Seeds of Love for the Malay Language and Culture in the Jewel Of Kedah</em></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDeltmgXIyW8VcXq14k3gPX2VnvjwLJrFJeWH_NmyhpzFB6rmKnvvw1nTyHUtBCqUbjgsmABdXlzwP/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>&ldquo;I am speechless! The paddy fields and the island view from this airplane&hellip; this sight is almost magical!&rdquo; quipped Harith Syafiq from 3N1, after our plane landed on Pulau Langkawi. Through the 5D4N trip, students were exposed to the rich cultural heritage of this island that was once a vassal of the ancient kingdom of Thailand.</p>
+<p>At Laman Padi, a rice museum, students learnt how the very grains that they normally take for granted involves heavy toil in order to produce. At Mardi Agro Technology Park, a modern fruit farm, students were treated to a tram ride around the fruit plantation, and feasted on a buffet of local fruits. Students also forged new bonds when they interacted with their local peers from Sekolah Menengah Kampung Ayer Hangat, through a friendly match of traditional kampong games and a chit-chat session.</p>
+<p>This trip planted seeds of change and nurtured love for the Malay language and culture in our students, opening windows of opportunities for them to widen their horizons.</p>
+<p>Visit our students&rsquo; blogs at&nbsp;<strong><a href="http://aiss2018langkawi.weebly.com/" target="_blank" rel="noopener">http://aiss2018langkawi.weebly.com</a></strong>&nbsp;to view their experiences.</p>
+<p><strong>ML Cultural Trip to Bandung</strong></p>
+<p>Bandung, the flower city of West Java, Indonesia was the destination of our Malay Language Cultural Immersion Programme last year. The 5D4N programme from 30 October to 3 November 2016 aimed to provide students with various authentic learning experiences and endless opportunities for deeper learning. Throughout the 5 days, our students, with iPads in hand, were busy capturing and recording their learnings, engaging locals in interviews and documenting them in their blogs.</p>
+<p>Favourites among the students were the trip to Tangkuban Perahu and SMKN 11 Bandung. Tangkuban Perahu offered the amazing panoramic scenery of the mountainous area surrounding Kawah Ratu (Queen&rsquo;s crater). The legend of Sangkuriang, a story behind the existence of Tangkuban Perahu itself was by itself also a great takeaway.</p>
+<p>SMKN 11 Bandung, on the other hand, offered us their warm friendship, cultural learning experiences and opportunities for meaningful interactions. From the students there, our students learnt about traditional musical instruments, like the &lsquo;angklung&rsquo; and &lsquo;gamelan&rsquo;.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeMImVDTOwuhvZ7IpucqnIzB3J1mQvVcPzFwnK6SkpinHXAMAeSQKLM3ffVVOlrgxYsq5tTFFQkXEg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
