@@ -54,9 +54,92 @@ third_nav_title: AESTHETICS AND CRAFT
 </ul>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Organisational Chart</label>
 <div>
-
+<table style="width: 551px; height: 341px;">
+<tbody>
+<tr style="height: 17px;">
+<th style="width: 171.766px; height: 17px;">Unit</th>
+<th style="width: 182.641px; height: 17px;">Name</th>
+<th style="width: 174.594px; height: 17px;">Designation</th>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Ng Sheh Feng</td>
+<td style="width: 174.594px; height: 18px;">HOD/ Aesthetics &amp; Craft</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">Art Department</td>
+<td style="width: 182.641px; height: 18px;">Woon Sher Lin Sheralyn</td>
+<td style="width: 174.594px; height: 18px;">Subject Head/ Art</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 171.766px; height: 36px;">&nbsp;</td>
+<td style="width: 182.641px; height: 36px;">Mohamed Fauzi bin Husin</td>
+<td style="width: 174.594px; height: 36px;">Art Teacher</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Siti Fatima bte Azmi</td>
+<td style="width: 174.594px; height: 18px;">Art Teacher&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">Design &amp; Technology&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Kang Yong Heng&nbsp;</td>
+<td style="width: 174.594px; height: 18px;">Subject Head/ D&amp;T</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Seah Yen Sin</td>
+<td style="width: 174.594px; height: 18px;">D&amp;T Teacher</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Ng Kin Kwee (David)</td>
+<td style="width: 174.594px; height: 18px;">D&amp;T Teacher</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Abdul Aziz Osman&nbsp;</td>
+<td style="width: 174.594px; height: 18px;">Technical Support Officer</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 171.766px; height: 36px;">Nutrition &amp; Food Science&nbsp;</td>
+<td style="width: 182.641px; height: 36px;">Juny Iskawati Mohd Jaffar</td>
+<td style="width: 174.594px; height: 36px;">NFS Coordinator</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Ng Huey Chun Peggy</td>
+<td style="width: 174.594px; height: 18px;">NFS Teacher</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Nirmala K Periyiah</td>
+<td style="width: 174.594px; height: 18px;">NFS Teacher</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 171.766px; height: 36px;">&nbsp;</td>
+<td style="width: 182.641px; height: 36px;">Parimala d/o Krishnin</td>
+<td style="width: 174.594px; height: 36px;">Operations Support Officer&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">Music&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Lee Jia Ling</td>
+<td style="width: 174.594px; height: 18px;">Music Coordinator</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Ng Sheh Feng</td>
+<td style="width: 174.594px; height: 18px;">Music Teacher</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 171.766px; height: 18px;">&nbsp;</td>
+<td style="width: 182.641px; height: 18px;">Amelia Y Dizon</td>
+<td style="width: 174.594px; height: 18px;">Music Teacher</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
