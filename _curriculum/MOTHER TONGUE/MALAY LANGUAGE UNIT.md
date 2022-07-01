@@ -23,24 +23,14 @@ third_nav_title: MOTHER TONGUE
 <p>Bertitik tolak daripada aktiviti pengayaan tersebut, maka terlahirlah sebuah pertunjukan khas yang dipersembahkan oleh beberapa orang pelajar sempena perayaan Hari Raya pada tahun ini. Siap bertanjak dan bersamping, dipadankan pula dengan busana tradisional yang lengkap, tidak hairanlah pertunjukan mereka menerima sambutan yang sangat menggalakkan daripada penonton.</p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Learning Journey</label>
 <div>
-<p><u><strong>2019</strong><br /></u>Documentary Making Competition: 2nd Placing</p>
-<ul>
-<li>Charissa Liew Kin Iui</li>
-<li>Dawn Toh Ling Xuan</li>
-<li>Carrie Lai Kar Yee</li>
-<li>Boopalan Prithika</li>
-</ul>
-<p>WWF Leadership Programme: Presentation Of Project</p>
-<ul>
-<li>Hnit Thet Toe</li>
-<li>Harridas Kumarasamy</li>
-<li>Nur Athirah Binte Md Azhar</li>
-<li>Lim Jia Yi</li>
-<li>Muhammad Ilhaam Putra Wirajaya</li>
-</ul>
-<p><strong><u>2017<br /></u></strong>School Green Award (Lotus Award)</p>
+<p>Earlier in the year, some of our 4N students had the chance to witness the production work of a local Malay TV drama. The behind-the-scene experience was indeed a very enriching one. To top it up, students were given the opportunity to mingle with and interview the TV stars.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtiZZz3vOGH4J5bGvWLAawhiAiXdb4XEx2JQe20MIVAVQRkN9G6ReQe5N8cS2NaATnyqW1MTIcpdjQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>The students came back and penned their experience down. Their writing was then submitted to i3 GenG, Berita Harian&rsquo;s students weekly publication.</p>
+<p>The article written by Nuruljannah (4N1) and Muhd Faris (4N2) was published on 18 April 2016</p>
+<p><strong>Read the full article:</strong></p>
+<p><strong><a href="http://tinyurl.com/ML4N2016newspaperarticle">http://tinyurl.com/ML4N2016newspaperarticle</a></strong></p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
