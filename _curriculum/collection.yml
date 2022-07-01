@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - ENGLISH.md
       - HUMANITIES.md
       - INFO COMMUNICATION TECHNOLOGY.md
       - MATHEMATICS.md
