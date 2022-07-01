@@ -28,9 +28,13 @@ third_nav_title: AESTHETICS AND CRAFT
 <img src="/images/aesthetic_day_01.jpg">
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Enrichment Programme</label>
 <div>
-
+<p>Secondary 3 D&amp;T students participated in the design thinking and Innovation Boot camp 2020 organised by Nanyang Polytechnics, School of Design and NTUC nEbO. During the day camp, students are engaged in authentic design theme: &ldquo;Redesigning a Greener Future&rdquo;. Students designed and make a product to solve real world issue that&rsquo;s close to our heart. Each group came up with a prototype based on the needs identified.</p>
+<img style="width: 65%;" src="/images/dnt.png" />
+<p>A pen that is made of wood that have other functions such as a hand phone stand so that we can cut down the use of plastic pens which often end up in the bin which often can&rsquo;t be recycled.</p>
+<img style="width: 50%;" src="/images/AISS%20Team%202_Prototype.jpeg" />
+<p>A product which encourage the user to buy refillable shampoo instead of using bottles and bottles of shampoo each time.</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
