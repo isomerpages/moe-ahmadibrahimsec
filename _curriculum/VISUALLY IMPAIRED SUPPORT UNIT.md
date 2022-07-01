@@ -49,9 +49,9 @@ description: ""
 </ul>
 <p><strong><u>ENRICHMENT MODULES<br /></u></strong>Training modules are conducted to enhance students&rsquo; learning, physical well-being and character development. These include:</p>
 <ul>
-<li>Daily Living Skills module&gt;</li>
+<li>Daily Living Skills module</li>
 <li>IT training</li>
-<li>Skills workshops, e.g. First aid&gt;</li>
+<li>Skills workshops, e.g. First aid</li>
 <li>P.E. and sound ball</li>
 </ul>
 <p><strong><u>FACILITIES<br /></u></strong>Special facilities are put in place to support VI students and their learning.</p>
