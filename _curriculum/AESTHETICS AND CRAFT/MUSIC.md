@@ -148,8 +148,27 @@ third_nav_title: AESTHETICS AND CRAFT
 <img src="/images/EMP%20programme.png">
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Organisation Chart</label>
 <div>
-
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th style="text-align: center;">Name</th>
+<th style="text-align: center;">Designation</th>
+</tr>
+<tr style="text-align: center;">
+<td>Ms Lee Jia Ling&nbsp;</td>
+<td>Music Coordinator&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td>Ng Sheh Feng&nbsp;</td>
+<td>Music Teacher&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td>Amelia Y Dizon&nbsp;</td>
+<td>Music Teacher&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
