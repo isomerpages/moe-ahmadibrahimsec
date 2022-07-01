@@ -48,6 +48,93 @@ description: ""
 <p>This year, total of four students from the Public Speaking Programme represented the school to take part in the&nbsp;<strong><em>31st Plain English Speaking Awards (PESA)</em></strong>, an annual public-speaking competition organised by the YMCA.<br />Lau Jiaxi (1E2) and Loke Xin Yue (2N1) participated in the Lower Secondary category, while Chan Jun Da Edward (3E4) and Nawal bte Muhammad Mustafah (3E4) took part in the Upper Secondary category.</p>
 <p><strong><u>Julia Gabriels Public Speaking Course</u></strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgKilYeapq8csR4_XMUVfbu6g8qs3splismdBKRNrMLxfMOBqSwLPax3kTO1HrB2haRLKlbzlwDchY/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>In its second year of running, the Julia Gabriels Public Speaking Course aims to provide opportunities for interested students to hone their public speaking skills.&nbsp;</p>
+<p>The course consisted of a series of workshops conducted across Semester 1, where students were taught pronunciation, speech development, voice projection and improvisation.&nbsp;</p>
+<p>After the programme, the participants were given opportunities to apply their public speaking skills in many school events and public speaking competitions. Students served as emcees in major events such as Achievement Day, and school celebrations such as Teachers&rsquo; Day and National Day. In addition, students also represented the school in public speaking competitions such as YMCA&rsquo;s Plain English Speaking Awards (PESA) and Chong Pang&rsquo;s Next Top Speaker 2017.</p>
+<p>It was a joy to witness these students grow as confident and persuasive communicators.</p>
+<p><strong>Participants</strong></p>
+<table>
+<tbody>
+<tr>
+<td>1E2</td>
+<td>LEE WEE TECK</td>
+<td>3E3</td>
+<td>ATREYO BANERJEE</td>
+</tr>
+<tr>
+<td>1E2</td>
+<td>LAU JIA XI</td>
+<td>3E3</td>
+<td>SAREFINA SINDHU VICTOR</td>
+</tr>
+<tr>
+<td>2E1</td>
+<td>WONG WAI YI</td>
+<td>3E3</td>
+<td>IZZARILHAN B SELAMAT</td>
+</tr>
+<tr>
+<td>2E1</td>
+<td>DEEN LATOZA FEROZDEEN</td>
+<td>3E4</td>
+<td>CHAN JUN DA EDWARD</td>
+</tr>
+<tr>
+<td>2E1</td>
+<td>IZWAN B INDRA</td>
+<td>3E4</td>
+<td>NAWAL BTE MOHAMAD MUSTAFAH</td>
+</tr>
+<tr>
+<td>2E3</td>
+<td>THIAN YI EN</td>
+<td>3E4</td>
+<td>JESSICA LONG MEI YUN</td>
+</tr>
+<tr>
+<td>2E3</td>
+<td>LIM URNYI</td>
+<td>3E4</td>
+<td>KETHEESAN OLIVIA SURRTHI</td>
+</tr>
+<tr>
+<td>2E4</td>
+<td>ZURYN AISYAH BTE ZAINUDIN</td>
+<td>3E4</td>
+<td>FU KAILIN</td>
+</tr>
+<tr>
+<td>2E4</td>
+<td>NUR AMIRAH BTE ROHAIZAD</td>
+<td>3E4</td>
+<td>WANG XIN TIAN</td>
+</tr>
+<tr>
+<td>2N1</td>
+<td>LOKE XIN YUE</td>
+<td>3N1</td>
+<td>MOHAMED ANEESKHAN</td>
+</tr>
+<tr>
+<td>2N1</td>
+<td>TAN KAI YOUNG JEROME</td>
+<td>3N2</td>
+<td>VAISHNAVI VIGNESWARAN</td>
+</tr>
+<tr>
+<td>3N2</td>
+<td>SHAKIRA TEO ZIROU</td>
+</tr>
+<tr>
+<td>3N2</td>
+<td>MUHAMMAD NAZIRAN B NAZLAN</td>
+</tr>
+<tr>
+<td>3T1</td>
+<td>SHAUN LIM CHUANG YE</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
