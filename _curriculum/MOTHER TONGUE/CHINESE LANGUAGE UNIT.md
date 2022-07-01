@@ -220,6 +220,19 @@ third_nav_title: MOTHER TONGUE
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKoRS2as2CfYbGzWyXN-vwlLzJzfnK6UJYhQxuM7oLZTNeb_lqX267YP1bQadgRo8so2W3mhjgw7tp/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 <p>Another activity is the classroom decoration competition.&nbsp;Every class displayed their creativity as they decorated the classroom according to the given theme. Students not only learned about traditional Chinese culture, but also filled the classroom with a mood of celebration!&nbsp;</p>
 <p>另一项活动是课室装饰比赛。每个年级的学生会根据相应的主题，发挥自己的创意，装饰课室。这样既让学生学习了华族传统文化，又使课室充满浓厚的新年气息。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMu5yMxLXawDlBy2lpVcxhiEhOzqAFasVb2swT4scmuYiT7JsSaxie5cgrg0BJfW2rWHrAiCMb0iWe/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<img style="width: 40%;" src="/images/cl6.jpg" align = "left" />
+<p>This year, the most popular performance was the magic show "Amazing Umbrellas".&nbsp;<br />The audience repeatedly cheered in awe as the magician made umbrellas appear seemingly out of nowhere!</p>
+<p>今年最受欢迎的节目就是魔术表演《变伞》，魔术师用自己精湛的技艺将一把把伞从手中变出来，使观众各个都惊叹欢呼！</p>
+<p>Finally, with the crashing of cymbals and roar of drums, the celebration reached its climax as the lion dance troupe made their way into the school hall. Up on stage, our school leaders received the well wishes given by the troupe and this drew the New Year celebration to a close.</p>
+<p>最后，年年受欢迎的舞狮队伍进一步将庆祝活动推向了最高潮，也让新年庆祝活动在锣鼓声中划上了圆满的句号。</p>
+<img style="width: 65%;" src="/images/cl7.jpg" />
+<p><strong>Chinese Song Appreciation</strong></p>
+<p>Music is to the soul what words are to the mind. Fueled by the aim of sharing the love of the Chinese language through alternative mediums, the Secondary 2 Chinese students came together for a joyous session of singing and song appreciation during the Mother Tongue Fortnight. Teachers kick-started the event and took the audience&rsquo;s breath away by performing popular songs by singers JJ Lin and A-mei. Enthusiastic representatives from each class sang to their hearts&rsquo; content and were rewarded by thunderous applause from the audience. What a feast for the ears it was! We hope that the students and teachers have enjoyed themselves at this event and continue to find joy in learning the Chinese language as they immerse themselves in Chinese songs.</p>
+<p><iframe src="https://www.youtube.com/embed/y3lRk2hUk3I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br>
+<iframe src="https://www.youtube.com/embed/90RLT9ndb_E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p><strong>华文音乐欣赏</strong></p>
+<p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱&ldquo;耳&rdquo;福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
