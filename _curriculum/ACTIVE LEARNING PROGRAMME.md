@@ -10,5 +10,6 @@ description: ""
 <p>Students will also have opportunities to participate in the interest modules and talent development programme, such as broadcasting and journalism workshops in EL and MTLs, film and media appreciation modules.</p>
 <p style="text-align: center;"><strong>CSI-ALP Outcomes:</strong>&nbsp;At the end of the CSI-ALP journey, students will be able to:</p>
 <img src="/images/CSI-ALP%20demographic.jpg">
+<p style="text-align: center;">Want to know more about our ALP programme?<br />Visit&nbsp;<a href="https://alpataiss.wixsite.com/aiss" target="_blank" rel="noopener"><strong>https://alpataiss.wixsite.com/aiss</strong></a></p>
 <img src="/images/ALP%20Curriculum.png">
-
+<p>For more information about AI Distinctive Programmes, click&nbsp;<strong><a href="/about-us/ai-distinctive-programmes/outdoor-learning-experience-ole" target="">here</a></strong></p>
