@@ -82,21 +82,16 @@ third_nav_title: MOTHER TONGUE
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLfNXPz_HJx5U1Bk2d3qHxWHyty2dua2q-1aZxMpuLGMyLFrGHQ5S3lNrqXaSqLOvKEHGpUOOXKRoG/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Hari Raya Celebration</label>
 <div>
-<p><strong>Wednesday</strong><br />3.00 &ndash; 5.00 PM<br /><br /><strong>Friday</strong><br />3.00 &ndash; 5.00 PM</p>
+<p>Hari Raya has always been the best time for students to showcase their talents on stage. Apart from sharing the wonderful vibes of the festive occassion, it also provides our students an opportunity to showcase various Malay cultures to the school community.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLt3cA-f8zynbeZm-Bqkn4Wpv5aFRDE9lt3cBGaXlVVLiZf2VCsky_1vufGYe7-1dFDpk9LMd6UWz3/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
+<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Malay Language Month</label>
 <div>
-<p><strong>President<br /></strong>Nur Ifti Liyana Binti Rozali&nbsp;(3E2)</p>
-<p><strong>Vice-President<br /></strong>Ng Xin Ya Janessa&nbsp;(3E2)</p>
-<p><strong>Vice-President<br /></strong>Jasper Tan Keng Loong (3N1)</p>
-</div>
-</li>
-<li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
-<div>
-<p><strong>Mr Ng Ping Siang (OIC)<br />Contact:&nbsp;<a href="mailto:ng_ping_siang@moe.edu.sg" target="">ng_ping_siang@moe.edu.sg</a></strong><br /><br />Ms Tow Swee Ai Emily<br />Mr Tan Wei Hong</p>
+<p><strong>RAKAN BAHASA 2019</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeABRUXm6rRJlkbvdUOaxTcDBIPPiAGOVuhvD_7-s0nhQuor9TJX2UQclZMJy9BYdztWd4esMxvdpN/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 </div>
 </li>
 </ul>
