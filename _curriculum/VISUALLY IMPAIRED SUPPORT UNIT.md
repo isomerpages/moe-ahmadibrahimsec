@@ -146,9 +146,85 @@ description: ""
 <p>We have integrated Soundball to our P.E. programme for the past 3 years and it is still ongoing.</p>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Distinguished Students</label>
 <div>
-
+<p><strong>Highlights: 1967 to Present</strong></p>
+<p>The record of the highlights and achievements for 1967 to present is a testament to AISS as a model of success for the education of VI students. The VI Support Unit will continue to assist VI students to grow and maximise their potential.</p>
+<p>Several of our VI students have distinguished themselves in their achievements. Numbered among the first batch of students was&nbsp;<strong>Kew Poh Sin</strong>&nbsp;who adopted the name of&nbsp;<strong>Roger Kool</strong>. He became a popular radio disc jockey. He then set up and operated his own record company in Canada.</p>
+<p>In the period,&nbsp;<strong>1967 to 1977</strong>,&nbsp;<strong>Tan Hang Siah</strong>&nbsp;pursued Business Studies at Ngee Ann Polytechnic while four students eventually graduated from Singapore University. They were&nbsp;<strong>Kua Cheng Huang</strong>&nbsp;(Resource teacher),&nbsp;<strong>Chua Howe Liang</strong>&nbsp;(runs his own business),&nbsp;<strong>Albert Toh Ah Bot</strong>&nbsp;(Public Relations Officer, Head-Communications, SAVH, Braille Production Officer, Lighthouse School) and&nbsp;<strong>Goh Yu Huat</strong>&nbsp;(tuition teacher and sales).</p>
+<p>There were five other trained teachers, namely&nbsp;<strong>Lam Peng Cheong</strong>,&nbsp;<strong>Anna Soh</strong>,&nbsp;<strong>Kua Cheng Hock</strong>,&nbsp;<strong>Tian Liak Shin</strong>&nbsp;and&nbsp;<strong>Rokkiah Hussain</strong>.&nbsp;<strong>Cheng Hock</strong>&nbsp;is a sales agent for insurance, assistive devices and other products while&nbsp;<strong>Peng Cheong</strong>,&nbsp;<strong>Anna</strong>&nbsp;and&nbsp;<strong>Liak Shin</strong>&nbsp;taught in Lighthouse School and&nbsp;<strong>Rokkiah</strong>&nbsp;in a mainstream primary school.</p>
+<p>From&nbsp;<strong>1978-1988</strong>, seven pursued tertiary education in various universities and attained success in their careers while others completed studies in Polytechnics.</p>
+<ul>
+<li><strong>Peter Hung Tee Lay</strong>&nbsp;(1978; lecturer in Ngee Ann Polytechnic)</li>
+<li><strong>Tan Hang Siah</strong>&nbsp;(1978; Ngee Ann Polytechnic; Advertising Co.)</li>
+<li><strong>Goh Jong Theng, Kelvin</strong>&nbsp;(1979; Polytechnic; insurance agent)</li>
+<li><strong>Low Loong Shiew</strong>&nbsp;(1980; Pursued studies in Japan; works in Commercial Co.)</li>
+<li><strong>Kua Kah Noi</strong>&nbsp;(1981; pursued studies in UK; Tutor in university in UK)</li>
+<li><strong>Loo Ah Choo</strong>&nbsp;(1981; Child Care Courses; Kindergarten Principal)</li>
+<li><strong>Ali Daud</strong>&nbsp;(1982; Counselling Courses; Student Counsellor in British Council)</li>
+<li><strong>Ang Kim Ho</strong>&nbsp;(1981; Shatec Catering School; Chef in hotel)</li>
+<li><strong>Mohd Zim bin Ismail</strong>&nbsp;(1982; Counselling Courses; School Counsellor)</li>
+<li><strong>Kong Pick Lip</strong>&nbsp;(1983; Ngee Ann Poly; Works in Commercial Co.)</li>
+<li><strong>Loh Yew Fai</strong>&nbsp;(1983; Ngee Ann Poly; runs fish supply business)</li>
+<li><strong>Oh Kim Chwee</strong>&nbsp;(1983; Shatec Catering School; Chef in hotel)</li>
+<li><strong>Sim Kah Yong</strong>&nbsp;(1983; Welfare Officer at SAVH; staff in Dialogue in the Dark)</li>
+<li><strong>Toh Chin Aik</strong>&nbsp;(1983; Admin Officer at SgEnable)</li>
+<li><strong>Kwong Yeok Chuen</strong>&nbsp;(1984; Shatec Catering School; Chef)</li>
+<li><strong>Ong Hock Bee</strong>&nbsp;(1985; Ngee Ann Poly; Family business)</li>
+<li><strong>Lim Lee Lee</strong>&nbsp;(1986; Open U; Insurance agent)</li>
+<li><strong>Ping Teck Huat</strong>&nbsp;(1987; Business Studies, Ngee Ann Poly)</li>
+<li><strong>Andrew Chew Hew Jeow</strong>&nbsp;(1987; Research Officer at Singapore Pools)&nbsp;</li>
+<li><strong>Kua Kah Mui</strong>&nbsp;(1987; Studies in UK; Lecturer at a university in UK)</li>
+<li><strong>Zulkarnaen Abu Bakar</strong>&nbsp;(1989; Shatec Catering School; Chef)</li>
+<li><strong>Ng Guan Chye</strong>&nbsp;(1989; National Institute of Commerce)</li>
+</ul>
+<p>The enrolment for the period&nbsp;<strong>1989-1999</strong>&nbsp;was much lower. Among the graduates were:</p>
+<ul>
+<li><strong>Penny Chong Chew Luan</strong>&nbsp;(1995, History B.A&gt; honours, Resource teacher at AISS)</li>
+<li><strong>Edwin Khoo Tech Chuan</strong>&nbsp;(1996; Completed Sound Engineering Course; Supervisor at Assistive Technology Centre, SAVH)</li>
+</ul>
+<p>From&nbsp;<strong>2000 to 2010</strong>, students who distinguished themselves include:</p>
+<ul>
+<li><strong>Lim Xiang Bao</strong>&nbsp;(2002; Polytechnic; works in Commercial Co.)</li>
+<li><strong>Lim Xiang De</strong>&nbsp;(2002; Polytechnic; works in Commercial Co.)</li>
+<li><strong>Teong Ze Gang</strong>&nbsp;(2002; Mathematics, NUS; IT Service Officer)</li>
+<li><strong>Tan Lee Juan</strong>&nbsp;(2004; Millennia Institute; Clinic Assistant)</li>
+<li><strong>Muhammad Firdaus bin Sarifi</strong>&nbsp;(2008; Republic Polytechnic)</li>
+<li><strong>Goh Zhong Yi</strong>&nbsp;(2009; Business Application, Republic Polytechnic; Receptionist at Family Services Centre)</li>
+<li><strong>Lim Yu Kai</strong>&nbsp;(2009; ITE; Nanyang Polytechnic)</li>
+<li><strong>Steven Tanus</strong>&nbsp;(2010; 4th year Bachelor of Music, honours, Yong Siew Toh Conservatory, NUS)</li>
+<li><strong>Tan Boon Keong, Dickson</strong>&nbsp;(2010; Nanyang Poly; 4th year Computer Science, NUS)</li>
+<li><strong>Chong Ci En, Amanda</strong>&nbsp;(2010; 4th year Social Work, NUS)</li>
+</ul>
+<p>Successful graduates from&nbsp;<strong>2011 to 2017</strong>&nbsp;are:</p>
+<ul>
+<li><strong>Ong Hui Xin</strong>&nbsp;(2011; 3rd year Psychology, SMU)</li>
+<li><strong>Tang Wei Chong</strong>&nbsp;(2012; College in Louisiana, USA)</li>
+<li><strong>Hung Hui Xin, Joan</strong>&nbsp;(2012; 3rd year Mathematical Science, NTU)</li>
+<li><strong>Lionel Tan Jie Hui&nbsp;</strong>(2013; ITE; 1st year Business Management, Nanyang Poly)</li>
+<li><strong>Stephanie Ow Jia Min</strong>&nbsp;(2013; 2nd year Dip in Music, NAFA)</li>
+<li><strong>Neo Jun Kai</strong>&nbsp;(2013; 2nd year Business Services, ITE Central)</li>
+<li><strong>Ng Shi Jia</strong>&nbsp;(2014; Accounts, Private College)</li>
+<li><strong>Sakinah bte Zainal</strong>&nbsp;(2014; 3rd year Business Management, Nanyang Polytechnic)</li>
+<li><strong>John Danesh s/o Krishnan</strong>&nbsp;(2015; 2nd year social enterprise and management, Republic Poly)</li>
+<li><strong>Claire Teo Li Ling</strong>&nbsp;(2015; 2nd year Diploma in Performance, LASALLE College of the Arts)</li>
+<li><strong>Neo Kah Wee</strong>&nbsp;(2016; 1st year Multimedia and Infocom Technology, Nanyang Poly)</li>
+<li><strong>Dallon Au Yew Zhang</strong>&nbsp;(2016; 1st year InfoTech, ITE East)</li>
+</ul>
+<p>This impressive record shows that the IPVI is indeed fulfilling its mission of providing VI students with a secondary education that prepares them for further studies and gainful employment in society.</p>
+<p><strong>Besides academic success, VI students also excelled in the non-academic domain...</strong></p>
+<p>In&nbsp;<strong>1999</strong>,&nbsp;<strong>Nuraziana</strong>&nbsp;of Sec 3 Express was selected to receive the NKF award for outstanding students. She was one of twelve awardees, selected from all schools (Primary, Secondary and Junior College) in Singapore.<strong><br /></strong></p>
+<p><strong>Mohd Ismail</strong>&nbsp;was one of the participants from Singapore at the Far-East South Pacific International Competition for the Disabled, held in Bangkok in&nbsp;<strong>January (5th to 14th) 1999</strong>. He won prizes in the track-and-field events.</p>
+<p>Two students,&nbsp;<strong>Mohd Ismail</strong>&nbsp;and&nbsp;<strong>Teh Yong Kang</strong>, participated and won medals in the&nbsp;<strong>1999</strong>&nbsp;Southern Cross Multi-Disability Championship held in Sydney, Australia from&nbsp;<strong>24th to 31st, October 1999</strong>. They took part in the bowling events.</p>
+<p>In the 23rd SDSC National Swimming Championships, (held on&nbsp;<strong>12 July 2003</strong>&nbsp;at the Toa Payoh Swimming Complex),&nbsp;<strong>Tan Lee Juan</strong>&nbsp;participated in 5 events and won 5 medals. She was first for the 200 metres breast-stroke event.</p>
+<p><strong>Lee Juan</strong>&nbsp;was also selected by SDSC to participate in the FESPIC Youth Games (Sports for the Disabled) held in Hong Kong on&nbsp;<strong>21-28 December</strong>. She took part in the swimming events and won 2 silver and 1 bronze medals.</p>
+<p><strong>Nazirul</strong>&nbsp;participated in a poetry recitation competition with the Malay Society in&nbsp;<strong>2005</strong>.</p>
+<p>In&nbsp;<strong>2010</strong>, charged with enthusiasm,&nbsp;<strong>Tang Wei Chong</strong>&nbsp;presented his project on AIDS to his 2N3 class, with his classmate assisting in showing the slides. He was applauded by his classmates and commended by his Science teacher.</p>
+<p>In&nbsp;<strong>2015</strong>,&nbsp;<strong>Nurul Natasya</strong>&nbsp;(Sec 2) participated in the Eighth ASEAN Para Games.</p>
+<p>On&nbsp;<strong>29 January 2016</strong>&nbsp;<strong>Adelyn Koh</strong>&nbsp;performed at a concert held at National Arts Gallery.</p>
+<p>In&nbsp;<strong>March 2016</strong>, seven students showcased their art work, expressing their aspirations at the Unseen Constellation at Objectif.</p>
+<p>In&nbsp;<strong>October 2016</strong>,&nbsp;<strong>Nurul Natasya</strong>&nbsp;performed at a concert held at Anglo-Chinese School.</p>
+<p>In&nbsp;<strong>2018</strong>,&nbsp;<strong>Lawrence Gabriel</strong>&nbsp;(1E2) is a flutist in the AI Concert Band. In&nbsp;<strong>August</strong>, he performed in the Aespire Concert, together with his section&nbsp;leader. He is also in the&nbsp;<strong>Music Preparatory Class</strong>, riding on the&nbsp;initiative taken by AI to support VI students sitting for O-Level&nbsp;Music. On&nbsp;<strong>1 July</strong>, he took part in the Purple Symphony at the&nbsp;University Cultural Centre.</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
