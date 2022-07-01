@@ -64,6 +64,22 @@ third_nav_title: MOTHER TONGUE
 <p>&ldquo;Sekolah Menengah Ahmad Ibrahim,<br />Tidak akan menyerah kalah!&rdquo;</p>
 <p>Itulah LAUNGAN semangat pelajar AI sebelum mengorak langkah ke dewan perdebatan.&nbsp;</p>
 <p>Tanggal 23 Februari merupakan percubaan AI dalam petandingan bahas 4PM setelah sekian lama menyepi. 4 pelajar dari menengah dua telah berganding bahu untuk memastikan mereka dapat memberikan perlawanan yang sengit terhadap kumpulan kumpulan yang handal dari merata Singapura. Walaupun pelajar AI mungkin belum lagi mantap dari segi persembahan dan pengolahan isi bebanding dengan sekolah- skolah yang lebih berpengalaman, sikap tidak berputus asa dan kekal berjuang kian membara dalam jiwa mereka. Yang penting, pengalaman yang diraih memang tiada tolok bandingnya. Tahun hadapan, berbekalkan dengan pengalaman yang baru diraih dan sikap Encik Ahmad Ibrahim yang terpahat dalam diri setiap pelajar, pasti kita akan berjuang sekali lagi!</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQptLrxgOra_JF69iRUZgITyhLBRD0fRZJoJpUCC4BsubWxnk0ZaVO_jJqvTwthWgG8cVGEX1gb2KCR/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong><strong>NATIONAL SAHIBBA COMPETITION 2019</strong></strong></p>
+<p>4 Sec 2 Malay Language students participated in the annual Sahibba Competition that was held in Woodgrove Secondary School.&nbsp;</p>
+<p>1) Reflection by students</p>
+<p>&ldquo;North Zone Malay Language Scrabble Competition was held at Woodgrove Secondary School. This is the first time I took part in this competition. My experience at this competition was an enjoyable and a memorable one. I made new friends with other schools. We did not qualified to the next round. I will not give up and will practise hard for next year&rsquo;s competition&rdquo; &ndash; Farhan Aliff (2E1)</p>
+<p>&ldquo;After the competition, I have learnt that there is always room for improvement and I will strive to do better next year&rdquo; &ndash; Noor Hakim (2E1)</p>
+<p>&ldquo;This competition was so fun. It challenges my thinking and spelling skills. I made new friends and gained a lot from this experience. I was so hesitant to join this competition at first because I was too scared of competing against other schools. I am really thankful to be given this opportunity and I realise that learning Malay Language can be so much fun&rdquo; &ndash;Dinie Maisarah (2E4)</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTk9wY1WKpwmfEMLIL6SX3DhVs0hkxX78IGb-eBxyHuEMEIUihPJFQuZPtv-ZfPvFjtWGEAiurYTai_/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong>NATIONAL ESSAY WRITING COMPETITION</strong></p>
+<img style="width: 40%;" src="/images/ML%20National%20Essay%20Writing.jpg" align = "left" />
+<p>Excelling at national stage brings about a lot of joy and satisfaction. It creates self-confidence and develop the desire to persist and strive for the best.&nbsp;</p>
+<p>In the previous National Essay Writing Competition organised by EDN Limited,&nbsp;two of our students did the school proud by emerging among the Top 33 in a National Level Creative Essay Writing Competition.&nbsp;</p>
+<p>The two talented writers are Nazurah Zulkiflee of 1E3 (left) and Nur Izzati bte Mohamed of 4N1.</p>
+<p><strong>NATIONAL SAHIBBA COMPETITION 2016</strong></p>
+<p>At the National Sahibba (Malay Scrabble) Competition 2016, represented by Muhammad Ifir Haiqel (3E1), Melissa bte Abd Latiff (3E3), Zarhidah bte Baharuddin (3N2), Zahara bte Abd Rashid (3N2) did AI proud by emerging as North Zone runners-up.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLfNXPz_HJx5U1Bk2d3qHxWHyty2dua2q-1aZxMpuLGMyLFrGHQ5S3lNrqXaSqLOvKEHGpUOOXKRoG/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
