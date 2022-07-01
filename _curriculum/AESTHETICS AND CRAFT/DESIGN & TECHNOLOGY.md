@@ -23,9 +23,9 @@ third_nav_title: AESTHETICS AND CRAFT
 <p style="text-align: center;">Student soldering Light Sensing Circuit which is part of their safety bag tag project.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Aesthetic Day</label>
 <div>
-
+<img src="/images/aesthetic_day_01.jpg">
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
