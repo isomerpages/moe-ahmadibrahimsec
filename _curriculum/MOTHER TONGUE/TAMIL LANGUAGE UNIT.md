@@ -51,9 +51,10 @@ third_nav_title: MOTHER TONGUE
 <p><em>"Short film making Workshop was a good platform for our us to build tour self- confidence, perfect our presentation skills, deliver our acting skills with style and nurturing us to be eloquent speakers."</em></p>
 <p style="text-align: right;">- Kavya (2E2), Ajay (2E2), Debesh (2E3), Daniel (2E1), Mukesh Kanna (2E2)</p>
 <p style="text-align: left;">&ldquo;To learn, love and live the language&rdquo; in our mind, Tamil Unit is proud to provide an authentic learning experiences to our students to develop them into youth to be confident in communicating and expressing themselves in Tamil.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXDF7Y3q-vpcQvmkICx-RHUq97qo2cGuzlNt7q9w4731ggrmVaYyKxW9EbZbGjOkVPBZ7gzuUkkCLJ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Learning Journey</label>
 <div>
 <p>This is a simple one line item</p>
 </div>
