@@ -32,7 +32,17 @@ third_nav_title: MOTHER TONGUE
 <p>Overall, the experience was something very new and enjoyable for me.</p>
 <p style="text-align: right;">- Boopalan Prithika , 3N1(SBB) &amp; Ashuntha Rani DO Elvin Nathan, 3E2</p>
 <img src="/images/IMG_8531.jpg">
-
+<p><strong>Budding Writers Programme (2018)</strong></p>
+<p>Selected Tamil students participated in a Budding Writers, Artist and Poets programme which was an opportunity for them to explore their talents and flair for writing. It exposed them to local writers and scriptwriters so as to equip them with literary and creative writing techniques.</p>
+<p>The students were also exposed to local poets and poetry writing techniques and were immersed in poetry appreciation.</p>
+<p>John Rajan Kenisha Janet of 3E2 was awarded a silver award and a trophy.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCDm9BlS-MFvCg8NXaucGJpeisKsvXkFfIXFpQFOCd6-mf1cwPor-nLRg9-UoA3LRKrDn-19AqszjJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong>&lsquo;Thamizhum Suvayiyum&rsquo; &ndash; Tamil Language Competition 2018</strong></p>
+<p>Our students, Heshwetha d/o Sivanandan (3E3) and Kalyaniambigai Magendran (3E4) did just that as part of a competition this year about the Tamil language and culture through everyday items found at home &ndash; food. As food is the &lsquo;spice&rsquo; of life, the competition literally involved identifying spices used in everyday cooking.</p>
+<p>The students were challenged to translate recipes, solve spice-related riddles, and identify Indian spices from the given Tamil names. In another part of the competition, students had to pick out the correct spices from a given shopping list.</p>
+<p>Our students competed with 14 other schools in the competition organised by the &lsquo;Valar Thamizh Iyakkam&rsquo; (Tamil Language Council) and clinched the Second Position!</p>
+<p>The school was awarded a trophy and the students each received a Kindle e-Reader.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7-MNP9z7hiZSNg3ZAtn0D5u0Z71T4jTrUaXOd2OMsYQm7RAy5Wf8L6bYa3Pxhz0V8Fz0znsX32syE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p><strong>&lsquo;TAMIL SHORT FILM MAKING&rsquo; &ndash; Workshop cum Competition</strong></p>
 <p>In conjunction with the Tamil Language Festival 2016 in April, Yishun Secondary Tamil unit organised a Tamil Short Film Making Competition cum Workshop for N2 secondary schools. 12 Secondary 2 Express Tamil students from our school participated. The objectives of the competition cum workshop were to encourage the creativity of students through the enhanced use of spoken and written Tamil in creating the short film and to create a platform for TL students to showcase their capabilities &amp; talents. Students were taught the basics of short film making such as storyboarding, scriptwriting, filming and editing. Thereafter, the students in a group of 5 was given a month to create their short film based on their chosen topic. They are to write their story ideas into a screenplay and shoot them shot by shot to visualize their film.<br /><br />The highlight for this year for Tamil Unit is our students&rsquo; excellent performance in this short film competition. Our pupils won first and second prize and emerged the overall champions for the competition and did our school proud.</p>
 <p><strong>Reflection of Students</strong></p>
