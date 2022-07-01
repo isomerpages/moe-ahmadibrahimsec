@@ -12,14 +12,35 @@ third_nav_title: MOTHER TONGUE
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEhQmopQqwnj-sZeCiuxUAVm6v8eZz4VwGkU6vK_bWib_JjojMxxRy_-pJ32inZaAC3p_TqiVOZVS5/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Programmes</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Parai (Drumming) workshop (2018)</strong></p>
+<p>In conjunction with Mother Tongue Fortnight for Sec 1 cohort, Tamil unit organised a workshop on performing arts, drumming. The drum called Parai is one of the oldest symbols in Tamil culture.&nbsp;</p>
+<p>It consists of a circular wooden frame with one end closed with cow skin membrane and the other end open. Together with Parai, students also learnt the history and the cultural aspect of the various types of Indian percussion instruments.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQHw2ab1NS3rosA4-7q8rZnIuauwVOTi27T-75KW_TeR2-w9UOdFBRpqzW_h4j5oy_Oafk61jaNnS7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Competitions</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>On line Story telling competition (2020)</strong></p>
+<p>It was a great opportunity indeed, for Tamil students when my Tamil teacher Mr Perumal sent us a message, encouraging us to participate in a short story telling competition organized by Association of Singapore Tamil Writers during the COVID-19 period. I took up that challenge and did my best. I wrote the story and narrated. It was a splendid opportunity competing with fellow students all over Singapore. Though it was challenging, I had an experience participating in a competition online for the every first time! Here is the link for one of our videos.</p>
+<p style="text-align: right;">-&nbsp;Boopalan Prithika , 3N1(SBB)</p>
+<p><iframe src="https://www.youtube.com/embed/wBQlVeLAt-g?controls=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p><strong>Translation Competition (2020)</strong></p>
+<p>Being bilingual is crucial for students in Singapore, in order to compete in the outside world and be the best among the others. It is an advantage to know more than one language. We the secondary three students took part in a Translating Competition organized by the Singapore Tamil Association on 11 January 2020 at Singapore National Library. This competition also enhanced our bilingual skills. It was heartening and an encouragement to us to receive certificates of participation.</p>
+<p>The translation competition was a very fruitful experience to me as I could practice my translation skills. The competing atmosphere gave me confidence and focus on task given. It was great to have a different outlook on tamil compositions too, as translation is not very widely used in classroom teaching as we are supposed to speak only in tamil during our tamil lessons.&nbsp;</p>
+<p>Overall, the experience was something very new and enjoyable for me.</p>
+<p style="text-align: right;">- Boopalan Prithika , 3N1(SBB) &amp; Ashuntha Rani DO Elvin Nathan, 3E2</p>
+<img src="/images/IMG_8531.jpg">
+
+<p><strong>&lsquo;TAMIL SHORT FILM MAKING&rsquo; &ndash; Workshop cum Competition</strong></p>
+<p>In conjunction with the Tamil Language Festival 2016 in April, Yishun Secondary Tamil unit organised a Tamil Short Film Making Competition cum Workshop for N2 secondary schools. 12 Secondary 2 Express Tamil students from our school participated. The objectives of the competition cum workshop were to encourage the creativity of students through the enhanced use of spoken and written Tamil in creating the short film and to create a platform for TL students to showcase their capabilities &amp; talents. Students were taught the basics of short film making such as storyboarding, scriptwriting, filming and editing. Thereafter, the students in a group of 5 was given a month to create their short film based on their chosen topic. They are to write their story ideas into a screenplay and shoot them shot by shot to visualize their film.<br /><br />The highlight for this year for Tamil Unit is our students&rsquo; excellent performance in this short film competition. Our pupils won first and second prize and emerged the overall champions for the competition and did our school proud.</p>
+<p><strong>Reflection of Students</strong></p>
+<p><em>"It provided us with the opportunity to hone and develop our talents and interests in drama. It was also a good motivation for us appreciate our Mother Tongue, Tamil."</em></p>
+<p style="text-align: right;">- Abbinesh (2E1), Olivia Surrthi (2E1), Divya (2E2), Jazlin Rose (2E4), Helena (2E4)</p>
+<p><em>"Short film making Workshop was a good platform for our us to build tour self- confidence, perfect our presentation skills, deliver our acting skills with style and nurturing us to be eloquent speakers."</em></p>
+<p style="text-align: right;">- Kavya (2E2), Ajay (2E2), Debesh (2E3), Daniel (2E1), Mukesh Kanna (2E2)</p>
+<p style="text-align: left;">&ldquo;To learn, love and live the language&rdquo; in our mind, Tamil Unit is proud to provide an authentic learning experiences to our students to develop them into youth to be confident in communicating and expressing themselves in Tamil.</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
