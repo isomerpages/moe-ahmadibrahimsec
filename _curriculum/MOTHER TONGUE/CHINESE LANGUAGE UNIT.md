@@ -218,6 +218,8 @@ third_nav_title: MOTHER TONGUE
 <p>One of the activities was calligraphy. We invited professional calligraphy teachers to teach students to write&nbsp;New Year couplets. Outstanding pieces were selected to use as decorations in the school hall and classrooms.&nbsp;</p>
 <p>其中一项活动是新年挥春。我们邀请了专业的书法老师教学生写春联。学生优秀的书法作品都获选用来装饰学校礼堂和课室。</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKoRS2as2CfYbGzWyXN-vwlLzJzfnK6UJYhQxuM7oLZTNeb_lqX267YP1bQadgRo8so2W3mhjgw7tp/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>Another activity is the classroom decoration competition.&nbsp;Every class displayed their creativity as they decorated the classroom according to the given theme. Students not only learned about traditional Chinese culture, but also filled the classroom with a mood of celebration!&nbsp;</p>
+<p>另一项活动是课室装饰比赛。每个年级的学生会根据相应的主题，发挥自己的创意，装饰课室。这样既让学生学习了华族传统文化，又使课室充满浓厚的新年气息。</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
