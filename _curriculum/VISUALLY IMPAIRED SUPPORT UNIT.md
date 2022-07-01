@@ -83,9 +83,21 @@ description: ""
 </ul>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Model of Success</label>
 <div>
-
+<p><strong>Highlights: 1967 to Present</strong></p>
+<p>The record of the highlights and achievements for 1967 to present is a testament to AISS as a model of success for the education of VI students. The VI Support Unit will continue to assist VI students to grow and maximise their potential.</p>
+<hr />
+<p>AISS has been noted for its commitment to education for the visually impaired (VI). It is through the support of MOE and the cooperation and commitment of Principals, staff and students of AISS that the IPVI is successfully integrated VI students into the school and preparing them for the future.</p>
+<p>The school has been a model of success in education for the VI since the inception of the IPVI in 1967.</p>
+<p>In <strong>1981</strong>, a professor from Germany, who promoted Integration Education for the Disabled, visited the school and shared ideas with the Resource teachers, who also attended a lecture given by him at the Goethe Institute.</p>
+<p>In <strong>1983</strong>, two officers from the Brunei Department of Education, on a study tour on Special Education, studied our programme with the intention of implementing a similar programme in Brunei.</p>
+<p>In <strong>1987</strong>, AISS received the Guinness Stout Award for its contribution to the education of the VI. Guinness Stout Company presents an annual award to individuals or institutions which make significant contribution to society or the nation. The school was presented with our first talking computer, Cubic99, a copy of the Guinness Book of Records and a plaque of recognition.</p>
+<p>In <strong>May 1997</strong>, the principal and 3 teachers from the Beijing School for the VI visited AISS and shared ideas with Mr Ng Chew Kee Senior HOD), Mr Liow (HOD-Mother Tongue) and Miss Deborah Ng. Four VI students from Singapore, two of whom were Khoo Teck Chuan and Penny Chong (former students of AISS) spent two months in&nbsp;<strong>1997</strong> in Beijing studying the Chinese Braille code.</p>
+<p>Ms Deborah Ng and Mdm Betty Frois attended a conference organised by Teach Me Services on &ldquo;Integration as a Lifestyle for the Disabled&rdquo; on <strong>23 June 2001</strong> at Grand Hyatt Hotel.</p>
+<p>In <strong>February 2003</strong>, Mr David Spyby (Head of Mathematics department of Royal National Institute for the Blind New College at Worcester, England) who is engaged by GCE N/O Level examination authorities to modify the Mathematics examination papers for VI students from Singapore and other parts of the world, together with Dr Wong Meng Ee (a VI Singaporean who studied in Worcester College and a graduate of a University in Scotland) visited the school to observe our teaching programme for the VI and shared knowledge and experiences, in particular, in relation to examination requirements.</p>
+<p>The World Blind Union Regional Conference (Pacific &amp; Asia) cum Seminar on Barrier-Free Accessibility for the Visually Impaired was held in Singapore, <strong>15-20 November 2003</strong>. Resource teachers, Betty Frois and Deborah Ng, sponsored by the school Staff Development Fund, attended the above conference cum seminar held at Swisshotel Merchant Court. Delegates from Japan, Australia and New Zealand delivered papers on Barrier-free Accessibility to information and the environment. Topics covered various information systems and library resources and the use of tactile and sound/speech signals and guide dogs. There was also an exhibition of various assistive devices, such as Braille embossers, text-scanning/reading machines, Braille and graphics displays, speech software, an accessory to the Braille Note which can be used as a navigation device via GPS, and another device that enables a VI person to access the Internet via a mobile phone. The Resource teachers gained valuable knowledge from the conference cum seminar.</p>
+<p>AI received a distinguished guest from The Netherlands (Dr. Suzan IjZer, ophthalmologist working on a project called REACH) on <strong>23 Jan 2007.</strong></p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
