@@ -229,7 +229,11 @@ description: ""
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-
+<p>Highlights: 1967 to Present</p>
+<div>The record of the highlights and achievements for 1967 to present is a testament to AISS as a model of success for the education of VI students. The VI Support Unit will continue to assist VI students to grow and maximise their potential.</div>
+<p>The IPVI in AISS has also attracted much media attention throughout the years. It has been featured in all the local newspapers and radio and television stations. It is also an object of study by students of local universities, institutions of education and welfare organisations.</p>
+<p>Our learning journey to Mount Faber was featured in MOE&rsquo;s magazine, Contact Online, Issue&nbsp;<strong>12 Aug 2006</strong>, entitled &ldquo;A Learning Experience through Touch&rdquo;</p>
+<p>There is no doubt that VI students in AISS will continue to achieve both in the academic and co-curricular domains.</p>
 </div>
 </li>
 </ul>
