@@ -423,70 +423,70 @@ description: ""
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Organisation Chart</label>
 <div>
-<table width="0">
+<table style="height: 288px; margin-left: auto; margin-right: auto;" width="0">
 <tbody>
-<tr>
-<th><strong>Name</strong></th>
-<th><strong>Ext No.</strong></th>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 416.719px; text-align: center;"><strong>Name</strong></th>
+<th style="height: 18px; width: 271.266px; text-align: center;"><strong>Ext No.</strong></th>
 </tr>
-<tr>
-<td width="491">Ms Woo Huey Ming</td>
-<td width="323">1019</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Ms Woo Huey Ming</td>
+<td style="height: 18px; width: 271.266px;">1019</td>
 </tr>
-<tr>
-<td>Mr Quah Wai Kuan&nbsp;</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Mr Quah Wai Kuan&nbsp;</td>
 </tr>
-<tr>
-<td width="491">&nbsp;Miss Rozilawati Rahim</td>
-<td width="323">9040</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">&nbsp;Miss Rozilawati Rahim</td>
+<td style="height: 18px; width: 271.266px;">9040</td>
 </tr>
-<tr>
-<td>Miss Foo Hui Cheng Candee&nbsp;</td>
-<td>9039</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Miss Foo Hui Cheng Candee&nbsp;</td>
+<td style="height: 18px; width: 271.266px;">9039</td>
 </tr>
-<tr>
-<td>&nbsp;Mr Lim Yeow Teck, Roy</td>
-<td>9046</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">&nbsp;Mr Lim Yeow Teck, Roy</td>
+<td style="height: 18px; width: 271.266px;">9046</td>
 </tr>
-<tr>
-<td>&nbsp;Mrs Foo Sok Gek</td>
-<td>9036</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">&nbsp;Mrs Foo Sok Gek</td>
+<td style="height: 18px; width: 271.266px;">9036</td>
 </tr>
-<tr>
-<td>&nbsp;Mr Luo Zhengyang</td>
-<td>9028</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">&nbsp;Mr Luo Zhengyang</td>
+<td style="height: 18px; width: 271.266px;">9028</td>
 </tr>
-<tr>
-<td>&nbsp;Mdm Phua Shi Hui, Silia</td>
-<td>9035</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">&nbsp;Mdm Phua Shi Hui, Silia</td>
+<td style="height: 18px; width: 271.266px;">9035</td>
 </tr>
-<tr>
-<td>Mr Tee Hong Heng&nbsp;</td>
-<td>9014</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Mr Tee Hong Heng&nbsp;</td>
+<td style="height: 18px; width: 271.266px;">9014</td>
 </tr>
-<tr>
-<td>Mr Muhd Na'im Bin Sa'dollah</td>
-<td>9070</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Mr Muhd Na'im Bin Sa'dollah</td>
+<td style="height: 18px; width: 271.266px;">9070</td>
 </tr>
-<tr>
-<td>Mdm Lee Jia Min&nbsp;</td>
-<td>9032</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Mdm Lee Jia Min&nbsp;</td>
+<td style="height: 18px; width: 271.266px;">9032</td>
 </tr>
-<tr>
-<td>Miss Li Huimin</td>
-<td>9028</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Miss Li Huimin</td>
+<td style="height: 18px; width: 271.266px;">9028</td>
 </tr>
-<tr>
-<td>Ms Tsang Wing Han</td>
-<td>9049</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Ms Tsang Wing Han</td>
+<td style="height: 18px; width: 271.266px;">9049</td>
 </tr>
-<tr>
-<td>Mdm Santhi</td>
-<td>9030</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Mdm Santhi</td>
+<td style="height: 18px; width: 271.266px;">9030</td>
 </tr>
-<tr>
-<td>Mdm Phua Wei Xuan</td>
-<td>9048</td>
+<tr style="height: 18px; text-align: center;">
+<td style="height: 18px; width: 416.719px;">Mdm Phua Wei Xuan</td>
+<td style="height: 18px; width: 271.266px;">9048</td>
 </tr>
 </tbody>
 </table>
