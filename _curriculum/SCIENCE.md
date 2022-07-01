@@ -182,9 +182,104 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Organisation Chart</label>
 <div>
-
+<div>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;">Name</th>
+<th>Ext No.</th>
+</tr>
+<tr>
+<td>Mdm Azlin Bte Abdul Majid (HOD /&nbsp;Information &amp; Knowledge Management)</td>
+<td>9013</td>
+</tr>
+<tr>
+<td>Mdm Chew Jia Zhen, Geraldine (SH / Science Innovations)</td>
+<td>9030</td>
+</tr>
+<tr>
+<td>Mdm Catherine Kang (Senior Teacher)</td>
+<td>9046</td>
+</tr>
+<tr>
+<td>Miss Agnes Lim Siew Mei</td>
+<td>9034</td>
+</tr>
+<tr>
+<td>Miss Emily Tow Swee Ai</td>
+<td>9045</td>
+</tr>
+<tr>
+<td>Mdm Latifah Bte Noorahman&nbsp;</td>
+<td>9015</td>
+</tr>
+<tr>
+<td>Mr Mohamed Imran Ishak&nbsp;</td>
+<td>9036</td>
+</tr>
+<tr>
+<td>Mr Ng Ping Siang</td>
+<td>9070</td>
+</tr>
+<tr>
+<td>Mdm Puah Shi Hui, Silia</td>
+<td>9035</td>
+</tr>
+<tr>
+<td>Mdm Tay Mui Khim</td>
+<td>9046</td>
+</tr>
+<tr>
+<td>Mr Tan Hong Chan</td>
+<td>9038</td>
+</tr>
+<tr>
+<td>Muhammad Na'im Bin Sa'dollah</td>
+<td>9070</td>
+</tr>
+<tr>
+<td>Mdm Lee Jia Min</td>
+<td>9032</td>
+</tr>
+<tr>
+<td>Miss Li Huimin</td>
+<td>9028</td>
+</tr>
+<tr>
+<td>Mdm Phua Meng Hong</td>
+<td>9043</td>
+</tr>
+<tr>
+<td>Miss Chia Mei Lin Tania&nbsp;</td>
+<td>9070</td>
+</tr>
+<tr>
+<td>Mr Yeu Chee Wee Thomas</td>
+<td>9049</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;">Name</th>
+<th style="text-align: left;">Role</th>
+</tr>
+<tr>
+<td>Mr Mohammad Faiz Bin Mohd Tahir</td>
+<td>Technical School Officer (TSO)</td>
+</tr>
+<tr>
+<td>Mdm Sujini Gokuldass</td>
+<td>Technical School Officer (TSO)</td>
+</tr>
+</tbody>
+</table>
+</div>
 </div>
 </li>
 </ul>
