@@ -217,6 +217,7 @@ third_nav_title: MOTHER TONGUE
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSazF5HvXhSMP-wsEYF_Z5t3FVKsX4YcuRjQNOurOgt2NC1YFYIU3j-sALNyf43vCom8Cm9322qOTT9/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 <p>One of the activities was calligraphy. We invited professional calligraphy teachers to teach students to write&nbsp;New Year couplets. Outstanding pieces were selected to use as decorations in the school hall and classrooms.&nbsp;</p>
 <p>其中一项活动是新年挥春。我们邀请了专业的书法老师教学生写春联。学生优秀的书法作品都获选用来装饰学校礼堂和课室。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKoRS2as2CfYbGzWyXN-vwlLzJzfnK6UJYhQxuM7oLZTNeb_lqX267YP1bQadgRo8so2W3mhjgw7tp/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
