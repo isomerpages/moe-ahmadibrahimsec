@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - AESTHETICS AND CRAFT/DESIGN & TECHNOLOGY.md
       - AESTHETICS AND CRAFT/NUTRITION & FOOD SCIENCE (NFS).md
       - AESTHETICS AND CRAFT/MUSIC.md
       - AESTHETICS AND CRAFT/.keep
