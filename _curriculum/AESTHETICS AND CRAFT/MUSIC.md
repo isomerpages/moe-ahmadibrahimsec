@@ -123,7 +123,16 @@ third_nav_title: AESTHETICS AND CRAFT
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Lower Secondary Music Syllabus</label>
 <div>
-
+<p>For the rest of the student population, the Secondary 1 students experience the Music Syllabus in the form of performing through learning the guitar, as well as the recreation of Singapore pop songs using GarageBand on the iPad.</p>
+<p><strong>Secondary One</strong></p>
+<p>In Secondary One, students develop confidence and appreciation for music through various activities and lessons. The Secondary One students learn about various genres of Popular Music, and also partake in two major music projects in Secondary One:</p>
+<p>1. Guitar lessons - Secondary One students attend Guitar lessons, where they learn basic music theory and guitar playing skills through Singapore songs. At the end of ten weeks, they showcase their learning through an assessment of their playing.</p>
+<p>2. Singapore Songs project &ndash; After an introductory exposure to Singapore songs in our nation&rsquo;s four official languages, students work with acoustic as well as virtual instruments on the iPad to arrange and perform their group renditions of Singapore songs</p>
+<p><strong>Secondary Two</strong></p>
+<p><iframe src="https://www.youtube.com/embed/NOenyTHDj9k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p>Secondary Two students undergo a robust Music Technology module whereby they work on Digital Audio Workstations (DAWs) like Mixcraft and Ableton Live to arrange and create their own film music, as well as improvise live on a MIDI controller like the Launchkey Mini. Our students build up on their confidence and stage presence through these modules which allows them to experience the rigour of preparing for actual performances.</p>
+<p>1. Film Music Arrangement using Mixcraft &ndash; Secondary Two students first make connections between music and movies through learning about cinematography, camera angles, lighting, colours, foley sounds and music. They then arrange music and sample foley sounds to short film clips using Mixcraft software.</p>
+<p>2. Composing and Mixing with Ableton Live &ndash; Students learn about authentic contexts where music technology is used in a live setting. They learn the basics of Ableton software and Launchkeys, before putting together and performing their own projects.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
