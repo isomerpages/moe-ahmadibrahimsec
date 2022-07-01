@@ -48,9 +48,22 @@ third_nav_title: MOTHER TONGUE
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeMImVDTOwuhvZ7IpucqnIzB3J1mQvVcPzFwnK6SkpinHXAMAeSQKLM3ffVVOlrgxYsq5tTFFQkXEg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Competitions</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvdxVsbrShxxeLoiowmOz8b8yXf_c7tCN1CnvTmxslUSN_2iQjn9dP9t7owoT_FBeMnH_h5BjJ-4TV/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>We believe every student can excel and everyone wants to give their best. To help our students grow and develop, we will ensure that they are given the exposure and opportunity that they need. In recent years, we have organised and also taken part in various competitions to challenge our students to stretch their ablility and to reach for the sky.</p>
+<ul>
+<li>AISS Essay Writing Competition</li>
+<li>AISS Malay Language &amp; Culture Quiz</li>
+<li>National Malay Language Scrabble Competition</li>
+<li>National Essay Writing Competition Berita Harian&rsquo;s Kem Obor (Journalism Camp)</li>
+</ul>
+<p><strong>BAHAS 4PM: MALAY DEBATE COMPETITION 2019</strong></p>
+<p>On 23rd February 2019, 4 students from Sec 2 ML students represented AI in a debate competition.&nbsp;</p>
+<p>Their positivity radiates throughout the competition, not letting any challenges or their inexperience to hamper their belief that they are capable to be on par with the rest of the schools. Despite being one of the youngest group of students competing in this national competition, our students displayed great courage and perseverance in achieving their goals for this competition. They embraced the challenges confidently and understood the importance of working together to ensure that they are able to give their competitors a good fight.&nbsp;</p>
+<p>Coupled with the experience that they have garnered from this competition as well as the qualities embodied in Mr Ahmad Ibrahim, next year would be yet another experience for them.</p>
+<p>&ldquo;Sekolah Menengah Ahmad Ibrahim,<br />Tidak akan menyerah kalah!&rdquo;</p>
+<p>Itulah LAUNGAN semangat pelajar AI sebelum mengorak langkah ke dewan perdebatan.&nbsp;</p>
+<p>Tanggal 23 Februari merupakan percubaan AI dalam petandingan bahas 4PM setelah sekian lama menyepi. 4 pelajar dari menengah dua telah berganding bahu untuk memastikan mereka dapat memberikan perlawanan yang sengit terhadap kumpulan kumpulan yang handal dari merata Singapura. Walaupun pelajar AI mungkin belum lagi mantap dari segi persembahan dan pengolahan isi bebanding dengan sekolah- skolah yang lebih berpengalaman, sikap tidak berputus asa dan kekal berjuang kian membara dalam jiwa mereka. Yang penting, pengalaman yang diraih memang tiada tolok bandingnya. Tahun hadapan, berbekalkan dengan pengalaman yang baru diraih dan sikap Encik Ahmad Ibrahim yang terpahat dalam diri setiap pelajar, pasti kita akan berjuang sekali lagi!</p>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
