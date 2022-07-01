@@ -135,9 +135,11 @@ third_nav_title: AESTHETICS AND CRAFT
 <p>2. Composing and Mixing with Ableton Live &ndash; Students learn about authentic contexts where music technology is used in a live setting. They learn the basics of Ableton software and Launchkeys, before putting together and performing their own projects.</p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">WHY STUDY MUSIC?</label>
 <div>
-
+<p>Music opens up multiple career pathways for students, not just in performing. They can choose to step into audio production and sound designing, songwriting and composing, live sound, film music composition, conducting, music therapy and many others in future! Music also develops many transferable skills such as teamwork, perseverance, creativity, and discipline. Whatever your future aspirations, the study of music will help you get there!</p>
+<p><strong>More Information</strong></p>
+<a href="https://www.instagram.com/aespireaiss/?hl=en"><img style="width: 50%;" src="/images/art_insta.jpg" /></a>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
