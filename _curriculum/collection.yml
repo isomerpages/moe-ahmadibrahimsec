@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - MATHEMATICS.md
       - PHYSICAL EDUCATION.md
       - SCIENCE.md
       - VISUALLY IMPAIRED SUPPORT UNIT.md
