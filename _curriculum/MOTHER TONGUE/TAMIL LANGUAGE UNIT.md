@@ -56,12 +56,22 @@ third_nav_title: MOTHER TONGUE
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Learning Journey</label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Visit to SPH / Tamil Murasu (2018)</strong></p>
+<p>Our Tamil students paid a visit to SPH on 21st Sept 2018 to have a first hand experience on News production and Journalism.</p>
+<p>The first part of the workshop gave the students the overview of the paper which they are reading every Thursday in school as part of our reading programme.</p>
+<p>They learned the history of the paper and the experiences of reporters. They had hands on sessions on interview skills and tips on report writing to encourage them to write.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOPqpcMh5bxXZtl4scXf5hEsv0KSG_L-zD8FCFN-V7SjgPCwHILQ-P3Qu9hn97kq7LmK8yQ4edeoye/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong>MTL Symposium</strong></p>
+<p>In conjunction with SG50, Ahmad Ibrahim Sec School Tamil Unit organized a SG50 Project Work cum Oratorical Competition at inter school level.</p>
+<p>The competition aimed to arouse greater interest in Tamil Language as well as instil the values of appreciating our pioneer generation. It helped to develop oral proficiency and provided a good platform to develop students&rsquo; confidence in using Tamil in various communication situations, both formal and informal.</p>
+<p>This mini project competition involved 5 schools and the best projects from the competition were exhibited at the 2015 MTL Symposium held at Suntec City.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIyUz5-neknDetBlfyplKq-Y1V9Z_smOC6arkPBDt09_Cet7Jnjrc29a5qp2qMP15b2_zgSbcSwGID/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Pongal Celebration</label>
 <div>
-<p>This is a simple one line item</p>
+<p>In line with Pongal Celebration the Tamil Unit organised Tamil Cultural Activity Day on 18 Jan 2019. The main highlight of this event is Pongal Exhibit Display Competition. The theme of this competition is Knowing and Appreciating Our Culture. With regards to this competition, we also invited two other schools to send their Secondary One Tamil Students to participate in this competition.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdsLxql1-Ci9YPtTbRfXzVTJ3npwvdW1jtza5DBQeM1unNGkzOFwBs8ZSf5Cq8IOQtcMJv12tEyVw-/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
 </ul>
