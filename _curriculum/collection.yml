@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - VISUALLY IMPAIRED SUPPORT UNIT.md
       - ACTIVE LEARNING PROGRAMME.md
       - AESTHETICS AND CRAFT/AESTHETICS AND CRAFT.md
       - AESTHETICS AND CRAFT/ART & CRAFT.md
