@@ -256,6 +256,8 @@ third_nav_title: MOTHER TONGUE
 <p>Influenced by their enthusiasm, a few AI students stepped out of their comfort zone and tried the opera moves. This is part of their experience during the 7 days 6 nights Overseas Immersion Programme.</p>
 <p>Besides having school immersion, the students also got to see the past, present and future of China through visiting the historical landmarks such as the Qianling Mausoleum and Terra Cotta Warriors and Horses, and also learned about the uprising of China economic market with company visits to Xi&rsquo;an Shaangu Power and FreshHema Supermarket.</p>
 <p>AI students gained valuable insights and these experience allowed them to have a deeper appreciation of the things that they may take for granted in Singapore.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxBDMEP2wAyNcMWgNAhtxdk_p34b-KiAnJ01isE2cHln9y1F8J7msIqWiHYR5xYdBZQHmHWwpZMF0A/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>2019年，30名伊布拉欣中学的学生在5位老师的带领下前往西安，进行了为期一个星期的文化浸濡之旅。许多学生有了他们&ldquo;第一次&rdquo;的尝试与体验，例如第一次乘搭高铁、第一次以华语上音乐课和第一次尝试表演京剧。除了在学校交流中认识并结交当地朋友外，我校学生也有机会参观秦始皇兵马俑博物馆、乾陵等景点，一览中国历史古迹；同时也通过参观&ldquo;陕鼓动力&rdquo;公司和&ldquo;盒马鲜生&rdquo;超市一睹中国当下的风貌，从中一探中国未来的发展趋势。学生能在华文华语环境中进行不同的活动，相信这些体验都让他们获益良多。</p>
 </div>
 </li>
 </ul>
