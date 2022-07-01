@@ -188,76 +188,76 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th style="text-align: left;">Name</th>
-<th>Ext No.</th>
+<th style="text-align: left; width: 513px;">Name</th>
+<th style="width: 81px;">Ext No.</th>
 </tr>
 <tr>
-<td>Mdm Azlin Bte Abdul Majid (HOD /&nbsp;Information &amp; Knowledge Management)</td>
-<td>9013</td>
+<td style="width: 513px;">Mdm Azlin Bte Abdul Majid (HOD /&nbsp;Information &amp; Knowledge Management)</td>
+<td style="width: 81px;">9013</td>
 </tr>
 <tr>
-<td>Mdm Chew Jia Zhen, Geraldine (SH / Science Innovations)</td>
-<td>9030</td>
+<td style="width: 513px;">Mdm Chew Jia Zhen, Geraldine (SH / Science Innovations)</td>
+<td style="width: 81px;">9030</td>
 </tr>
 <tr>
-<td>Mdm Catherine Kang (Senior Teacher)</td>
-<td>9046</td>
+<td style="width: 513px;">Mdm Catherine Kang (Senior Teacher)</td>
+<td style="width: 81px;">9046</td>
 </tr>
 <tr>
-<td>Miss Agnes Lim Siew Mei</td>
-<td>9034</td>
+<td style="width: 513px;">Miss Agnes Lim Siew Mei</td>
+<td style="width: 81px;">9034</td>
 </tr>
 <tr>
-<td>Miss Emily Tow Swee Ai</td>
-<td>9045</td>
+<td style="width: 513px;">Miss Emily Tow Swee Ai</td>
+<td style="width: 81px;">9045</td>
 </tr>
 <tr>
-<td>Mdm Latifah Bte Noorahman&nbsp;</td>
-<td>9015</td>
+<td style="width: 513px;">Mdm Latifah Bte Noorahman&nbsp;</td>
+<td style="width: 81px;">9015</td>
 </tr>
 <tr>
-<td>Mr Mohamed Imran Ishak&nbsp;</td>
-<td>9036</td>
+<td style="width: 513px;">Mr Mohamed Imran Ishak&nbsp;</td>
+<td style="width: 81px;">9036</td>
 </tr>
 <tr>
-<td>Mr Ng Ping Siang</td>
-<td>9070</td>
+<td style="width: 513px;">Mr Ng Ping Siang</td>
+<td style="width: 81px;">9070</td>
 </tr>
 <tr>
-<td>Mdm Puah Shi Hui, Silia</td>
-<td>9035</td>
+<td style="width: 513px;">Mdm Puah Shi Hui, Silia</td>
+<td style="width: 81px;">9035</td>
 </tr>
 <tr>
-<td>Mdm Tay Mui Khim</td>
-<td>9046</td>
+<td style="width: 513px;">Mdm Tay Mui Khim</td>
+<td style="width: 81px;">9046</td>
 </tr>
 <tr>
-<td>Mr Tan Hong Chan</td>
-<td>9038</td>
+<td style="width: 513px;">Mr Tan Hong Chan</td>
+<td style="width: 81px;">9038</td>
 </tr>
 <tr>
-<td>Muhammad Na'im Bin Sa'dollah</td>
-<td>9070</td>
+<td style="width: 513px;">Muhammad Na'im Bin Sa'dollah</td>
+<td style="width: 81px;">9070</td>
 </tr>
 <tr>
-<td>Mdm Lee Jia Min</td>
-<td>9032</td>
+<td style="width: 513px;">Mdm Lee Jia Min</td>
+<td style="width: 81px;">9032</td>
 </tr>
 <tr>
-<td>Miss Li Huimin</td>
-<td>9028</td>
+<td style="width: 513px;">Miss Li Huimin</td>
+<td style="width: 81px;">9028</td>
 </tr>
 <tr>
-<td>Mdm Phua Meng Hong</td>
-<td>9043</td>
+<td style="width: 513px;">Mdm Phua Meng Hong</td>
+<td style="width: 81px;">9043</td>
 </tr>
 <tr>
-<td>Miss Chia Mei Lin Tania&nbsp;</td>
-<td>9070</td>
+<td style="width: 513px;">Miss Chia Mei Lin Tania&nbsp;</td>
+<td style="width: 81px;">9070</td>
 </tr>
 <tr>
-<td>Mr Yeu Chee Wee Thomas</td>
-<td>9049</td>
+<td style="width: 513px;">Mr Yeu Chee Wee Thomas</td>
+<td style="width: 81px;">9049</td>
 </tr>
 </tbody>
 </table>
