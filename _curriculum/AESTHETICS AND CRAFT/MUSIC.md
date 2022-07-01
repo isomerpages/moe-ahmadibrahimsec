@@ -140,6 +140,12 @@ third_nav_title: AESTHETICS AND CRAFT
 <p>Music opens up multiple career pathways for students, not just in performing. They can choose to step into audio production and sound designing, songwriting and composing, live sound, film music composition, conducting, music therapy and many others in future! Music also develops many transferable skills such as teamwork, perseverance, creativity, and discipline. Whatever your future aspirations, the study of music will help you get there!</p>
 <p><strong>More Information</strong></p>
 <a href="https://www.instagram.com/aespireaiss/?hl=en"><img style="width: 50%;" src="/images/art_insta.jpg" /></a>
+<p>For more information on the music modules and exciting experiences our students have in AI, please follow us&nbsp;<strong><a href="https://www.instagram.com/aespireaiss/?hl=en" target="_blank" rel="noopener">@AESPIREAISS</a></strong> on Instagram!<iframe src="https://www.youtube.com/embed/xwD9n5WR0FI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>To view our EMP video, please click here: <strong><a href="https://www.youtube.com/watch?v=xwD9n5WR0FI&amp;feature=emb_title" target="_blank" rel="noopener">https://www.youtube.com/watch?v=xwD9n5WR0FI&amp;feature=emb_title</a></strong><iframe src="https://www.youtube.com/embed/B33j0mVWW3g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>To view the EMP &amp; MEP Publicity Video, please click here:&nbsp;<strong><a href="https://youtu.be/B33j0mVWW3g">https://youtu.be/B33j0mVWW3g</a></strong></p>
+<p>For more information about &lsquo;O&rsquo; Level Music, please refer to: <strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/6085_y21_sy.pdf" target="_blank" rel="noopener">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/6085_y21_sy.pdf</a></strong></p>
+<p>For more information on our EMP programme, please refer to the EMP poster below:</p>
+<img src="/images/EMP%20programme.png">
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
