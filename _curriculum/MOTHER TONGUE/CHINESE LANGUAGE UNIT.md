@@ -214,6 +214,7 @@ third_nav_title: MOTHER TONGUE
 <div><iframe class="ive_eobj_center" src="https://www.youtube.com/embed/oNc5maq0a-4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p><strong>Chinese New Year 2020</strong></p>
 <p>Every year, our school holds a series of Chinese New Year celebrations. This year is no exception.<br />每年，伊布拉欣中学都会举办一系列的华人新年庆祝活动。今年也不例外。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSazF5HvXhSMP-wsEYF_Z5t3FVKsX4YcuRjQNOurOgt2NC1YFYIU3j-sALNyf43vCom8Cm9322qOTT9/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 <p>One of the activities was calligraphy. We invited professional calligraphy teachers to teach students to write&nbsp;New Year couplets. Outstanding pieces were selected to use as decorations in the school hall and classrooms.&nbsp;</p>
 <p>其中一项活动是新年挥春。我们邀请了专业的书法老师教学生写春联。学生优秀的书法作品都获选用来装饰学校礼堂和课室。</p>
 </div>
