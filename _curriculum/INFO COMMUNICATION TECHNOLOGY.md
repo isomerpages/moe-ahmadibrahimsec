@@ -291,7 +291,77 @@ description: ""
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Organisation Chart</label>
 <div>
-
+<table>
+<tbody>
+<tr>
+<th>Name</th>
+<th>Designation</th>
+<th>&nbsp;Ext No.</th>
+</tr>
+<tr>
+<td>Mr Tee Hong Heng&nbsp;</td>
+<td>HOD / ICT</td>
+<td>9014</td>
+</tr>
+<tr>
+<td>Mr Lim Yeow Teck, Roy&nbsp;</td>
+<td>Assistant Year Head / Upper Sec (Internal)</td>
+<td>9045</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CPA Teachers</strong></p>
+<div>
+<div>
+<table>
+<tbody>
+<tr>
+<th>Name</th>
+<th>&nbsp;Ext No.</th>
+</tr>
+<tr>
+<td>Mr Lim Yeow Teck, Roy&nbsp;</td>
+<td>9045</td>
+</tr>
+<tr>
+<td>&nbsp;Mr Luo Zhengyang</td>
+<td>9028</td>
+</tr>
+<tr>
+<td>Ms Santhi D/O Mutrawipillai Sanmugum</td>
+<td>9034</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>ICT Support Staffs</strong></p>
+<div>
+<table>
+<tbody>
+<tr>
+<th>Name</th>
+<th>Designation</th>
+<th>&nbsp;Ext No.</th>
+</tr>
+<tr>
+<td>Mr Mohd Hafiz<br /><br /></td>
+<td>ICT Associate</td>
+<td>9026&nbsp;</td>
+</tr>
+<tr>
+<td>Ms Elisha Ruth Cabaltera Zamudio&nbsp;<br /><br /></td>
+<td>AVA Engineer</td>
+<td>9026</td>
+</tr>
+<tr>
+<td>Mr Muhammad Nur Safwan Bin Bahrom<br /><br /></td>
+<td>Desktop Engineer</td>
+<td>9026</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 </div>
 </li>
 </ul>
