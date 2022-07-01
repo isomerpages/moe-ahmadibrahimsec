@@ -37,8 +37,51 @@ third_nav_title: AESTHETICS AND CRAFT
 <p>A product which encourage the user to buy refillable shampoo instead of using bottles and bottles of shampoo each time.</p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Organisation Chart</label>
 <div>
-
+<table width="629">
+<tbody>
+<tr>
+<th>
+<p><strong>Name</strong></p>
+</th>
+<th>
+<p><strong>Designation</strong></p>
+</th>
+</tr>
+<tr>
+<td>Kang Yong Heng</td>
+<td>Subject Head D&amp;T</td>
+</tr>
+<tr>
+<td>Seah Yen Sin</td>
+<td>D&amp;T Teacher</td>
+</tr>
+<tr>
+<td>
+<p>David Ng Kin Kwee</p>
+</td>
+<td>
+<p>D&amp;T Teacher</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Abdul Aziz Osman</p>
+</td>
+<td>
+<p>Technical Support Officer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Muhammad Halim bin Talka</p>
+</td>
+<td>
+<p>Technical Support Officer</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
