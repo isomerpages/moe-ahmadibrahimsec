@@ -157,10 +157,10 @@ description: ""
 <p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="47">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="66">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 </tr>
 <tr>
@@ -173,13 +173,13 @@ description: ""
 <td width="54">&nbsp;</td>
 <td width="52">&nbsp;</td>
 <td width="54">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="47">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="66">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 </tr>
 <tr>
@@ -190,10 +190,10 @@ description: ""
 <p>Research Skills using ICT for Coursework</p>
 </td>
 <td width="54">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="52">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="54">&nbsp;</td>
 <td width="47">&nbsp;</td>
@@ -207,10 +207,10 @@ description: ""
 <p>Teaching using Collaborative Tool</p>
 </td>
 <td width="54">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="52">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="54">&nbsp;</td>
 <td width="47">&nbsp;</td>
@@ -224,13 +224,13 @@ description: ""
 <p>Home-based Learning (HBL)</p>
 </td>
 <td width="54">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="52">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="54">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="47">&nbsp;</td>
 <td width="66">&nbsp;</td>
@@ -243,7 +243,7 @@ description: ""
 <p>Basic Video Filming and Editing</p>
 </td>
 <td width="54">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="52">&nbsp;</td>
 <td width="54">&nbsp;</td>
@@ -256,7 +256,7 @@ description: ""
 </td>
 <td width="54">&nbsp;</td>
 <td width="52">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="54">&nbsp;</td>
 <td width="47">&nbsp;</td>
@@ -270,19 +270,19 @@ description: ""
 <p>Cyber-Wellness</p>
 </td>
 <td>
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td>
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td>
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="47">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 <td width="66">
-<p><img src="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Instructional%20Programmes/Info-Communication%20Technology/tick.jpg" alt="tick" width="20" height="20" /></p>
+<p><img src="/images/tick.jpg" alt="tick" width="20" height="20" /></p>
 </td>
 </tr>
 </tbody>
