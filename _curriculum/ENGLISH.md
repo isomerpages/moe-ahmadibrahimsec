@@ -596,6 +596,12 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong><u>Chong Pang&rsquo;s Next Top Speakers 2016</u></strong><strong><br /></strong></p>
+<p>Chong Pang&rsquo;s Next Top Speakers (CPNTS) is an annual inter-school public speaking contest organised by Chong Pang Toastmasters Club. Gladys Law from 2E2 and Izzarilhan bin Selamat from 2E3 were among the 9 finalists in CPNTS 2016, which saw 67 contestants from six secondary schools in Yishun participating in the competition.</p>
+<img style="width: 50%;" src="/images/tngladys.jpg" />
+<p style="text-align: center;">Finalist- Gladys Law (2E2)</p>
+<img style="width: 50%;" src="/images/tnlzz.jpg" />
+<p style="text-align: center;">Finalist- Izzarilhan bin Selamat (2E3)</p>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Organisation Chart</label>
