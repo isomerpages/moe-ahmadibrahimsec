@@ -35,14 +35,14 @@ description: ""
 <p style="text-align: center;">Creates a learning environment that focuses on conceptual learning and engages students in meaningful activities that enable them to apply and communicate their knowledge.</p>
 <p style="text-align: center;"><strong>VISUALLY IMPAIRED SUPPORT UNIT</strong></p>
 <a href="/curriculum/visually-impaired-support-unit">
-<img style="width: 40%;" src="/images/PE.jpg" />
-</a>
-<p style="text-align: center;">Hopes to empower the pupils and provide an experience that will allow them to achieve.</p>
-<p style="text-align: center;"><strong>SCIENCE</strong></p>
-<a href="/curriculum/science">
 <img style="width: 40%;" src="/images/vi%20icon%20banner.jpg" />
 </a>
-<p style="text-align: center;">Creates a learning environment that focuses on conceptual learning and engages students in meaningful activities that enable them to apply and communicate their knowledge.</p>
+<p style="text-align: center;">Believe that visual impairment is not a hidrance but a challenge</p>
+<p style="text-align: center;"><strong>APPLIED LEARNING PROGRAMME</strong></p>
+<a href="/curriculum/active-learning-programme">
+<img style="width: 40%;" src="/images/ALP_icon.png" />
+</a>
+<p style="text-align: center;">To develop students into critical thinkers, confident communicators and effective and discerning users of media.</p>
 
 
 <h4><strong>SPORTS</strong></h4>
