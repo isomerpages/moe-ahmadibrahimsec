@@ -366,7 +366,7 @@ description: ""
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX-K6RkLvqwe668bFwjqWkdZmdLD4GVlCuScmSOtLuhVQ71foTaxPsTywklw6KmCZAbs47ySJjllKP/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
 <div>
 
 </div>
