@@ -3,7 +3,6 @@ title: SCHOOL MATTERS
 permalink: /partnerships/school-matters
 description: ""
 ---
-
 <h4><strong>Information</strong></h4>
 <p>One stop page for all school matters including school timetable, exam timetable, booklist etc.</p>
 <h4><strong>JUNE STUDY PROGRAMME TIMETABLE</strong></h4>
