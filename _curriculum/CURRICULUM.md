@@ -7,17 +7,17 @@ description: ""
 <a href="/curriculum/english">
 <img style="width: 40%;" src="/images/ENG.jpg" />
 </a>
-<p style="text-align: center;">A dedicated group of teachers who believe in the importance of building on the foundation in the English Language through exposure and creative use; in reading, writing, listening and speaking</p>
-<p style="text-align: center;"><strong>STUDENT LEADERSHIP</strong></p>
-<a href="/co-curriculum/cce/student-leadership">
-<img style="width: 40%;" src="/images/18thEXCO_250x250.jpg" />
+<p style="text-align: center;">A dedicated group of teachers who believe in the importance of building on the foundation in the English Language through exposure and creative use; in reading, writing, listening and speaking.</p>
+<p style="text-align: center;"><strong>HUMANITIES</strong></p>
+<a href="/curriculum/humanities">
+<img style="width: 40%;" src="/images/HUMANITIES.jpg" />
 </a>
-<p style="text-align: center;">To provide opportunities and to nurture AI student leaders to serve the student body, the school, the community and nation through character and leadership.</p>
-<p style="text-align: center;"><strong>DISCIPLINE</strong></p>
+<p style="text-align: center;">Aims to inculcate students who have a global perspective, critical thinking, an understanding of our past and present, our relationship with the environment and an understanding of financial literacy, coupled with a passion for the humanities.</p>
+<p style="text-align: center;"><strong>INFO-COMMUNICATION TECHNOLOGY</strong></p>
 <a href="/co-curriculum/cce/discipline">
-<img style="width: 40%;" src="/images/discipline.png" />
+<img style="width: 40%;" src="/images/info-com.png" />
 </a>
-<p style="text-align: center;">Every child has something good waiting to appear, it just takes the right people, the right time and the right words and actions to bring it out.</p>
+<p style="text-align: center;">Works closely with all other instructional programme departments to allow integration of ICT into the curriculum.</p>
 <h4><strong>SPORTS</strong></h4>
 <p style="text-align: center;"><strong>BASKETBALL</strong></p>
 <a href="/co-curriculum/sports/basketball">
