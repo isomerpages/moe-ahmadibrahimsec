@@ -70,16 +70,16 @@ description: ""
 <p style="text-align: center;">We believe that our students are musical and have the ability to express themselves musically.</p>
 
 <h4><strong>MOTHER TONGUE</strong></h4>
-<p style="text-align: center;"><strong>CONCERT BAND</strong></p>
-<a href="/co-curriculum/performing-arts/concert-band">
-<img style="width: 40%;" src="/images/CB%20Website%20Thumbnail.jpg" />
+<p style="text-align: center;"><strong>ABOUT US</strong></p>
+<a href="/curriculum/mother-tongue">
+<img style="width: 40%;" src="/images/mtaboutus.jpg" />
 </a>
-<p style="text-align: center;">One big happy band family since 1970 - music from the heart is most pure</p>
+<p style="text-align: center;">To learn, love and live the language</p>
 <p style="text-align: center;"><strong>CHINESE ORCHESTRA</strong></p>
-<a href="/co-curriculum/performing-arts/chinese-orchestra">
+<a href="/c/curriculum/mother-tongue">
 <img style="width: 40%;" src="/images/ai%20co%20thumbnail.jpg" />
 </a>
-<p style="text-align: center;">To provide a platform for our members to deepen their instrument skills and develop and appreciation of cultural music</p>
+<p style="text-align: center;">To learn, love and live the language</p>
 <p style="text-align: center;"><strong>CHOIR</strong></p>
 <a href="/co-curriculum/performing-arts/choir">
 <img style="width: 40%;" src="/images/ai%20choir%20thumbnail.jpg" /></a>
