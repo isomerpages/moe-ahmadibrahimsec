@@ -364,6 +364,12 @@ description: ""
 <p>15 students were selected to participate in the Creative Writing Camp held from 1 to 2 June. Students were exposed to different approaches to writing, the creative process, writing tips and various other skills. They were also offered a glimpse into the world of publishing and had a go writing as professional writers write. It was truly an eye-opening experience.</p>
 <p>Through the activities and gruelling hours spent at the camp, students built on each other&rsquo;s strengths, sharpened each other&rsquo;s writing and enhanced their own writing style and story. The results? Breath-taking short stories that deserve a place in a book. No less.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX-K6RkLvqwe668bFwjqWkdZmdLD4GVlCuScmSOtLuhVQ71foTaxPsTywklw6KmCZAbs47ySJjllKP/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p><strong><u>English Language Day</u></strong></p>
+<p>The annual English Language Day is designed to develop students&rsquo; English language skills through fun and interactive platforms.</p>
+<p>This year, the event was divided into two segments &ndash; the Dare to Read segment and the mini games. In both segments, the students were involved in interactive games which build on their English skills, such as listening, viewing, reading and speaking.</p>
+<p>In the Dare to Read segment, students were challenged to read snippets of short stories and infographics to answer quizzes. The students were competitive and won themselves many prizes.</p>
+<p>For the mini games, students competed with one another in group-based games that widened their library of idioms and vocabulary. At the Taboo station, many of the students had to delve deep into their vocabulary bank to find suitable words to describe what were on their cards. They sure had a lot of fun!</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-xlARiuuCqddDNqClWRLyAgDGx5NA14bX870vrPKOW5ZxH-H6iO9mMzvhXX2jBMHEtctTTQ6r1YwI/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
