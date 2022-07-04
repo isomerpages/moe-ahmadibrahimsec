@@ -180,7 +180,12 @@ description: ""
 <p style="text-align: center;"><strong>Marsha &lsquo;Ardyana from 3N1 and Celest Loh from 2E4 reciting extracts of their poems and short stories.&nbsp;</strong></p>
 <p><span style="text-decoration: underline;"><strong>The Queens&rsquo; Commonwealth Essay Competition 2021</strong></span></p>
 <img style="width: 50%;" src="/images/Commonwealth%20Essay%20Competition%20logo.jpg" />
-
+<div style="text-align: center;">Award Winners from Ahmad Ibrahim Secondary School&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div>
+<div style="text-align: center;"><strong>Gold Award Winner</strong></div>
+<div style="text-align: center;">4N2 Ang Jun Kai Ryan (<strong><u><a href="/files/SENIOR%204N2%20ANG%20JUN%20KAI%20RYAN.pdf" target="_blank" rel="noopener">Write Up</a></u></strong>)</div>
+</div>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
