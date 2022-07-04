@@ -12,18 +12,19 @@ sections:
         - title: Get to know the
           description: AI EXPERIENCE
           url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: AISS Announcements
+      subtitle: Latest News and Highlights
+      button: More Announcements
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Meet Ms Tan Ke-Xin
+      subtitle: Principal of AISS
+      description: "Welcome dear parents and visitors! It gives me great pleasure to
+        introduce you to our AI Family... "
+      button: Read More
       alt: Image alt text
+      image: /images/principal3.png
+      url: /about-us/principals-message
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -31,4 +32,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
