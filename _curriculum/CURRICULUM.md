@@ -45,16 +45,16 @@ description: ""
 <p style="text-align: center;">To develop students into critical thinkers, confident communicators and effective and discerning users of media.</p>
 
 <h4><strong>AESTHETICS AND CRAFT</strong></h4>
-<p style="text-align: center;"><strong>GIRL GUIDES</strong></p>
-<a href="/co-curriculum/uniformed-groups/girl-guides">
-<img style="width: 40%;" src="/images/ai%20girl%20guide%20thumbnail.jpg" />
+<p style="text-align: center;"><strong>ABOUT US</strong></p>
+<a href="/curriculum/aesthetics-and-craft">
+<img style="width: 40%;" src="/images/ac.jpg" />
 </a>
-<p style="text-align: center;">Our motto, "Be Prepared", stands them in good stead as they plan, organise and carry out duties that must be entrusted to them</p>
-<p style="text-align: center;"><strong>NATIONAL CADET CORPS (LAND)</strong></p>
-<a href="/co-curriculum/uniformed-groups/national-cadet-corps-land">
-<img style="width: 40%;" src="/images/ncc_new.jpg" />
+<p style="text-align: center;">Develop students to reach their full artistic potential</p>
+<p style="text-align: center;"><strong>ART</strong></p>
+<a href="/curriculum/aesthetics-and-craft/art-n-craft">
+<img style="width: 40%;" src="/images/ART.jpg" />
 </a>
-<p style="text-align: center;">To nurture responsible, resilient and resourceful cadets to become successful citizens</p>
+<p style="text-align: center;">Art and Craft</p>
 <p style="text-align: center;"><strong>NATIONAL POLICE CADET CORPS (NPCC)</strong></p>
 <a href="/co-curriculum/uniformed-groups/national-police-cadet-corps-npcc">
 <img style="width: 40%;" src="/images/NPCC%20Thumbnail%20website.jpg" /></a>
