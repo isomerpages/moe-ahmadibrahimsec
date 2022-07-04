@@ -137,9 +137,21 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Reading Programme</label>
 <div>
-
+<p>Pupils develop the critical habit of reading to build knowledge, vocabulary as well as increase focus.</p>
+<p>Below are some recommended titles:</p>
+<ul>
+<li><strong><a href="files/Fiction%20reading%20list.pdf" target="_blank" rel="noopener">Fiction Reading List</a><br /></strong></li>
+<li><strong><a href="/files/Popular%20Teen%20Series.pdf" target="_blank" rel="noopener">Popular Teen Series</a><br /></strong></li>
+<li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Horror.pdf" target="_blank" rel="noopener">Resource List for Teens - Horror</a><br /></strong></li>
+<li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Issues.pdf" target="_blank" rel="noopener">Resource List for Teens - Issues</a><br /></strong></li>
+<li><a href="/files/Resource%20List%20for%20Teens%20-%20Mystery.pdf" target="_blank" rel="noopener"><strong>Resource List for Teens - Mystery</strong></a></li>
+</ul>
+<p><strong><u>The AISS Reading Programme</u></strong></p>
+<p>AI has been on the Read@NLB Programme since January 2015.&nbsp;<br />The focus has been to encourage and promote reading among our Lower Secondary students.&nbsp;<br />We closely track the reading habits of our students and set specific targets for the year.</p>
+<p><strong><u>Think Green Jamboree</u></strong></p>
+<p>Think Green Jamboree was held in Term 2, on the 10th of April 2017, and it was on the theme of the Environment and Climate Change. The reading genres of Science Fiction, Dystopia and others were explored, with screenings of documentaries on the theme of Saving the Environment. There were live music performances where a band was assembled, that played melodious tunes, with lyrics that developed the concept of a better Green Environment. There was also a hands-on, craft-making station where students created their own pieces of Art using recycled paper and other discarded material which was quite therapeutic! There was also the opportunity for students to formulate their thoughts and speak on specific aspects of the theme, based on taglines they happened to draw. In addition, there were Book Displays and readings on the Environment &amp; our Animal Friends. Students and teachers alike enjoyed the creation and use of the photo-booth, made of recycled materials with props.</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
