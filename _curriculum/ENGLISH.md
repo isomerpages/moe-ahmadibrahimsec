@@ -382,9 +382,56 @@ description: ""
 
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Organisation Chart</label>
 <div>
-
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th style="text-align: center;">Name</th>
+<th style="text-align: center;">Ext No.</th>
+</tr>
+<tr style="text-align: center;">
+<td>Mdm Nah Ser Yen (HOD / EL)</td>
+<td>9017</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mr Burton Row (ST / Lit EL)</td>
+<td>9035</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mdm Heng Chun Wei Esther (ST / EL)</td>
+<td>9040</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mr M Siva Balan (HOD / CCE)</td>
+<td>9018</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mr Kesavan Ramakrishnan</td>
+<td>9031</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mrs Lilian Cheong</td>
+<td>9031</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mdm Koh Pei Pei Jennifer</td>
+<td>9041</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mr Tan Hong Chan</td>
+<td>9038</td>
+</tr>
+<tr style="text-align: center;">
+<td>Mr Tan Wei Hong</td>
+<td>9043</td>
+</tr>
+<tr style="text-align: center;">
+<td>Miss Toh Hui Teng, Hazel</td>
+<td>9034</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
