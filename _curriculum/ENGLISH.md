@@ -31,10 +31,6 @@ description: ""
 <p><strong>2018</strong></p>
 <p><strong><u>Izwan Bin Indra, 2018 Chong Pang's Next Top Speaker</u></strong></p>
 <img style="width: 65%;" src="/images/Izwan%20Bin%20Indra_website.jpg" />
-</div>
-</li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
-<div>
 <p>Izwan Bin Indra (3E2) was declared 2018 Chong Pang's Next Top Speaker after battling with 8 other finalists. He exuded commanding stage presence and delivered his speech with conviction and flair. A pertinent speech (entitled Anti-social Social Network) wrapped in sincerity and adorned with a sprinkle of humour, it made us laugh, and it made us think. He also won the Crowd Favourite for Prepared Speech. Watch Izwan in action below.</p>
 <div><iframe src="https://www.youtube.com/embed/dNcGpoXLMJ0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p>Mercado Jose Gabriel Domingo (1E1) was the other finalist from Ahmad Ibrahim Secondary. Although he is only Secondary One, he delivered his speech with much confidence. Watch Gabriel in action below. <div>
@@ -137,7 +133,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Reading Programme</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Reading Programmes</label>
 <div>
 <p>Pupils develop the critical habit of reading to build knowledge, vocabulary as well as increase focus.</p>
 <p>Below are some recommended titles:</p>
@@ -152,6 +148,39 @@ description: ""
 <p>AI has been on the Read@NLB Programme since January 2015.&nbsp;<br />The focus has been to encourage and promote reading among our Lower Secondary students.&nbsp;<br />We closely track the reading habits of our students and set specific targets for the year.</p>
 <p><strong><u>Think Green Jamboree</u></strong></p>
 <p>Think Green Jamboree was held in Term 2, on the 10th of April 2017, and it was on the theme of the Environment and Climate Change. The reading genres of Science Fiction, Dystopia and others were explored, with screenings of documentaries on the theme of Saving the Environment. There were live music performances where a band was assembled, that played melodious tunes, with lyrics that developed the concept of a better Green Environment. There was also a hands-on, craft-making station where students created their own pieces of Art using recycled paper and other discarded material which was quite therapeutic! There was also the opportunity for students to formulate their thoughts and speak on specific aspects of the theme, based on taglines they happened to draw. In addition, there were Book Displays and readings on the Environment &amp; our Animal Friends. Students and teachers alike enjoyed the creation and use of the photo-booth, made of recycled materials with props.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnvDNUNPXWRj47yEsRK63oml5RhJH2deI48lT0YrAIwjgRfCEM-Uaaq7STc3vqBT_1u2hzy4yv_Ftn/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p><strong><u>Think Green Jamboree</u></strong></p>
+<p>Held during the post-SA2 period, the October Jamboree &ndash; Spooktacular brought to students a series of activities and stories featuring the book genres of Horror and Thriller. One of the activities included a crime-scene investigation where students were challenged to solve a murder mystery at a staged crime scene. Students were also treated to a Movie Excerpt Screening to see how novels can come alive on screen. Excerpts of horror and thriller novels were read before the corresponding scenes of the same movies were screened. In addition, aspiring writers were encouraged to try their hand at writing two-sentence horror stories to scare their peers and teachers. Besides all these, students were also able to take photographs with their friends at the photo booth furnished with an array of masks and props. To top it all up, books written by acclaimed writers such as Stephen King and Dean Koontz were featured in an attention-grabbing book display that encouraged students to browse and borrow the books home.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS31FMMpi_7dJnn895_pUYX7AQbP9aDUns7aBg-rAhFvxl-3zFM9iKerR1QsUVHU4pCWRSjZWMTixwr/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Writing Programme</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>World Poetry Day</strong></span></p>
+<p>Every year, on 21st March, the whole world celebrates all things poetry. This year, poetry has taken over AISS as the English and Literature department has planned a week-long series of activities to celebrate World Poetry Day.</p>
+<img style="width: 75%;" src="/images/Students%20Poetry%20Display%20in%20the%20library.jpg" />
+<p style="text-align: center;"><strong>Students&rsquo; Poetry Display in the library</strong></p>
+<img style="width: 25%;" src="/images/Showcase%20of%20students%20poetry.jpg" align = "left" />
+<p>The library showcased projects that were done by our Secondary 1 and 3 students. The Secondary 1 students designed album covers and created Instagram profiles to feature the main themes and characters of the two poetries they have learnt in class &ndash; &lsquo;On Turning Ten&rsquo; by Billy Collins and &lsquo;Tich Miller&rsquo; by Wendy Cope. The Secondary 3 students had a dramatic recital of the poems they were studying in class and recorded their recital in audio format. By scanning the QR code on display, AISS students got to listen to the recital performed by the students.</p>
+<p>Another showcase was set up near the General Office and in front of the AI ARC. Our AI family was able to admire the good work of our Secondary 2 and 4 students who upcycled old library books by making inspirational blackout poetry from torn out pages.</p>
+<p><strong>Showcase of students&rsquo; poetry near the General Office&nbsp;</strong></p>
+<img style="width: 65%;" src="/images/Poems%20that%20reflect%20the%20theme%20of%20War%20and%20Conflict%20and%20The%20Pandemic.jpg" />
+<p style="text-align: center;"><strong>Poems that reflect the theme of &lsquo;War and Conflict&rsquo; and &lsquo;The Pandemic&rsquo;</strong></p>
+<img style="width: 65%;" src="/images/Students%20explored%20the%20theme%20of%20Animals%20and%20Wildlife.jpg" />
+<p style="text-align: center;"><strong>Students explored the theme of &lsquo;Animals and Wildlife&rsquo; and express their ideas through poetry</strong></p>
+<img style="width: 65%;" src="/images/Students%20enjoyed%20creating%20Instagram%20profiles%20and%20designing%20album%20covers.jpg" />
+<p style="text-align: center;"><strong>Students enjoyed creating Instagram profiles and designing album covers to explore the characters from the poetry they studied in class</strong></p>
+<p><span style="text-decoration: underline;"><strong>Launch of ContemplAtIons</strong></span></p>
+<p>"ContemplAtIons" is a yearly anthology of short stories, poems, other writings and illustrations produced by the student participants of the EL Department's Creative Writing Programme. From 2020, to do our part for the environment, we shifted from print copies to digital e-publications. This has allowed the students to share their wonderful pieces with a wider audience and created a space for readers to engage with our writers. This year, we have Insta-poetry, rap videos, twin cinemas, self-illustrated e-books and Choose-You-Own-Adventure stories. It&rsquo;s a fiesta!</p>
+<p>You can access the 2020 ContemplAtIons site here: <a href="https://sites.google.com/moe.edu.sg/contemplations-2020/home" target="_blank" rel="noopener">https://sites.google.com/moe.edu.sg/contemplations-2020/home</a></p>
+<p>You can access the 2021 ContemplAtIons site here:&nbsp;<a href="https://sites.google.com/moe.edu.sg/contemplations2021/home" target="_blank" rel="noopener">https://sites.google.com/moe.edu.sg/contemplations2021/home</a></p>
+<img style="width: 65%;" src="/images/Sahasra%20Chargonda%20from%203E1%20inviting%20Kevin%20Lin%20from%204E1%20to%20launch%20ContemplAtIons.jpg" />
+<p style="text-align: center;"><strong>Sahasra Chargonda from 3E1 inviting Kevin Lin from 4E1 to launch &ldquo;ContemplAtIons&rdquo; by reciting an extract from his poem.</strong></p>
+<img src="/images/mnc.png">
+<p style="text-align: center;"><strong>Marsha &lsquo;Ardyana from 3N1 and Celest Loh from 2E4 reciting extracts of their poems and short stories.&nbsp;</strong></p>
+<p><span style="text-decoration: underline;"><strong>The Queens&rsquo; Commonwealth Essay Competition 2021</strong></span></p>
+<img style="width: 50%;" src="/images/Commonwealth%20Essay%20Competition%20logo.jpg" />
+
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
