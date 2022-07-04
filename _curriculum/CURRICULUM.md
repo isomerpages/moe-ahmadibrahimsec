@@ -75,20 +75,16 @@ description: ""
 <img style="width: 40%;" src="/images/mtaboutus.jpg" />
 </a>
 <p style="text-align: center;">To learn, love and live the language</p>
-<p style="text-align: center;"><strong>CHINESE ORCHESTRA</strong></p>
-<a href="/c/curriculum/mother-tongue">
-<img style="width: 40%;" src="/images/ai%20co%20thumbnail.jpg" />
+<p style="text-align: center;"><strong>CHINESE</strong></p>
+<a href="/curriculum/mother-tongue/chinese-language-unit">
+<img style="width: 40%;" src="/images/CHI.jpg" />
 </a>
-<p style="text-align: center;">To learn, love and live the language</p>
-<p style="text-align: center;"><strong>CHOIR</strong></p>
-<a href="/co-curriculum/performing-arts/choir">
-<img style="width: 40%;" src="/images/ai%20choir%20thumbnail.jpg" /></a>
-<p style="text-align: center;">Sing from the heart, dream from the soul!</p>
-<p style="text-align: center;"><strong>DANCE ENSEMBLE</strong></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><strong>MALAY</strong></p>
+<a href="/curriculum/mother-tongue/malay-language-unit">
+<img style="width: 40%;" src="/images/MALAY.jpg" /></a>
+<p style="text-align: center;">BAHASA DIJUNJUNG, BUDAYA DISANJUNG</p>
+<p style="text-align: center;"><strong>TAMIL</strong></p>
 <a href="/co-curriculum/performing-arts/dance-ensemble">
-<img style="width: 40%;" src="/images/ai%20dance%20ensemble%20thumbnail.jpg" /></a>
-<p style="text-align: center;">Aiming to release the full potential in our dancers, we not only train flexibility but strength as well</p>
-<p style="text-align: center;"><strong>ORATORICAL DEBATE AND DRAMA SOCIETY (ODDS)</strong></p>
-<a href="/co-curriculum/performing-arts/the-oratorical-debate-and-drama-society-odds">
-<img style="width: 40%;" src="/images/ai%20odds%20thumbnail.jpg" /></a>
-<p style="text-align: center;">To become empathetic and compassionate individuals who are confident and creative, demonstrating passion and love for the art of drama</p>
+<img style="width: 40%;" src="/images/TAMIL.jpg" /></a>
+<p style="text-align: center;"></p>
