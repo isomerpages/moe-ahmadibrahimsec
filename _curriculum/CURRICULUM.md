@@ -14,10 +14,37 @@ description: ""
 </a>
 <p style="text-align: center;">Aims to inculcate students who have a global perspective, critical thinking, an understanding of our past and present, our relationship with the environment and an understanding of financial literacy, coupled with a passion for the humanities.</p>
 <p style="text-align: center;"><strong>INFO-COMMUNICATION TECHNOLOGY</strong></p>
-<a href="/co-curriculum/cce/discipline">
+<a href="/curriculum/info-communication-technology">
 <img style="width: 40%;" src="/images/info-com.png" />
 </a>
 <p style="text-align: center;">Works closely with all other instructional programme departments to allow integration of ICT into the curriculum.</p>
+<p style="text-align: center;"><strong>MATHEMATICS</strong></p>
+<a href="/curriculum/mathematics">
+<img style="width: 40%;" src="/images/MATHS.jpg" />
+</a>
+<p style="text-align: center;">Believes that every child can do Mathematics and that a strong foundation in the subject will serve them well in the future.</p>
+<p style="text-align: center;"><strong>PHYSICAL EDUCATION</strong></p>
+<a href="/curriculum/physical-education">
+<img style="width: 40%;" src="/images/PE.jpg" />
+</a>
+<p style="text-align: center;">Hopes to empower the pupils and provide an experience that will allow them to achieve.</p>
+<p style="text-align: center;"><strong>SCIENCE</strong></p>
+<a href="/curriculum/science">
+<img style="width: 40%;" src="/images/science.png" />
+</a>
+<p style="text-align: center;">Creates a learning environment that focuses on conceptual learning and engages students in meaningful activities that enable them to apply and communicate their knowledge.</p>
+<p style="text-align: center;"><strong>VISUALLY IMPAIRED SUPPORT UNIT</strong></p>
+<a href="/curriculum/visually-impaired-support-unit">
+<img style="width: 40%;" src="/images/PE.jpg" />
+</a>
+<p style="text-align: center;">Hopes to empower the pupils and provide an experience that will allow them to achieve.</p>
+<p style="text-align: center;"><strong>SCIENCE</strong></p>
+<a href="/curriculum/science">
+<img style="width: 40%;" src="/images/vi%20icon%20banner.jpg" />
+</a>
+<p style="text-align: center;">Creates a learning environment that focuses on conceptual learning and engages students in meaningful activities that enable them to apply and communicate their knowledge.</p>
+
+
 <h4><strong>SPORTS</strong></h4>
 <p style="text-align: center;"><strong>BASKETBALL</strong></p>
 <a href="/co-curriculum/sports/basketball">
