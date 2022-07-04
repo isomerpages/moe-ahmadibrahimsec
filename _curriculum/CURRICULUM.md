@@ -55,8 +55,8 @@ description: ""
 <img style="width: 40%;" src="/images/ART.jpg" />
 </a>
 <p style="text-align: center;">Art and Craft</p>
-<p style="text-align: center;"><strong>NATIONAL POLICE CADET CORPS (NPCC)</strong></p>
-<a href="/co-curriculum/uniformed-groups/national-police-cadet-corps-npcc">
+<p style="text-align: center;"><strong>DESIGN AND TECHNOLOGY</strong></p>
+<a href="/curriculum/aesthetics-and-craft/design-n-technology">
 <img style="width: 40%;" src="/images/NPCC%20Thumbnail%20website.jpg" /></a>
 <p style="text-align: center;">Aims to develop its members as confident person, self-directed learner, active contributor and concerned citizen through its wide range of activities</p>
 <p style="text-align: center;"><strong>SCOUTS</strong></p>
