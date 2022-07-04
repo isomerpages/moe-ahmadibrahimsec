@@ -3,11 +3,11 @@ title: CURRICULUM
 permalink: /curriculum
 description: ""
 ---
-<p style="text-align: center;"><strong>CCE</strong></p>
-<a href="/co-curriculum/cce">
-<img style="width: 40%;" src="/images/student-development.png" />
+<p style="text-align: center;"><strong>ENGLISH</strong></p>
+<a href="/curriculum/english">
+<img style="width: 40%;" src="/images/ENG.jpg" />
 </a>
-<p style="text-align: center;">To empower our students to be life-long contributing citizens with integrity and compassion</p>
+<p style="text-align: center;">A dedicated group of teachers who believe in the importance of building on the foundation in the English Language through exposure and creative use; in reading, writing, listening and speaking</p>
 <p style="text-align: center;"><strong>STUDENT LEADERSHIP</strong></p>
 <a href="/co-curriculum/cce/student-leadership">
 <img style="width: 40%;" src="/images/18thEXCO_250x250.jpg" />
