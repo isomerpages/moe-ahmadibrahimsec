@@ -27,6 +27,8 @@ links:
         url: https://sites.google.com/moe.edu.sg/aisse-openhouse2021/home
       - title: FREQUENTLY ASKED QUESTIONS
         url: /about-us/frequently-asked-questions-faq
+  - title: CURRICULUM
+    url: /curriculum
   - title: CO-CURRICULUM
     url: /co-curriculum
   - title: ACHIEVEMENTS
@@ -76,5 +78,3 @@ links:
         url: /news-n-events/2017
       - title: "2016"
         url: /news-n-events/2016
-  - title: CURRICULUM
-    url: /curriculum
