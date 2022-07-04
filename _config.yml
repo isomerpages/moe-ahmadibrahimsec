@@ -3,10 +3,10 @@ url: ""
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#167c35"
-  secondary-color: "#e7e033"
+  secondary-color: "#d41313"
   media-colors:
     - title: media-color-one
-      color: "#de3719"
+      color: "#ebe167"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
@@ -52,3 +52,8 @@ plugins:
 staging: https://moe-ahmadibrahimsec-staging.netlify.app
 prod: https://moe-ahmadibrahimsec-prod.netlify.app
 resources_name: aiss-announcements
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
