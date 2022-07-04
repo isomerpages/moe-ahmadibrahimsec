@@ -142,11 +142,11 @@ description: ""
 <p>Pupils develop the critical habit of reading to build knowledge, vocabulary as well as increase focus.</p>
 <p>Below are some recommended titles:</p>
 <ul>
-<li><strong><a href="files/Fiction%20reading%20list.pdf" target="_blank" rel="noopener">Fiction Reading List</a><br /></strong></li>
-<li><strong><a href="/files/Popular%20Teen%20Series.pdf" target="_blank" rel="noopener">Popular Teen Series</a><br /></strong></li>
-<li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Horror.pdf" target="_blank" rel="noopener">Resource List for Teens - Horror</a><br /></strong></li>
-<li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Issues.pdf" target="_blank" rel="noopener">Resource List for Teens - Issues</a><br /></strong></li>
-<li><a href="/files/Resource%20List%20for%20Teens%20-%20Mystery.pdf" target="_blank" rel="noopener"><strong>Resource List for Teens - Mystery</strong></a></li>
+<li><strong><a href="files/Fiction%20reading%20list.pdf" target="_blank" rel="noopener">Fiction Reading List</a></strong></li>
+<li><strong><a href="/files/Popular%20Teen%20Series.pdf" target="_blank" rel="noopener">Popular Teen Series</a></strong></li>
+<li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Horror.pdf" target="_blank" rel="noopener">Resource List for Teens - Horror</a></strong></li>
+<li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Issues.pdf" target="_blank" rel="noopener">Resource List for Teens - Issues</a></strong></li>
+<li><a href="/files/Resource%20List%20for%20Teens%20-%20Mystery.pdf" target="_blank" rel="noopener"><strong>Resource List for Teens - Mystery</strong></li>
 </ul>
 <p><strong><u>The AISS Reading Programme</u></strong></p>
 <p>AI has been on the Read@NLB Programme since January 2015.&nbsp;<br />The focus has been to encourage and promote reading among our Lower Secondary students.&nbsp;<br />We closely track the reading habits of our students and set specific targets for the year.</p>
