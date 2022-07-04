@@ -44,29 +44,6 @@ description: ""
 </a>
 <p style="text-align: center;">To develop students into critical thinkers, confident communicators and effective and discerning users of media.</p>
 
-
-<h4><strong>SPORTS</strong></h4>
-<p style="text-align: center;"><strong>BASKETBALL</strong></p>
-<a href="/co-curriculum/sports/basketball">
-<img style="width: 40%;" src="/images/thumbnail-basketball.jpg" />
-</a>
-<p style="text-align: center;">Always strive to do our best in all competitions</p>
-<p style="text-align: center;"><strong>SHOOTING</strong></p>
-<a href="/co-curriculum/sports/shooting">
-<img style="width: 40%;" src="/images/ai%20shooting%20thumbnail.jpg" />
-</a>
-<p style="text-align: center;">"Aiming for excellence"</p>
-<p style="text-align: center;"><strong>FOOTBALL</strong></p>
-<a href="/co-curriculum/sports/football">
-<img style="width: 40%;" src="/images/thumbnail_soccer.jpg" />
-</a>
-<p style="text-align: center;">Every individual player has the potential to be a good player but with the correct attitude and training, the AISS soccer team will push him to be an even better team player and member of society</p>
-<p style="text-align: center;"><strong>TRACK & FIELD</strong></p>
-<a href="/co-curriculum/sports/track-n-field">
-<img style="width: 40%;" src="/images/ai%20track%20and%20field%20thumbnail.jpg" />
-</a>
-<p style="text-align: center;">We believe that every student that has the potential to succeed through hard work and perseverance with sound practice, talent. With hard work, bring success.</p>
-
 <h4><strong>AESTHETICS AND CRAFT</strong></h4>
 <p style="text-align: center;"><strong>GIRL GUIDES</strong></p>
 <a href="/co-curriculum/uniformed-groups/girl-guides">
@@ -115,14 +92,3 @@ description: ""
 <a href="/co-curriculum/performing-arts/the-oratorical-debate-and-drama-society-odds">
 <img style="width: 40%;" src="/images/ai%20odds%20thumbnail.jpg" /></a>
 <p style="text-align: center;">To become empathetic and compassionate individuals who are confident and creative, demonstrating passion and love for the art of drama</p>
-
-<p style="text-align: center;"><strong>(AI) ROBOTICS CLUB</strong></p>
-<a href="/co-curriculum/clubs/ai-robotics-club">
-<img style="width: 40%;" src="/images/infocomm.png" />
-</a>
-<p style="text-align: center;">To equip students with essential skills that will better prepare them for the 21st century</p>
-<p style="text-align: center;"><strong>GREEN SERVICE CLUB</strong></p>
-<a href="/co-curriculum/clubs/green-service-club">
-<img style="width: 40%;" src="/images/ai%20gsc%20thumbnail.jpg" />
-</a>
-<p style="text-align: center;">Provide a platform where it provides eye-opening experiences for them to know what it is like to do service in the community</p>
