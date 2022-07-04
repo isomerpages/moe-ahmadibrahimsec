@@ -345,6 +345,12 @@ description: ""
 <div style="text-align: center;">4N2 Almagro Karl Drew Rubio</div>
 <div style="text-align: center;">4N2 Dewi Diantirani Binte M Mohamed Salleh</div>
 <div style="text-align: center;">4N2 Ru Bing Rachel</div>
+<p><span style="text-decoration: underline;"><strong>Creative Writing Camp</strong></span></p>
+<p><strong>2020</strong></p>
+<p>With their eyebrows knitted, eyes averted and lips pursed, student-writers sat deep in thought as they analysed sample texts and pondered on feedback given on their submitted work. Due to the Circuit Breaker in May, the discussions for this year&rsquo;s workshop were held online.&nbsp;</p>
+<p>&ldquo;Authenticity! Authenticity!&rdquo; The students were hounded on the need to write from their hearts to capture the real essence of everyday life in their works.</p>
+<p>Despite the psychological distance inherent on virtual platforms, the students rose to the challenge and made each session vibrant with their insightful sharing. Their creative works will be consolidated in this year&rsquo;s edition of Contemplations!, supported with student illustrations.</p>
+<p><strong>2019</strong></p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
