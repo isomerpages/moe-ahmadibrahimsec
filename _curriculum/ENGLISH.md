@@ -364,6 +364,10 @@ description: ""
 <p>15 students were selected to participate in the Creative Writing Camp held from 1 to 2 June. Students were exposed to different approaches to writing, the creative process, writing tips and various other skills. They were also offered a glimpse into the world of publishing and had a go writing as professional writers write. It was truly an eye-opening experience.</p>
 <p>Through the activities and gruelling hours spent at the camp, students built on each other&rsquo;s strengths, sharpened each other&rsquo;s writing and enhanced their own writing style and story. The results? Breath-taking short stories that deserve a place in a book. No less.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX-K6RkLvqwe668bFwjqWkdZmdLD4GVlCuScmSOtLuhVQ71foTaxPsTywklw6KmCZAbs47ySJjllKP/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+</div>
+</li>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
+<div>
 <p><strong><u>English Language Day</u></strong></p>
 <p>The annual English Language Day is designed to develop students&rsquo; English language skills through fun and interactive platforms.</p>
 <p>This year, the event was divided into two segments &ndash; the Dare to Read segment and the mini games. In both segments, the students were involved in interactive games which build on their English skills, such as listening, viewing, reading and speaking.</p>
@@ -372,14 +376,54 @@ description: ""
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-xlARiuuCqddDNqClWRLyAgDGx5NA14bX870vrPKOW5ZxH-H6iO9mMzvhXX2jBMHEtctTTQ6r1YwI/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Achievements</label>
 <div>
-
-</div>
-</li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
-<div>
-
+<p><span style="text-decoration: underline;"><strong>The Queens&rsquo; Commonwealth Essay Competition 2020</strong></span></p>
+<img style="width: 50%;" src="/images/Commonwealth%20Essay%20Competition%20logo.jpg" />
+<div style="text-align: center;">Award Winners from Ahmad Ibrahim Secondary School&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Junior Category</strong></div>
+<div style="text-align: center;"><strong>Silver Award Winners</strong></div>
+<div style="text-align: center;">1E1 Maya Zarifah Binte Zulkana (<strong><a href="/files/S1-E1%20MAYA%20ZARIFAH%20BINTE%20ZULKANAI.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">1E1 Rachel Chew Rui Qi&nbsp;(<strong><a href="/files/S1-E1%20RACHEL%20CHEW%20RUI%20QI.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">1E2 Dawn Alethea Lowe En&nbsp;(<strong><a href="/files/poem_1E2_Dawn%20Alethea%20Lowe%20En_136%20.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">1E3 Tan Xing Ting Gracia&nbsp;(<strong><a href="/files//Tan%20Xing%20Ting%20Gracia_1E3.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Bronze Award Winners</strong></div>
+<div style="text-align: center;">1E1 Haryz Aiman Bin Mohamed Sophian</div>
+<div style="text-align: center;">1E1 Heidi Chng</div>
+<div style="text-align: center;">1E1 Loh Yi-An Ian</div>
+<div style="text-align: center;">1E1 Phoebe Michelle Tan Wen Jin</div>
+<div style="text-align: center;">1E3 Hana Nurhusna</div>
+<div style="text-align: center;">1E3 Klenn Yuan Jun Teo</div>
+<div style="text-align: center;">1E3 Lekisha M</div>
+<div style="text-align: center;">1E3 Masroora Mohamed Manaseer</div>
+<div style="text-align: center;">1E4 Ng Jun Xi, Brayden</div>
+<div style="text-align: center;">1E4 Sim Shi Ting</div>
+<div style="text-align: center;">2E2 Audreya Suvanto</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Senior Category</strong></div>
+<div style="text-align: center;"><strong>Silver Award Winners</strong></div>
+<div style="text-align: center;">2E2 Nadira Aisyah Shahrin&nbsp;(<strong><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Curriculum/English/Commonwealth%20Essay%20Competition/Writeup/Nadira%20Aisyah%20Shahrin_2E2.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">4E3 Winston Leong&nbsp;(<strong><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Curriculum/English/Commonwealth%20Essay%20Competition/Writeup/Winston%20Leong_4E3.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Bronze Award Winners</strong></div>
+<div style="text-align: center;">4N1 Joey Chong Jing Yee</div>
+<div style="text-align: center;">4N2 Almagro Karl Drew Rubio</div>
+<div style="text-align: center;">4N2 Dewi Diantirani Binte M Mohamed Salleh</div>
+<div style="text-align: center;">4N2 Ru Bing Rachel</div>
+<p><strong><u>Izwan Bin Indra, 2018 Chong Pang's Next Top Speaker</u></strong></p>
+<img style="width: 65%;" src="/images/Izwan%20Bin%20Indra_website.jpg" />
+<p>Izwan Bin Indra (3E2) was declared 2018 Chong Pang's Next Top Speaker after battling with 8 other finalists. He exuded commanding stage presence and delivered his speech with conviction and flair. A pertinent speech (entitled Anti-social Social Network) wrapped in sincerity and adorned with a sprinkle of humour, it made us laugh, and it made us think. He also won the Crowd Favourite for Prepared Speech. Watch Izwan in action below.</p>
+<div><iframe src="https://www.youtube.com/embed/dNcGpoXLMJ0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p>Mercado Jose Gabriel Domingo (1E1) was the other finalist from Ahmad Ibrahim Secondary. Although he is only Secondary One, he delivered his speech with much confidence. Watch Gabriel in action below. <div>
+<iframe src="https://www.youtube.com/embed/ayH2sCUvMqY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p><strong><u>Winner of Unseen Poetry Debate at National Schools Literature Festival</u></strong></p>
+<img style="width: 65%;" src="/images/Winner-of-Unseen-Poetry-Debate-at-National-Schools-Literature-Festival.jpg" />
+<p>One may say it was beginner&rsquo;s luck that 4 students bagged a trophy in their maiden debate competition, but a stroke of luck it wasn&rsquo;t. With all the weeks of practice, mock debates with teachers, and video-calling to discuss and hone their arguments, these Pure Literature students from 4E3 demonstrated nothing less than pure grit and determination, scrutinising two poems in preparation for the Unseen Poetry Debate. New and inexperienced in debate they might have been, but won the praise of the judges they did for their close analysis. Winning despite being up against a debate-trained team from Evergreen Secondary School really gave these 4 young ladies a boost of confidence! Congratulations, Sarah, Sarefina, Serena and Chi Rou!</p>
+<p>Winners<br />1. Sarah Tan Xin Hui 4E3<br />2. Sarefina Sindhu Victor 4E3<br />3. Yong Yi Xuan, Serena 4E3<br />4. Tay Chi Rou 4E3</p>
+<p><span style="text-decoration: underline;"><strong>The Queens&rsquo; Commonwealth Essay Competition 2017</strong></span></p>
+<img style="width: 50%;" src="/images/Commonwealth%20Essay%20Competition%20logo.jpg" />
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Organisation Chart</label>
