@@ -26,9 +26,13 @@ sections:
       image: /images/principal3.png
       url: /about-us/principals-message
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Be Transformed Be Extraordinary
+      subtitle: Ordinary Miracles
+      description: Introduced in 2014, it has become an AI tradition for students to
+        recollect significant moments that touched them in the year. We call it
+        Ordinary Miracles@AI..
+      button: Read More
       alt: Image alt text
+      image: /images/miracle2.png
+      url: /ordinary-miracles
 ---
