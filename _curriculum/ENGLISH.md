@@ -146,7 +146,7 @@ description: ""
 <li><strong><a href="/files/Popular%20Teen%20Series.pdf" target="_blank" rel="noopener">Popular Teen Series</a></strong></li>
 <li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Horror.pdf" target="_blank" rel="noopener">Resource List for Teens - Horror</a></strong></li>
 <li><strong><a href="/files/Resource%20List%20for%20Teens%20-%20Issues.pdf" target="_blank" rel="noopener">Resource List for Teens - Issues</a></strong></li>
-<li><a href="/files/Resource%20List%20for%20Teens%20-%20Mystery.pdf" target="_blank" rel="noopener"><strong>Resource List for Teens - Mystery</strong></li>
+<li><a href="/files/Resource%20List%20for%20Teens%20-%20Mystery.pdf" target="_blank" rel="noopener"><strong>Resource List for Teens - Mystery</a></strong></li>
 </ul>
 <p><strong><u>The AISS Reading Programme</u></strong></p>
 <p>AI has been on the Read@NLB Programme since January 2015.&nbsp;<br />The focus has been to encourage and promote reading among our Lower Secondary students.&nbsp;<br />We closely track the reading habits of our students and set specific targets for the year.</p>
