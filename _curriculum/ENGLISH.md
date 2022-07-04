@@ -185,7 +185,166 @@ description: ""
 <div>
 <div style="text-align: center;"><strong>Gold Award Winner</strong></div>
 <div style="text-align: center;">4N2 Ang Jun Kai Ryan (<strong><u><a href="/files/SENIOR%204N2%20ANG%20JUN%20KAI%20RYAN.pdf" target="_blank" rel="noopener">Write Up</a></u></strong>)</div>
+<div>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;" colspan="2">Silver Award Winners</th>
+</tr>
+<tr style="text-align: center;">
+<td>1E1 EVA LEONG YU HUA</td>
+<td>3E2 RAIF RUSYDI BIN YUSOFF</td>
+</tr>
+<tr style="text-align: center;">
+<td>2E1 ADITYA SONU NAIR</td>
+<td>3E3 RIFQY HADY BIN MOHAMMAD HADI</td>
+</tr>
+<tr style="text-align: center;">
+<td>2E1 HANNAH ATHIRAH BINTE MOHAMED HAZEN</td>
+<td>3E4 KDEN TAN MICHAEL</td>
+</tr>
+<tr style="text-align: center;">
+<td>&nbsp;2E2 SAHASRA CHARGONDA</td>
+<td>&nbsp;4E1 EUGENE WONG YONG QUAN</td>
+</tr>
+<tr style="text-align: center;">
+<td>2N1 MARSHA ARDYANA BINTE SHAHIMAN AZMI</td>
+<td>4E2 TAN JING XUAN&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 MIGUEL LOUIS LACSON MALELANG</td>
+<td>4E3 SADHANA BALAJI MALUR</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 PHUA YONG LE</td>
+<td>4N2 CELESTE WONG</td>
+</tr>
+<tr style="text-align: center;">
+<td>4N2 CHONG ZI HUI ELENA</td>
+</tr>
+<tr style="text-align: center;">
+<td>4N2 DAYANA BINTE ABDUL HADDY</td>
+</tr>
+</tbody>
+</table>
 </div>
+<div style="text-align: center;"><strong>Bronze Award Winners</strong></div>
+<div>
+<table>
+<tbody>
+<tr style="text-align: center;">
+<td>1E1 CALEB NG</td>
+<td>3E1 SHERNICE SAH JIA YI</td>
+</tr>
+<tr style="text-align: center;">
+<td>1E1 GORDON TAY</td>
+<td>3E1 REGINA SEOW PEI YANG</td>
+</tr>
+<tr style="text-align: center;">
+<td>1E1 MOHAMMED AARYAN HAZIM</td>
+<td>3E1 LIM SWEE HONG&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td>2E1 CARIS CHEW XIN RU</td>
+<td>3E1 JOANN ROSHNI MARIADOS</td>
+</tr>
+<tr style="text-align: center;">
+<td>2E1 MAYA ZARIFAH BINTE ZULKANAI</td>
+<td>3E1 ANGELIN KOH JIA EN</td>
+</tr>
+<tr style="text-align: center;">
+<td>2E1 XING WEI TAN</td>
+<td>3E4 HAAZIQ RAIF BIN AZLAN</td>
+</tr>
+<tr style="text-align: center;">
+<td>2E1 HEIDI CHNG</td>
+<td>4E3 NUR RESHKA AYESHA BINTE GULAM</td>
+</tr>
+<tr style="text-align: center;">
+<td>2N1 MUHAMMED MATIN MIRZA BIN&nbsp;ABDULLAH</td>
+<td>4E3 NUR HAZIMAH BINTE MOHD REZAL</td>
+</tr>
+<tr style="text-align: center;">
+<td>&nbsp;2N1 NUR KAMARIAH IHSAN BINTE&nbsp;MUCHSIN DAHALAN</td>
+<td>4N2 ADRE BIN ALFIYAN</td>
+</tr>
+<tr style="text-align: center;">
+<td>2N1 NICHOLAS TANG ZHIJIE</td>
+<td>4N2 ASHRIEL AFIQ BIN ANUAR</td>
+</tr>
+<tr style="text-align: center;">
+<td>2N1 NYLA BATRISYIA EVBUOMWAN</td>
+<td>4N2 DARREN SIM ZHE ZHENG</td>
+</tr>
+<tr style="text-align: center;">
+<td>2T2 ADLIN ILYANA AZMAN</td>
+<td>4N2 NAYLI FRYSHA JEFFERY</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 CHLOE HO YI XUAN</td>
+<td>4N2 NG WEI QIANG PERRY</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 NADIRA AISYAH SHAHRIN</td>
+<td>4N2 NG WEN XI</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 ZHENG JINGXUAN</td>
+<td>4N2 NUR ALISHAH MUHAMMAD NUR MUBIIN</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 VICKY ANG HUIQI</td>
+<td>4N2 NURUL HANIS BINTE ROSLI</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 MUHAMMAD KHAIRUN RAIYAN</td>
+<td>4N2 PUTERI RINA MARIANA BINTE RA'INE</td>
+</tr>
+<tr style="text-align: center;">
+<td>3E1 MAK KAI XIN</td>
+<td>4N2 SHARFINA BINTE MUHAMMAD&nbsp;SHAHRIZAL</td>
+</tr>
+<tr>
+<td style="text-align: center;">3E1 TAN YI XUAN</td>
+<td style="text-align: center;">4N2 TAN IG JUN, KEANE&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><span style="text-decoration: underline;"><strong>The Queens&rsquo; Commonwealth Essay Competition 2020</strong></span></p>
+<img style="width: 50%;" src="/images/Commonwealth%20Essay%20Competition%20logo.jpg" />
+<div style="text-align: center;">Award Winners from Ahmad Ibrahim Secondary School&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Junior Category</strong></div>
+<div style="text-align: center;"><strong>Silver Award Winners</strong></div>
+<div style="text-align: center;">1E1 Maya Zarifah Binte Zulkana (<strong><a href="/files/S1-E1%20MAYA%20ZARIFAH%20BINTE%20ZULKANAI.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">1E1 Rachel Chew Rui Qi&nbsp;(<strong><a href="/files/S1-E1%20RACHEL%20CHEW%20RUI%20QI.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">1E2 Dawn Alethea Lowe En&nbsp;(<strong><a href="/files/poem_1E2_Dawn%20Alethea%20Lowe%20En_136%20.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">1E3 Tan Xing Ting Gracia&nbsp;(<strong><a href="/files//Tan%20Xing%20Ting%20Gracia_1E3.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Bronze Award Winners</strong></div>
+<div style="text-align: center;">1E1 Haryz Aiman Bin Mohamed Sophian</div>
+<div style="text-align: center;">1E1 Heidi Chng</div>
+<div style="text-align: center;">1E1 Loh Yi-An Ian</div>
+<div style="text-align: center;">1E1 Phoebe Michelle Tan Wen Jin</div>
+<div style="text-align: center;">1E3 Hana Nurhusna</div>
+<div style="text-align: center;">1E3 Klenn Yuan Jun Teo</div>
+<div style="text-align: center;">1E3 Lekisha M</div>
+<div style="text-align: center;">1E3 Masroora Mohamed Manaseer</div>
+<div style="text-align: center;">1E4 Ng Jun Xi, Brayden</div>
+<div style="text-align: center;">1E4 Sim Shi Ting</div>
+<div style="text-align: center;">2E2 Audreya Suvanto</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Senior Category</strong></div>
+<div style="text-align: center;"><strong>Silver Award Winners</strong></div>
+<div style="text-align: center;">2E2 Nadira Aisyah Shahrin&nbsp;(<strong><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Curriculum/English/Commonwealth%20Essay%20Competition/Writeup/Nadira%20Aisyah%20Shahrin_2E2.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">4E3 Winston Leong&nbsp;(<strong><a href="https://ahmadibrahimsec.moe.edu.sg/qql/slot/u529/Curriculum/English/Commonwealth%20Essay%20Competition/Writeup/Winston%20Leong_4E3.pdf" target="_blank" rel="noopener">Write up</a></strong>)</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><strong>Bronze Award Winners</strong></div>
+<div style="text-align: center;">4N1 Joey Chong Jing Yee</div>
+<div style="text-align: center;">4N2 Almagro Karl Drew Rubio</div>
+<div style="text-align: center;">4N2 Dewi Diantirani Binte M Mohamed Salleh</div>
+<div style="text-align: center;">4N2 Ru Bing Rachel</div>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
