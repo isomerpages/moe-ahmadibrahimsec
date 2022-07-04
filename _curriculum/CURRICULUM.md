@@ -57,17 +57,17 @@ description: ""
 <p style="text-align: center;">Art and Craft</p>
 <p style="text-align: center;"><strong>DESIGN AND TECHNOLOGY</strong></p>
 <a href="/curriculum/aesthetics-and-craft/design-n-technology">
-<img style="width: 40%;" src="/images/NPCC%20Thumbnail%20website.jpg" /></a>
-<p style="text-align: center;">Aims to develop its members as confident person, self-directed learner, active contributor and concerned citizen through its wide range of activities</p>
-<p style="text-align: center;"><strong>SCOUTS</strong></p>
-<a href="/co-curriculum/uniformed-groups/scouts">
-<img style="width: 40%;" src="/images/ai%20scouts%20thumbnail.jpg" />
+<img style="width: 40%;" src="/images/D&T.png" /></a>
+<p style="text-align: center;">Group of dedicated teachers who are passionate about helping students to be more creative and independent in their learning</p>
+<p style="text-align: center;"><strong>NUTRITION AND FOOD SCIENCE (NFS)</strong></p>
+<a href="/curriculum/aesthetics-and-craft/nutrition-n-food-science-nfs">
+<img style="width: 40%;" src="/images/NFS.jpg" />
 </a>
-<p style="text-align: center;">Each scout a gentleman clean in thought, word and deed who strives to be a servant leader.</p>
-<p style="text-align: center;"><strong>ST JOHN BRIGADE SINGAPORE</strong></p>
-<a href="/co-curriculum/uniformed-groups/st-john-brigade-singapore">
-<img style="width: 40%;" src="/images/ai%20sjab%20thumbnail.jpg" /></a>
-<p style="text-align: center;">"PRO FIDE" and "PRO UTILITATE HOMINUM" ("For the faith" and "For the service of mankind")</p>
+<p style="text-align: center;">To develop students' understanding of concepts of nutrition and meal planning.</p>
+<p style="text-align: center;"><strong>MUSIC</strong></p>
+<a href="/curriculum/aesthetics-and-craft/music">
+<img style="width: 40%;" src="/images/music.png" /></a>
+<p style="text-align: center;">We believe that our students are musical and have the ability to express themselves musically.</p>
 
 <h4><strong>MOTHER TONGUE</strong></h4>
 <p style="text-align: center;"><strong>CONCERT BAND</strong></p>
