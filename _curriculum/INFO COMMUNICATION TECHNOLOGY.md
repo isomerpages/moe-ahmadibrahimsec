@@ -1,6 +1,6 @@
 ---
 title: INFO COMMUNICATION TECHNOLOGY
-permalink: /curriculum/info-communication-technology
+permalink: /curriculum/info-communication-technology/
 description: ""
 ---
 <h4><strong>About Us</strong></h4>

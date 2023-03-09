@@ -1,6 +1,6 @@
 ---
 title: SCHOOL & STUDENT ACHIEVEMENTS
-permalink: /achievements/school-n-student-achievements
+permalink: /achievements/school-n-student-achievements/
 description: ""
 ---
 <div>

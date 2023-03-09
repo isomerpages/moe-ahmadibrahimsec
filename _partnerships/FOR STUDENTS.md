@@ -1,6 +1,6 @@
 ---
 title: FOR STUDENTS
-permalink: /partnerships/for-students
+permalink: /partnerships/for-students/
 description: ""
 ---
 <h4><strong>Useful Links<br /></strong></h4>

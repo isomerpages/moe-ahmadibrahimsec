@@ -1,6 +1,6 @@
 ---
 title: School Organisation Chart
-permalink: /about-us/school-organisation-chart
+permalink: /about-us/school-organisation-chart/
 description: ""
 ---
 <h3>School Leaders</h3>

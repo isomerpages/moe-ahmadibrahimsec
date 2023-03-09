@@ -1,6 +1,6 @@
 ---
 title: SCHOOL MATTERS
-permalink: /partnerships/school-matters
+permalink: /partnerships/school-matters/
 description: ""
 ---
 <h4><strong>Information</strong></h4>

@@ -1,6 +1,6 @@
 ---
 title: ACTIVE LEARNING PROGRAMME
-permalink: /curriculum/active-learning-programme
+permalink: /curriculum/active-learning-programme/
 description: ""
 ---
 <h4><strong>Overview</strong></h4>

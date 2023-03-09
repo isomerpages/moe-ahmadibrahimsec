@@ -1,6 +1,6 @@
 ---
 title: UNIFORMED GROUPS
-permalink: /achievements/cca-achievements/past-cca-achievements/uniformed-groups
+permalink: /achievements/cca-achievements/past-cca-achievements/uniformed-groups/
 description: ""
 ---
 <table class="iveo_table ives_tab_simple3" style="width: 658px;" width="0">

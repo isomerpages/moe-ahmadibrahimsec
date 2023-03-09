@@ -1,6 +1,6 @@
 ---
 title: PHYSICAL EDUCATION
-permalink: /curriculum/physical-education
+permalink: /curriculum/physical-education/
 description: ""
 ---
 <h4><strong>About Us</strong></h4>

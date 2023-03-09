@@ -1,6 +1,6 @@
 ---
 title: CURRICULUM
-permalink: /curriculum
+permalink: /curriculum/
 description: ""
 ---
 <p style="text-align: center;"><strong>ENGLISH</strong></p>

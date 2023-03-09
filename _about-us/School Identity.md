@@ -1,6 +1,6 @@
 ---
 title: School Identity
-permalink: /about-us/school-identity
+permalink: /about-us/school-identity/
 description: ""
 ---
 <img src="/images/schoolidentity.png" />

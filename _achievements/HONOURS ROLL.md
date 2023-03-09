@@ -1,6 +1,6 @@
 ---
 title: HONOURS ROLL
-permalink: /achievements/honours-roll
+permalink: /achievements/honours-roll/
 description: ""
 ---
 <h4><strong>Izwan Bin Indra, 2018&nbsp;Chong Pang's Next Top Speaker</strong></h4>

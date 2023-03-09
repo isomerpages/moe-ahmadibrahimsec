@@ -1,6 +1,6 @@
 ---
 title: SSSC AWARD
-permalink: /achievements/cca-achievements/sssc-award
+permalink: /achievements/cca-achievements/sssc-award/
 description: ""
 third_nav_title: CCA Achievements
 ---

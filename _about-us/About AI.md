@@ -1,6 +1,6 @@
 ---
 title: About AI
-permalink: /about-us/about-ai
+permalink: /about-us/about-ai/
 description: ""
 ---
 <h3>School Philosophy, Culture and Ethos</h3>

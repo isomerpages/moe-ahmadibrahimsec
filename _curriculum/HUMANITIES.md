@@ -1,6 +1,6 @@
 ---
 title: HUMANITIES
-permalink: /curriculum/humanities
+permalink: /curriculum/humanities/
 description: ""
 ---
 <h4><strong>About Us</strong></h4>

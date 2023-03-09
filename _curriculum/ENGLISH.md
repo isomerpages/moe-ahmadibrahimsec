@@ -1,6 +1,6 @@
 ---
 title: ENGLISH
-permalink: /curriculum/english
+permalink: /curriculum/english/
 description: ""
 ---
 <h4><strong>About Us</strong></h4>

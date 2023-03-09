@@ -1,6 +1,6 @@
 ---
 title: CLUB & SOCIETY
-permalink: /achievements/cca-achievements/club-n-society
+permalink: /achievements/cca-achievements/club-n-society/
 description: ""
 third_nav_title: CCA Achievements
 ---

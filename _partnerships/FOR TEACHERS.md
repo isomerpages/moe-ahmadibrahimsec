@@ -1,6 +1,6 @@
 ---
 title: FOR TEACHERS
-permalink: /partnerships/for-teachers
+permalink: /partnerships/for-teachers/
 description: ""
 ---
 <h4><strong>Useful Links</strong><br /><br /></h4>

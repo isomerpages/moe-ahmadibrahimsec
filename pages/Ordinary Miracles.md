@@ -1,6 +1,6 @@
 ---
 title: Ordinary Miracles
-permalink: /ordinary-miracles
+permalink: /ordinary-miracles/
 description: ""
 ---
 <p><iframe src="https://www.youtube.com/embed/0nOnZaA-rvg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />Introduced in 2014, it has become an AI tradition for students to recollect significant moments that touched them in the year. We call it Ordinary Miracles@AI. It gives students the opportunity to express what they appreciate of the school, teachers and classmates.</p>

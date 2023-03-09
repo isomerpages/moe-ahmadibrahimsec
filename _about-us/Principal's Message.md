@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
 <h3><strong>Who am I?</strong></h3>

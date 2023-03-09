@@ -1,6 +1,6 @@
 ---
 title: School Calendar
-permalink: /about-us/school-calendar
+permalink: /about-us/school-calendar/
 description: ""
 ---
 <p>Calendar Widget</p>

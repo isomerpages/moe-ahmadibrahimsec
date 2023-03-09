@@ -1,6 +1,6 @@
 ---
 title: MATHEMATICS
-permalink: /curriculum/mathematics
+permalink: /curriculum/mathematics/
 description: ""
 ---
 <h4><strong>About Us</strong></h4>

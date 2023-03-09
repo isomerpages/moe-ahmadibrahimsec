@@ -1,6 +1,6 @@
 ---
 title: N LEVEL RESULTS
-permalink: /achievements/n-level-results
+permalink: /achievements/n-level-results/
 description: ""
 ---
 <h4><strong>2019</strong></h4>

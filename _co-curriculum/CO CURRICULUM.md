@@ -1,6 +1,6 @@
 ---
 title: CO CURRICULUM
-permalink: /co-curriculum
+permalink: /co-curriculum/
 description: ""
 ---
 <h4><strong>STUDENT DEVELOPMENT</strong></h4>

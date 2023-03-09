@@ -1,6 +1,6 @@
 ---
 title: PERFORMING ARTS
-permalink: /achievements/cca-achievements/past-cca-achievements/performing-arts
+permalink: /achievements/cca-achievements/past-cca-achievements/performing-arts/
 description: ""
 ---
 <table width="0">

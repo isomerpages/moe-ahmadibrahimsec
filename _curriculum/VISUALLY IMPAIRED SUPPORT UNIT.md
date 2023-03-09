@@ -1,6 +1,6 @@
 ---
 title: VISUALLY IMPAIRED SUPPORT UNIT
-permalink: /curriculum/visually-impaired-support-unit
+permalink: /curriculum/visually-impaired-support-unit/
 description: ""
 ---
 <h4><strong>Our Mission</strong></h4>

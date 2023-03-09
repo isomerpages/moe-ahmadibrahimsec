@@ -1,6 +1,6 @@
 ---
 title: OUTSTANDING ACHIEVEMENTS
-permalink: /achievements/outstanding-achievements
+permalink: /achievements/outstanding-achievements/
 description: ""
 ---
 <h4>2018<br /><strong>AI Student Excellence Award</strong></h4>

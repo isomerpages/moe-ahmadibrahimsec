@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /about-us/direct-school-admission
+permalink: /about-us/direct-school-admission/
 description: ""
 ---
 <h3><strong>DSA-Sec Exercise 2022</strong></h3>

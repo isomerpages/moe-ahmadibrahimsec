@@ -1,6 +1,6 @@
 ---
 title: SCIENCE
-permalink: /curriculum/science
+permalink: /curriculum/science/
 description: ""
 ---
 <h4><strong>About Us</strong></h4>

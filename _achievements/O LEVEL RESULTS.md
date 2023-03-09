@@ -1,6 +1,6 @@
 ---
 title: O LEVEL RESULTS
-permalink: /achievements/o-level-results
+permalink: /achievements/o-level-results/
 description: ""
 ---
 <h4><strong>2019</strong></h4>

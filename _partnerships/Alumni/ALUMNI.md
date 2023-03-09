@@ -1,6 +1,6 @@
 ---
 title: ALUMNI
-permalink: /partnerships/alumni
+permalink: /partnerships/alumni/
 description: ""
 third_nav_title: Alumni
 ---
