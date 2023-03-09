@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-ahmadibrahimsec-staging.netlify.app
-prod: https://moe-ahmadibrahimsec-prod.netlify.app
+staging: https://staging.dxta9dqb83ltq.amplifyapp.com/
+prod: https://master.dxta9dqb83ltq.amplifyapp.com/
 resources_name: aiss-announcements
 shareicon: /images/isomer-logo.svg
 is_government: false
