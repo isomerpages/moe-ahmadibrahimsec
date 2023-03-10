@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Matters/Exam Timetable.md
       - School Matters/School Timetable.md
       - School Matters/Books & Stationery List (2023).md
       - School Matters/.keep
