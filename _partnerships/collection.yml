@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Matters/.keep
       - For Parents/.keep
       - For Parents/FOR PARENTS.md
       - For Parents/USEFUL LINKS & INFORMATION.md
