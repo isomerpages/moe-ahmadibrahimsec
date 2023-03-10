@@ -27,10 +27,10 @@ links:
         url: /about-us/frequently-asked-questions-faq
   - title: ORDINARY MIRACLES
     url: /ordinary-miracles
-  - title: CURRICULUM
-    url: /curriculum
-  - title: CO-CURRICULUM
-    url: /co-curriculum
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
   - title: ACHIEVEMENTS
     url: /achievements/o-level-results
     sublinks:
