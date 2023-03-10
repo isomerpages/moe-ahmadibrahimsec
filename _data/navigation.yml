@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: ORDINARY MIRACLES
-    url: /ordinary-miracles
   - title: ABOUT US
     url: /about-us/principals-message
     sublinks:
@@ -27,6 +25,8 @@ links:
         url: https://sites.google.com/moe.edu.sg/aisse-openhouse2021/home
       - title: FREQUENTLY ASKED QUESTIONS
         url: /about-us/frequently-asked-questions-faq
+  - title: ORDINARY MIRACLES
+    url: /ordinary-miracles
   - title: CURRICULUM
     url: /curriculum
   - title: CO-CURRICULUM
