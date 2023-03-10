@@ -13,7 +13,7 @@ third_nav_title: School Matters
 <ul>
 <li><strong>Sec 1&nbsp;</strong><strong><br />-&nbsp;<a href="/files/S1%20EXP.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S1%20NA%20Combined.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S1%20NT&20Combined.pdf" target="_blank" rel="noopener">Normal Technical</a><br /><br /></li>
 	
-<li><strong>Sec 2</strong><br />-&nbsp;<a href="/files/S2%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S2%20NA&20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S2%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+<li><strong>Sec 2</strong><br />-&nbsp;<a href="/files/S2%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S2%20NA&20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S2%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a>
 
 <li><strong>Sec 3</strong><br />-&nbsp;<a href="/files/S3%20EXP&20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S3%20NA%20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S3%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 
@@ -60,7 +60,8 @@ For those who opt for self-collection, please note the dates available for coll
   
 <h4>WALK-IN PURCHASE</h4><br>
 
-<p>As part of safe management measures, the school strongly encourages appointments to be made for walk-in purchase. Those with scheduled appointment will receive priority. Appointments can made at our vendor website [Register.ezy-queue.com](https://register.ezy-queue.com/) or through the app PBS EzyQ (available on iOS and Android). The appointment system will be available from 14 Nov 22.</p><br>
+<p>As part of safe management measures, the school strongly encourages appointments to be made for walk-in purchase. Those with scheduled appointment will receive priority. Appointments can made at our vendor website <a href="https://register.ezy-queue.com/">Register.ezy-queue.com</a>
+ or through the app PBS EzyQ (available on iOS and Android). The appointment system will be available from 14 Nov 22.</p><br>
 
 <b>NB: This e-appointment will allow entry into the school for purchase from all vendors (i.e. textbooks and school attire)</b><br>
 
