@@ -2,12 +2,12 @@ collections:
   partnerships:
     output: true
     order:
-      - School Matters/Useful Links.md
-      - School Matters/Parents Gateway.md
-      - School Matters/Exam Timetable.md
-      - School Matters/School Timetable.md
-      - School Matters/Books & Stationery List (2023).md
       - School Matters/.keep
+      - School Matters/Books & Stationery List (2023).md
+      - School Matters/School Timetable.md
+      - School Matters/Exam Timetable.md
+      - School Matters/Parents Gateway.md
+      - School Matters/Useful Links.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Useful Links & Information.md
