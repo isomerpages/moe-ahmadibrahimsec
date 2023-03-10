@@ -78,6 +78,6 @@ For those who opt for self-collection, please note the dates available for coll
 
   
 <p>
-\* Onsite/walk-in purchase will not be available at Pacific Bookstores Headquarters.</p><br><br>
+\* Onsite or walk-in purchase will not be available at Pacific Bookstores Headquarters.</p><br><br>
 <p>
-\*\* Onsite/walk-in purchase will not be available at Blue Stag Headquarters.</p>
+\*\* Onsite or walk-in purchase will not be available at Blue Stag Headquarters.</p>
