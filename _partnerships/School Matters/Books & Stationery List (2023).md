@@ -86,5 +86,3 @@ Those who walk-in without an appointment will have to wait for the next availabl
 \* Onsite/walk-in purchase will not be available at Pacific Bookstores Headquarters.
 
 \*\* Onsite/walk-in purchase will not be available at Blue Stag Headquarters.
-
-
