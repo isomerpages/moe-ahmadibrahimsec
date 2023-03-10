@@ -25,11 +25,11 @@ third_nav_title: School Matters
 <li><strong><a href="/files/S5%20NA%20final.pdf" target="_blank" rel="noopener">Sec 5</a></strong></li>
 </ul>
 
-#### End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2023  
+<h3>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2023</h4> 
 <br>
   
 
-<b>ONLINE PURCHASE</b><br>
+<p><b>ONLINE PURCHASE</b></p><br>
 
 <p>Due to COVID-19 situation, parents are strongly encouraged to purchase textbooks and school attire online.</p><br>
 
