@@ -3,6 +3,11 @@ title: For Students
 permalink: /partnerships/for-students/
 description: ""
 ---
+<h4>Announcements</h4><br>
+<p><a href="https://go.gov.sg/aissecg">Appointment for ECG counselling session</a></p>
+
+
+
 
 <h4><strong>Useful Links<br /></strong></h4>
 <ul>
