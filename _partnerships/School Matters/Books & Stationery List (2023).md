@@ -15,15 +15,19 @@ third_nav_title: School Matters
 <li><strong>Sec 1&nbsp;</strong><strong><br />-&nbsp;<a href="/files/S1%20EXP.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S1%20NA%20Combined.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S1%20NT&20Combined.pdf" target="_blank" rel="noopener">Normal Technical</a><br /><br /></li>
 <li><strong>Sec 2</strong><br />-&nbsp;<a href="/files/S2%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S2%20NA&20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S2%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 </ul>
+
 <ul>
-<li><strong>Sec 3</strong><br />-&nbsp;<a href="/files/3%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/3%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/3%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+<li><strong>Sec 3</strong><br />-&nbsp;<a href="/files/S3%20EXP&20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S3%20NA%20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S3%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 </ul>
 <ul>
-<li><strong>Sec 4</strong><br />-&nbsp;<a href="/files/4%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/4%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/4%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+<li><strong>Sec 4</strong><br />-&nbsp;<a href="/files/S4%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S4%20NA%20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S4%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 </ul>
+
 <ul>
-<li><strong><a href="/files/AISS%20S5%20NA_updated%203%20Jan%2021.pdf" target="_blank" rel="noopener">Sec 5</a></strong><strong><em><br />(Updated on 3 Jan 22)</em></strong></li>
+<li><strong><a href="/files/S5%20NA%20final.pdf" target="_blank" rel="noopener">Sec 5</a></strong></li>
 </ul>
+
+
 <h4><strong>Purchase of Uniform attire (2021)</strong></h4>
 <p>From January 2021<br />Only at Retail Outlet at Sembawang Shopping Centre (#02-13)</p>
 <p>Mondays to Saturdays<br />11.30 am to 8.00 pm</p>
