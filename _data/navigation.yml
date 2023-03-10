@@ -1,30 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: ABOUT US
-    url: /about-us/principals-message
-    sublinks:
-      - title: PRINCIPAL'S MESSAGE
-        url: /about-us/principals-message
-      - title: ABOUT AI
-        url: /about-us/about-ai
-      - title: AI DISTINCTIVE PROGRAMMES
-        url: /about-us/ai-distinctive-programmes/outdoor-learning-experience-ole
-      - title: SCHOOL HISTORY
-        url: /about-us/school-history
-      - title: SCHOOL IDENTITY
-        url: /about-us/school-identity
-      - title: SCHOOL ORGANISATION CHART
-        url: /about-us/school-organisation-chart
-      - title: SEC 1 REGISTRATION INFORMATION
-        url: https://sites.google.com/aiss.edu.sg/sec1registration/home
-      - title: SCHOOL CALENDAR
-        url: https://calendar.google.com/calendar/u/0/r?cid=dlft2tdrsu2l9leh26irie01g0@group.calendar.google.com
-      - title: DIRECT SCHOOL ADMISSION
-        url: /about-us/direct-school-admission
-      - title: E-OPEN HOUSE
-        url: https://sites.google.com/moe.edu.sg/aisse-openhouse2021/home
-      - title: FREQUENTLY ASKED QUESTIONS
-        url: /about-us/frequently-asked-questions-faq
+  - title: About Us
+    collection: about-us
   - title: ORDINARY MIRACLES
     url: /ordinary-miracles
   - title: Curriculum
