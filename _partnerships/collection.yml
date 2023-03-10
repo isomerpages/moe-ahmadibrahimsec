@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Matters/Useful Links.md
       - School Matters/Parents Gateway.md
       - School Matters/Exam Timetable.md
       - School Matters/School Timetable.md
