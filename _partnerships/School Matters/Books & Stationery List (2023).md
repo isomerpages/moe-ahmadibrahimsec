@@ -8,10 +8,12 @@ third_nav_title: School Matters
 <p>One stop page for all school matters including school timetable, exam timetable, booklist etc.</p>
 
 <h4><strong>Booklist &amp; Stationery List (2022)</strong></h4>
-<p>Booklist &amp; Stationery list for Year 2022 will be updated soon.<br />Please come back again on a later date.<br /><br /></p>
+
+[exp](/files/S1%20EXP.pdf)
+
 <ul>
-<li><strong>Sec 1&nbsp;</strong><strong>(Updated on 3 Jan 22)</strong><br />-&nbsp;<a href="/files/AISS%20S1%20EXP%20Booklist.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/AISS%20S1%20NA%20Booklist.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/AISS%20S1%20NT%20Booklist.pdf" target="_blank" rel="noopener">Normal Technical</a><br /><br /></li>
-<li><strong>Sec 2</strong><br />-&nbsp;<a href="/files/2%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/2%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/2%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
+<li><strong>Sec 1&nbsp;</strong><strong><br />-&nbsp;<a href="/files/S1%20EXP.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S1%20NA%20Combined.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S1%20NT&20Combined.pdf" target="_blank" rel="noopener">Normal Technical</a><br /><br /></li>
+<li><strong>Sec 2</strong><br />-&nbsp;<a href="/files/S2%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S2%20NA&20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S2%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 </ul>
 <ul>
 <li><strong>Sec 3</strong><br />-&nbsp;<a href="/files/3%20E.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/3%20NA.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/3%20NT.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
