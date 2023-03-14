@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Our History/Our Heritage.md
-      - Our History/Encik Ahmad Ibrahim.md
-      - Our History/Key Milestones.md
-      - Our History/Past Principals.md
-      - Our History/.keep
       - Principal's Message.md
       - Our School.md
       - Our People.md
       - Our Identity.md
+      - Our History/.keep
+      - Our History/Our Heritage.md
+      - Our History/Encik Ahmad Ibrahim.md
+      - Our History/Key Milestones.md
+      - Our History/Past Principals.md
       - Signature Programmes/.keep
       - Signature Programmes/Outdoor Learning Experience (OLE).md
       - Signature Programmes/Applied Learning Programme (ALP).md
