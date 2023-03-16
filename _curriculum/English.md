@@ -3,12 +3,17 @@ title: English
 permalink: /curriculum/english/
 description: ""
 ---
-
 <h4><strong>About Us</strong></h4>
 <p>A dedicated group of teachers who believe in the importance of building on the foundation in the English language through exposure and creative use, in reading, writing, listening and speaking.</p>
+
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Public Speaking Programme</label>
 <div>
+<p><strong>2022</strong></p>
+	<p><h5>Chong Pang's Next Top Speaker 2022</h5></p>
+<p>After a hiatus of two years due to COVID-19, Chong Pang’s Next Top Speaker was back once again. Eight students from Secondary One to Secondary Three took part in the competition, which pits the best speakers from the secondary schools in Yishun against one another. Elamaran Tarana (2E4) made the school proud by clinching the Crowd Favourite for the Impromptu Speech segment of the competition.</p>
+<img style="width: 65%;" src="/images/Izwan%20Bin%20Indra_website.jpg" />
 <p><strong>2021</strong></p>
 <p>Yishun's Next Top Speaker is a speech contest for the secondary schools in Yishun organised by the English Department of Ahmad Ibrahim Secondary School, in collaboration with Chong Pang Toastmasters Club (CPTMC). The objectives are to raise awareness amongst youth of the importance of public speaking, provide a platform for students to showcase their oratorical skills, and to provide an opportunity for students to learn from their more eloquent peers.</p>
 <p>A total of 82 students participated in the inaugural Yishun's Next Top Speaker.</p>
