@@ -376,16 +376,16 @@ Klenn and Bellelyn have also ventured forth and successfully became mentees for 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fymr"></th>
-    <th class="tg-fymr"></th>
-    <th class="tg-fymr"></th>
+    <th class="tg-fymr"><img style="width: 55%;" src="/images/eng1.jpeg" /></th>
+    <th class="tg-fymr"><img style="width: 55%;" src="/images/eng2.jpeg" /></th>
+    <th class="tg-fymr"><img style="width: 55%;" src="/images/eng3.jpeg" /></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><img style="width: 55%;" src="/images/eng4.jpeg" /></td>
+    <td class="tg-0pky"><img style="width: 55%;" src="/images/eng5.jpeg" /></td>
+    <td class="tg-0pky"><img style="width: 55%;" src="/images/eng6.jpeg" /></td>
   </tr>
 </tbody>
 </table>
