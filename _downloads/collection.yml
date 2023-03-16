@@ -1,5 +1,4 @@
 collections:
   downloads:
     output: true
-    order:
-      - Timetable.md
+    order: []
