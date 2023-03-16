@@ -60,9 +60,55 @@ description: ""
 <p>This year, the Secondary 2 students partook in an Historical Investigation activity where they explored the inquiry question: How did healthcare in Singapore change after 1965 to the late 1980s?.<p></br>
 
 <p>Through the investigation, students were better able to understand the healthcare policies, infrastructure, and services introduced by the Singapore government since independence. Students were also excited to learn more about Encik Ahmad Ibrahim, whom our school is named after. Encik Ahmad Ibrahim had served as the Minister of Health from 1959-1961 and played a significant role in tackling healthcare issues from the spread of infectious diseases to improving the quality of healthcare services in Singapore.<p></br>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr"><img style="width: 65%;" src="/images/HistoricalInvestigations1.jpg" /></th>
+    <th class="tg-fymr"><img style="width: 65%;" src="/images/HistoricalInvestigations2.jpg" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><img style="width: 65%;" src="/images/HistoricalInvestigations3.jpg" /></td>
+    <td class="tg-0pky"><img style="width: 65%;" src="/images/HistoricalInvestigations4.jpg" /></td>
+  </tr>
+</tbody>
+</table>
+<img style="width: 45%;" src="/images/HistoricalInvestigations5.jpg" />
 <p><strong>Social Studies Investigation</strong></p>
 <p>Through a digital virtual learning journey organised by Migrant X Me, our students (virtually) traversed the streets of Little India, Jalan Besar, and neighborhood. Our students took a tiny glimpse into the lives of migrant workers. Our students heard their struggles, their stories and the stigma migrant workers faced in Singapore. Drawing on the anecdotal evidence, diverse perspectives, and intensive research, our students unpacked the multifaceted issue. By undertaking Issues Investigation, our students scrutinized stereotypes, questioned their prejudices, and uncovered the complexities that shaped the issue. The students formed their conclusions and presented their findings in an infographic.</p><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr"><img style="width: 55%;" src="/images/Picture10.jpg" /></th>
+    <th class="tg-fymr"><img style="width: 55%;" src="/images/Picture11.jpg" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><img style="width: 55%;" src="/images/Picture12.jpg" /></td>
+    <td class="tg-0pky"><img style="width: 55%;" src="/images/Picture13.jpg" /></td>
+  </tr>
+</tbody>
+</table>
 </div>
 </li>
 
