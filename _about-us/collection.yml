@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners.md
       - Principal's Message.md
       - Our School.md
       - Our People.md
@@ -17,6 +16,7 @@ collections:
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/Enhance Music Programme (EMP).md
       - Our Achievements/.keep
+      - Our Partners.md
       - Sec 1 Registration.md
       - School Calendar.md
       - Direct School Admission.md
