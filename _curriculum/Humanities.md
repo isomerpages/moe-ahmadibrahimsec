@@ -31,14 +31,14 @@ description: ""
 <thead>
   <tr>
     <th class="tg-fymr"><img style="width: 55%;" src="/images/Picture1.jpg" /></th>
-    <th class="tg-fymr"><img style="width: 55%;" src="/images/Picture1.jpg" /></th>
-    <th class="tg-fymr"><img style="width: 55%;" src="/images/Picture1.jpg" /></th>
+    <th class="tg-fymr"><img style="width: 55%;" src="/images/Picture2.jpg" /></th>
+    <th class="tg-fymr"><img style="width: 55%;" src="/images/Picture3.jpg" /></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><img style="width: 55%;" src="/images/Picture1.jpg" /></td>
-    <td class="tg-0pky"><img style="width: 55%;" src="/images/Picture1.jpg" /></td>
+    <td class="tg-0pky"><img style="width: 55%;" src="/images/Picture4.jpg" /></td>
+    <td class="tg-0pky"><img style="width: 55%;" src="/images/Picture5.jpg" /></td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>
@@ -50,6 +50,52 @@ description: ""
 
  <p><a href="https://www.youtube.com/watch?v=lbIp4PZrUBg&feature=emb_logo">Watch</a> how Sec 2 GI being featured in Esri Singapore User Conference 2020.  </p>
 <p><a href="https://sites.google.com/moe.edu.sg/gisatmoe/geographies-of-yishun">Read</a> more here.</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr"><img style="width: 65%;" src="/images/Tech1.jpg" /></th>
+    <th class="tg-fymr"><img style="width: 65%;" src="/images/Tech2.jpeg" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><img style="width: 65%;" src="/images/Tech3.jpg" /></td>
+    <td class="tg-0pky"><img style="width: 65%;" src="/images/Tech4.jpg" /></td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr"><img style="width: 65%;" src="/images/Tech5.png" /></th>
+    <th class="tg-fymr"><img style="width: 65%;" src="/images/Tech6.jpg" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><img style="width: 65%;" src="/images/Tech7.jpg" /></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 	
 <p><h5>Adopting an Inquiry Approach to Develop Critical Thinkers & Self-Directed Learners</h5></p>
 	<p><strong>Geographical Investigation</strong></p>
