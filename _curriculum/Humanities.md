@@ -160,7 +160,7 @@ description: ""
 
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Learning Beyond Classroom: Fostering a Joy of Learning</label>
 <div>
-<p></p>
+<p>ok </p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Talent Development through Human Academy</label>
