@@ -354,7 +354,15 @@ Klenn and Bellelyn have also ventured forth and successfully became mentees for 
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
 <div>
 	<p></p>
+	<p><h5>English Language Day</h5></p><br>
 
+ <p>After a two-year hiatus, the English and Literature festival is back!</p><br>
+
+<p>This year, the Sec 1s enjoyed themselves tremendously doing Reader’s Theatre and Choral Reading. Students focused on reading the text with expressive voices, facial expressions, and gestures. Students were also exposed to choral reading where they gained confidence reading the text together as a group.</p><br>
+
+<p>The Sec 2s had a wonderful time dramatizing their Literature text – Perfecting Pratas. Students were given the space to express themselves confidently and use their imagination to create and achieve an improvisation of a script written entirely on their own.</p><br>
+ 
+<p>It has been a fun-filled and inspiring two days of seeing English and Literature come to life!</p><br>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Organisation chart</label>
