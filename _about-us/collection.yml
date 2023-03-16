@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Our School.md
       - Our People.md
@@ -18,4 +17,5 @@ collections:
       - Signature Programmes/Enhance Music Programme (EMP).md
       - Our Achievements/.keep
       - Our Partners.md
+      - Contact Us.md
       - Frequently Asked Questions (FAQ).md
