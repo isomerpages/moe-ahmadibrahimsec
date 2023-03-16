@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - O LEVEL RESULTS.md
-      - N LEVEL RESULTS.md
       - CCA Achievements/.keep
       - CCA Achievements/SPORTS.md
       - CCA Achievements/UNIFORMED GROUPS.md
