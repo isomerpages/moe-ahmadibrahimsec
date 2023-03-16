@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Curriculum.md
-      - ENGLISH.md
+      - English.md
       - HUMANITIES.md
       - INFO COMMUNICATION TECHNOLOGY.md
       - MATHEMATICS.md
