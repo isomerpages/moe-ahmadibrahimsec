@@ -8,21 +8,8 @@ links:
     collection: curriculum
   - title: Co-Curriculum
     collection: co-curriculum
-  - title: PARTNERSHIPS
-    url: /partnerships/for-parents
-    sublinks:
-      - title: School Matters
-        url: /partnerships/school-matters/books-stationery-list-2023/
-      - title: For Parents
-        url: /partnerships/for-parents
-      - title: For Students
-        url: /partnerships/for-students
-      - title: For Teachers
-        url: /partnerships/for-teachers
-      - title: Alumni
-        url: /partnerships/alumni
-      - title: External Organisations
-        url: /partnerships/external-organisations
+  - title: Useful Info
+    collection: useful-info
   - title: Download
     url: /download/
     sublinks:
