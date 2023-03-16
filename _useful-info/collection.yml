@@ -1,5 +1,5 @@
 collections:
-  partnerships:
+  useful-info:
     output: true
     order:
       - School Matters/.keep
