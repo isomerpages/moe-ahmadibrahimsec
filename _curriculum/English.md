@@ -363,6 +363,32 @@ Klenn and Bellelyn have also ventured forth and successfully became mentees for 
 <p>The Sec 2s had a wonderful time dramatizing their Literature text – Perfecting Pratas. Students were given the space to express themselves confidently and use their imagination to create and achieve an improvisation of a script written entirely on their own.</p><br>
  
 <p>It has been a fun-filled and inspiring two days of seeing English and Literature come to life!</p><br>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr"></th>
+    <th class="tg-fymr"></th>
+    <th class="tg-fymr"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Organisation chart</label>
