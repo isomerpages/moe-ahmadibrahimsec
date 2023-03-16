@@ -234,12 +234,121 @@ Have you ever been on a blind date with a literary read? Well, our students did 
 </table>
 	
 <p><b>The Creative Arts Programme</b></p>
+<img style="width: 55%;" src="/images/CAP2022.jpg" />
+<p>The Creative Arts Programme (CAP) is a prestigious programme jointly organised by the Gifted Education Branch of MOE and Yale-NUS College which aims to nurture talented young writers in Singapore. To participate, students will need to submit a portfolio of original works which show distinctive literary flair as well as sensitivity to the world at large.</p><br>
+	
+	
+<p>In 2021, Nadira Aisyah Shahrin from 3E1 from our Creative Writing Programme was selected to represent AISS in CAP.</p><br>
+
+<p>In 2022, Klenn Teo Yuan Jun Kai from 3E4, Avita Tang Enwei from 3E2, and Bellelyn Ong from 3E2 from our Creative Writing Programme have been selected to represent AISS in CAP.</p><br>
+
+Klenn and Bellelyn have also ventured forth and successfully became mentees for the CAP programme from 2022 to 2023. As mentees, they will work under the tutelage of published authors to further hone their repertoire of creative writing techniques.</p><br>
+
+<p>On the whole, the AISS Creative Writing Programme empowers students by giving them ample opportunity and support to find their own unique voices and express them creatively through their curated works. During this journey, they also develop a keen understanding of cultural, societal, and world issues as their pieces work to shed witty insights into such issues.</p><br>
 	
 <p><b>Student Mentors for AISS Creative Writing Programme</b></p>
+<img style="width: 55%;" src="/images/StudentMentors.jpeg" />	
+<p>Students in our writing program have the exciting opportunity to become mentors to their juniors and help them to discover their vast potential in their creative expression. Through encouraging feedback and role modelling, they nurture their juniors to revise their works and try out new and different literary styles. On 12th April 2022, our Student Mentors, Arlynn Natasha Binte Rahimi, Bellelyn Ong, Dawn Alethea Lowe En, Klenn Teo Yuan Jun Kai, Marsha Ardyana Binte Shahiman Azmi and Nadira Aisyah Shahrin received certificates of appreciation in grateful recognition and appreciation for their mentorship for our AISS Creative Writing Programme in 2021.</p><br>
 	
 <p><b>Singapore Writers' Festival 2022</b></p>
-	
+<p>AISS Creative Arts Programme writers and our Pure Literature students were treated to one of the few multi-lingual literary festivals in the world, The Singapore Writers’ Festival (SWF). Organised by Arts House Limited, SWF is a much anticipated event on the cultural calendar, presenting the world's major literary talents to Singaporeans while shining a spotlight on home grown and Southeast Asian creative talents. Students had fun engaging in meaningful conversations with the writers and attending workshops that will help them in their writing and literary works.</p><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img style="width: 55%;" src="/images/140c66b7.jpg" /></th>
+    <th class="tg-0lax"><img style="width: 55%;" src="/images/70a15699.jpg" /></th>
+    <th class="tg-0lax"><img style="width: 55%;" src="/images/b70136e7.jpg" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img style="width: 55%;" src="/images/cb772cee.jpg" /></td>
+    <td class="tg-0lax"><img style="width: 55%;" src="/images/ce356a66.jpg" /></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img style="width: 55%;" src="/images/f329ad78.jpg" /></td>
+    <td class="tg-0lax"><img style="width: 55%;" src="/images/f345f17a.jpg" /></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 <p><b>Results of 2022 Commonwealth Competition</b></p>
+<p>The Commonwealth Essay Competition, the world’s oldest international essay writing competition for students, is organised annually to provide opportunities for young people to express their thoughts on current global issues.</p><br>
+
+<p>To find out more, please access the link here:<a href="https://www.royalcwsociety.org/essay-competition">https://www.royalcwsociety.org/essay-competition</a>.</p><br>
+
+<p>We are pleased to announce this year’s winners from Ahmad Ibrahim Secondary School. The good news is that there were not one but four Gold Award winners..</p><br>
+
+<p>Congratulations to all participants! May you continue to express your ideas through writing and harness the power that your voice holds within your immediate and global community. You can be the change you wish to see so please continue to write for a better world..</p><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Gold</th>
+    <th class="tg-1wig">Silver</th>
+    <th class="tg-1wig">Bronze</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Nyla Batrisyia Evbuomwan, 3N1</td>
+    <td class="tg-0lax">Lucas Lim Jun Hui, 2E1</td>
+    <td class="tg-0lax">Nur Insyirah binte Mohamed Azhar, 4E2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Anagha Jiji, 2E3</td>
+    <td class="tg-0lax">Wichelle Tan, 2E1</td>
+    <td class="tg-0lax">Ting Ze En Ada, 3E4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Derick Goh Zhen Yu, 2E4</td>
+    <td class="tg-0lax">Jamie Toh Jin Yi, 2E1</td>
+    <td class="tg-0lax">Jayden Png Jun Eng, 3N1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Terry Zhang, 2E4</td>
+    <td class="tg-0lax">Caden Toh, 2E3</td>
+    <td class="tg-0lax">Caleb Ng Jin Kai, 2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Chong Ning Xin, 2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Chua Wee Jia, 2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Tan Kai Leng, 2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Ng Yu Xuan Constance, 1N1</td>
+  </tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
