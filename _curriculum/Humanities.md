@@ -43,9 +43,38 @@ description: ""
   </tr>
 </tbody>
 </table>
+<p><strong>Developing Spatial Thinkers using Technology</strong></p>
+ <p>The COVID-19 situation has posed limitations to group-based Geographical Fieldwork. However, this did not stop our students from engaging in meaningful activities that helped them visualize space. With the aid of technology and Geographical Information Systems (GIS), we brought the world into Geography classrooms. Equipped with iPads and interactive maps, students navigated different layers of information to learn about topics such as global water storages and the location of tropical rainforests around the world. Using Google Maps, students were also able to embark on virtual fieldtrips around the world.</p><br>
+
+<p>As part of their Geographical Investigation, Secondary 2 students also utilized GIS and digital maps to investigate what makes Chong Pang City special to its residents. Digital maps allowed students to learn about the age of HDB flats surrounding Chong Pang, and the range of facilities and amenities in Chong Pang City. Through student reflections and mental maps, students gained an enriched understanding of what makes Chong Pang City special to its residents.</p><br>
+
+ <p><a href="https://www.youtube.com/watch?v=lbIp4PZrUBg&feature=emb_logo">Watch</a> how Sec 2 GI being featured in Esri Singapore User Conference 2020.  </p>
+<p><a href="https://sites.google.com/moe.edu.sg/gisatmoe/geographies-of-yishun">Read</a> more here.</p>
+	
+<p><h5>Adopting an Inquiry Approach to Develop Critical Thinkers & Self-Directed Learners</h5></p>
+	<p><strong>Geographical Investigation</strong></p>
+<img style="width: 65%;" src="/images/Picture6.jpg" />
+<p>With Singapore facing the challenges of an ageing population, our Secondary 2 students investigated if Yishun is an inclusive place for the elderly. With the ease in Covid-19 measurements, the students could finally embark on a learning journey! Students conducted independent field investigations on the inclusivity of facilities and walking paths in Chong Pang. At the end of the investigation, our Secondary 2 Geographers put on their thinking caps and came up with proposals to improve the facilities and walking paths of Chong Pang City, such as an increased number of benches as resting points for the elderly. Overall, the GI not only offered them an opportunity to hone their critical thinking skills but to also make a difference in the lives of others.</p>
+	
+<p><strong>Historical Investigation</strong></p>
+<p>This year, the Secondary 2 students partook in an Historical Investigation activity where they explored the inquiry question: How did healthcare in Singapore change after 1965 to the late 1980s?.<p></br>
+
+<p>Through the investigation, students were better able to understand the healthcare policies, infrastructure, and services introduced by the Singapore government since independence. Students were also excited to learn more about Encik Ahmad Ibrahim, whom our school is named after. Encik Ahmad Ibrahim had served as the Minister of Health from 1959-1961 and played a significant role in tackling healthcare issues from the spread of infectious diseases to improving the quality of healthcare services in Singapore.<p></br>
+
+<p><strong>Social Studies Investigation</strong></p>
+<p>Through a digital virtual learning journey organised by Migrant X Me, our students (virtually) traversed the streets of Little India, Jalan Besar, and neighborhood. Our students took a tiny glimpse into the lives of migrant workers. Our students heard their struggles, their stories and the stigma migrant workers faced in Singapore. Drawing on the anecdotal evidence, diverse perspectives, and intensive research, our students unpacked the multifaceted issue. By undertaking Issues Investigation, our students scrutinized stereotypes, questioned their prejudices, and uncovered the complexities that shaped the issue. The students formed their conclusions and presented their findings in an infographic.</p><br>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Organisation Chart</label>
+
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Learning Beyond Classroom: Fostering a Joy of Learning</label>
+<div>
+<p></p>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Talent Development through Human Academy</label>
+<div>
+<p></p>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Organisation Chart</label>
 <div>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
