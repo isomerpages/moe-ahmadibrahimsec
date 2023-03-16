@@ -150,6 +150,9 @@ description: ""
 <b>Assembly Sharing</b><br>
 
 <p>Our Reading Programme also gave voice to literature by inviting local Singaporean author and activist, Ms Cassandra Chiu. Ms Chiu shared her experience growing up as a blind person in Singapore as well as being the first woman to have a guide dog in Singapore. Students even had the opportunity to meet Ms Cassandra Chiu and her guide dog, Esme, up close and personal and had their books autographed!</p><br>
+<img style="width: 65%;" src="/images/RP1.jpg" />
+<img style="width: 65%;" src="/images/RP2.jpg" />
+<img style="width: 65%;" src="/images/RP3.jpg" />
 	
 <b>Top Borrowers 2022</b><br>
 
@@ -157,20 +160,20 @@ description: ""
 <p>Each term, we round up our top readers in the school and present them with a certificate and vouchers to encourage readership in our community.</p><br>
 
 <p><b>Past Events: Library Activities</b></p><br>
-
-  
+<img style="width: 65%;" src="/images/TopBorrowers.jpg" />
+	
 <p>CRIME SCENE INVESTIGATION at AISS Library</p><br>
 
   
 
 “Help! Someone has been murdered and we need your help!” posters around the school called for our students’ immediate attention to solve a murder mystery at our library in 2020. They enjoyed investigating the various clues and even managed to clinch attractive prizes as they solved the intriguing mystery. Beyond the suspenseful activity, they also got the chance to explore a wide array of Mystery, Thriller, and Crime novels, and gained a greater understanding of this genre.</p><br>
-	
-	
-	<p><b>VALENTINE’S DAY with AISS LIBRARY</b></p><br>
+<img style="width: 65%;" src="/images/CSI1.jpeg" />
+<img style="width: 65%;" src="/images/CSI2.jpeg" />
+<p><b>VALENTINE’S DAY with AISS LIBRARY</b></p><br> 
 
-  
-
-Have you ever been on a blind date with a literary read? Well, our students did so on Valentine’s Day in 2020 where they got to pick any of the wrapped books which caught their eyes. Page by page, they learn that like people, there is more than meets the eye with a book.</p><br>
+<p>Have you ever been on a blind date with a literary read? Well, our students did so on Valentine’s Day in 2020 where they got to pick any of the wrapped books which caught their eyes. Page by page, they learn that like people, there is more than meets the eye with a book.
+</p><br>
+<img style="width: 65%;" src="/images/ValentinesDay.jpeg" />
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Writing Programme</label>
