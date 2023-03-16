@@ -729,9 +729,11 @@ description: ""
 	
 <p><b>The Creative Arts Programme</b></p>
 	
-<p><b>2022 Creative Writing Camp</b></p>
+<p><b>Student Mentors for AISS Creative Writing Programme</b></p>
 	
-<p><b>2022 Creative Writing Camp</b></p>
+<p><b>Singapore Writers' Festival 2022</b></p>
+	
+<p><b>Results of 2022 Commonwealth Competition</b></p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
