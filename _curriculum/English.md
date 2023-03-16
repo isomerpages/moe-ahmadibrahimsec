@@ -673,6 +673,65 @@ description: ""
 	<p>Writing as a performing art? With singing and serenading to boot?</p><br>
 <p>This year’s Creative Writing workshop conducted during the first week of the June holidays was a great cathartic release from the online versions conducted over the past two pandemic years. While acquiring writing strategies over online sessions was plausible, nothing could beat meeting face-to-face. Students enjoyed impressing their peers with their brave attempts at acrostic poetries, visual poetries or prose embellished with detailed descriptions enhanced by carefully chosen literary devices. There was also a sensory walk to the nearby Sembawang Hotsprings to stimulate participants’ imaginations.</p><br>
 <p>Two workshops by established contemporary Singapore writers, Balli Kaur Jaswal and Jennifer Anne Champion, were also conducted, giving participants greater insights into the myriad possibilities of writing.</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img style="width: 65%;" src="/images/IMG8870.jpg" /></th>
+    <th class="tg-0lax"><img style="width: 65%;" src="/images/IMG8876.jpg" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img style="width: 65%;" src="/images/IMG8902.jpg" /></td>
+    <td class="tg-0lax"><img style="width: 65%;" src="/images/IMG8916.jpg" /></td>
+  </tr>
+</tbody>
+</table>
+<p><b>2022 Creative Writing Camp</b></p>
+<p>Picture this. The words you have penned on paper dances to the beat of spoken word poetry or plays with images to form multimodal works of art, enchanting your audience.</p><br>
+<p>This is what students from our AISS Creative Writing Program experienced during this year’s Creative Writing Camp, conducted during the first week of the June’s holidays. It was a great cathartic release from the online versions conducted over the past two pandemic years. While acquiring writing strategies over online sessions was plausible, nothing could beat meeting face-to-face.</p><br>
+<p>Through a series of workshops led by our teachers as well as established contemporary Singapore writers, Balli Kaur Jaswal and Jennifer Anne Champion, students gained great insights into the myriad possibilities of writing. Not only that, but they also went on a sensory walk to the nearby Sembawang Hot Spring Park and gained an immersive experience on how creative works can be inspired by what we see, hear, smell and so on.</p><br>
+
+<p>By the end of the camp, they learned how to bring their written words to life as they performed or presented their works in front of an audience. It was a joy to see them impressing their peers with their brave attempts at acrostic poetries, visual poetries or prose embellished with detailed descriptions enhanced by carefully chosen literary devices.</p><br>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+	
+<p><b>The Creative Arts Programme</b></p>
+	
+<p><b>2022 Creative Writing Camp</b></p>
+	
+<p><b>2022 Creative Writing Camp</b></p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Events</label>
@@ -689,4 +748,3 @@ description: ""
 </td></tr></tbody></table>
 	</div>
 </li>
-	
