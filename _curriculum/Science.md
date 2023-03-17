@@ -3,9 +3,9 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-
 <h4><strong>About Us</strong></h4>
 <p>In Science Department, the staff creates a learning environment that focuses on conceptual learning and engages students in meaningful activities that enable them to apply and communicate their knowledge. Technology is used as a tool to help all students actively learn science in an inquiry-based curriculum. The inquiry-based process uses varied instructional strategies and scientific technologies to enable students to develop as self-directed learners.</p>
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Programmes</label>
 <div>
@@ -185,102 +185,99 @@ description: ""
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Organisation Chart</label>
 <div>
-<div>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i1dh{background-color:#FFF;color:#2E2E2E;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th style="text-align: left; width: 513px;">Name</th>
-<th style="width: 81px;">Ext No.</th>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Azlin Bte Abdul Majid (HOD /&nbsp;Information &amp; Knowledge Management)</td>
-<td style="width: 81px;">9013</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Chew Jia Zhen, Geraldine (SH / Science Innovations)</td>
-<td style="width: 81px;">9030</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Catherine Kang (Senior Teacher)</td>
-<td style="width: 81px;">9046</td>
-</tr>
-<tr>
-<td style="width: 513px;">Miss Agnes Lim Siew Mei</td>
-<td style="width: 81px;">9034</td>
-</tr>
-<tr>
-<td style="width: 513px;">Miss Emily Tow Swee Ai</td>
-<td style="width: 81px;">9045</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Latifah Bte Noorahman&nbsp;</td>
-<td style="width: 81px;">9015</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mr Mohamed Imran Ishak&nbsp;</td>
-<td style="width: 81px;">9036</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mr Ng Ping Siang</td>
-<td style="width: 81px;">9070</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Puah Shi Hui, Silia</td>
-<td style="width: 81px;">9035</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Tay Mui Khim</td>
-<td style="width: 81px;">9046</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mr Tan Hong Chan</td>
-<td style="width: 81px;">9038</td>
-</tr>
-<tr>
-<td style="width: 513px;">Muhammad Na'im Bin Sa'dollah</td>
-<td style="width: 81px;">9070</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Lee Jia Min</td>
-<td style="width: 81px;">9032</td>
-</tr>
-<tr>
-<td style="width: 513px;">Miss Li Huimin</td>
-<td style="width: 81px;">9028</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mdm Phua Meng Hong</td>
-<td style="width: 81px;">9043</td>
-</tr>
-<tr>
-<td style="width: 513px;">Miss Chia Mei Lin Tania&nbsp;</td>
-<td style="width: 81px;">9070</td>
-</tr>
-<tr>
-<td style="width: 513px;">Mr Yeu Chee Wee Thomas</td>
-<td style="width: 81px;">9049</td>
-</tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Azlin Bte Abdul Majid (HOD / Information &amp; Knowledge Management)</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Chew Jia Zhen, Geraldine (SH / Science Innovations)</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Catherine Kang (Senior Teacher)</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Miss Agnes Lim Siew Mei</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Miss Emily Tow Swee Ai</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Latifah Bte Noorahman</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Mohamed Imran Ishak</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Ng Ping Siang</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Puah Shi Hui, Silia</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Tay Mui Khim</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Tan Hong Chan</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Muhammad Na'im Bin Sa'dollah</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Lee Jia Min</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Miss Li Huimin</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Phua Meng Hong</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Miss Chia Mei Lin Tania</td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Yeu Chee Wee Thomas</td>
+  </tr>
 </tbody>
 </table>
-</div>
-<div>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Role</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th style="text-align: left;">Name</th>
-<th style="text-align: left;">Role</th>
-</tr>
-<tr>
-<td>Mr Mohammad Faiz Bin Mohd Tahir</td>
-<td>Technical School Officer (TSO)</td>
-</tr>
-<tr>
-<td>Mdm Sujini Gokuldass</td>
-<td>Technical School Officer (TSO)</td>
-</tr>
+  <tr>
+    <td class="tg-cly1">Mr Mohammad Faiz Bin Mohd Tahir</td>
+    <td class="tg-cly1">Technical School Officer (TSO)</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mdm Sujini Gokuldass</td>
+    <td class="tg-cly1">Technical School Officer (TSO)</td>
+  </tr>
 </tbody>
 </table>
-</div>
-</div>
-</li>
-</ul>
