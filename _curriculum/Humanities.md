@@ -185,6 +185,15 @@ description: ""
   </tr>
 </tbody>
 </table>
+<p><strong>Humuanites Trip to Yogyakarta, Indonesia 2019</strong></p><br>
+	
+slideshow to be uploaded on google slides
+<p>During the June holiday break, the Humanities department conducted a 6-Day, 5 Night Learning Journey and cultural exchange programme to Yogyakarta, Indonesia for the Secondary Three Humanities students. The objective of the trip was to help students develop a greater appreciation towards Indonesian history and geography.</p><br>
+  
+
+<p>The students visited cultural landmarks in Yogyakarta such as Borobudur Temple and Ratu Boko temple, which are classified as UNSECO heritage sites around the world. These locations filled the students with wonder as they were better able to appreciate the deep religious ties that the people had within their culture. In addition, visits to the Old Benteng Vredeburg Fortress museum also served to provide students with greater insight into the Colonial history of Indonesia for the students. Apart from historical insights, the trip also served to provide students with an experiential learning opportunity to discover the beauty and ferocity of mother nature as well. Through the use of jeeps, the students explored the various segments of Mount Merapi to learn more about the impact of volcanic activities upon the livelihood of people. Afterwhich, by taking a leap of faith, the students absailied into Jomblang cave and were amazed by the process of cave formations. Lastly, the students also immersed themselves into the cultural practices of the people by participating in rice planting activities and Batik making sessions.</p><br>
+
+<p>The students had great fun learning and exploring the sites in Yogyakarta. Through experiential learning, the students had gained a better understanding of the Humanities aspects of Indonesia and came back to Singapore with stronger ties among themselves and greater appreciation towards Singapore.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Talent Development through Human Academy</label>
