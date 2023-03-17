@@ -132,15 +132,11 @@ To nurture students to be confident and inquisitive problem solvers
 <p><strong>C. B. Paul Science Quiz 2019</strong></p>
 	
 <img style="width: 65%;" src="/images/IMG_20190403_180134.jpg" />
-Four of our students participated in the 41st International C. B. Paul Science Quiz 2019. An annual competition organised by the Anglo-Chinese Junior College in collaboration with the Nanyang Technological University and the National University of Singapore. The competition challenges our students in the areas of Mathematics, Physics, Chemistry, Biology and Computer Science.
+<p>Four of our students participated in the 41st International C. B. Paul Science Quiz 2019. An annual competition organised by the Anglo-Chinese Junior College in collaboration with the Nanyang Technological University and the National University of Singapore. The competition challenges our students in the areas of Mathematics, Physics, Chemistry, Biology and Computer Science.</p><br>
 
-  
+<p>The students are self-directed and independent learners who went beyond the school syllabus to prepare for the quiz.</p><br>
 
-The students are self-directed and independent learners who went beyond the school syllabus to prepare for the quiz.
-
-  
-
-Their determination and perseverance paid off, with Ang Tien Wen from 4E4 achieving the Silver Award and Tan Hong Zhang from 4E4 has achieving the Bronze Award. Congratulations to them!
+<p>Their determination and perseverance paid off, with Ang Tien Wen from 4E4 achieving the Silver Award and Tan Hong Zhang from 4E4 has achieving the Bronze Award. Congratulations to them!</p><br>
 
   
 <style type="text/css">
