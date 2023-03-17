@@ -182,13 +182,449 @@ To nurture students to be confident and inquisitive problem solvers
 </tbody>
 </table>
 
+<p><strong>American Mathematics Competition</strong></p>
+<p>The American Mathematics Competitions (AMC) program, organised by the Mathematical Association of America (MAA), leads the nation in strengthening the mathematical capabilities of the next generation of problem-solvers.</p><br>
 
-</p><br>
-</p><br></p><br>
-</p><br></p><br>
+<p>A total of 29 Secondary Four students participated in the AMC in 2017. This competition has certainly sharpened our students’ problem solving skills and developed their appreciation for mathematics.</p><br>
+<p><strong>Singapore Mathematical Olympiad (SMO)</strong></p>
+<p>The Singapore Mathematical Olympiad (SMO) organised and held yearly by the Singapore Mathematical Society, is the largest and oldest mathematics competition in Singapore.</p><br>
+
+<p>For the past two years, our students have made us proud by obtaining Silver, Bronze and Honourable Mention awards for the SMO! Well done, AI!</p><br>
+
+<p>The names of the winners were as follows:</p><br>	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Award</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">Austin Q Hilario</td>
+    <td class="tg-cly1">2E1</td>
+    <td class="tg-cly1">Silver</td>
+    <td class="tg-cly1">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Izwan B Indra</td>
+    <td class="tg-cly1">2E1</td>
+    <td class="tg-cly1">Honourable Mention</td>
+    <td class="tg-cly1">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Lam Wei Lin, Jolie</td>
+    <td class="tg-cly1">2E1</td>
+    <td class="tg-cly1">Honourable Mention</td>
+    <td class="tg-cly1">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Tan Hong Zhang</td>
+    <td class="tg-cly1">2E1</td>
+    <td class="tg-cly1">Honourable Mention</td>
+    <td class="tg-cly1">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Lau Wen Hao</td>
+    <td class="tg-cly1">2E1</td>
+    <td class="tg-cly1">Honourable Mention</td>
+    <td class="tg-cly1">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Austin Q Hilario</td>
+    <td class="tg-cly1">3E4</td>
+    <td class="tg-cly1">Bronze</td>
+    <td class="tg-cly1">2018</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Yee Jen Mok, Lionel</td>
+    <td class="tg-cly1">3E4</td>
+    <td class="tg-cly1">Honourable Mention</td>
+    <td class="tg-cly1">2018</td>
+  </tr>
+</tbody>
+</table>
+	<p><strong>Australian Mathematics Competition (AMC)</strong></p>
+<p>The Australian Mathematics Competition (AMC) has been held annually since 1978 and its one of the internationally recognised mathematics contests.</p><br>
+<p>AI has bagged a total of 4 distinctions and 26 credits for the past two years!</p><br>
+	<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-agoc{background-color:#FFF;border-color:inherit;color:#2E2E2E;text-align:left;vertical-align:middle}
+.tg .tg-pexq{background-color:#FFF;border-color:inherit;color:#2E2E2E;text-align:center;vertical-align:middle}
+.tg .tg-q49f{background-color:#FFF;border-color:inherit;color:#2E2E2E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-53as{background-color:#FFF;border-color:inherit;color:#2E2E2E;text-align:left;vertical-align:top}
+.tg .tg-8ixl{background-color:#FFF;color:#2E2E2E;text-align:left;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt" colspan="3">Singapore Mathematical Olympiad (2016)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-agoc">Wan Wei Jie</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Guo Jiming</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-7btt" colspan="3">All Singapore Secondary Mathematics Competition for Normal Course Students (2016)</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Jarvis Lee Kah Jun</td>
+    <td class="tg-agoc">2N1</td>
+    <td class="tg-agoc">10th place</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="3"><span style="font-weight:bold">Secondary Mathematics Challenge @ NJC (2016)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Toh Hengyi Lucas</td>
+    <td class="tg-agoc">4E4</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Saw Wei Han</td>
+    <td class="tg-agoc">4E4</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Teo Ming Feng</td>
+    <td class="tg-agoc">4E4</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Angel Han Feng Yi</td>
+    <td class="tg-agoc">4E4</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="3"><span style="font-weight:bold">Singapore Mathematical Olympiad (2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Preston Ang Hao Yang</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Dian Nuratiqah Bte Azlan</td>
+    <td class="tg-agoc">2E2</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Marcus Tan Lai He</td>
+    <td class="tg-agoc">2E3</td>
+    <td class="tg-agoc">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="3"><span style="font-weight:bold">All Singapore Mathematics Competition for Normal Course Students (2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Koh Qi Jing</td>
+    <td class="tg-agoc">3T1</td>
+    <td class="tg-agoc">11th place</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Nur Atiqah Afza Bte Hadely</td>
+    <td class="tg-agoc">1T1</td>
+    <td class="tg-agoc">13th place</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="3"><span style="font-weight:bold">Australian Mathematics Competition (2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Benetton Koh How Song</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Abbinesh Daran Nair M</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Wan Wei Jie</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Benjamin Ho Ting Hui</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Ho Ren Wen Louis</td>
+    <td class="tg-agoc">1E2</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Kai Williams</td>
+    <td class="tg-agoc">1E4</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Gavin Tan</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Koay Jun Zhi</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Licia Teo Ning Xuan</td>
+    <td class="tg-agoc">2E2</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Ng Xian Bin</td>
+    <td class="tg-agoc">2E2</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Nicholas Enrique Selvaraj</td>
+    <td class="tg-agoc">2E5</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-7btt" colspan="3">Singapore and Asian Schools Math Olympiads (2014)</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Ong Jia Yi</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Tan Yi Tong</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Elgin Tan Zhi Ming</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Koay Jun Zhi</td>
+    <td class="tg-agoc">1E1</td>
+    <td class="tg-agoc">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-pexq" colspan="3">Team position - 7th out of 18 Singapore schools</td>
+  </tr>
+  <tr>
+    <td class="tg-7btt" colspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-q49f" colspan="3">Singapore Mathematical Olympliad (SMO) (2014)</td>
+  </tr>
+  <tr>
+    <td class="tg-53as">Lee Ia Ern</td>
+    <td class="tg-53as">2E3</td>
+    <td class="tg-53as">Special Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-53as">Mateen Shamyl b Mohamed Isham</td>
+    <td class="tg-53as">2E2</td>
+    <td class="tg-53as">Bronze<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7btt" colspan="3">Australian Mathematics Competition (AMC) (2014)</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Nyan Lin Htet</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Teo Ming Feng</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Toh Hengyi Lucas</td>
+    <td class="tg-agoc">2E1</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Leong Jia Ying</td>
+    <td class="tg-agoc">2E2</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Mateen Syamyl B Mohamed Isham</td>
+    <td class="tg-agoc">2E2</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Wu Ji</td>
+    <td class="tg-agoc">2E2</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Madeline Lim Chia Bing</td>
+    <td class="tg-agoc">2E3</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Ong Jia Le</td>
+    <td class="tg-agoc">2E3</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Tan How Suen</td>
+    <td class="tg-agoc">2E3</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-agoc">Chan Cheng Long</td>
+    <td class="tg-agoc">2E4</td>
+    <td class="tg-agoc">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Kong Wan Ling</td>
+    <td class="tg-8ixl">2E4</td>
+    <td class="tg-8ixl">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Ong Cai Qing</td>
+    <td class="tg-8ixl">2E4</td>
+    <td class="tg-8ixl">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Roopesh S/O V Sivaraman</td>
+    <td class="tg-8ixl">2E4</td>
+    <td class="tg-8ixl">Credit</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Isaac Hakeem B Ludin</td>
+    <td class="tg-8ixl">2E4</td>
+    <td class="tg-8ixl">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Muhammad Nur Izeyar B Yazid</td>
+    <td class="tg-8ixl">2E4</td>
+    <td class="tg-8ixl">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3">Singapore Normal Mathematics Competition (2014)</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Cai Yizhen</td>
+    <td class="tg-8ixl">2N2</td>
+    <td class="tg-8ixl">9th place</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Farah Ayuni Bte Rashid</td>
+    <td class="tg-8ixl">3T2</td>
+    <td class="tg-8ixl">13th place</td>
+  </tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Organisation Chart</label>
 <div>
-<p><strong>C. B. Paul Science Quiz 2019</strong></p>
-</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i1dh{background-color:#FFF;color:#2E2E2E;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i1dh">Ms Woo Huey Ming<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Quah Wai Kuan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mrs Foo Sok Gek<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Teo Lip Seng<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Tee Hong Heng<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Miss Rozilawati Rahim<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Chia Yun Xin<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Ms Melody Ho<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Sumitha<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Azizah<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Ms Foo Hui Cheng, Candee<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Lim Yeow Teck, Roy<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Luo Zhengyang<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Santhi<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Puah Shi Hui, Silia<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mdm Phua Meng Hong <br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Muhd Na’im Bin Sa’dollah<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Marcus Lau Shao Yu<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Ms Tsang Wing Han<br></td>
+  </tr>
+  <tr>
+    <td class="tg-i1dh">Mr Matthew Ng</td>
+  </tr>
+</tbody>
+</table></div>
+</li>
