@@ -124,10 +124,70 @@ To nurture students to be confident and inquisitive problem solvers
 	
 <p><strong>4. ICAS Mathematics Competition</strong></p>
 <p>In 2019, 30 of our Sec 1 students participated in the International Competitions and Assessments for Schools, Mathematics competition. The competition is designed to assess the students’ ability to apply classroom learning in new contexts, using higher-order thinking and problem-solving skills. Our students attained 5 Distinction, 15 Credit, 2 Merit and 8 Participation. We congratulate the winners on their outstanding achievements!</p><br>
-
+<img style="width: 65%;" src="/images/ICASMathematicsCompetition_01.png" />
 	
-	![](/images/ICASMathematicsCompetition_01.png)</p><br></p><br>
-</p><br></p><br>
+<p><strong>5. Financial Literacy for Youths Race (FLY)</strong></p>
+<p>A group of Sec 3 students took part in the Financial Literacy for Youths Race (FLY) in 2019. The race was organised by the School of Management and Communications from Republic Polytechnic. Our students pit their thinking skills against other schools to complete a series of financial literacy-related challenges and were awarded the bronze award!</p><br>
+<img style="width: 65%;" src="/images/5fly.png" />
+<p><strong>C. B. Paul Science Quiz 2019</strong></p>
+	
+<img style="width: 65%;" src="/images/IMG_20190403_180134.jpg" />
+Four of our students participated in the 41st International C. B. Paul Science Quiz 2019. An annual competition organised by the Anglo-Chinese Junior College in collaboration with the Nanyang Technological University and the National University of Singapore. The competition challenges our students in the areas of Mathematics, Physics, Chemistry, Biology and Computer Science.
+
+  
+
+The students are self-directed and independent learners who went beyond the school syllabus to prepare for the quiz.
+
+  
+
+Their determination and perseverance paid off, with Ang Tien Wen from 4E4 achieving the Silver Award and Tan Hong Zhang from 4E4 has achieving the Bronze Award. Congratulations to them!
+
+  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-9ab4{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9ab4"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-9ab4"><span style="color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Award</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi">Ang Tien Wen</td>
+    <td class="tg-lboi">4E4</td>
+    <td class="tg-cly1">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Tan Hong Zhang</td>
+    <td class="tg-cly1">4E4</td>
+    <td class="tg-cly1">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Austin Q Hilario</td>
+    <td class="tg-cly1">4E4</td>
+    <td class="tg-cly1">Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Caleb Steven</td>
+    <td class="tg-cly1">4E4</td>
+    <td class="tg-cly1">Participation</td>
+  </tr>
+</tbody>
+</table>
+
+
+</p><br>
 </p><br></p><br>
 </p><br></p><br>
 </div>
