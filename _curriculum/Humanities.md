@@ -186,8 +186,7 @@ description: ""
 </tbody>
 </table>
 <p><strong>Humuanites Trip to Yogyakarta, Indonesia 2019</strong></p><br>
-	
-slideshow to be uploaded on google slides
+	<p>slideshow to be uploaded on google slides</p>
 <p>During the June holiday break, the Humanities department conducted a 6-Day, 5 Night Learning Journey and cultural exchange programme to Yogyakarta, Indonesia for the Secondary Three Humanities students. The objective of the trip was to help students develop a greater appreciation towards Indonesian history and geography.</p><br>
   
 
