@@ -93,13 +93,43 @@ To nurture students to be confident and inquisitive problem solvers
   </tr>
 </tbody>
 </table>
+<p><strong>4. Lockdown Escape @ AISS</strong></p>
+<p>Are you game enough to save the world? Our Secondary 1 students assumed the roles of superheroes as they solved Mathematics-related puzzles to unlock 6 Infinity Stones to fight the supervillain, Thanos, in the Lockdown Escape @AISS! This allowed students to solve higher-order thinking problems and build new knowledge in a fun and collaborative manner.</p><br>
+	
+<p>“I found the Lockdown Escape very exciting and fun! I learnt how to work as a team, think out of the box and persevere in solving all the Mathematics puzzles. I hope there are more chances to play the Lockdown Escape again!” quipped Jenson Heng, after the lockdown escape.</p><br>
+	
+<p>The students were thrilled by the Avengers Endgame storyline and the adrenaline rush of saving the world! We hope that through such learning experiences, we can help students to experience the joy of learning mathematics.</p><br>
+<img style="width: 65%;" src="/images/Lockdown Escape_01.png" />
+	<img style="width: 65%;" src="/images/Lockdown Escape_03.png" />
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Competition and Enrichment Programme<label>
+<li><input id="accordion2" type="checkbox" /><label for="accordion2">Competition and Enrichment Programme</label>
 <div>
-<p><strong>d</strong></p>
-<p>.</p>
-</p>
+<p><strong>1. International Mathematical Modeling Challenge</strong></p>
+<p>“How can we create plane boarding and disembarking methods that will be the most time-effective in real practice?”</p><br>
+<p>During the March holidays, a team of Secondary Four students worked collaboratively over a period of five days to solve the Boarding and Disembarking problem at the Annual International Mathematical Modeling Challenge, pitching against participants from other teams in Singapore.</p><br>
+	
+<p>The modeling process allowed the students to learn to deal with uncertainty as they needed to break the problem down into smaller parts and make reasonable assumptions. It also provided them with a first taste in problems of such nature they will be working on in the future where there is no one correct answer to the problem.</p><br>
+	
+<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(46, 46, 46); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 576px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></td><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Award</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">2020</td><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Merit Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">2021</td><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Merit Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">2022</td><td width="30%" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Certificate of Commendation</td></tr></tbody></table>
+	<img style="width: 65%;" src="/images/International Mathematical Modeling Challenge_01.jpg" />
+<p><strong>2. STEM Playground Challenge</strong></p>
+<p>Ready, get set, go! A team of Sec 2 students participated in the STEM Playground Challenge jointly organised by Singapore Science Centre and The James Dyson Foundation supported by MOE CPDD Science Branch. Through the challenge, our students had fun experimenting and learning STEM knowledge and skills through real-world contexts. #BeCurious #BeCreative #BeTheChange</p><br>
+<img style="width: 65%;" src="/images/2stem.png" />
+<p><strong>3. Singapore Mathematical Society Public Lecture 2022</strong></p>
+<p>Probability and Combinatorics in School Mathematics by Professor Helmer Aslaksen</p><br>
+
+<p>On 4 Aug, 2022 a group of students attended the Singapore Mathematical Society Public Lecture 2022 where Prof Helmer talked about interesting problems in probability and combinatorics. These are difficult topics in the school Mathematics curriculum, but our students were intrigued by the lecture on how incorrect arguments may look plausible and correct arguments may look surprising in these topics!</p><br>
+<img style="width: 65%;" src="/images/SingaporeMathematicalSocietyPublicLecture2022.jpg" />
+	
+<p><strong>4. ICAS Mathematics Competition</strong></p>
+<p>In 2019, 30 of our Sec 1 students participated in the International Competitions and Assessments for Schools, Mathematics competition. The competition is designed to assess the students’ ability to apply classroom learning in new contexts, using higher-order thinking and problem-solving skills. Our students attained 5 Distinction, 15 Credit, 2 Merit and 8 Participation. We congratulate the winners on their outstanding achievements!</p><br>
+
+	
+	![](/images/ICASMathematicsCompetition_01.png)</p><br></p><br>
+</p><br></p><br>
+</p><br></p><br>
+</p><br></p><br>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Organisation Chart</label>
