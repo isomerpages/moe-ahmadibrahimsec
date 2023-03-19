@@ -3,7 +3,6 @@ title: Info–Communication Technology
 permalink: /curriculum/info-communication-technology/
 description: ""
 ---
-
 <h4><strong>About Us</strong></h4>
 <p>The Info-comm Technology Department dedicates itself to all staff and students to create and provide support in an IT-enabled environment. The Department works closely with all other Instructional Programme Departments to allow integration of IT into the curriculum. It also serves as a pillar for the entire school, providing consultation and expertise in terms of whole-school infrastructure, creating IT lessons and developing technology-based programmes throughout the school with the vision that staff and students will be engaged, creative and independent lifelong learners with integrity to meet the challenges of the future.</p>
 <ul class="jekyllcodex_accordion">
@@ -297,17 +296,17 @@ description: ""
 <tr>
 <th>Name</th>
 <th>Designation</th>
-<th>&nbsp;Ext No.</th>
+<th></th>
 </tr>
 <tr>
 <td>Mr Tee Hong Heng&nbsp;</td>
 <td>HOD / ICT</td>
-<td>9014</td>
+<td></td>
 </tr>
 <tr>
 <td>Mr Lim Yeow Teck, Roy&nbsp;</td>
 <td>Assistant Year Head / Upper Sec (Internal)</td>
-<td>9045</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -318,19 +317,20 @@ description: ""
 <tbody>
 <tr>
 <th>Name</th>
-<th>&nbsp;Ext No.</th>
+<th></th>
 </tr>
 <tr>
 <td>Mr Lim Yeow Teck, Roy&nbsp;</td>
-<td>9045</td>
+<td></td>
 </tr>
 <tr>
 <td>&nbsp;Mr Luo Zhengyang</td>
-<td>9028</td>
+<td></td>
 </tr>
 <tr>
-<td>Ms Santhi D/O Mutrawipillai Sanmugum</td>
-<td>9034</td>
+<td>Ms Santhi D/O Mutrawipillai Sanmugum</td><tr>
+<td>Ms Chia Yun Xin</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -342,22 +342,22 @@ description: ""
 <tr>
 <th>Name</th>
 <th>Designation</th>
-<th>&nbsp;Ext No.</th>
+<th></th>
 </tr>
 <tr>
 <td>Mr Mohd Hafiz<br /><br /></td>
 <td>ICT Associate</td>
-<td>9026&nbsp;</td>
+<td></td>
 </tr>
 <tr>
 <td>Ms Elisha Ruth Cabaltera Zamudio&nbsp;<br /><br /></td>
 <td>AVA Engineer</td>
-<td>9026</td>
+<td></td>
 </tr>
 <tr>
 <td>Mr Muhammad Nur Safwan Bin Bahrom<br /><br /></td>
 <td>Desktop Engineer</td>
-<td>9026</td>
+<td></td>
 </tr>
 </tbody>
 </table>
