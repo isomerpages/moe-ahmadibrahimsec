@@ -4,25 +4,25 @@ permalink: /curriculum/aesthetics/art-n-craft/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Programmes</label>
 <div>
-<p><strong>Sec 1E/NA</strong></p>
-<p>&lt; To be updated &gt;</p>
-<p><strong>Sec 1NT</strong></p>
-<p>In the first semester, the Normal Technical students will be introduced to the different forms of 2-Dimensional art making techniques such as the dry and wet mediums forms of art .To broaden their interest in the areas of performance art, they will be taught hip-hop dancing in the second semester.</p>
+<p><strong>Sec 1 Level – Full Subject Based Banding (FSBB)</strong></p>
+<p>Sec 1 students will be introduced to the field of Drawing and explore it as a method of ideation and visualisation. To broaden students’ interest in other areas of Art, there will be a project on Traditional Craft and also a Film-making workshop to give them a variety of skills in different media.</p>
 <p><strong>Sec 2E/NA</strong></p>
+<p>Sec 2 students will learn to paint and also learn more about Artists and their famous Artworks. There will be a learning journey to one of the Art Museums in Singapore to actually look at authentic artworks. The major project for the year will be on Animation. Students will create their own 30 second animation that allows them to express their original ideas.</p>
+<p><strong>Sec 2NT</strong></p>
 <p>For the very first time, the English, ICT and Art department will be collaborating and coming together to work towards this year&rsquo;s N.E mation Competition 2015. Through the various lessons, the students will be learning about characterisation, story-boarding, and the use of various art skills and techniques such as the different body proportions, perspective drawing and papercut.</p>
 <p><strong>Sec 2NT</strong></p>
-<p>Learning also comes in the form of play and games. For example, to harnest their observational skills,a fake CSI scene was set up outside their classroom. Students will be making 3D works to be showcased during Aesthetic Day 2015.</p>
-<p><strong>Sec 3NT</strong></p>
-<p>This newly opened course was introduced to the Sec 3 Normal Technical students since last year which capped at 20 students per year.</p>
-<p><strong>Sec 4NT</strong></p>
+<p>Learning also comes in the form of play and games. For example, using their Personal Learning Device (PLD), students can create their own video diary on their thoughts about their world.</p>
+<p><strong>Sec 3 Level</strong></p>
+<p>There will only be 2 streams offered, the Sec 3 Normal (Academic) & the Sec 3 Normal (Technical). For both classes, numbers will be capped at 20 students. All students will follow the national curriculum stipulated by SEAB.</strong></p>
 <p>Students are sitting for this year&rsquo;s GCE Art Syllabus T ( 6126 ) and in this final lap, they concentrate on preparing for their portfolio and working towards perfecting their research, drawings, creativity skills. At the end of this year, students will get to be in touch with the various forms of art such as acrylic painting, charcoal drawing, paper-cut and assemblage art.</p>
+<p><strong>Sec 4 Level</strong></p>
+<p>Students are sitting for this year’s GCE Art Syllabus T (6128) and in this final lap, they concentrate on preparing for their portfolio and working towards perfecting their research, drawings, and creativity skills. At the end of this year, students will get to be in touch with the various forms of art such as acrylic painting, charcoal drawing, papercut and assemblage art.
 <p><strong>Art Enrichment:</strong></p>
 <p>We believe the classroom is not the only way to understand and learn about art. Hence, the Art Unit has incorporated an Annual Art Camp into the Upper Sec Curriculum to foster greater understanding of the visual art. Last year during June Holidays, the Sec 3E/NA art pupils had a two day one night art camp where they experienced 6km of art walk, meet-the-artist session and Environmental art. This year, students will continue to be exposed to the art scene in Singapore, such as the visit to the annual Art Stage held at Marina Bay Sand.</p>
+
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Art Advanced Elective Modules</label>
