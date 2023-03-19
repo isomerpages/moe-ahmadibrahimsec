@@ -4,8 +4,6 @@ permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 <h4><strong>About Us</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUTlfGeRQsaaPpmcufrmdVtxAuJpdiR0UtXZyEL724kLiVmjvkEU-OnTHczQvgiOEgPBFc85LoMVNx/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p>We are a fun, energetic, and dynamic group of teachers who love what we do and want to share our love for our subjects with our students!<br />The Aesthetics &amp; Craft Department consists of four units: Art, Design &amp; Technology, Nutrition &amp; Food Science, and Music</p>
@@ -58,88 +56,81 @@ third_nav_title: Aesthetics
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Organisational Chart</label>
 <div>
-<table style="width: 551px; height: 341px;">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2bq1{background-color:#FFF;color:#2E2E2E;text-align:left;vertical-align:top}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-8ixl{background-color:#FFF;color:#2E2E2E;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Unit</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Designation</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr style="height: 17px;">
-<th style="width: 171.766px; height: 17px;">Unit</th>
-<th style="width: 182.641px; height: 17px;">Name</th>
-<th style="width: 174.594px; height: 17px;">Designation</th>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Ng Sheh Feng</td>
-<td style="width: 174.594px; height: 18px;">HOD/ Aesthetics &amp; Craft</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">Art Department</td>
-<td style="width: 182.641px; height: 18px;">Woon Sher Lin Sheralyn</td>
-<td style="width: 174.594px; height: 18px;">Subject Head/ Art</td>
-</tr>
-<tr style="height: 36px;">
-<td style="width: 171.766px; height: 36px;">&nbsp;</td>
-<td style="width: 182.641px; height: 36px;">Mohamed Fauzi bin Husin</td>
-<td style="width: 174.594px; height: 36px;">Art Teacher</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Siti Fatima bte Azmi</td>
-<td style="width: 174.594px; height: 18px;">Art Teacher&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">Design &amp; Technology&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Kang Yong Heng&nbsp;</td>
-<td style="width: 174.594px; height: 18px;">Subject Head/ D&amp;T</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Seah Yen Sin</td>
-<td style="width: 174.594px; height: 18px;">D&amp;T Teacher</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Ng Kin Kwee (David)</td>
-<td style="width: 174.594px; height: 18px;">D&amp;T Teacher</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Abdul Aziz Osman&nbsp;</td>
-<td style="width: 174.594px; height: 18px;">Technical Support Officer</td>
-</tr>
-<tr style="height: 36px;">
-<td style="width: 171.766px; height: 36px;">Nutrition &amp; Food Science&nbsp;</td>
-<td style="width: 182.641px; height: 36px;">Juny Iskawati Mohd Jaffar</td>
-<td style="width: 174.594px; height: 36px;">NFS Coordinator</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Ng Huey Chun Peggy</td>
-<td style="width: 174.594px; height: 18px;">NFS Teacher</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Nirmala K Periyiah</td>
-<td style="width: 174.594px; height: 18px;">NFS Teacher</td>
-</tr>
-<tr style="height: 36px;">
-<td style="width: 171.766px; height: 36px;">&nbsp;</td>
-<td style="width: 182.641px; height: 36px;">Parimala d/o Krishnin</td>
-<td style="width: 174.594px; height: 36px;">Operations Support Officer&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">Music&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Lee Jia Ling</td>
-<td style="width: 174.594px; height: 18px;">Music Coordinator</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Ng Sheh Feng</td>
-<td style="width: 174.594px; height: 18px;">Music Teacher</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 171.766px; height: 18px;">&nbsp;</td>
-<td style="width: 182.641px; height: 18px;">Amelia Y Dizon</td>
-<td style="width: 174.594px; height: 18px;">Music Teacher</td>
-</tr>
+  <tr>
+    <td class="tg-2bq1" rowspan="3">Art Department</td>
+    <td class="tg-8ixl">Woon Sher Lin Sheralyn</td>
+    <td class="tg-8ixl">Subject Head/ Art</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Mohamed Fauzi bin Husin</td>
+    <td class="tg-8ixl">Art Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Siti Fatima bte Azmi</td>
+    <td class="tg-8ixl">Art Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-2bq1" rowspan="3">Design &amp; Technology</td>
+    <td class="tg-8ixl">Kang Yong Heng</td>
+    <td class="tg-8ixl">Subject Head/ D&amp;T</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Seah Yen Sin</td>
+    <td class="tg-8ixl">D&amp;T Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Abdul Aziz Osman</td>
+    <td class="tg-8ixl">Technical Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-2bq1" rowspan="4">Nutrition &amp; Food Science</td>
+    <td class="tg-8ixl">Juny Iskawati Mohd Jaffar</td>
+    <td class="tg-8ixl">NFS Coordinator</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Ng Huey Chun Peggy</td>
+    <td class="tg-8ixl">NFS Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Nirmala K Periyiah</td>
+    <td class="tg-8ixl">NFS Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Parimala d/o Krishnin</td>
+    <td class="tg-8ixl">Operations Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-2bq1" rowspan="3">Music</td>
+    <td class="tg-8ixl">Carita Chew Meng</td>
+    <td class="tg-8ixl">Music Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Enzo Charles Victor Buttazzoni</td>
+    <td class="tg-8ixl">Music Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Amelia Y Dizon</td>
+    <td class="tg-8ixl">Music Teacher</td>
+  </tr>
 </tbody>
 </table>
 </div>
