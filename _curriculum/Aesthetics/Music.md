@@ -30,7 +30,31 @@ third_nav_title: Aesthetics
 </table>
 <p><strong><u>Leadership and musical developmental initiatives and opportunities</u></strong></p>
 <p>At AISS, we believe that Music has to be experienced in authentic contexts. That&rsquo;s why our students experience a whole range of developmental opportunities, from mentorships and collaborations, enrichment programmes and workshops, camps, performances and showcases, and even arts internships.&nbsp;</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2XuALQp18-Fy168tq34pASx2AfUHsX88HeFU-GdAc8Lp50dasDX97RqtDJg9uL_mkDC4pBWQC4Ig4/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img style="width: 55%;" src="/images/photomontage02.png" /></th>
+    <th class="tg-0lax"><img style="width: 55%;" src="/images/photomontage03.png" /></th>
+    <th class="tg-0lax"><img style="width: 55%;" src="/images/photomontage04.png" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img style="width: 55%;" src="/images/photomontage05.png" /></td>
+    <td class="tg-0lax"><img style="width: 55%;" src="/images/photomontage06.png" /></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
 <p><strong>Enrichment Programmes and Workshops</strong></p>
 <ul>
 <li>Piano masterclass by Prof. Sergio de Simone, Head of Keyboard at Trinity Laban Conservatoire of Music and Dance</li>
