@@ -4,10 +4,8 @@ permalink: /curriculum/aesthetics/music/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 <h4><strong>About Us</strong></h4>
-<img style="width: 75%;" src="/images/music_teachers.jpg" />
+<img style="width: 75%;" src="/images/MusicCoverImageReplacement.jpg" />
 <p>We are a group of passionate Music educators who love our subject and love teaching it even more! We believe that Music is an avenue for catharsis and expression. It is also a great opportunity for our students to develop and unleash their creative potential.&nbsp;</p>
 <p>At AISS, we believe that our students are musical, and have the ability to express themselves musically. Our comprehensive music curriculum aims to develop musical and extra-musical skills such as listening skills, singing and playing skills, fine motor skills, creative thinking skills, and social skills.</p>
 <ul class="jekyllcodex_accordion">
