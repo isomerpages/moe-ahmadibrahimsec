@@ -142,7 +142,7 @@ third_nav_title: Aesthetics
 <li>Links to&nbsp;<a href="https://www.instagram.com/aespireaiss/?hl=en" target="_blank" rel="noopener">Instagram</a>&nbsp;and&nbsp;<a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" target="_blank" rel="noopener">YouTube</a>&nbsp;Channel</li>
 </ol>
 </div>
-<p><strong><u>Contact details of relevant personnel</u></strong><br>Ms Lee Jia Ling (Music Coordinator) -&nbsp;<a href="mailto:Lee_Jia_Ling_A@moe.edu.sg" target="">Lee_Jia_Ling_A@moe.edu.sg</a><br />Ms Ng Sheh Feng (HOD/Aesthetics &amp; Craft) -&nbsp;<a href="mailto:Ng_Sheh_Feng@moe.edu.sg" target="">Ng_Sheh_Feng@moe.edu.sg</a><br />Ms Amelia Dizon (Music Teacher) -&nbsp;<a href="mailto:amelia_y_dizon@moe.edu.sg" target="">amelia_y_dizon@moe.edu.sg</a></p>
+<p><strong><u>Contact details of relevant personnel</u></strong><br>Ms Amelia Dizon (Music Teacher) -&nbsp;<a href="mailto:amelia_y_dizon@moe.edu.sg" target="">amelia_y_dizon@moe.edu.sg</a><br />Ms Carita Chew Meng (Music Teacher) -&nbsp;<a href="mailto:carita_chew_meng@moe.edu.sg" target="">carita_chew_meng@moe.edu.sg</a><br />Mr Enzo Charles Victor Buttazzoni (Music Teacher) -&nbsp;<a href="mailto:enzo_charles_victor_buttazzoni@moe.edu.sg" target="">enzo_charles_victor_buttazzoni@moe.edu.sg</a></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Lower Secondary Music Syllabus</label>
