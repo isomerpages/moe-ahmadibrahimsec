@@ -175,24 +175,35 @@ third_nav_title: Aesthetics
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Organisation Chart</label>
 <div>
-<table style="margin-left: auto; margin-right: auto;">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-8ixl{background-color:#FFF;color:#2E2E2E;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e14l">Name<br></th>
+    <th class="tg-e14l">Designation<br></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th style="text-align: center;">Name</th>
-<th style="text-align: center;">Designation</th>
-</tr>
-<tr style="text-align: center;">
-<td>Ms Lee Jia Ling&nbsp;</td>
-<td>Music Coordinator&nbsp;</td>
-</tr>
-<tr style="text-align: center;">
-<td>Ng Sheh Feng&nbsp;</td>
-<td>Music Teacher&nbsp;</td>
-</tr>
-<tr style="text-align: center;">
-<td>Amelia Y Dizon&nbsp;</td>
-<td>Music Teacher&nbsp;</td>
-</tr>
+  <tr>
+    <td class="tg-8ixl">Amelia Y Dizon<br></td>
+    <td class="tg-8ixl">Music Teacher<br></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Carita Chew Meng<br></td>
+    <td class="tg-8ixl">Music Teacher<br></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Enzo Charles Victor Buttazzoni<br></td>
+    <td class="tg-8ixl">Music Teacher<br></td>
+  </tr>
 </tbody>
 </table>
 </div>
