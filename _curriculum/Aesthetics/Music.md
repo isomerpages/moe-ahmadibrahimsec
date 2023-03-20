@@ -147,16 +147,17 @@ third_nav_title: Aesthetics
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Lower Secondary Music Syllabus</label>
 <div>
-<p>For the rest of the student population, the Secondary 1 students experience the Music Syllabus in the form of performing through learning the guitar, as well as the recreation of Singapore pop songs using GarageBand on the iPad.</p>
+<img style="width: 55%;" src="/images/lowersecphoto.jpg" />
+<p>Music lessons extend to the rest of the AISS student body as well! We offer a comprehensive yet inclusive music programme that encourages students to engage actively in music-making, no matter their foundati</p>
 <p><strong>Secondary One</strong></p>
-<p>In Secondary One, students develop confidence and appreciation for music through various activities and lessons. The Secondary One students learn about various genres of Popular Music, and also partake in two major music projects in Secondary One:</p>
-<p>1. Guitar lessons - Secondary One students attend Guitar lessons, where they learn basic music theory and guitar playing skills through Singapore songs. At the end of ten weeks, they showcase their learning through an assessment of their playing.</p>
-<p>2. Singapore Songs project &ndash; After an introductory exposure to Singapore songs in our nation&rsquo;s four official languages, students work with acoustic as well as virtual instruments on the iPad to arrange and perform their group renditions of Singapore songs</p>
+<p>At this level, students will be eased back into music lessons through a series of thoughtfully curated modules. These modules are designed with activities to develop students’ confidence and appreciation for music. Students will be exposed to music from multicultural origins, to harness stronger awareness for global cultures, as well as Singapore’s own multicultural society. The following modules aim to support these endeavours:</p>
+<p>1.  Stories We Sing – <br>What better way to develop an innate musical sense than to start with singing? Students will be exposed to foundational singing knowledge and techniques, and they will proceed to apply them through singing a selection of contemporary Singapore songs (sung in Chinese, Malay or Tamil languages).</p>
+<p>2.  Guitar – <br>Singing can always be spiced up with some instrumental accompaniment. Students will be introduced to the guitar, and learn of the instrument’s origins. They will then be equipped with the knowledge and skills of playing basic chord progressions to accompany singing.</p>
 <p><strong>Secondary Two</strong></p>
-<p><iframe src="https://www.youtube.com/embed/NOenyTHDj9k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-<p>Secondary Two students undergo a robust Music Technology module whereby they work on Digital Audio Workstations (DAWs) like Mixcraft and Ableton Live to arrange and create their own film music, as well as improvise live on a MIDI controller like the Launchkey Mini. Our students build up on their confidence and stage presence through these modules which allows them to experience the rigour of preparing for actual performances.</p>
-<p>1. Film Music Arrangement using Mixcraft &ndash; Secondary Two students first make connections between music and movies through learning about cinematography, camera angles, lighting, colours, foley sounds and music. They then arrange music and sample foley sounds to short film clips using Mixcraft software.</p>
-<p>2. Composing and Mixing with Ableton Live &ndash; Students learn about authentic contexts where music technology is used in a live setting. They learn the basics of Ableton software and Launchkeys, before putting together and performing their own projects.</p>
+<p></p>
+<p>At this level, students will make music that point more towards the Popular Music genre. Tapping on their pre-requisite knowledge and skills on singing and guitar-playing from Secondary One, students will bring them over to the following modules:</p>
+<p>1.  Keyboard –  <br>Students will learn about the origins and development of the keyboard. They will also be able to combine their knowledge of melodies (singing) and harmonies (guitar chords) and transfer them to keyboard playing. An updated list of Popular songs will be offered to the students to apply their singing and instrumental skills, as they present performances to their schoolmates and teachers</p>
+<p>2.  Battle of the Bands – <br>To sum up the students’ lower secondary music programme, we combine singing, guitar- and keyboard-playing, getting students to form a Pop band. Each band will arrange and perform a song cover from the song list provided in the Keyboard Module, preparing for their final showcase to their schoolmates and teachers.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">WHY STUDY MUSIC?</label>
