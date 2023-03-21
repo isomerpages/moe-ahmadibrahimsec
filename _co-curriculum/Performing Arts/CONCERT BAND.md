@@ -4,7 +4,6 @@ permalink: /co-curriculum/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <h4><strong>About Us</strong></h4>
 <p>The Ahmad Ibrahim Concert Band was established in 1970. It started as a military band and was then converted into a concert band in the year 2011. Fueled by passion for music and camaraderie among the members, we believe in music as a universal language. We hope that through the music we make, we can portray emotions to the audience through musical expression. Together with our Band Directors, Mr. Chong and Mr. Tarun, the band will continue striving for excellence in music.</p>
 <blockquote>
@@ -162,8 +161,9 @@ third_nav_title: Performing Arts
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Ms Lee Jia Ling (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:lee_jia_ling_a@moe.edu.sg" target="">lee_jia_ling_a@moe.edu.sg</a></strong></p>
-<p>Miss Lui Ying Jie<br />Mr Mohd Na&rsquo;im Sa&rsquo;dollah<br />Ms Nurul Aqilah</p>
+<p><strong>Miss Lui Ying Jie (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:lui_ying_jie@moe.edu.sg" target="">lee_jia_ling_a@moe.edu.sg</a></strong></p>
+<p>Ms Carita Chew Meng  <br />Ms Chew Hui Leng Faith<br/>
+Mdm Kanthiri Alasa</p>
 </div>
 </li>
 </ul>
