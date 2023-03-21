@@ -4,7 +4,7 @@ permalink: /co-curriculum/clubs/green-service-club/
 description: ""
 third_nav_title: Clubs
 ---
-<img style="width: 50%;" src="images/AI%20Green%20Service%20Club%20Logo.jpg" align = "left"/>
+
 <p>Green Service Club began as Leo Club, which was a CCA that develops youth leaders to provide service to the community. The transformation into a new CCA stems from the school&rsquo;s commitment towards providing Outdoor Learning Experiences (OLE) with heightened awareness about the environment and green efforts. Through this new CCA, Green Service Club, we aim to learn more, do more and also lead others to make contributions to the environment and the community.</p>
 <p>Find out and learn more about our projects such as vermicomposting and upcycling!</p>
 <blockquote>
@@ -21,9 +21,17 @@ third_nav_title: Clubs
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
 <div>
-<p><strong>Passionate youths for service and for the environment<br /></strong>An elderly resident looks curiously at the DIY pouch gifted to him at AI&rsquo;s Chinese New Year concert. An unconventional gift, these plastic pouches were made out of plastic bags that had been upcycled and repurposed. This project kick-started with a donation drive in school where plastic bags were collected from staff and students. Who would have thought they were goodie bags in the making? So pleased were these elderly from Nam Hong Welfare Services Society that they beamed at the GSC member, who made sure to add, &ldquo;This is made by us. More durable, so keep for future use.&rdquo; GSC members also had the honour to share about this plastic upcycling project with the public at the World Wildlife Fund (WWF) Earth Hour Exhibition.</p>
-<p><strong>Naturalists with a keen eye for biodiversity<br /></strong>Driven by curiosity, GSC members keenly observed nature under the guidance of Nature Society Singapore (NSS), recording and reporting wildlife sightings. The Animal Concerns Research &amp; Education Society (ACRES) also responds when members of the school including staff and students discovers any injured or lost animal, among which are the red-eared slider turtle, the Javan mynah and the green-cheeked parakeet.</p>
-<p><strong>Marine science projects<br /></strong>GSC members assisted National University of Singapore (NUS) researchers to survey the amount of marine debris at our coastal areas, while others learnt from NIE to use mussels as biomarkers to test the eco-toxicity of our waters. Involvement in such citizen science projects demonstrate that GSC members&rsquo; passion and concern for the environment extends beyond their school and local community.</p>
+<p>The Green Service Club [@ai_gsc] is a student-centred CCA, committed in serving the environment and the community through our Urban, Nature and Outreach committees.</p>
+<p>Some of our activities include:</p>
+<blockquote>
+<ul>
+<li>a CCA showcase during the Sec 1 CCA carnival, and exposure activities for Sec 1 CCA orientation,</li>
+<li>school CNY decorations using upcycled materials, providing 3’R’ services to teachers for CNY spring cleaning, and CNY food donation drive for Sree Narayana Mission (Singapore),</li>
+<li>self-initiated learning and nature exploration hikes by GSC leaders, and training workshop for GSC leaders,</li>
+<li>our yearly GSC Green Carnival with games and presentation booths, and yearly participation in Sembcorp Marine Greenwave Competition.</li>
+</ul>
+</blockquote>
+
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
