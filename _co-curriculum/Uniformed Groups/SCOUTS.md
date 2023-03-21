@@ -56,7 +56,37 @@ third_nav_title: Uniformed Groups
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
 <div>
-<p>CCA Carnival<br />Achievement Day Parade<br />School National Day Parade<br />National Day Parade Contingent<br />Vietnam Cultural Immersion trip<br />National Patrol Camp 2018</p>
+<ul>
+<li>AISS Weekly Morning Assembly</li>
+<li>AISS CCA Carnival</li>
+<li>Unit Community Service</li>
+<li>AISS Total Defence Day Commemoration Parade Segment</li>
+<li>Diamond Jubilee Donation Drive</li>
+<li>North Area World Scout Day Celebration </li>
+<li>North Area Scout Leadership Training Course</li>
+<li>One Star Kayaking Certification Course</li>
+<li>Pilot Intake for Mentally Lit Programme</li>
+<li>North Area Kayak Clean-Up and Waterways Watch Society Talk</li>
+<li>Unit Training Camp</li>
+<li>Memorandum of Understanding Between The Singapore Scout Association and The Corrupt Practices Investigation Bureau and Launch of CPIB Programme </li>
+<li>North Area Air Navigator Course</li>
+<li>North Area National Day Video</li>
+<li>AISS National Day Celebration Parade Segment</li>
+<li>AISS Achievement Day Parade Segment</li>
+<li>North Area Scout Lore Quest<br>- Highest Team Award: Silver<br>- Highest Individual Award: Gold </li>
+<li>Job Week Launch</li>
+<li>Job Week</li>
+<li>AISS Scouts Honouring Session </li>
+<li>Jamboree On The Air - Jamboree On The Internet</li>
+<li>Istana Open House (Deepavali)</li>
+<li>North Area Akela Award Ceremony</li>
+<li>Chief Commissioner’s Award Ceremony</li>
+<li>North Area Campfire</li>
+<li>North Area Patrol Pioneering Challenge</li>
+<li>North Area End-Of-Year Camp - Cub Rendezvous</li>
+<li>Rover Rendezvous x Rigel</li>
+<li>SJBS North District Campfire Night</li>
+</ul>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
@@ -66,19 +96,46 @@ third_nav_title: Uniformed Groups
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday</strong><br />3.45 to 6.30 pm</p>
-<p><strong>Friday</strong><br />2.30 to 5.45 pm</p>
+<p><strong>Wednesday</strong><br />3.30 to 6.000 pm</p>
+<p><strong>Friday</strong><br />2.30 to 5.30 pm</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<img src="/images/AIWS%20Leadership%20Position%20(Scouts).jpg">
+<h4 id="senior-patrol-leader">Senior Patrol Leader</h4>
+<ul>
+<li>3N2 Patrick Ng Zhan Peng</li>
+<li>3E2 Darren Lim Jieming</li>
+</ul>
+<h4 id="patrol-leader--secretary">Patrol Leader / Secretary</h4>
+<ul>
+<li>3E2 Dominic Cheong Wei Zheng</li>
+<li>3N1 Cendric Ling Jun Xuan</li>
+</ul>
+<h4 id="patrol-leader--quartermaster">Patrol Leader / Quartermaster</h4>
+<ul>
+<li>3E3 Zheng Cai Feng</li>
+<li>3E3 Nikkhil Dinesh</li>
+</ul>
+<h4 id="assistant-patrol-leader">Assistant Patrol Leader</h4>
+<ul>
+<li>3N2 Jayden Wong Ting Jun</li>
+<li>3T1 Kum Che Yuen, Carvell</li>
+<li>3T2 ‘Afi Danii Bin Mohd Nordin</li>
+<li>3N1 Jayakumar Sreyas</li>
+<li>2E4 Cheng Chung Yau</li>
+<li>2N2 Jared Reyes Castillo</li>
+<li>2E3 Chai Song Mi</li>
+<li>2E4 Goh Kar Ying</li>
+<li>2E2 Wong Kai Hong</li>
+</ul>
+
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Ms Tania Chia Mei Lin (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:chia_mei_lin_tania@moe.edu.sg" target="">chia_mei_lin_tania@moe.edu.sg</a></strong></p>
-<p>Mr Mohamed Fauzi Bin Husin<br />Ms Ng Hui Wen<br />Ms Lee Jia Min</p>
+	<p>Mr Mohamed Fauzi Bin Husin<br />Ms Ng Hui Wen<br />Ms Ang Xin Ru, Ruby<br/>Mr Enzo Charles Victor Buttazzoni</p>
 </div>
 </li>
 </ul>
