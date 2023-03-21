@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Sports/.keep
-      - Sports/BASKETBALL.md
+      - Sports/Basketball.md
       - Sports/SHOOTING.md
       - Sports/FOOTBALL.md
       - Sports/TRACK & FIELD.md
