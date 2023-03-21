@@ -4,8 +4,6 @@ permalink: /co-curriculum/sports/shooting/
 description: ""
 third_nav_title: Sports
 ---
-
-
 <h4><strong>About Us</strong></h4>
 <p>Shooting is a collective group of competitive and recreational sporting activities involving tests of proficiency in accuracy, precision and speed using various types of ranged weapons. In Ahmad Ibrahim Shooting Club, we train for both 10m Air Pistol and Air Rifle Events, both of which are part of the National School Games.</p>
 <p>Trainings are usually carried out 3 times a week as part of building consistency in shooting technique and to gain values such as perseverance and discipline. In their journey to becoming a student athlete, we aim to inculcate in students the combined physical and emotional aptitudes that are required for success in the sport.</p>
@@ -131,7 +129,7 @@ third_nav_title: Sports
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mr Luo Zhengyang (OIC)<br /></strong><strong>Contact:&nbsp;</strong><strong><a href="mailto:luo_zhengyang@moe.edu.sg" target="">luo_zhengyang@moe.edu.sg</a></strong></p>
-<p>Mr Tan Hong Chan<br />Mrs Loh Yen Cheng Lilian<br />Mr Tan Boon Seng</p>
+<p>Mdm Jiang Nan<br />Mrs Loh Yen Cheng Lilian<br />Mr Tan Boon Seng</p>
 </div>
 </li>
 </ul>
