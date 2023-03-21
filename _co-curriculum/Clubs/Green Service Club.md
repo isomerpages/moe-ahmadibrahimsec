@@ -58,7 +58,7 @@ third_nav_title: Clubs
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday</strong><br />3.00 &ndash; 5.00 PM<br /><br /><strong>Friday</strong><br />3.00 &ndash; 5.00 PM</p>
+<p><strong>Wednesday</strong><br />3.45 &ndash; 5.45 PM<br /><br /><strong>Friday</strong><br />2.00 &ndash; 4.00 PM</p><br/><p><strong>Venue</strong><br>SR3/4T2/4N2</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
