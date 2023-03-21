@@ -11,9 +11,9 @@ third_nav_title: Uniformed Groups
 <p><strong>Body:<br /></strong>Every cadet understands the importance of a fit body, takes ownership to maintain a good level of physical fitness and adopt healthy eating habits.</p>
 <p><strong>Heart:<br /></strong>Each cadet has a committed heart and lives by the NCC Core Values with a strong sense of purpose to serve the cadet&rsquo;s team, school and nation. Cadet learns passionately to develop cadet&rsquo;s own abilities and proactively contributes towards wherever the cadet is.</p>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Goals</label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
 <div>
-<p>As an Ahmad Ibrahim NCC cadet our goals are to uphold the spirit of AI UG, keep a resilient mind is confident to take on challenges and overcome fears and develop camaraderie among ourselves and other AI UG.</p>
+<p>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-related Activities</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Training</label>
