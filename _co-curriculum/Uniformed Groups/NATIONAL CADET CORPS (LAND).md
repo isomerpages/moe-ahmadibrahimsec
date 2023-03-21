@@ -4,7 +4,6 @@ permalink: /co-curriculum/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <h4><strong>About Us</strong></h4>
 <p>The National Cadet Corps (Land) in Ahmad Ibrahim Secondary School is a Uniformed Group Co-Curricular Activity (CCA) whose mission is to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities.</p>
 <p>AI NCC believes strongly in the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart.</p>
@@ -43,21 +42,21 @@ third_nav_title: Uniformed Groups
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>Unit Sergeant Major:<br /></strong>MSG Akula Jatin</p>
-<p><strong>Assistant Unit Sergeant Major:<br /></strong>MSG Lee Yun Zhuo, Asher</p>
-<p><strong>Company Sergeant Major (Junior Cadets):<br /></strong>SSG Muhammad Irfan Bin Mohd Khairomi&nbsp;</p>
-<p><strong>Company Sergeant Major (Senior Cadets):<br /></strong>SSG Lau Junle&nbsp;</p>
-<p><strong>Company Sergeant Major (Cadet Leaders):<br /></strong>SSG Lim Jun Qi Cliff&nbsp;</p>
-<p><strong>Assistant Company Sergeant Major (Junior Cadets):<br /></strong>3SG Alvin Arthur Yong<br />CPL Liau Jun Sian<br />CPL Goh Kai Teck&nbsp;</p>
-<p><strong>Assistant Company Sergeant Major (Senior Cadets):<br /></strong>3SG Wong Yong Quan Eugene<br />3SG Stephen Chong Yi Hui<br />CPL Bryan Kong Sing Yong&nbsp;</p>
-<p><strong>Assistant Company Sergeant Major (Cadet Leaders):<br /></strong>3SG Lim Yi Jie Ryan<br />CPL Lee Jia Ann Brandon&nbsp;</p>
-<p><strong>Quartermaster:<br /></strong>CPL Sharvesh S/O Kaleselvan</p>
+<p><strong>Unit Sergeant Major:<br /></strong>MSG (NCC) KEEGAN TAN WEIJIE</p>
+<p><strong>Assistant Unit Sergeant Major:<br /></strong>MSG (NCC) MUHAMMAD DANISH DAMIEN BIN ABDULLAH</p>
+<p><strong>Company Sergeant Major (Junior Cadets):<br /></strong>SSG (NCC) NAMEEN S/O MAGESH</p>
+<p><strong>Company Sergeant Major (Senior Cadets):<br /></strong>SSG (NCC) HANIS BIN JEPRI</p>
+<p><strong>Company Sergeant Major (Cadet Leaders):<br /></strong>SSG (NCC) KUAN SENG YUAN;</p>
+<p><strong>Assistant Company Sergeant Major (Junior Cadets):<br /></strong>2SG (NCC) S PONETHN S/O SUDESH<br />3SG (NCC) VIJAY GOVINDARAJ VIMAL RAJn<br /></p>
+<p><strong>Assistant Company Sergeant Major (Senior Cadets):<br /></strong>3SG (NCC) ANNADURAI ASWINRAM<br />3SG (NCC) SARAVANAN SHENBAGA VASIKARAN<br /></p>
+<p><strong>Assistant Company Sergeant Major (Cadet Leaders):<br /></strong>1SG (NCC) HENG WEI XUAN<br />1SG (NCC) PENG YE KAI</p>
+<p><strong>Quartermaster:<br /></strong>3SG (NCC) ANNADURAI ASWINRAM</p><p><strong>Secretary:<br /></strong>2SG (NCC) S PONETHN S/O SUDESH</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mr Chong Wensheng<br /></strong><strong>Contact:&nbsp;<a href="mailto:tan_boon_cheong_marc@moe.edu.sg" target="">chong_wensheng@moe.edu.sg</a></strong></p>
-<p>Mdm Jennifer Koh Pei Pei<br />Ms Nur Syakira Binte Zamri<br />Ms Sumitha Padmanathan</p>
+<p>LTA Jennifer Koh Pei Pei<br />2LT Nur Syakira Binte Zamri<br />2LT Marcus Lau Shao Yu<br/> Sumitha Padmanathan</p>
 </div>
 </li>
 </ul>
