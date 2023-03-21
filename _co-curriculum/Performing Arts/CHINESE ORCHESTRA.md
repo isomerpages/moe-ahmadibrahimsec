@@ -4,7 +4,6 @@ permalink: /co-curriculum/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <h4><strong>About Us</strong></h4>
 <p>The AICO comprises of passionate and spirited individuals who works together hands in hands to perform melodious music pieces to entertain audiences, in and out of school.</p>
 <p>Under the guidance of our competent and seasoned instructors, AICO has achieved the certificate of Distinction in both the 2013 and 2015 SYF Arts Presentation and have produced many outstanding young musicians, some of whom went on further to pursue music studies at higher institution.</p>
@@ -68,7 +67,7 @@ third_nav_title: Performing Arts
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mdm Phua Eng Sze (OIC)<br /></strong><strong>Contact:&nbsp;</strong><a href="mailto:phua_eng_sze@moe.edu.sg" target="">phua_eng_sze@moe.edu.sg</a></p>
-<p>Ms Wang Xuejuan<br />Mdm Xie Xiaowen<br />Mr Zhang Xin Wen</p>
+<p>Ms Wang Xuejuan<br />Ms Ho Jie Min, Melody</p>
 </div>
 </li>
 </ul>
