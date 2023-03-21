@@ -4,7 +4,6 @@ permalink: /co-curriculum/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <img style="width: 30%;" src="/images/scout%20logo.jpg" align = "left"/>
 <p>Ahmad Ibrahim Warrior Scouts has been active since 1967. We have been achieving the Gold Frank Cooper Sands Award for the past 13 years. The Frank Cooper Sands Award is an award that every scout unit in Singapore strives to achieve excellence in.</p>
 <p>As for our CCA, we normally have 2 days of CCA per week in which we organize many exciting and enriching activities for our scouts. Some examples of the skills that you will acquire through scouting are outdoor cooking, knot tying, pioneering, orienteering, drills, first-aid and exploration. We also organize games during some of our CCA days to add on to the element of fun for our scouts.</p>
@@ -13,22 +12,46 @@ third_nav_title: Uniformed Groups
 <p>Some values that an AI Warrior scout will learn through scouting are leadership, discipline, brotherhood, integrity, excellence and teamwork. All the tasks that our scouts are required to accomplish will instill these values upon them, along with physical fitness as they will also be given opportunities to explore excellence there in physical capabilities. Through scouting, you will learn to break boundaries and move out of your comfort zone. Our primary objective is for our scouts to be shaped into more responsible and resilient individuals as they experience scouting.</p>
 <hr>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Vission & Mission</label>
 <div>
-<p>To develop in young gentlemen courage, resilience and a sense of brotherhood</p>
+	<p><strong>Vision</strong><br>Each Scout a gentleman clean in thought, word and deed, who strives to be a student leader who is a cut above the rest.</p>
+<p><strong>Mission</strong><br>To develop in young gentlemen courage, resilience and a sense of brotherhood</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
 <div>
-<p>From sourcing for dried leaves and twigs, to starting a fire, to putting chopped up chicken bits to roast over his self-made cooking pit, these are part and parcel of the outdoor cooking skill set that every scout possesses.</p>
-<p>Other survival skills include exploration hikes, modelling, and structure building, a.k.a pioneering. Indeed, his hands are trained for wonders &ndash; he navigates with map and compass in hand, his nimble fingers fashion miniature wooden models, and those same rugged hands make them a life-sized reality when they transform mere wooden spars into a bridge, a swing or even a kitchen!</p>
-<p>Once yearly during Job Week, the scouts take to the homes of residents all over Singapore to do jobs like cleaning, gardening and tutoring, so as to learn the value of labour and exercise service to their community.</p>
-<p>A good scout perseveres in all these challenges for the purpose of building character &ndash; independence, tenacity, and teamwork. He is also a brother to all and shies not from difficulty. It is our hope that these life skills will see them through their academic journey in AISS and brace them for life beyond.</p>
+<p><p>In Scouting, Scouts learn four core skills:</p>
+<ul>
+<li>Camping which includes Campfire</li>
+<li>Hiking, Exploration and Orienteering</li>
+<li>Knots and Pioneering</li>
+<li>Cooking and Outdoor Survival</li>
+</ul>
+<p>This is done through the eight elements of the Scout Method:  </p>
+<ul>
+<li>Scout Promise and Law</li>
+<li>Learning By Doing</li>
+<li>Personal Progression</li>
+<li>Patrol or Team System</li>
+<li>Adult Support</li>
+<li>Symbolic Framework</li>
+<li>Nature</li>
+<li>Community Involvement</li>
+</ul>
+<h3 id="camping">Camping</h3>
+<p>Scouts’ hands are trained for wonders, with the ability to set up tents and structures necessary for surviving in the outdoors. Working in accordance with nature, Scouts improvise and make use of their surroundings to meet their needs while protecting them.</p>
+<h3 id="orienteering">Orienteering</h3>
+<p>Navigating with a map in one hand and a compass in the other, Scouts identify checkpoints and significant landmarks, and orientate themselves based on these points, allowing them to explore unfamiliar territory with ease while hiking.</p>
+<h3 id="pioneering">Pioneering</h3>
+<p>With nimble fingers and rugged hands, Scouts construct miniature wooden models, transforming them into life-sized bridges, swings and kitchens using mere wooden spars and manila ropes.</p>
+<h3 id="outdoor-cooking">Outdoor Cooking</h3>
+<p>From sourcing dried leaves and twigs, to building and maintaining a fire, to putting small pieces of chicken to roast over a self-made cooking pit, this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
 <div>
 <p>Frank Cooper Sands Award - Gold</p>
+<p> Individual Award: Chief Commissioner’s Award</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
