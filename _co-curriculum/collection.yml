@@ -2,11 +2,11 @@ collections:
   co-curriculum:
     output: true
     order:
-      - SPORTS/.keep
-      - SPORTS/BASKETBALL.md
-      - SPORTS/SHOOTING.md
-      - SPORTS/FOOTBALL.md
-      - SPORTS/TRACK & FIELD.md
+      - Sports/.keep
+      - Sports/BASKETBALL.md
+      - Sports/SHOOTING.md
+      - Sports/FOOTBALL.md
+      - Sports/TRACK & FIELD.md
       - UNIFORMED GROUPS/.keep
       - UNIFORMED GROUPS/GIRL GUIDES.md
       - UNIFORMED GROUPS/NATIONAL CADET CORPS (LAND).md
