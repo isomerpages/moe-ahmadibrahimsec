@@ -4,8 +4,6 @@ permalink: /co-curriculum/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 <h4><strong>About Us</strong></h4>
 <p>Oratorical Debate and Drama Society (ODDS) has been driven by its passion-filled members, passing down a zest that has cultivated into raw commitment that is observed in all of our training programmes. In ODDS, every student gets a chance to shine on stage. ODDS not only focuses on theatrical and public speaking skills but also students&rsquo; character development and passion for drama. Students will also be pushed out of their comfort zone to achieve their full potential.</p>
 <blockquote>
@@ -55,10 +53,10 @@ third_nav_title: Performing Arts
 <p><strong>Chairperson:</strong>&nbsp;Wang Xin Tian (3E4)<br /><strong>Vice-Chairperson:</strong>&nbsp;Siti Aisyah Bte Ruslan (3E2)<br /><strong>Discipline IC:</strong>&nbsp;Ketheesan Olivia Surrthi (3E4)<br /><strong>Logistics IC:</strong>&nbsp;Wan Wei Jie (3E4)<br /><strong>Welfare IC:</strong>&nbsp;Fu Kailin (3E4)<br /><strong>Secretary:</strong> Nyimas Fasya &lsquo;Ayuni Bte K M H (2E4)<br /><strong>Sec 3 Level Coordinator:</strong>&nbsp;Nur Izzati Bte Zulkifli (3E1)<br /><strong>Sec 2 Level Coordinator:</strong>&nbsp;Bek Song Ze Xavier (2E4)<br /><strong>Sec 1 Level Coordinator:</strong>&nbsp;Zuryn Aisyah Bte Zainudin (2E4)</p>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion77">Teachers In Charge</label>
+<li><input id="accordion7" type="checkbox" /><label for="accordion77">Teachers In Charge</label>
 <div>
 <p><strong>Ms Agnes Lim Siew Mei (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:agnes_lim_siew_mei@moe.edu.sg" target="">agnes_lim_siew_mei@moe.edu.sg</a></strong></p>
-<p>Ms Farhanah Bte Abdullah Sani<br />Mrs Kanthiri Alasa<br />Mrs Nirmala d/o K Peryiah</p>
+<p>Mrs Nirmala d/o K Peryiah<br />Mdm Song Weina</p>
 </div>
 </li>
 </ul>
