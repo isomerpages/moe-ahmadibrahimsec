@@ -4,8 +4,6 @@ permalink: /co-curriculum/clubs/green-service-club/
 description: ""
 third_nav_title: Clubs
 ---
-
-
 <img style="width: 50%;" src="images/AI%20Green%20Service%20Club%20Logo.jpg" align = "left"/>
 <p>Green Service Club began as Leo Club, which was a CCA that develops youth leaders to provide service to the community. The transformation into a new CCA stems from the school&rsquo;s commitment towards providing Outdoor Learning Experiences (OLE) with heightened awareness about the environment and green efforts. Through this new CCA, Green Service Club, we aim to learn more, do more and also lead others to make contributions to the environment and the community.</p>
 <p>Find out and learn more about our projects such as vermicomposting and upcycling!</p>
@@ -65,14 +63,19 @@ third_nav_title: Clubs
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>President<br /></strong>Nur Ifti Liyana Binti Rozali&nbsp;(3E2)</p>
-<p><strong>Vice-President<br /></strong>Ng Xin Ya Janessa&nbsp;(3E2)</p>
-<p><strong>Vice-President<br /></strong>Jasper Tan Keng Loong (3N1)</p>
+<p><strong>Chairperson<br /></strong>Mohamed Manaseer Masroora, 3E3</p>
+<p><strong>Vice-Chairperson<br /></strong>Hannah Athirah Binte Mohamed Hazen, 3E1</p>
+<p><strong>Vice-Chairperson<br /></strong>Muhammad Nazif Bin Mohamad Lani, 3E1</p>
+<p><strong>Secretary<br /></strong>Jiang Yingrui, 3E1</p>
+<p><strong>Head Welfare<br /></strong>Ma Chui Yee, 3E2</p>
+<p><strong>Head Logistics<br /></strong>Karel Mak Wei Ting, 3E4</p>
+<p><strong>Urban Committee Head<br /></strong>R Aravinthan, 3E3</p>
+<p><strong>Nature Committee Head<br /></strong>Rachel Chew Rui Qi, 3E4</p>
+<p><strong>Outreach Committee Head<br /></strong>Naina Mohamed Noorul Marliya, 3N1</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Mr Ng Ping Siang (OIC)<br />Contact:&nbsp;<a href="mailto:ng_ping_siang@moe.edu.sg" target="">ng_ping_siang@moe.edu.sg</a></strong><br /><br />Ms Tow Swee Ai Emily<br />Mr Tan Wei Hong</p>
-</div>
+<p><strong>Mr Ng Ping Siang (OIC)<br />Contact:&nbsp;<a href="mailto:ng_ping_siang@moe.edu.sg" target="">ng_ping_siang@moe.edu.sg</a></strong><br /><br />Ms Tow Swee Ai Emily<br />Mdm Khoo Tee Mian
 </li>
 </ul>
