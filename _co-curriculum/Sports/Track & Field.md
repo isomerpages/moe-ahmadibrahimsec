@@ -4,8 +4,6 @@ permalink: /co-curriculum/sports/track-n-field/
 description: ""
 third_nav_title: Sports
 ---
-
-
 <h4><strong>About Us</strong></h4>
 <p>Track and Field is an all rounded CCA consisting of Run, Jump and Throws. All of it requires Resilience, Determination and Commitment. It is an individual sport unlike other sports CCA and hence u win through your own efforts. We are like a big family, motivating each other through hardships and caring for one another. Track and Field also puts hard work and a positive attitude first. We have fun during trainings but at the same time we maintain discipline.&nbsp;</p>
 <p>Our motto is,&nbsp;<strong>&ldquo;Chase your dreams, throw your worries, jump for your goals&rdquo;</strong>.&nbsp;</p>
@@ -91,15 +89,19 @@ third_nav_title: Sports
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Monday<br /></strong>3.00 &ndash; 5.00 PM at Yishun Stadium</p>
-<p><strong>Wednesday<br /></strong>4.00 &ndash; 6.00 PM at Yishun Stadium&nbsp;</p>
-<p><strong>Friday<br /></strong>2.00 &ndash; 4.00 PM in School Gym</p>
+<p><strong>Monday<br /></strong>3.30 &ndash; 5.30 PM at Yishun Stadium</p>
+Stadium&nbsp;</p>
+<p><strong>Friday<br /></strong>2.00 &ndash; 4.00 PM at Yishun Stadium</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>Co-Captain<br /></strong>Brent Seow Jun Heng (3E4)</p>
-<p><strong>Co-Captain<br /></strong>Thaksin Sombat (3E2)</p>
+<p><strong>Captain<br /></strong>BELLELYN ONG 3E2</p>
+<p><strong>Vice-Captain (Training)<br /></strong>TANG ZHIJIE NICHOLAS 3N1</p>
+<p><strong>VIce-Captain (Discipline)<br /></strong>KENDRA GOMEZ 2N1</p>
+<p><strong>Vice-Captain (Logistic)<br /></strong> MUHAMMAD RAIS BIN RIDHWAN 3N1</p>
+<p><strong>Vice-Captain<br /></strong>DAWN ALETHEA LOWE EN 3E1</p>
+<p><strong>Vice-Captain<br /></strong>FATIN BINTI ABU BAKAR 3E4</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
