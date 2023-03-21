@@ -4,8 +4,6 @@ permalink: /co-curriculum/sports/football/
 description: ""
 third_nav_title: Sports
 ---
-
-
 <img style="width: 80%;" src="/images/football%20banner.jpg" />
 <h4><strong>Our Mission</strong></h4>
 <p>Nurturing responsible players on and off the pitch, striving for excellence in all that we partake. Based on our motto, &ldquo;Majulah AI&rdquo;, we believe that if we seek to improve ourselves first, we as a team can achieve miracles and bring AI Football to be the best that it can be.</p>
@@ -70,8 +68,8 @@ third_nav_title: Sports
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Mr B Vinayagam (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:b_vinayagam@moe.edu.sg" target="">b_vinayagam@moe.edu.sg</a></strong></p>
-<p>Mr Ryan Fong Tjen Shan<br />Mr David Ng</p>
+<p><strong>Mr Ryan Fong Tjen Shan(OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:ryan_fong_tjen_shan@moe.edu.sg" target="">ryan_fong_tjen_shan@moe.edu.sg</a></strong></p>
+<p>Ms Hanna Diyana Binte Azahar<br />Mr Ng Qi Qin, Gary (Wu Qiqin)</p>
 </div>
 </li>
 </ul>
