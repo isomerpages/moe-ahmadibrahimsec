@@ -4,7 +4,6 @@ permalink: /co-curriculum/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <h4><strong>About Us</strong></h4>
 <img style="width: 60%;" src="/images/choir%20banner.jpg" />
 <p>AI Choir is a mixed youth choir with young and enthusiastic singers, who all share the same passion for music. Practices are held twice a week where our choristers learn a diverse repertoire of music ranging from the soundtracks of well-known musicals to songs of different languages and genres. In addition, besides the vocal, aural and musicianship training, our choristers also participate in various character- and team-building activities. AI Choir is also a visually impaired friendly choir, where our visually impaired peers can join choir as a CCA.</p>
@@ -52,30 +51,37 @@ third_nav_title: Performing Arts
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesdays:<br /></strong>3.45 pm - 6.00 pm</p>
+<p><strong>Wednesdays:<br /></strong>3.30 pm - 6.00 pm</p>
 <p><strong>Friday:<br /></strong>2.30 pm &ndash; 6.00 pm</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>President:&nbsp;<br /></strong>Dylan Wan Si Le (4E4)</p>
-<p><strong>Vice-president:<br /></strong>Or Yan Ting (4E3)</p>
-<p><strong>Student Conductor:<br /></strong>Aw Jun Hui (4E3)</p>
-<p><strong>Secretary:<br /></strong>Nur Afiqah Binte Mohamad Halim (4E3)</p>
-<p><strong>Welfare:<br /></strong>Sammi Wong Zi He (4E4)</p>
-<p><strong>Librarian:<br /></strong>Tan Jing Herng (4E4)</p>
-<p><strong>Logistics:<br /></strong>Adam Mazlan @ Adam Tok (4E2)</p>
-<p><strong>Treasurer:<br /></strong>Leong Wai Yip Winston (4E3)</p>
-<p><strong>Soprano Section Leader:<br /></strong>Phoebe Wong Bo Yee (3E2)</p>
-<p><strong>Alto Section Leaders:<br /></strong>Liu Yu Xun (4E2), Levina Mya Sadis (4E3)</p>
-<p><strong>Tenor Section Leader:<br /></strong>Ng Jing Rui Titus (3E3)</p>
-<p><strong>Bass Section Leader:<br /></strong>Tay Za Hlwar (3E2)</p>
+<p><strong>President:</strong></p>
+<p>Stefanie Chia Yu Xuen (3E2)</p>
+<p><strong>Vice-President:</strong></p>
+<p>Ong Jun Xi, Brayden (3E3)</p>
+<p><strong>Student Conductor:</strong></p>
+<p>Ng Xian En, Jaden</p>
+<p><strong>Secretary:</strong></p>
+<p>Klenn Teo Yuan Jun Kai (3E4)</p>
+<p><strong>Librarian:</strong></p>
+<p>Dong Hanrui (3E3)</p>
+<p><strong>Soprano Section Leaders:</strong></p>
+<p>Jeanie Khoo Jia Yi (3E4)</p>
+<p>Soo Yin Wei (2E2)</p>
+<p><strong>Alto Section Leaders:</strong></p>
+<p>Liu Zinuo (3E2)</p>
+<p>Chloe Lim Si Xuan (2E2)</p>
+<p><strong>Tenor and bass section leader:</strong></p>
+<p>Tan Xing Wei (3E2)</p>
+
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mdm Phua Meng Hong (OIC) <br /></strong><strong>Contact:&nbsp;</strong><strong><a href="mailto:sherman_yuen_sheung_man@moe.edu.sg" target="">phua_meng_hong@moe.edu.sg</a></strong></p>
-<p>Ms Chew Hui Leng Faith<br />Ms Foo Hui Cheng Candee<br />Mdm Lim Zi Qi</p>
+<p>Ms Foo Hui Cheng Candee<br />Ms Tan Wiphaporn</p>
 </div>
 </li>
 </ul>
