@@ -4,7 +4,6 @@ permalink: /co-curriculum/performing-arts/dance-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <h4><strong>About Us</strong></h4>
 <p>Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.</p>
 <blockquote>
@@ -42,14 +41,14 @@ third_nav_title: Performing Arts
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>President<br /></strong>Gan Hui Xin (3E2)</p>
-<p><strong>Vice-President<br /></strong>Ameya Haridasan (3E3)</p>
+<p><strong>Chiarperson<br /></strong>Avita Tang Engwei (3E2)</p>
+<p><strong>Vice-Chairperson<br /></strong>Misha Hannah Binte Mohamed Fariq (3E4)</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mdm Juny Iskawati (Mrs Noor)&nbsp;(OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:juny_iskawati_mohd_jaffar@moe.edu.sg" target="">juny_iskawati_mohd_jaffar@moe.edu.sg</a></strong></p>
-<p>Mdm Fitrah Bte Jamri<br />Mdm Ren Jing</p>
+<p>Mdm Fitrah Bte Jamri<br />Mdm Ren Jing<br/>Ms Yamuna Rani D/O Rajagopal</p>
 </div>
 </li>
 </ul>
