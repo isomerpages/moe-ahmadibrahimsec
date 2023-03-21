@@ -14,8 +14,11 @@ third_nav_title: Performing Arts
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
 <div>
-<p>&ldquo;5, 6, 7, 8!&rdquo; The dancers move tirelessly across the dance floor as they prepare to conduct a mini-workshop for the young as part of their service learning. &ldquo;Reach for your toes, but be sure to smile!&rdquo; The dancers encourage the young pre-schoolers as they reminisce the fond memories of their own journey growing as dancers.</p>
-<p>Being able to move the audience is a gratifying experience for any dancer, and this is something our AI dance ensemble achieved in The Royal Dance-Off competition for the first time. They learnt that behind every stretch, every pirouette and every leap lies months of sheer hard work. A dancer is no stranger to failure, but he or she also knows that with each fall comes the opportunity to rise again, this time with more composure, tenacity and grit.</p>
+<p><em>“Great dancers are not great because of their technique, they are great because of their passion.”</em></p>
+<p><strong>- Martha Graham</strong></p>
+<p>What is dance? Or rather, why dance?  </p>
+<p>It has been said dance is the mother of the arts, for it’s the oldest of the art which reflects man’s age old need to communicate different emotions such as joy, grief, excitement, and many others. Dance simply started as man’s own life for almost all occasions, in whatever aspects, such as birth, death, healing of the sick, asking for forgiveness, war, marriage – were celebrated by dancing.</p>
+<p>So AI dancers dance to express ourselves when words are insufficient. We dance to help us engrave those cherished moments. We dance to give tribute to the heroes of yesterday. Because when we dance, we can remember them a little better, feel the butterflies once again and return to the purest moments of our lives when time of no matter.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
