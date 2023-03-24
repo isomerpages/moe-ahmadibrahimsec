@@ -37,8 +37,9 @@ The Secondary Two pupils had a 3-day residential camp @ Changi Coast MOE Adventu
 *   Challenge Rope Course and Rock Climbing at Changi Coast MOE Adventure Centre
 *   Cycling from Changi Coast MOE Adventure Centre to Garden by the Bay
 *   Kayaking Expedition from the Sembawang Beach to the Seletar Island
-<br><br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4cpgAhc6uqVWC9unATqs7W-t5rdeRZm8MmBn6PQp-E6zaCYykHPVJuJIzZHHqp10t5kHjJ68IHt54/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4cpgAhc6uqVWC9unATqs7W-t5rdeRZm8MmBn6PQp-E6zaCYykHPVJuJIzZHHqp10t5kHjJ68IHt54/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
+
 <h4>OLE 3 (Term 2 Week 9, 17th to 20th May)</h4>
 The focus of OLE 3 is to provide opportunities for the students to apply outdoor skills learnt in previous experiences, to develop personal and social responsibility through post-activity reflections, and lastly, to enhance their geographical and environmental awareness of outdoor places in Malaysia and in Singapore.
 
@@ -48,9 +49,8 @@ The Sec 3 Normal and Technical classes pupils had a 4D3N outdoor learning experi
 *   Waterfall Abseiling
 *   Caving
 *   Community Involvement Project
-<br>
-<br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrEcpLAjILkTYPNaPNqECcrft8-9-KogqKhQMqis58zdC8qegwG9j1ycL-tjEeIQNbSj5tzr1PVsxT/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrEcpLAjILkTYPNaPNqECcrft8-9-KogqKhQMqis58zdC8qegwG9j1ycL-tjEeIQNbSj5tzr1PVsxT/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 A new program was introduced for the Sec 3 Express students, focusing on learning and experience in local outdoor environment. Adapted from Place-based Education approach, the programme allows us to reduce level of adventure and challenges, hence to increase form teachers’ involvement in achieving the intended learning outcomes.
 
 Their camping experience include
@@ -58,6 +58,5 @@ Their camping experience include
 *   Coastal-mangrove kayaking experience at Pulau Ubin
 *   Class picnic organization experience St John’s Island
 *   Cycling at Park Connector and Railway Corridor. On route visit to Commonwealth Secondary School (CWSS) to learn about their Environmental Education programme
-<br>
-<br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqvodfofeu7jYU102B87AtKd-kQJvQVHMNO51QXFJjiXDUHsqd6XnY9NRsmS2celvs70WvYLpsfWx5/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqvodfofeu7jYU102B87AtKd-kQJvQVHMNO51QXFJjiXDUHsqd6XnY9NRsmS2celvs70WvYLpsfWx5/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center><h4>
