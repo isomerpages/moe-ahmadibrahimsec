@@ -63,38 +63,35 @@ Subsidies are available to students who require financial assistance. Singapore 
 
 Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your child qualifies for a subsidy, please submit Annex D “Application for Subsidy for PLD”.
 
-<p><strong>Cyberwellness Resources for Parents</strong></p>
-<ul>
-<li><a rel="noopener" target="_blank" href="https://drive.google.com/file/d/194RdUvrjLNDRu5iFa_wo8gCyGL6w_VUF/view?usp=sharing">Parent Handbook (I) on Learning with a PLD</a></li>
-<li><a rel="noopener" target="_blank" href="https://drive.google.com/file/d/10Db0A_A3dAYL_HH3U3dCtx2e-SaT7oPf/view?usp=sharing">Parent Handbook (II) on Learning with a PLD</a></li>
-<li><a rel="noopener" target="_blank" href="https://go.gov.sg/moe-cyber-wellness">go.gov.sg/moe-cyber-wellness</a></li>
-<li><a rel="noopener" target="_blank" href="https://beta.moe.gov.sg/programmes/cyber-wellness/">https://beta.moe.gov.sg/programmes/cyber-wellness/</a></li>
-<li><a rel="noopener" target="_blank" href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents">go.gov.sg/better-internet-sg</a></li>
-<li><a rel="noopener" target="_blank" href="https://sure.nlb.gov.sg/">sure.nlb.gov.sg</a></li>
-<li><a rel="noopener" target="_blank" href="https://www.help123.sg/">help123.sg</a></li>
-</ul>
-<p><strong>DMA Information</strong></p>
-<ul>
-<li><a rel="noopener" target="_blank" href="https://form.gov.sg/6143ec0c70054d0012da2b0f">Change Of After-School DMA Parent Options (for Parents/Guardians)</a></li>
-</ul>
-<p><strong>Option Quick Guide &amp; Information</strong></p>
-<ul>
-<li><a rel="noopener" target="_blank" href="/files/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf">Default Option</a></li>
-<li><a rel="noopener" target="_blank" href="/files/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf">Option A</a></li>
-<li><a rel="noopener" target="_blank" href="/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf">Option B</a></li>
-</ul>
-<div>
-<p><strong>Frequently Asked Questions and Answers</strong></p>
-<p>A list of answers to Frequently Asked Questions can be found <strong><a rel="noopener" target="_blank" href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs">HERE</a></strong>.<strong><br></strong>If you have any further queries, kindly email us at:<br><br></p>
-<div>
-<table>
-<tbody>
-<tr>
-<td><strong>PLD Matters</strong><br>Mr Tee Hong Heng<br>HOD ICT<br><a target="" href="mailto:tee_hong_heng@moe.edu.sg">tee_hong_heng@moe.edu.sg</a></td>
-<td><strong>Administrative &amp; Financial Matters</strong><br>Ms Angeline Ng<br>Administration Manager<br><a target="" href="mailto:angeline_ng@schools.gov.sg">angeline_ng@schools.gov.sg</a></td>
-<td><strong>DMA Matters</strong><br>Mr Mohammad Hafiz<br>ICT Associate<br><a target="" href="mailto:mohammad_hafiz_hairuddin@moe.edu.sg">mohammad_hafiz_hairuddin@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
+# **Cyberwellness Resources for Parents**<br>
+*   [Parent Handbook (I) on Learning with a PLD](https://drive.google.com/file/d/1L5SpJIQo_ZWZrxjJK1vMtL9in7KXtqxm/view?usp=share_link)
+*   [Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/13C3U3ySji5W9-j9fSsKggEqEkQuG6wbQ/view?usp=share_link)
+*   [go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness)
+*   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
+*   [go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
+*   [sure.nlb.gov.sg](https://sure.nlb.gov.sg/)
+*   [help123.sg](https://www.help123.sg/)
+
+# **DMA Information**<br>
+*   **[In-depth DMA Information for Parents](https://drive.google.com/file/d/1azH-ggesSi9RcYhDmhPOzTCgRdhAl2Ci/view?usp=share_link)**
+*   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
+
+**Option Quick Guide & Information**  
+
+*   [Default Option](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/School%20Matters/PLD/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf)
+*   [Option A](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/School%20Matters/PLD/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf)
+*   [Option B](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/School%20Matters/PLD/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
+
+# **Service Centre Information**<br>
+![](/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg)
+
+Parents/Students are encouraged to pre-register their device via the link [https://smartcares.com/lenovo/](https://smartcares.com/lenovo/) before proceeding to the **Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions**.
+
+# **Frequently Asked Questions and Answers**<br>
+A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" target="_blank">HERE</a>.
+
+
+| PLD Matters | Administrative & Financial Matters | DMA Matters|
+| -------- | -------- | -------- |
+| Mr Tee Hong Heng<br>HOD ICT<br>[tee\_hong\_heng@moe.edu.sg](mailto:tee_hong_heng@moe.edu.sg)    | Ms Angeline Ng<br>Administration Manager<br>[angeline\_ng@schools.gov.sg](mailto:angeline_ng@schools.gov.sg)  | Mr Mohammad Hafiz<br>ICT Associate<br>[mohammad\_hafiz\_hairuddin@moe.edu.sg](mailto:mohammad_hafiz_hairuddin@moe.edu.sg)    |
+
