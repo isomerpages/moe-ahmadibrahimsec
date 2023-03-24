@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Personal Learning Device
           description: (PLD) @ AI
-          url: ""
+          url: /useful-info/for-parents/personal-learning-device-pld/
         - title: Get to know
           description: THE AI EXPERIENCE
           url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
