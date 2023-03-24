@@ -18,4 +18,5 @@ links:
       - title: School Timetable
         url: /partnerships/school-matters/school-timetable/
   - title: Menu Title
-    url: /test
+    url: /permalink
+    sublinks: []
