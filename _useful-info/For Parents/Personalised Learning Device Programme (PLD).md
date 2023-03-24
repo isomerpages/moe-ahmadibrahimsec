@@ -34,7 +34,7 @@ Alternatively, you can view the <a target="_blank" href="https://drive.google.co
 <br>
 
 **Section 1 - Info on NDLP and PLD Initiative**<br><iframe width="560" height="315" src="https://www.youtube.com/embed/2eOWS0VKLKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-**Section 2- Supporting Students in Safe & Effective Use of PLDs**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Baf9R2yAQlA?wmode=transparent" height="360" width="480"></iframe><br>
+**Section 2- Supporting Students in Safe & Effective Use of PLDs**<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Baf9R2yAQlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 **Section 3 - Device & Funding Information**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/hjn5_yOc5QI?wmode=transparent" height="360" width="480"></iframe><br>
 **Section 4- Action by Parents & Guardian**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/uKR5DfvwNLk?wmode=transparent" height="360" width="480"></iframe>
 
