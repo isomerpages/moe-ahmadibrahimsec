@@ -3,10 +3,10 @@ url: https://ahmadibrahimsec.moe.edu.sg
 favicon: /images/logo (2).png
 colors:
   primary-color: "#167c35"
-  secondary-color: "#d41313"
+  secondary-color: "#b8e986"
   media-colors:
     - title: media-color-one
-      color: "#ebe167"
+      color: "#b8e986"
     - title: media-color-two
       color: "#b8e986"
     - title: media-color-three
