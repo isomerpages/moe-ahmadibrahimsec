@@ -29,7 +29,7 @@ Join us to experience an enriching musical journey!
 <u><h4>**Leadership and musical developmental initiatives and opportunities**</h4></u>
 At AISS, we believe that music-making is best experienced in authentic contexts. That’s why, apart from our focus on hands-on activities during music lessons, our students are exposed to a range of development and talent identification opportunities that allow them to participate in enrichment programmes, watch concerts and take part in performances throughout the year.
 	
-<iframe allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSappeZGd6UqRhPlizQfXTTQv5vn_wyw7NMxnOdit3xxyyQ2gPecN1rKogJJQnKL13jJK7kbkVWvARA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe align=center allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSappeZGd6UqRhPlizQfXTTQv5vn_wyw7NMxnOdit3xxyyQ2gPecN1rKogJJQnKL13jJK7kbkVWvARA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 	
 **Enrichment Programmes and Workshops**
 
