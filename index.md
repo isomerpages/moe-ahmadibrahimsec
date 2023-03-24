@@ -9,9 +9,15 @@ sections:
   - hero:
       background: /images/ai.gif
       key_highlights:
-        - title: Get to know the AI EXPERIENCE
-          description: ""
+        - title: Personal Learning Device
+          description: (PLD) @ AI
+          url: ""
+        - title: Get to know
+          description: THE AI EXPERIENCE
           url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
