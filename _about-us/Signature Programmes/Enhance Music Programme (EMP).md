@@ -25,7 +25,8 @@ Join us to experience an enriching musical journey!
 </tr>
 </tbody>
 </table>
-<p><strong><u>Leadership and musical developmental initiatives and opportunities</u></strong><br>
+
+<u><h5>**Leadership and musical developmental initiatives and opportunities**</h5></u>
 At AISS, we believe that music-making is best experienced in authentic contexts. That’s why, apart from our focus on hands-on activities during music lessons, our students are exposed to a range of development and talent identification opportunities that allow them to participate in enrichment programmes, watch concerts and take part in performances throughout the year.
 	
 <iframe allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSappeZGd6UqRhPlizQfXTTQv5vn_wyw7NMxnOdit3xxyyQ2gPecN1rKogJJQnKL13jJK7kbkVWvARA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
@@ -70,7 +71,7 @@ At AISS, we believe that music-making is best experienced in authentic contexts.
 *   National Combined Schools’ MEP/EMP Camps and Showcase concerts
 *   Combined Schools’ MEP/EMP Higher Education Career Fairs
 	
-<u>**Key features of the syllabus**</u>
+<u><h5>**Key features of the syllabus**</h5></u>
 
 Our comprehensive curriculum caters to various interests and aptitude levels. Students benefit from the study of Western and Asian music, Jazz and Pop, music composition, and music theory. Additionally, students in the EMP will get opportunities to perform as soloists or in ensembles, benefit from music workshops and masterclasses, and attend learning journeys and internships with local arts organisations and institutions.
 	
@@ -78,12 +79,12 @@ We develop students’ musical knowledge and skills and aim to build up students
 
 Our students also benefit from a comprehensive enrichment programme. Students experience a wide range of musical activities in and outside of the classroom, in order to develop skills and competencies for more advanced studies in music, or to gain awareness of potential careers in Music.
 
-<u>**Selection Test Information**</u>
+<u><h5>**Selection Test Information**</h5></u>
 
 We conduct auditions and interviews throughout the year as part of our talent identification process. Suitable candidates in Secondary 1 and 2 can be accepted into the programme.
 
 
-<u>**Our Success Stories**</u>
+<u><h5>**Our Success Stories**</h5></u>
 
 Since our inception in 2016, we have had many Music students who have done exceptionally well and were successfully admitted into Music programmes in JCs and IHLs.
 
