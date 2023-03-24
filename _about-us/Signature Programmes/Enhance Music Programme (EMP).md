@@ -28,7 +28,7 @@ Join us to experience an enriching musical journey!
 <p><strong><u>Leadership and musical developmental initiatives and opportunities</u></strong><br>
 At AISS, we believe that music-making is best experienced in authentic contexts. That’s why, apart from our focus on hands-on activities during music lessons, our students are exposed to a range of development and talent identification opportunities that allow them to participate in enrichment programmes, watch concerts and take part in performances throughout the year.
 	
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSappeZGd6UqRhPlizQfXTTQv5vn_wyw7NMxnOdit3xxyyQ2gPecN1rKogJJQnKL13jJK7kbkVWvARA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSappeZGd6UqRhPlizQfXTTQv5vn_wyw7NMxnOdit3xxyyQ2gPecN1rKogJJQnKL13jJK7kbkVWvARA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 	
 **Enrichment Programmes and Workshops**
 
@@ -70,30 +70,84 @@ At AISS, we believe that music-making is best experienced in authentic contexts.
 *   National Combined Schools’ MEP/EMP Camps and Showcase concerts
 *   Combined Schools’ MEP/EMP Higher Education Career Fairs
 	
-</p><p><strong><u>Key features of the syllabus</u></strong></p>
-<p>Our comprehensive curriculum caters to various interests and aptitude levels. Students benefit from the study of Western and Asian music, Jazz and Pop, music composition, and music theory. Additionally, students in the EMP will get opportunities to perform as soloists or in ensembles, benefit from music workshops and masterclasses, and attend learning journeys and internships with local arts organisations and institutions.</p>
-<p>We develop students’ musical knowledge and skills and aim to build up students’ competence and confidence in music in order for them to study music at a higher level. The spiral curriculum introduces topics at a foundational level, and includes foundational music skills such as elements of music, music theory, music history, aural skills, composition skills, as well as solo and ensemble performance skills.</p>
-<p>Our students also benefit from a comprehensive enrichment programme. Students experience a wide range of musical activities in and outside of the classroom, in order to develop skills and competencies for more advanced studies in music, or to gain awareness of potential careers in Music.</p>
-<p><strong><u>Selection Test Information</u></strong></p>
-<p>We conduct auditions and interviews throughout the year as part of our talent identification process. Suitable candidates in Secondary 1 and 2 can be accepted into the programme.</p>
-<p><strong><u>Our Success Stories</u></strong></p>
-<p>Since our inception in 2016, we have had many Music students who have done exceptionally well and were successfully admitted into Music programmes in JCs and IHLs.</p>
-<p><strong>Adelyn Koh Xin Hui</strong>. Class of 2018. Talented young musician who has been featured in the President’s Star Charity.<br><strong>Nurul Natasya</strong>. Class of 2018. Recipient of The Purple Symphony Training Award.<br><strong>Koh Ming Yang</strong>. Class of 2019. DSA to Eunoia JC via Music<br><strong>Gaston Liew Zhen En</strong>. Class of 2019, YTSS. DSA to Eunoia JC via Music.<br><strong>Hiap Xin Yi Darleene</strong>. Class of 2020. DSA to Raffles Institution (JC) via Music. Singapore National Youth Orchestra member.<br><strong>Aw Jun Hui</strong>. Class of 2020. DSA to Temasek JC via Music<br><strong>Kresnarendra Aqila Sobana</strong>. Class of 2020, GDLSS. DSA to Temasek JC via Music.<br><strong>Lucas Tan Jia Le</strong>. Class of 2020. SNYO training programme. Kids Philharmonic Orchestra member.<br><strong>Damien Lee Zhao Kai</strong>. Class of 2020, YTSS. Eunoia JC MEP and Band. <br><strong>Tai Bing An</strong>. Class of 2020, CVSS. NAFA Foundation Programme (Music)<br><strong>Wong Xin Hui Rachael</strong>. Class of 2020, NBSS. NAFA Foundation Programme (Music)</p>
-<p><u><strong>Talent Development</strong></u></p>
-<p>At AISS, we believe that every student should have an equal opportunity to develop their talents. We do talent identification and development through the General Music Programme as well as via the school’s AESPIRE concerts, and provide training and performance opportunities for anything from beatboxing to pen-tapping!</p>
-<p><strong>Nur Amirah Bte Rohaizad</strong>. Class of 2019. Represented Singapore at the Tokyo Child Aid Concert in Japan in 2018.<br><strong>Kalaivani D/O Regupathy</strong>. Class of 2019. Represented Singapore at the Tokyo Child Aid Concert in Japan in 2019.<br><strong>Nur Amirah Bte Rohaizad</strong>,&nbsp;<strong>Mohamad Shahzuie B Jaffar</strong>,&nbsp;<strong>Izzarilhan B Selamat</strong>. Recorded the soundtrack to the Cultural Medallion Fund Project: Nona Asiah - A Musical Journey<br><strong>Sarefina Sindhu Victor</strong>. SYF Celebrations Performance at Singer-Songwriters Showcase @ Esplanade Library.<br><strong>Nur Amirah Bte Rohaizad</strong>,&nbsp;<strong>Sarefina Sindhu Victor</strong>,&nbsp;<strong>Izzarilhan B Selamat</strong>,&nbsp;<strong>Kalaivani D/O Regupathy</strong>,&nbsp;<strong>Natasha Tan</strong>. SYF Celebrations Performance at Causeway Point Mall.</p>
-<p><strong><u>Links</u></strong></p>
-<ol>
-<li>Secondary School Posting Booklet&nbsp;[<em><strong>To be updated</strong></em>]</li>
-<li><a rel="noopener" target="_blank" href="http://go.gov.sg/musicelectiveprogramme">MOE EMP Webpage</a></li>
-<li><a rel="noopener" target="_blank" href="http://go.gov.sg/enhancedmusicprogramme">MOE MEP Webpage</a></li>
-<li><a rel="noopener" target="_blank" href="http://go.gov.sg/olmsyllabus">OLM Teaching and Learning Syllabus</a></li>
-<li><a rel="noopener" target="_blank" href="http://go.gov.sg/empmepyoutubepage">EMP/MEP YouTube Page</a></li>
-<li>[All Levels] EMP/MEP Publicity Videos:</li>
-<ul>
-<li><a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=6dwp2ImDRjE">https://www.youtube.com/watch?v=6dwp2ImDRjE</a></li>
-<li><a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=T3IrEkM967w">https://www.youtube.com/watch?v=T3IrEkM967w</a>&nbsp;</li>
-</ul>
-<li>Links to&nbsp;<a rel="noopener" target="_blank" href="https://www.instagram.com/aespireaiss/?hl=en">Instagram</a>&nbsp;and&nbsp;<a rel="noopener" target="_blank" href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos">YouTube</a>&nbsp;Channel</li>
-</ol>
-<p><strong><u>Contact details of relevant personnel</u></strong><br>Ms Lee Jia Ling (Music Coordinator) -&nbsp;<a target="" href="mailto:Lee_Jia_Ling_A@moe.edu.sg">Lee_Jia_Ling_A@moe.edu.sg</a><br>Ms Ng Sheh Feng (HOD/Aesthetics &amp; Craft) -&nbsp;<a target="" href="mailto:Ng_Sheh_Feng@moe.edu.sg">Ng_Sheh_Feng@moe.edu.sg</a><br>Ms Amelia Dizon (Music Teacher) -&nbsp;<a target="" href="mailto:amelia_y_dizon@moe.edu.sg">amelia_y_dizon@moe.edu.sg</a></p>
+<u>**Key features of the syllabus**</u>
+
+Our comprehensive curriculum caters to various interests and aptitude levels. Students benefit from the study of Western and Asian music, Jazz and Pop, music composition, and music theory. Additionally, students in the EMP will get opportunities to perform as soloists or in ensembles, benefit from music workshops and masterclasses, and attend learning journeys and internships with local arts organisations and institutions.
+	
+We develop students’ musical knowledge and skills and aim to build up students’ competence and confidence in music in order for them to study music at a higher level. The spiral curriculum introduces topics at a foundational level and includes foundational music skills such as elements of music, music theory, music history, aural skills, composition skills, as well as solo and ensemble performance skills.
+
+Our students also benefit from a comprehensive enrichment programme. Students experience a wide range of musical activities in and outside of the classroom, in order to develop skills and competencies for more advanced studies in music, or to gain awareness of potential careers in Music.
+
+<u>**Selection Test Information**</u>
+
+We conduct auditions and interviews throughout the year as part of our talent identification process. Suitable candidates in Secondary 1 and 2 can be accepted into the programme.
+
+
+<u>**Our Success Stories**</u>
+
+Since our inception in 2016, we have had many Music students who have done exceptionally well and were successfully admitted into Music programmes in JCs and IHLs.
+
+**Adelyn Koh Xin Hui**. Class of 2018. Talented young musician who has been featured in the President’s Star Charity.
+
+**Nurul Natasya**. Class of 2018. Recipient of The Purple Symphony Training Award.
+
+**Koh Ming Yang**. Class of 2019. DSA to Eunoia JC via Music
+
+**Gaston Liew Zhen En**. Class of 2019, YTSS. DSA to Eunoia JC via Music.
+
+**Hiap Xin Yi Darleene**. Class of 2020. DSA to Raffles Institution (JC) via Music. Singapore National Youth Orchestra member.
+
+**Aw Jun Hui**. Class of 2020. DSA to Temasek JC via Music
+
+**Kresnarendra Aqila Sobana**. Class of 2020, GDLSS. DSA to Temasek JC via Music.
+
+**Lucas Tan Jia Le**. Class of 2020. SNYO training programme. Kids Philharmonic Orchestra member.
+
+**Damien Lee Zhao Kai**. Class of 2020, YTSS. Eunoia JC MEP and Band.
+
+**Tai Bing An**. Class of 2020, CVSS. NAFA Foundation Programme (Music)
+
+**Wong Xin Hui Rachael**. Class of 2020, NBSS. NAFA Foundation Programme (Music)
+
+**Lawrence Gabriel Angel. Class of 2021**. NAFA (Music)
+
+
+<u><h5>**Talent Development**</h5></u>
+
+At AISS, we believe that every student should have an equal opportunity to develop their talents. We do talent identification and development through the General Music Programme as well as via the school’s AESPIRE concerts, and provide training and performance opportunities for anything from beatboxing to pen-tapping!
+
+**Nur Amirah Bte Rohaizad**. Class of 2019. Represented Singapore at the Tokyo Child Aid Concert in Japan in 2018.
+
+**Kalaivani D/O Regupathy**. Class of 2019. Represented Singapore at the Tokyo Child Aid Concert in Japan in 2019.
+
+**Nur Amirah Bte Rohaizad, Mohamad Shahzuie B Jaffar, Izzarilhan B Selamat**. Recorded the soundtrack to the Cultural Medallion Fund Project: Nona Asiah - A Musical Journey
+
+**Sarefina Sindhu Victor**. SYF Celebrations Performance at Singer-Songwriters Showcase @ Esplanade Library.
+
+**Nur Amirah Bte Rohaizad, Sarefina Sindhu Victor, Izzarilhan B Selamat, Kalaivani D/O Regupathy, Natasha Tan**. SYF Celebrations Performance at Causeway Point Mall.
+
+**Ng Li Xuan, Terry Zhang**. MEP40 ‘My Journey, Our Journey’ – Chinese Music Virtual Ensemble Showcase
+
+
+<u><h5>**Links**</h5></u>
+
+1.  Secondary School Posting Booklet \[**_To be updated_**\]
+2.  [MOE EMP Webpage](http://go.gov.sg/musicelectiveprogramme)
+3.  [MOE MEP Webpage](http://go.gov.sg/enhancedmusicprogramme)
+4.  [OLM Teaching and Learning Syllabus](http://go.gov.sg/olmsyllabus)
+5.  [OLM Exam Syllabus 2023](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6085_y23_sy.pdf)
+6.  [EMP/MEP YouTube Page](http://go.gov.sg/empmepyoutubepage)
+7.  \[All Levels\] EMP/MEP Publicity Videos:
+
+*   [https://www.youtube.com/watch?v=6dwp2ImDRjE](https://www.youtube.com/watch?v=6dwp2ImDRjE)
+*   [https://www.youtube.com/watch?v=T3IrEkM967w](https://www.youtube.com/watch?v=T3IrEkM967w)
+8.  Links to [Instagram](https://www.instagram.com/aespireaiss/?hl=en) and [YouTube](https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos) Channel
+
+	
+<u><h5>**Contact details of relevant personnel**</h5></u>
+
+* Ms Amelia Dizon (Music Teacher) - [amelia\_y\_dizon@moe.edu.sg](mailto:amelia_y_dizon@moe.edu.sg)
+
+* Ms Carita Chew Meng (Music Teacher) - [carita\_chew\_meng@moe.edu.sg](mailto:carita_chew_meng@moe.edu.sg)
+
+* Mr Enzo Charles Victor Buttazzoni (Music Teacher) - [enzo\_charles\_victor\_buttazzoni@moe.edu.sg](mailto:enzo_charles_victor_buttazzoni@moe.edu.sg)
