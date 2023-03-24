@@ -17,7 +17,7 @@ sections:
           url: /about-us/signature-programmes/outdoor-learning-experience-ole/
         - title: Do your see what we see?
           description: Applied Learning Programme
-          url: ""
+          url: /about-us/signature-programmes/applied-learning-programme-alp/
         - title: Music is our life
           description: Enhanced Music Programme
           url: ""
