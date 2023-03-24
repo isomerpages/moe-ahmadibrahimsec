@@ -57,9 +57,12 @@ Permanent Residents/International Students, please submit the hardcopy letter to
 </tr>
 </tbody>
 </table>
-<p><strong>Financial Assistance</strong></p>
-<p>Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.&nbsp;</p>
-<p>Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI) is below $1000. If your child qualifies for a subsidy, please submit Annex D “Application for Subsidy for PLD”.</p>
+
+# **Financial Assistance**<br>
+Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.
+
+Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your child qualifies for a subsidy, please submit Annex D “Application for Subsidy for PLD”.
+
 <p><strong>Cyberwellness Resources for Parents</strong></p>
 <ul>
 <li><a rel="noopener" target="_blank" href="https://drive.google.com/file/d/194RdUvrjLNDRu5iFa_wo8gCyGL6w_VUF/view?usp=sharing">Parent Handbook (I) on Learning with a PLD</a></li>
