@@ -20,7 +20,7 @@ sections:
           url: /about-us/signature-programmes/applied-learning-programme-alp/
         - title: Music is our life
           description: Enhanced Music Programme
-          url: ""
+          url: /about-us/signature-programmes/enhanced-music-programme-emp/
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
