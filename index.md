@@ -15,7 +15,7 @@ sections:
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
-      button: More Announcements
+      button: View more
   - infopic:
       title: Meet Ms Tan Ke-Xin
       subtitle: Principal of AISS
