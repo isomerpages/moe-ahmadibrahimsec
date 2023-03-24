@@ -6,7 +6,7 @@ third_nav_title: Signature Programmes
 ---
 <h3>Overview</h3>
 <h4 style="text-align: center;"><strong>Applied Learning Programme (ALP)</strong><br><strong>Critical Social Inquiry and Media Literacy (CSI-ALP)</strong></h4>
-<h4>What is the Applied Learning Programme (ALP) at AISS?</h4></strong>
+<h4>What is the Applied Learning Programme (ALP) at AISS?</h4>
 The school's ALP is Critical Social Inquiry and Media Literacy.
 
 <h4>What is the aim of the ALP?</h4>
@@ -33,9 +33,9 @@ The COVID-19 pandemic has shown how quickly external environments can change, af
 
 <strong><em>Effective and Discerning Users of Media</em></strong>. In our ALP, students learn to be more discerning when accessing information online. They hone their skills in distinguishing reliable information from fake news and learn how the media can, at times, portray information from a certain angle to achieve a desired outcome.
 
-<strong>Where can I learn more about the school&rsquo;s ALP?</strong>
+<strong>Where can I learn more about the school’s ALP?</strong>
 
-If you'd like to learn more about what our students experience in the ALP and view some of the digital products done by our students, head over to <strong><a href="https://alpataiss.wixsite.com/aiss" target="_blank" rel="noopener">https://alpataiss.wixsite.com/aiss</a></strong>
+If you'd like to learn more about what our students experience in the ALP and view some of the digital products done by our students, head over to <strong><a rel="noopener" target="_blank" href="https://alpataiss.wixsite.com/aiss">https://alpataiss.wixsite.com/aiss</a></strong>
 
 <h4>Sec 1 ALP Lessons</h4>
 For the first time ever, our Secondary 1 students created their very own Digital Manga comic strip where they get to put their creativity and originality to the test as to raise awareness on various social issues.
@@ -47,3 +47,5 @@ They had fun creating their own anime characters from scratch and incorporated s
 Our Secondary 2 students had an insightful ALP experience this year as they explored the theme of Sustainability. They delved into three topics related to sustainability, i.e. food wastage, fast fashion, and single-use plastics and put on their collaborative thinking caps as they conducted their own research on one of these three topics using the S.U.R.E method as well as the PACC thinking model. Armed with solid research and statistics, our students educated their peers on the importance of sustainability for Singapore by piecing together their research, filming skills, and creativity to produce quality docu-dramas that were presented during the ALP Fiesta.
 
 ALP Fiesta celebrates the multiple media works of the students and gives recognition for the best digital manga and docu-drama in the various aspects of the media form such as storyboarding and post video production. Our group of student helpers and ALP Representatives are ever helpful to make the prize presentation and award show a success!
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQoqKEk8iAwTmKFaWMRyov1mhmsEaswe5oOFvng8PUqopadvaJm_1xKYnaDu3v9Mx9jM7xR8sWUXPNu/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
