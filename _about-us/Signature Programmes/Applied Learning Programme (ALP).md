@@ -72,7 +72,7 @@ This year our group of ALP class representatives from Secondary 1 and 2s visited
 
 In partnership with Singapore Food Agency (SFA), Lower Secondary students learned about Singapore's sustainable food practices via Zoom talks and exhibition panels. The topic piqued students' interests, making them curious about the interdisciplinary nature of food sustainability in Singapore. In October, we also welcomed Mr Darren Ho from Singapore Young Farmers to share his experiences and insights.
 <br>
-<iframe allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIu3c_sbgZ6tob0Xgn8seHHnrbp6ci_5mGPi9AcfG0CTp5ub-CBf8AVF1grh4XhmIPRJ7Q4mKpXEXK/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe align=center allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIu3c_sbgZ6tob0Xgn8seHHnrbp6ci_5mGPi9AcfG0CTp5ub-CBf8AVF1grh4XhmIPRJ7Q4mKpXEXK/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 <h4>Applied Learning Module @ Ngee Ann Polytechnic – Social Innovations for Future Change</h4>
 
@@ -80,4 +80,4 @@ A group of Secondary 3 students had a productive March holiday by participating 
 
 Over 3 days, our students obtained a sneak peek into what life as a polytechnic student was like. With guidance from NP’s lecturer, Ms. Regina Chin, they explored societal issues like poverty, stigma of society towards ex-offenders and looking out for migrant workers’ welfare. These issues are synonymous to our daily interactions with various segments of the community such as the elderly, and also the needy. Students worked in groups to innovate feasible but exciting solutions. This also made possible as the students draw their inspiration from real-life institutes such as the visit to the Enabling Village and the Singapore Science Centre.
 
-<iframe allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRanD6rgGqyqNjWxLQqfxfDR1RdrbH5bqOoJBL1ycRQZvTKH_9TZzwXvrxQ2Lc0SLgjz3tNvU36fbEB/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe align=center allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRanD6rgGqyqNjWxLQqfxfDR1RdrbH5bqOoJBL1ycRQZvTKH_9TZzwXvrxQ2Lc0SLgjz3tNvU36fbEB/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
