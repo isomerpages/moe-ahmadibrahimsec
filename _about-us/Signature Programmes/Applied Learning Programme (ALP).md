@@ -48,4 +48,4 @@ Our Secondary 2 students had an insightful ALP experience this year as they expl
 
 ALP Fiesta celebrates the multiple media works of the students and gives recognition for the best digital manga and docu-drama in the various aspects of the media form such as storyboarding and post video production. Our group of student helpers and ALP Representatives are ever helpful to make the prize presentation and award show a success!
 
-<iframe allowfullscreen="true" height="560" width="750" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQoqKEk8iAwTmKFaWMRyov1mhmsEaswe5oOFvng8PUqopadvaJm_1xKYnaDu3v9Mx9jM7xR8sWUXPNu/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQoqKEk8iAwTmKFaWMRyov1mhmsEaswe5oOFvng8PUqopadvaJm_1xKYnaDu3v9Mx9jM7xR8sWUXPNu/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
