@@ -29,34 +29,14 @@ Singapore Citizens, please make an online submission at&nbsp;[https://go.gov.sg/
 Permanent Residents/International Students, please submit the hardcopy letter to your child’s/ward’s Form Teacher.
 
 # **PDLP Information for Parents**<br>
-<div>This is a video of the presentation on PLD briefing for Parents.
-</div>
-<div><br>
-</div>
-<div>Alternatively, you can view the <a target="_blank" href="https://drive.google.com/file/d/12s-gpXIkL6Y8yBPUK7e79ihU2tPgLqaw/view?usp=share_link">slides here</a>.
-</div>
-<div><br>
-</div>
-<table style="width: 785px; height: 523px;" class="ive_eobj_center iveo_table ives_tab_zen">
-<tbody>
-<tr>
-<td style="width: 484px;"><font size="4"><b>Section 1 </b> - Info on NDLP and PLD Initiative</font><br><br><iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/2eOWS0VKLKc?wmode=transparent" height="360" width="480"></iframe><br>
-</td>
-</tr>
-<tr>
-<td><font size="4"><b>Section 2</b> - Supporting Students in Safe &amp; Effective Use of PLDs</font><br><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Baf9R2yAQlA?wmode=transparent" height="360" width="480"></iframe><br>
-</td>
-</tr>
-<tr>
-<td><font size="4"><b><br>Section 3</b> - Device &amp; Funding Information<br></font><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/hjn5_yOc5QI?wmode=transparent" height="360" width="480"></iframe><br><br>
-</td>
-</tr>
-<tr>
-<td><b>Section 4</b><font size="4">- Action by Parents &amp; Guardian</font><br><br><font size="4"></font><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/uKR5DfvwNLk?wmode=transparent" height="360" width="480"></iframe><br>
-</td>
-</tr>
-</tbody>
-</table>
+This is a video of the presentation on PLD briefing for Parents.<br>
+Alternatively, you can view the <a target="_blank" href="https://drive.google.com/file/d/12s-gpXIkL6Y8yBPUK7e79ihU2tPgLqaw/view?usp=share_link">slides here</a>.
+<br>
+
+**Section 1 - Info on NDLP and PLD Initiative**<br><iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/2eOWS0VKLKc?wmode=transparent" height="360" width="480"></iframe><br>
+**Section 2- Supporting Students in Safe & Effective Use of PLDs**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Baf9R2yAQlA?wmode=transparent" height="360" width="480"></iframe><br>
+**Section 3 - Device & Funding Information**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/hjn5_yOc5QI?wmode=transparent" height="360" width="480"></iframe><br>
+**Section 4- Action by Parents & Guardian**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/uKR5DfvwNLk?wmode=transparent" height="360" width="480"></iframe>
 
 # **Financial Assistance**<br>
 Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.
@@ -94,4 +74,3 @@ A list of answers to Frequently Asked Questions can be found <a href="https://si
 | PLD Matters | Administrative & Financial Matters | DMA Matters|
 | -------- | -------- | -------- |
 | Mr Tee Hong Heng<br>HOD ICT<br>[tee\_hong\_heng@moe.edu.sg](mailto:tee_hong_heng@moe.edu.sg)    | Ms Angeline Ng<br>Administration Manager<br>[angeline\_ng@schools.gov.sg](mailto:angeline_ng@schools.gov.sg)  | Mr Mohammad Hafiz<br>ICT Associate<br>[mohammad\_hafiz\_hairuddin@moe.edu.sg](mailto:mohammad_hafiz_hairuddin@moe.edu.sg)    |
-
