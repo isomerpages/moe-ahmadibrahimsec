@@ -9,15 +9,18 @@ sections:
   - hero:
       background: /images/ai.gif
       key_highlights:
-        - title: Personal Learning Device
-          description: (PLD) @ AI
-          url: /useful-info/for-parents/personal-learning-device-pld/
         - title: Get to know
           description: THE AI EXPERIENCE
           url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
-        - title: Booklist & Staionery List
-          description: for 2023
-          url: /useful-info/school-matters/books-stationery-list-2023/
+        - title: Welcome to our classroom
+          description: Outdoor Learning Experience
+          url: ""
+        - title: Do your see what we see?
+          description: Applied Learning Programme
+          url: ""
+        - title: Music is our life
+          description: Enhanced Music Programme
+          url: ""
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
