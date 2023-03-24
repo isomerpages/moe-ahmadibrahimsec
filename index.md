@@ -17,7 +17,7 @@ sections:
           url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
         - title: Booklist & Staionery List
           description: for 2023
-          url: ""
+          url: /useful-info/school-matters/books-stationery-list-2023/
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
