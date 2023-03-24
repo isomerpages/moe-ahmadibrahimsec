@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/ai.gif
       key_highlights:
-        - title: Get to know the
-          description: AI EXPERIENCE
+        - title: Get to know the AI EXPERIENCE
+          description: ""
           url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
   - resources:
       title: AISS Announcements
