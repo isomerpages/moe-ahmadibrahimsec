@@ -15,8 +15,8 @@ sections:
         - title: Get to know
           description: THE AI EXPERIENCE
           url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Booklist & Staionery List
+          description: for 2023
           url: ""
   - resources:
       title: AISS Announcements
