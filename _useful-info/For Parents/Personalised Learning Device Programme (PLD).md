@@ -4,7 +4,6 @@ permalink: /useful-info/for-parents/personal-learning-device-pld/
 description: ""
 third_nav_title: For Parents
 ---
-
 # **National Digital Literacy Programme**<br>
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD).
 
@@ -34,7 +33,7 @@ This is a video of the presentation on PLD briefing for Parents.<br>
 Alternatively, you can view the <a target="_blank" href="https://drive.google.com/file/d/12s-gpXIkL6Y8yBPUK7e79ihU2tPgLqaw/view?usp=share_link">slides here</a>.
 <br>
 
-**Section 1 - Info on NDLP and PLD Initiative**<br><iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/2eOWS0VKLKc?wmode=transparent" height="360" width="480"></iframe><br>
+**Section 1 - Info on NDLP and PLD Initiative**<br><iframe width="560" height="315" src="https://www.youtube.com/embed/2eOWS0VKLKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 **Section 2- Supporting Students in Safe & Effective Use of PLDs**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Baf9R2yAQlA?wmode=transparent" height="360" width="480"></iframe><br>
 **Section 3 - Device & Funding Information**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/hjn5_yOc5QI?wmode=transparent" height="360" width="480"></iframe><br>
 **Section 4- Action by Parents & Guardian**<br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/uKR5DfvwNLk?wmode=transparent" height="360" width="480"></iframe>
