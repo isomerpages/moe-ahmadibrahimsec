@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - MOTHER TONGUE.md
       - Curriculum.md
       - English.md
+      - MOTHER TONGUE.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/Chinese.md
       - MOTHER TONGUE/Malay.md
