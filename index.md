@@ -15,7 +15,7 @@ sections:
         - title: Welcome to our classroom
           description: Outdoor Learning Experience
           url: /about-us/signature-programmes/outdoor-learning-experience-ole/
-        - title: Do your see what we see?
+        - title: Do you see what we see?
           description: Applied Learning Programme
           url: /about-us/signature-programmes/applied-learning-programme-alp/
         - title: Music is our life
