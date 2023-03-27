@@ -4,10 +4,10 @@ permalink: /about-us/our-history/our-heritage/
 description: ""
 third_nav_title: Our History
 ---
-## History of Ahmad Ibrahim Secondary School
+# <strong>History of Ahmad Ibrahim Secondary School</strong>
 
 
-**Origins of the School and Its Unique Heritage**
+<h5>Origins of the School and Its Unique Heritage</h5>
 
   
 
