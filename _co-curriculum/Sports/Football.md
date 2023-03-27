@@ -42,7 +42,7 @@ third_nav_title: Sports
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfXfPFZMN9bV4tA2yEUK76ufWhrKectM5NZPlBW-jlBAkefvTzQU6BpZZgkwAhMOZTU4jriCgf_YXt/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfXfPFZMN9bV4tA2yEUK76ufWhrKectM5NZPlBW-jlBAkefvTzQU6BpZZgkwAhMOZTU4jriCgf_YXt/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements/Participation</label>
