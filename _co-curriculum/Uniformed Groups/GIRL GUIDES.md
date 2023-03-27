@@ -12,7 +12,6 @@ third_nav_title: Uniformed Groups
 <p><em>"Being the company leader of Girl Guides was one of my greatest achievement in my secondary school life. COVID-19 had taken away the opportunity for me to lead the company physically. However, through e-CCA, it had taught me to be patient and have the courage to lead. It had also taught me how to communicate with my fellow leaders, strengthening our bond with one another. Even though it was tough to balance my studies and CCA responsibilities at the same time, I have never regretted being the Company Leader."</em></p>
 <p style="text-align: right;">-Jing xuan, 3E2</p>
 </blockquote>
-<hr>
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">Mission</label>
 <div>
@@ -21,7 +20,7 @@ third_nav_title: Uniformed Groups
 </li>
 <li><input type="checkbox" id="accordion2"> <label for="accordion2">Activities</label>
 <div>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRH43CctkegeL5BssxEDt1eQY8gAp_WqOQ1dtYHGuT23uFqTPdcab_qwW4HmFfhE3EkszaRhzbTT3vC/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<h4><center><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRH43CctkegeL5BssxEDt1eQY8gAp_WqOQ1dtYHGuT23uFqTPdcab_qwW4HmFfhE3EkszaRhzbTT3vC/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe></center></h4>
 <p>“Here are some barbecued marshmallows for you!” One of the Girl Guides beamed with pride as she served the curious Secondary 1 students hovering around the Girl Guide’s booth at the CCA Carnival. The students were also shown past year achievements and photos of activities such as outdoor cooking and Training Camp held at the Girl Guides Headquarters. Confidence and pride were written on the guides’ faces as they put their beloved CCA on display.&nbsp;</p>
 <p>At the Sree Narayana Mission Home (SNMH) in Yishun, smiles broke out on the faces of elderly residents playing games such as ball catching and word guessing organised by the guides. These Values-in-Action activities develop in the AI girl guide a heart for the community and a sense of responsibility.</p>
 <p>Good service begins with great attitude. The AI girl guides are ever ready to render their assistance to the school with pride and positivity. Be it the post-Achievement Day dinner or the post-Secondary 1 Orientation dinner, they take pride in serving food and drinks to the guests. Their commendable level of service and graciousness is indeed a source of pride for the school.</p>
@@ -61,12 +60,13 @@ third_nav_title: Uniformed Groups
 <table width="0">
 <tbody>
 <tr>
-<td width="68">&nbsp;</td>
+<td width="235"></td>
+	
 <td width="235">
-<p><strong>2018</strong></p>
+	<p><center><strong>2018</strong></center></p>
 </td>
 <td width="376">
-<p><strong>2019</strong></p>
+	<p><center><strong>2019</strong></center></p>
 </td>
 </tr>
 <tr>
@@ -136,8 +136,8 @@ third_nav_title: Uniformed Groups
 </li>
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday</strong><br>3.45 to 6.00 pm</p>
-<p><strong>Friday</strong><br>2.00 to 5.30 pm</p>
+<p><strong>Wednesday</strong><br>3.45 pm to 6.00 pm</p>
+<p><strong>Friday</strong><br>2.00 pm to 5.30 pm</p>
 </div>
 </li>
 <li><input type="checkbox" id="accordion7"> <label for="accordion7">Student Leaders</label>
