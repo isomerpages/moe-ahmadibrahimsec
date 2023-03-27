@@ -6,7 +6,7 @@ permalink: /faq/
 <p>Q. <strong>How to travel to Ahmad Ibrahim Secondary School?<br /></strong>A. Please refer to <strong><a href="/contact-us" target="">Contact Us</a></strong></p>
 <p>Q. <strong>How do I contact Ahmad Ibrahim Secondary School?<br /></strong>A. Please refer to <strong><a href="/contact-us" target="">Contact Us</a></strong></p>
 <p>Q. <strong>Where do I buy the school uniforms?<br /></strong>A. - During Sec 1 Registration Day in our school<br />-&nbsp;CHOP KONG CHONG location:&nbsp;#02-13 Sembawang Shopping Centre,&nbsp;604 Sembawang Road, S(758459) Tel: 6753 1489,&nbsp;Website:&nbsp;<a href="http://www.euniforms.com.sg/" target="">http://www.euniforms.com.sg</a></p>
-<p>Q. <strong>May I know the prices for school uniforms, books and stationery?</strong><br />A. Please refer to&nbsp;<a href="/partnerships/school-matters" target=""><strong>Uniform prices, Book list and stationery list</strong></a></p>
+<p>Q. <strong>May I know the prices for school uniforms, books and stationery?</strong><br />A. Please refer <a href="/useful-info/school-matters/books-stationery-list-2023/" target="">here</a></p>
 <p>Q. <strong>When are the school terms/ school holidays?<br /></strong>A. Please visit <a href="https://www.moe.gov.sg/education/school-terms-and-holidays">School terms and holidays</a></p>
 <h4>Finance Matters</h4>
 <p>Q. <strong>Where can I learn more about school fees matters?<br /></strong>A. Please visit <a href="https://www.moe.gov.sg/education/secondary" target="">https://www.moe.gov.sg/education/secondary</a></p>
