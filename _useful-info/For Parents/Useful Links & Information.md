@@ -7,7 +7,7 @@ third_nav_title: For Parents
 # **Useful Links**<br>
 *   [Full Subject-Based Banding (Full SBB)](https://ahmadibrahimsec.moe.edu.sg/useful-info/full-subject-based-banding)
 *   [School Matters (Booklist, Timetable, ECHA form etc)](https://ahmadibrahimsec.moe.edu.sg/useful-info/school-matters/books-stationery-list-2023/)
-*   [School Timetable](https://ahmadibrahimsec.moe.edu.sg/useful-info/school-matters/)
+*   [School Timetable](https://ahmadibrahimsec.moe.edu.sg/useful-info/school-matters/school-timetable/)
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 *   [PLD Website for AISS Students (Self Guide & Learning)](https://sites.google.com/moe.edu.sg/ictaiss4students/home)
 *   [End of Year Exam Timetable Schedule](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/useful-info/school-matters)
