@@ -4,8 +4,6 @@ permalink: /co-curriculum/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-
-
 <h4><strong>About Us</strong></h4>
 <p>Our Basketball team has always strived to do our best in all competitions. Even though sometimes training and meeting tough opponents we play our best, no matter what results we get we will still fight with all our very best until the end. Training camps, basketball clinics and competitions are some activities that our players go through annually.</p>
 <p>Potential leaders are given opportunities to lead the team with guidance from the teachers and coaches. As a result, since 2008, we have at least one team qualifying for the National competition, where the top 16 teams in Singapore compete annually, and it has been a record that we are definitely going to continue to uphold and we will strive to keep it going.&nbsp;</p>
@@ -21,7 +19,7 @@ third_nav_title: Sports
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST3o-BkPU_2wDXqQ5Okosq6nMHzzdawABFrDT9RfeFNubw8JYuJJp-nssj8Dlwu4VdVFl0mfQJzEJe/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST3o-BkPU_2wDXqQ5Okosq6nMHzzdawABFrDT9RfeFNubw8JYuJJp-nssj8Dlwu4VdVFl0mfQJzEJe/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
