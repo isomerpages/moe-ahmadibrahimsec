@@ -26,7 +26,8 @@ third_nav_title: Sports
 <p>May the AI School Flag continue to fly proudly!&nbsp;</p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<div>
+	<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
 <div>
 <p><u><strong>2022</strong></u></p>
 <strong>Individual Events<br /></strong>EVA CHIA YI HUI 1E2<br>- Finalist for 200m 'C' Division Girls, 8th position<br>KENDRA GOMEZ 2N1<br>- Finalist for Shotput for 'C' Division Girls, 5th position
@@ -38,17 +39,17 @@ third_nav_title: Sports
 5. QISTINA INSYIRAH BINTE MOHAMAD HUMADILLA 2N1<br></p>
 	
 <p><strong>Relay Events 4 x 100 m Relay</strong><br>
-- Semi-Finals for 'B' Division Girls</p>
+- Semi-Finals for 'B' Division Girls<br>
 1. ALAINA NUR EZRI BINTE ZAINAL 4E3<br>
 2. NUR RAZEENA BINTE ABDUL MALIK 4E3<br>
 3. BELLELYN ONG 3E2<br>
 4. HERLYNN ISZURA BINTE IMRAN 3N1<br>
 5. ILLYA SUFIYA BINTE RAMZDAN 3T2<br>
-6. PEDDI GREESHMA 4E1<br>
+6. PEDDI GREESHMA 4E1<br></p>
 
-
-</div>
 </li>
+</div>
+	
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
 <div>
 <p>Singapore Athletics Track and Field Series 1, 2 and 3<br />Singapore Press Holdings (SPH) Schools Relay Championships 2018<br />Singapore U18/U20 Athletics Championships<br />Nationals Cross Country<br />Nationals Track and Field</p>
@@ -56,14 +57,13 @@ third_nav_title: Sports
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj2UUGSiG5UD6BuTFzlH2Y-e6VF_JjEHFH5ad3LhsWGRWDK60eW5MAxtzdUEybkW9Glv9KtkzPdqA9/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj2UUGSiG5UD6BuTFzlH2Y-e6VF_JjEHFH5ad3LhsWGRWDK60eW5MAxtzdUEybkW9Glv9KtkzPdqA9/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Monday<br /></strong>3.30 &ndash; 5.30 PM at Yishun Stadium</p>
-Stadium&nbsp;</p>
-<p><strong>Friday<br /></strong>2.00 &ndash; 4.00 PM at Yishun Stadium</p>
+<p><strong>Wednesday<br /></strong>3.30 pm - 5.30 pm at Yishun Stadium</p>
+<p><strong>Friday<br /></strong>2.00 pm - 4.00 pm at Yishun Stadium</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
