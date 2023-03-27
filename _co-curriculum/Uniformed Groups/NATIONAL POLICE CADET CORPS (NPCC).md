@@ -4,10 +4,9 @@ permalink: /co-curriculum/uniformed-groups/national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <h4><strong>About Us</strong></h4>
-<img style="width: 30%;" src="/images/logo.png" align = "left"/>
-<p>Set up in 1968, Ahmad Ibrahim Secondary School&rsquo;s NPCC unit has grown in strength in the last 50 years. AISS NPCC unit aims to develop its members as a confident, self-directed learner, an active contributor and a concerned citizen through the wide range of activities.</p>
+<img style="width: 28%;" src="/images/logo.png" align = "left"/>
+<p style="width:fexed;">Set up in 1968, Ahmad Ibrahim Secondary School&rsquo;s NPCC unit has grown in strength in the last 50 years. AISS NPCC unit aims to develop its members as a confident, self-directed learner, an active contributor and a concerned citizen through the wide range of activities.</p>
 <p>Our cadets pick up skills such as foot drills, armed drills, campcraft, and revolver shooting. Alongside these, sing-a-long sessions, physical training, recreational activities and lectures are held to train them mentally and physically. Values such as endurance and teamwork are instilled into the cadets while learning these skills.&nbsp;</p>
 <p>Our cadets also have the opportunity of going on overseas educational trips to places such as Hong Kong and Brunei, through the linkup between SPF/NPCC HQ and our foreign partner&rsquo;s police cadet groups. Locally, we also have our annual camps in the unit held in school.</p>
 <ul class="jekyllcodex_accordion">
