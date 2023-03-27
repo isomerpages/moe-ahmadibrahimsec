@@ -10,10 +10,7 @@ third_nav_title: School Matters
 <li><strong>Sec 2</strong><br />-&nbsp;<a href="/files/S2%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S2%20NA&20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S2%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a>
 <li><strong>Sec 3</strong><br />-&nbsp;<a href="/files/S3%20EXP&20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S3%20NA%20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S3%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
 <li><strong>Sec 4</strong><br />-&nbsp;<a href="/files/S4%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S4%20NA%20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S4%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a></li>
-</ul>
-<ul>
 <li><strong><a href="/files/S5%20NA%20final.pdf" target="_blank" rel="noopener">Sec 5</a></strong></li>
-</ul>
 
 <h3><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2023</strong></h3>
 <h5>ONLINE PURCHASE</h5><br>
