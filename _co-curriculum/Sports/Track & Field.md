@@ -25,7 +25,7 @@ third_nav_title: Sports
 <p>May the AI School Flag continue to fly proudly!&nbsp;</p>
 </div>
 </li>
-	<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
 <div>
 <p><u><strong>2022</strong></u></p>
 <strong>Individual Events<br /></strong>EVA CHIA YI HUI 1E2<br>- Finalist for 200m 'C' Division Girls, 8th position<br>KENDRA GOMEZ 2N1<br>- Finalist for Shotput for 'C' Division Girls, 5th position
@@ -44,9 +44,9 @@ third_nav_title: Sports
 4. HERLYNN ISZURA BINTE IMRAN 3N1<br>
 5. ILLYA SUFIYA BINTE RAMZDAN 3T2<br>
 6. PEDDI GREESHMA 4E1<br></p>
-
+	</div>
 </li>
-</div>
+
 	
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
 <div>
