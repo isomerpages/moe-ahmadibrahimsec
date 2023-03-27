@@ -4,8 +4,6 @@ permalink: /curriculum/aesthetics/food-nutrition-science/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 <h4><strong>About Us</strong></h4>
 <p>The aims of Food and Nutrition Unit are to develop students&rsquo; understanding of concepts of nutrition and meal planning. The subject also introduces the principles of food science. With the use of ICT in Food and Nutrition Coursework, students are trained to be independent and self-directed learners.</p>
 <ul class="jekyllcodex_accordion">
@@ -36,9 +34,6 @@ third_nav_title: Aesthetics
 <td>Juny Iskawati</td>
 <td>Nutrition and Food Science (NFS) Coordinator</td>
 </tr>
-<tr style="text-align: center;">
-<td>Jaya Santhi</td>
-<td>Nutrition and Food Science (NFS) Teacher</td>
 </tr>
 <tr style="text-align: center;">
 <td>Nirmala d/o Periyiah</td>
