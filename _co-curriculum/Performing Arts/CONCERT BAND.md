@@ -25,7 +25,6 @@ third_nav_title: Performing Arts
 <div>&ldquo;<em>Many people around me view band as just another cca but to me, it is more than that. Band has taught me many values such as respect, patience, discipline and perseverance. Band has taught me to be responsible.</em>"</div>
 <div style="text-align: right;">-&nbsp;<strong>Nadyne Nur Rahilah</strong></div>
 </blockquote>
-<hr>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
 <div>
@@ -45,7 +44,7 @@ third_nav_title: Performing Arts
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjkw7Kwj6BFChpGhNr0L69Tp1dbpWzotpXsUGbiHf4KXhVRhG0PHoUjSxtvM2JvbRHJDUrMqK3O0Zc/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjkw7Kwj6BFChpGhNr0L69Tp1dbpWzotpXsUGbiHf4KXhVRhG0PHoUjSxtvM2JvbRHJDUrMqK3O0Zc/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
