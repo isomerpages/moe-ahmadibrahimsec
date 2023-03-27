@@ -1,13 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo (2).png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Useful Info
+    collection: useful-info
+  - title: Download
+    url: /download/
+    sublinks:
+      - title: Yearbooks
+        url: /downloads/yearbooks/
+      - title: P6 Publicity Booklet
+        url: /downloads/p6-publicity-booklet/
+      - title: School Timetable
+        url: /partnerships/school-matters/school-timetable/

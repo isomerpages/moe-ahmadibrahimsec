@@ -1,0 +1,28 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Track & Field.md
+      - Sports/Shooting.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/GIRL GUIDES.md
+      - Uniformed Groups/NATIONAL CADET CORPS (LAND).md
+      - Uniformed Groups/NATIONAL POLICE CADET CORPS (NPCC).md
+      - Uniformed Groups/SCOUTS.md
+      - Uniformed Groups/ST JOHN BRIGADE SINGAPORE.md
+      - Performing Arts/.keep
+      - Performing Arts/CONCERT BAND.md
+      - Performing Arts/CHINESE ORCHESTRA.md
+      - Performing Arts/CHOIR.md
+      - Performing Arts/DANCE ENSEMBLE.md
+      - Performing Arts/ENGLISH DRAMA.md
+      - Clubs/.keep
+      - Clubs/Robotics Club.md
+      - Clubs/Green Service Club.md
+      - Character Citizen Education/.keep
+      - Character Citizen Education/Character Citizen Education.md
+      - Character Citizen Education/Student Development.md
+      - Character Citizen Education/Discipline.md

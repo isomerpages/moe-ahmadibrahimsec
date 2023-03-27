@@ -1,32 +1,47 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Ahmad Ibrahim Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/ai.gif
+      key_highlights:
+        - title: Get to know
+          description: THE AI EXPERIENCE
+          url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
+        - title: Welcome to our classroom
+          description: Outdoor Learning Experience
+          url: /about-us/signature-programmes/outdoor-learning-experience-ole/
+        - title: Do you see what we see?
+          description: Applied Learning Programme
+          url: /about-us/signature-programmes/applied-learning-programme-alp/
+        - title: Music is our life
+          description: Enhanced Music Programme
+          url: /about-us/signature-programmes/enhanced-music-programme-emp/
+  - resources:
+      title: AISS Announcements
+      subtitle: Latest News and Highlights
+      button: View more
+  - infopic:
+      title: Meet Ms Tan Ke-Xin
+      subtitle: Principal of AISS
+      description: "Welcome dear parents and visitors! It gives me great pleasure to
+        introduce you to our AI Family... "
+      button: Read More
+      alt: Image alt text
+      image: /images/principal3.png
+      url: /about-us/principals-message
+  - infopic:
+      title: Be Transformed Be Extraordinary
+      subtitle: Ordinary Miracles
+      description: Introduced in 2014, it has become an AI tradition for students to
+        recollect significant moments that touched them in the year. We call it
+        Ordinary Miracles@AI..
+      button: Read More
+      alt: Image alt text
+      image: /images/miracle2.png
+      url: /ordinary-miracles
 ---
-

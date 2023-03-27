@@ -1,0 +1,22 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English.md
+      - Mother Tongue/About Us.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Arts.md
+      - Aesthetics/Design & Technology.md
+      - Aesthetics/Music.md
+      - Aesthetics/Food & Nutrition Science.md
+      - Physical Education.md
+      - Visually Impaired.md
+      - Info–Communication Technology.md
