@@ -110,13 +110,13 @@ third_nav_title: Sports
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT30XgBnl0InRzmaAyco140JD-vLly6OHpj7dgbrwkwgy4WYezSLUdKw9IGe0Mieca6HjJ4ATy1fqrp/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT30XgBnl0InRzmaAyco140JD-vLly6OHpj7dgbrwkwgy4WYezSLUdKw9IGe0Mieca6HjJ4ATy1fqrp/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Mondays &amp; Wednesdays<br /></strong>3.00 &ndash; 5.00 PM</p>
-<p><strong>Fridays<br /></strong>1.30 &ndash; 4.30 PM</p>
+<p><strong>Mondays & Wednesdays<br /></strong>3.00 pm - 5.00 pm</p>
+<p><strong>Fridays<br /></strong>1.30 pm - 4.30 PM</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
@@ -129,7 +129,7 @@ third_nav_title: Sports
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mr Luo Zhengyang (OIC)<br /></strong><strong>Contact:&nbsp;</strong><strong><a href="mailto:luo_zhengyang@moe.edu.sg" target="">luo_zhengyang@moe.edu.sg</a></strong></p>
-<p>Mdm Jiang Nan<br />Mrs Loh Yen Cheng Lilian<br />Mr Tan Boon Seng</p>
+<p>Mdm Jiang Nan<br />Mrs Lilian Loh Yen Cheng<br />Mr Tan Boon Seng</p>
 </div>
 </li>
 </ul>
