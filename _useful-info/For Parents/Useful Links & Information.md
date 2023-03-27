@@ -12,7 +12,7 @@ third_nav_title: For Parents
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 *   [PLD Website for AISS Students (Self Guide & Learning)](https://sites.google.com/moe.edu.sg/ictaiss4students/home)
 *   [Appointment for ECG counselling session](https://go.gov.sg/ecgc-rachel)
-*   [Edusave Character Award (ECHA) – Parent Letter and Nomination Form 2022](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/For%20Parents/Useful%20Links%20&%20Information/Edusave%20Character%20Award%20(ECHA)/ECHA_2022.pdf)
+*   [Edusave Character Award (ECHA) – Parent Letter and Nomination Form 2022](/files/ECHA_2022.pdf)
 
 # **DMA Information**<br>
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
