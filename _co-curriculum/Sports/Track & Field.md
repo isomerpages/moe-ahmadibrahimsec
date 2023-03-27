@@ -23,6 +23,7 @@ third_nav_title: Sports
 <p>The determination of the track and field members during the Nationals Track and Field Finals was electrifying. The AI Track and Field team did the school proud by qualifying as one of the top 8 finalists! They stayed focused amidst the shouts from the boisterous crowd that was trying to outdo one another with their cheers to set the track ablaze. Their tenacity could be felt right up the stands, where the team cheered them on with all their might.</p>
 <p>This sense of camaraderie would not have been possible if not for the student-led camps, which not only focused on preparation for the Nationals, but also focused on team building. Often known as an individual sport, the students never let their individual goals get in the way of building great friendships. They would support each other&rsquo;s races by cheering for them, even on the days where they did not have any events. They would also form study groups and this transcended streams, cementing their friendship.</p>
 <p>May the AI School Flag continue to fly proudly!&nbsp;</p>
+</div>
 </li>
 <div>
 	<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
