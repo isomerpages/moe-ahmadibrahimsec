@@ -4,7 +4,6 @@ permalink: /partnerships/for-parents/parents-gateway/
 description: ""
 third_nav_title: For Parents
 ---
-
 <h4><strong>Introduction to Parents Gateway App</strong></h4>
 <p>Dear Parents / Guardians,</p>
 <p>AISS welcomes you to Parents Gateway (PG), an app to stay updated on your child's school activity. Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.</p>
@@ -38,14 +37,3 @@ third_nav_title: For Parents
 <p>Click here to watch the Parents Gateway Onboarding video: <strong><a href="http://tinyurl.com/y8g5n3td" target="_blank" rel="noopener">tinyurl.com/y8g5n3td</a></strong></p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">How to declare travel plan in Parents Gateway app?</label>
-<div>
-<p><strong>Note:</strong>&nbsp;Supported OS Versions -&nbsp;<strong>Android 6.0 or later</strong>&nbsp;&amp;&nbsp;<strong>iOS 9.1 or later</strong></p>
-</div>
-</li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">How to declare not travelling Parents Gateway app?</label>
-<div>
-<p>Image not loading</p>
-</div>
-</li>
-</ul>
