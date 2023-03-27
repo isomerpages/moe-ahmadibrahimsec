@@ -10,7 +10,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Public Speaking Programme</label>
 <div>
-<p><strong>2022</strong></p>
+	<p><h4><strong>2022</strong></h4></p>
 	<p><h5>Chong Pang's Next Top Speaker 2022</h5></p>
 <p>After a hiatus of two years due to COVID-19, Chong Pang’s Next Top Speaker was back once again. Eight students from Secondary One to Secondary Three took part in the competition, which pits the best speakers from the secondary schools in Yishun against one another. Elamaran Tarana (2E4) made the school proud by clinching the Crowd Favourite for the Impromptu Speech segment of the competition.</p>
 <img style="width: 65%;" src="/images/Elmaran.png" /><img style="width: 65%;" src="/images/ElamaranTarana03.jpg" />
@@ -18,7 +18,7 @@ description: ""
 	<p><h5>AI's Next Top Speaker 2022</h5></p>
 <p>In this year’s rendition of AI’s Next Top Speaker public speaking contest organised by the English Language Department, in conjunction with the school’s National Day Celebration, participants delivered a speech on what they wish to see for SG75. Among the three finalists, Toh Jun Yi Jamie (2E1) emerged as the best speaker of AI’s Next Top Speaker 2022</p>
 <img style="width: 75%;" src="/images/finalistnexttop.png" />
-<p><strong>2021</strong></p>
+<p><h4><strong>2021</strong></h4></p>
 <p>Yishun's Next Top Speaker is a speech contest for the secondary schools in Yishun organised by the English Department of Ahmad Ibrahim Secondary School, in collaboration with Chong Pang Toastmasters Club (CPTMC). The objectives are to raise awareness amongst youth of the importance of public speaking, provide a platform for students to showcase their oratorical skills, and to provide an opportunity for students to learn from their more eloquent peers.</p>
 <p>A total of 82 students participated in the inaugural Yishun's Next Top Speaker.</p>
 <p>Our students have done the school proud by attaining Champion and Second Runner-Up placings in this contest.</p>
@@ -27,18 +27,18 @@ description: ""
 <li>Second Runner-Up : MOHAMED MANASEER MASROORA</li>
 </ul>
 <p>View the exciting finalist entries at:<br /><strong><a href="https://sites.google.com/moe.edu.sg/yishuntopspeaker2021/home/" target="_blank" rel="noopener">https://sites.google.com/moe.edu.sg/yishuntopspeaker2021/home/</a></strong></p>
-<p><strong>2020</strong></p>
+<p><h4><strong>2020</strong></h4></p>
 <p>&ldquo;&hellip;higher&hellip;higher&hellip;<strong>HIGHER</strong>&hellip;&nbsp;<strong>LOWER</strong>&hellip; lower&hellip;&nbsp;lowest&hellip;&rdquo;&nbsp;</p>
 <p>Make no mistake! This is not a choir practice but a session during this year&rsquo;s Public Speaking Workshop run by the renowned Julia Gabriel&nbsp;Speech and Drama Centre. Participants were given tips on how to carry themselves and how to speak off the cuff, a feat that is daunting to most.&nbsp;</p>
 <p>Boosted by the training, students put the skills they acquired to good use. They participated in public speaking competitions and were handpicked to host events in school.&nbsp;</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRelctAs6vEGIvteXlFcwPGIq7O-H8dhSdmAYrsdP-QhE8MLPuEKuAP5aAnkjjjUe2TkD9aCYAlU_1f/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<p><strong>2019</strong></p>
+<p><h4><strong>2019</strong></h4></p>
 <p>Few things strike fear into the hearts of students as unequivocally as these two words: public speaking. Hence, it is all the more commendable that 20 of our Secondary 1 to 3 students, identified through a stringent selection process, managed to successfully complete the Public Speaking Skills Programme conducted by Julia Gabriel Centre.</p>
 <p>The purpose of this programme is to equip our students with emceeing and persuasive speaking skills which they can apply when giving presentations. All participants have been given opportunities to emcee for a variety of school events, ranging from formal occasions like Achievement Day to adrenaline pumping festivities like the National Day Celebration.</p>
 <p>Besides participating in inter-school competitions like Chong Pang&rsquo;s Next Top Speaker, our public speaking students also took part in the annual AI Speech Competition. After a hard-fought Preliminary Round in which students had to give one-minute impromptu speeches, Shreya S Nair (1E2), Nurul Ailis Lee (1N1) and Loo Carol (3E1) emerged as the top three contestants and proceeded to the Final Round.</p>
 <p>During the Teachers&rsquo; Day Celebration, the three girls spoke about gratitude for teachers, giving engaging and heartfelt speeches that moved the audience with their sincerity.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW9X5r_ZX0z9Vm66AvR0soeD1sY39dImzcp_cpVt4EdDBTGbhq-1cmqiyg_1ZOzuTr6dvsr7y8Ulbl/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<p><strong>2018</strong></p>
+<p><h4><strong>2018</strong></h4></p>
 <p><strong><u>Izwan Bin Indra, 2018 Chong Pang's Next Top Speaker</u></strong></p>
 <img style="width: 65%;" src="/images/Izwan%20Bin%20Indra_website.jpg" />
 <p>Izwan Bin Indra (3E2) was declared 2018 Chong Pang's Next Top Speaker after battling with 8 other finalists. He exuded commanding stage presence and delivered his speech with conviction and flair. A pertinent speech (entitled Anti-social Social Network) wrapped in sincerity and adorned with a sprinkle of humour, it made us laugh, and it made us think. He also won the Crowd Favourite for Prepared Speech. Watch Izwan in action below.</p>
@@ -141,8 +141,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div>
-</li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Reading Programmes</label>
 <div>
 <p>The AI Reading Programme aims to encourage a love for reading in our school where every student is a reader who enjoys the process of reading. Be it through stimulating activities at the library or schoolwide reading subscriptions, we ensure no one gets left behind in discovering the page-turning worlds reading offers. Our wide range of programmes for students also helps students develop a positive disposition to reading so that they can become informed readers who read critically and deeply from an eclectic range of sources.</p>
