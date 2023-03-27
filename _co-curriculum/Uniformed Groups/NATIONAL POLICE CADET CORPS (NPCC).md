@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 <h4><strong>About Us</strong></h4>
 <img style="width: 28%;" src="/images/logo.png" align = "left"/>
-<p style="width:fexed;">Set up in 1968, Ahmad Ibrahim Secondary School&rsquo;s NPCC unit has grown in strength in the last 50 years. AISS NPCC unit aims to develop its members as a confident, self-directed learner, an active contributor and a concerned citizen through the wide range of activities.</p>
+<p style="width:fixed;">Set up in 1968, Ahmad Ibrahim Secondary School&rsquo;s NPCC unit has grown in strength in the last 50 years. AISS NPCC unit aims to develop its members as a confident, self-directed learner, an active contributor and a concerned citizen through the wide range of activities.</p>
 <p>Our cadets pick up skills such as foot drills, armed drills, campcraft, and revolver shooting. Alongside these, sing-a-long sessions, physical training, recreational activities and lectures are held to train them mentally and physically. Values such as endurance and teamwork are instilled into the cadets while learning these skills.&nbsp;</p>
 <p>Our cadets also have the opportunity of going on overseas educational trips to places such as Hong Kong and Brunei, through the linkup between SPF/NPCC HQ and our foreign partner&rsquo;s police cadet groups. Locally, we also have our annual camps in the unit held in school.</p>
 <ul class="jekyllcodex_accordion">
@@ -35,14 +35,14 @@ third_nav_title: Uniformed Groups
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSR2BwgSBFjnxREemwfIEsGbuRf08rOlZ0YXGWLHXjDjtyuJ_B-YBq-LoTEzh5IrS2l8aA9aLjm6wQv/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSR2BwgSBFjnxREemwfIEsGbuRf08rOlZ0YXGWLHXjDjtyuJ_B-YBq-LoTEzh5IrS2l8aA9aLjm6wQv/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday<br /></strong>3.45 &ndash; 6.15 PM</p>
-<p><strong>Friday<br /></strong>2.30 &ndash; 6.00 PM</p>
-<p>(Training sessions by HQ will be updated once details are released)</p>
+<strong>Wednesday<br /></strong>3.45 pm - 6.15 pm<br>
+<strong>Friday<br /></strong>2.30 pm - 6.00 pm<br>
+(Training sessions by HQ will be updated once details are released)
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
