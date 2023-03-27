@@ -25,7 +25,6 @@ third_nav_title: Sports
 <p>May the AI School Flag continue to fly proudly!&nbsp;</p>
 </div>
 </li>
-<div>
 	<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
 <div>
 <p><u><strong>2022</strong></u></p>
