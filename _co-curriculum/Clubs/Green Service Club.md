@@ -4,13 +4,10 @@ permalink: /co-curriculum/clubs/green-service-club/
 description: ""
 third_nav_title: Clubs
 ---
-
-<p>Green Service Club began as Leo Club, which was a CCA that develops youth leaders to provide service to the community. The transformation into a new CCA stems from the school&rsquo;s commitment towards providing Outdoor Learning Experiences (OLE) with heightened awareness about the environment and green efforts. Through this new CCA, Green Service Club, we aim to learn more, do more and also lead others to make contributions to the environment and the community.</p>
-<p>Find out and learn more about our projects such as vermicomposting and upcycling!</p>
+<p>Green Service Club began as Leo Club, which was a CCA that develops youth leaders to provide service to the community. The transformation into a new CCA stems from the school’s commitment towards providing Outdoor Learning Experiences (OLE) with heightened awareness about the environment and green efforts. Through this new CCA, Green Service Club, we aim to learn more, do more and also lead others to make contributions to the environment and the community.</p>
 <blockquote>
-<p><em>"I was selected for the WWF Leadership programme. This training taught me to put myself out of my comfort zone, to lead others confidently in nature trails, and to improvise on my work. In preparation as a nature trail guide for the Festival of Biodiversity, my team and I spent months preparing the materials and rehearsing our presentation.&nbsp;</em></p>
-<p><em>Going through the exhibitions and activities, I realised that Singapore has very rich biodiversity despite its small size, and that we should do our best to conserve the wildlife here. Also, while designing the AI Green Trail, I learnt that we do interact with nature on a daily basis, sometimes without realising it and appreciating it enough."</em></p>
-<p style="text-align: right;">- Wren Eu (4E4)</p>
+<p><em>"The past year in the Green Service Club (GSC) has been nothing but incredible. I was really fortunate to be able to form so many friendships with my fellow CCA mates. Being in GSC, I also learnt to plan and conduct events together. In this CCA, I was made more aware of the many harms done to the environment, some of which are easily overlooked, and ways that we can bring awareness to the people around us. GSC provided us with a creative platform which allowed us to do just that and to explore new and innovative ways to bring information to members in GSC and the school."</em></p>
+<p style="text-align: right;">- Mohamed Manaseer Masroora, 3E3 (2022)</p>
 </blockquote>
 <hr>
 <ul class="jekyllcodex_accordion">
@@ -23,14 +20,12 @@ third_nav_title: Clubs
 <div>
 <p>The Green Service Club [@ai_gsc] is a student-centred CCA, committed in serving the environment and the community through our Urban, Nature and Outreach committees.</p>
 <p>Some of our activities include:</p>
-<blockquote>
 <ul>
 <li>a CCA showcase during the Sec 1 CCA carnival, and exposure activities for Sec 1 CCA orientation,</li>
 <li>school CNY decorations using upcycled materials, providing 3’R’ services to teachers for CNY spring cleaning, and CNY food donation drive for Sree Narayana Mission (Singapore),</li>
 <li>self-initiated learning and nature exploration hikes by GSC leaders, and training workshop for GSC leaders,</li>
 <li>our yearly GSC Green Carnival with games and presentation booths, and yearly participation in Sembcorp Marine Greenwave Competition.</li>
 </ul>
-</blockquote>
 
 </div>
 </li>
