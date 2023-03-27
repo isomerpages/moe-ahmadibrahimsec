@@ -3,7 +3,6 @@ title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
 ---
-
 <h4><strong>About Us</strong></h4>
 <p><em>Motto: Play to Learn, Learn to Play</em></p>
 <p>The PE department hopes to empower the pupils and provide an experience that will allow them to achieve the following learning outcomes:</p>
@@ -58,38 +57,36 @@ description: ""
 <table width="82%">
 <tbody>
 <tr>
-<th style="text-align: left;">
+<th style="text-align: center;">
 <div><strong>Name</strong></div>
 </th>
-<th style="text-align: left;">
-<div><strong>Ext No.</strong></div>
-</th>
+
 </tr>
 <tr>
 <td>Mr Yao Zijian (HOD / Physical Sports &amp; Outdoor Education)&nbsp;</td>
-<td>9016&nbsp;</td>
+
 </tr>
 <tr>
 <td>Mr Tan Boon Seng</td>
-<td>9047</td>
+
 </tr>
 <tr>
 <td>Ms Lilian Loh</td>
-<td>9045</td>
+
 </tr>
 <tr>
 <td>Mr Fong Tjenshan</td>
-<td>9047</td>
+
 </tr>
 <tr>
 <td>
 <div>Mr Toh Wei Xiong, Tommy</div>
 </td>
-<td>9047</td>
+
 </tr>
 <tr>
 <td>Miss Tsang Win Han</td>
-<td>9047</td>
+
 </tr>
 </tbody>
 </table>
