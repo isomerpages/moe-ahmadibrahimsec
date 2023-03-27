@@ -30,24 +30,22 @@ third_nav_title: Sports
 <div>
 <p><u><strong>2022</strong></u></p>
 <strong>Individual Events<br /></strong>EVA CHIA YI HUI 1E2<br>- Finalist for 200m 'C' Division Girls, 8th position<br>KENDRA GOMEZ 2N1<br>- Finalist for Shotput for 'C' Division Girls, 5th position
-<p><strong>Relay Events 4 x 100 m Relay<br /></strong>-Semi-Finals for 'C' Division Girls
-<ol>
-<li>SHEN JUN AN 2E1</li>
-<li>PUTRI QATRUNNADA BIVI BINTE TARMIZI KHAN 2T2</li>
-<li>JALENE POON SI HAN 1E3</li>
-<li>EMIRA NDREU 1N2</li>
-	<li>QISTINA INSYIRAH BINTE MOHAMAD HUMADILLA 2N1</li>
-</ol>
+	<p><strong>Relay Events 4 x 100 m Relay<br /></strong>-Semi-Finals for 'C' Division Girls<br>
+1. SHEN JUN AN 2E1<br>
+2. PUTRI QATRUNNADA BIVI BINTE TARMIZI KHAN 2T2<br>
+3. JALENE POON SI HAN 1E3<br>
+4. EMIRA NDREU 1N2<br>
+5. QISTINA INSYIRAH BINTE MOHAMAD HUMADILLA 2N1<br></p>
+	
 <p><strong>Relay Events 4 x 100 m Relay</strong><br>
 - Semi-Finals for 'B' Division Girls</p>
-<ol>
-<li>ALAINA NUR EZRI BINTE ZAINAL 4E3</li>
-<li>NUR RAZEENA BINTE ABDUL MALIK 4E3</li>
-<li>BELLELYN ONG 3E2</li>
-<li>HERLYNN ISZURA BINTE IMRAN 3N1</li>
-<li>ILLYA SUFIYA BINTE RAMZDAN 3T2</li>
-<li>PEDDI GREESHMA 4E1</li>
-</ol>
+1. ALAINA NUR EZRI BINTE ZAINAL 4E3<br>
+2. NUR RAZEENA BINTE ABDUL MALIK 4E3<br>
+3. BELLELYN ONG 3E2<br>
+4. HERLYNN ISZURA BINTE IMRAN 3N1<br>
+5. ILLYA SUFIYA BINTE RAMZDAN 3T2<br>
+6. PEDDI GREESHMA 4E1<br>
+
 
 </div>
 </li>
