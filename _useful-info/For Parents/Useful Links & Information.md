@@ -30,9 +30,3 @@ If you encounter any problem(s) accessing the link, please inform your child's/w
 *   [Default Option](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/For%20Parents/Useful%20Links%20&%20Information/DMA%20Information/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf)
 *   [Option A](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/For%20Parents/Useful%20Links%20&%20Information/DMA%20Information/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf)
 *   [Option B](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/For%20Parents/Useful%20Links%20&%20Information/DMA%20Information/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
-
-# **PLD@AISS for Parents / Guardians**<br>
-Dear Parents/Guardians,
-
-Click the following [here](https://ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/personalised-learning-device-programme-pld) to learn more regarding National Digital Literacy Programme (NDLP) in AISS.
-
