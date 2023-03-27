@@ -48,13 +48,13 @@ third_nav_title: Performing Arts
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDguUANg0aWAjj1tg1CcFE4ecVBgTJkYtOocR8ChbptDc_7Ntk5Z0bw2fLwPduNhkpUdmPgrkMYW9t/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDguUANg0aWAjj1tg1CcFE4ecVBgTJkYtOocR8ChbptDc_7Ntk5Z0bw2fLwPduNhkpUdmPgrkMYW9t/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday</strong><br />3.45 to 6.30 pm</p>
-<p><strong>Friday</strong><br />1.30 to 5.00 pm</p>
+<p><strong>Wednesday</strong><br />3.45 pm to 6.30 pm</p>
+<p><strong>Friday</strong><br />1.30 pm to 5.00 pm</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
