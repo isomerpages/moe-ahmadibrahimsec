@@ -28,9 +28,9 @@ If you encounter any problem(s) accessing the link, please inform your child's/w
 
 <ul><strong>Option Quick Guide & Information</strong>
 
-*  <a href="(/files/dma1.pdf)">Default Option</a>
-* <a href="(/files/dma2.pdf)">Option A</a>
-* <a href="(/files/dma3.pdf)">Option B</a>
+<a href="(/files/dma1.pdf)">Default Option</a><br>
+<a href="(/files/dma2.pdf)">Option A</a><br>
+<a href="(/files/dma3.pdf)">Option B</a>
 	
 	</ul>
 	
