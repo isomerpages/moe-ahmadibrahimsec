@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - Secondary 1 Registration.md
       - Full Subject Based Banding.md
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
