@@ -3,8 +3,6 @@ title: School Matters
 permalink: /useful-info/school-matters/books-stationery-list-2023/
 description: ""
 ---
-
-
 <h3><strong>Booklist & Stationery List</strong></h3>
 <ul>
 <li><strong>Sec 1</strong><br />-&nbsp;<a href="/files/S1%20EXP.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S1%20NA%20Combined.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S1%20NT&20Combined.pdf" target="_blank" rel="noopener">Normal Technical</a><br /></li>
@@ -47,3 +45,7 @@ Those who walk-in without an appointment will have to wait for the next availabl
 <strong>
 * Onsite or walk-in purchase will not be available at Pacific Bookstores Headquarters.<br>
 ** Onsite or walk-in purchase will not be available at Blue Stag Headquarters.</strong>
+</ul>	
+	
+### School Timetable
+_\*Timetable updated on 27 Jan 2023_
