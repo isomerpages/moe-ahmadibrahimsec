@@ -28,9 +28,9 @@ If you encounter any problem(s) accessing the link, please inform your child's/w
 
 <ul><strong>Option Quick Guide & Information</strong>
 
-*   [Default Option](/files/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf)
-*   [Option A](/files/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf)
-*   [Option B](/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
+*  <a href="(/files/dma1.pdf)">Default Option</a>
+* <a href="(/files/dma2.pdf)">Option A</a>
+* <a href="(/files/dma3.pdf)">Option B</a>
 	
 	</ul>
 	
