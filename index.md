@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ai.gif
+      background: /images/Website Banner/ai.gif
       key_highlights:
         - title: Get to know
           description: THE AI EXPERIENCE
