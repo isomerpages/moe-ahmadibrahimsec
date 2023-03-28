@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - Secondary 2 Streaming.md
       - Secondary 1 Registration.md
       - Full Subject Based Banding.md
       - For Parents/.keep
