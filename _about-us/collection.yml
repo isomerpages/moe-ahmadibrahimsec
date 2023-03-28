@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners/.keep
       - Principal's Message.md
       - Our School.md
       - Our People.md
@@ -16,11 +15,12 @@ collections:
       - Signature Programmes/Outdoor Learning Experience (OLE).md
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/Enhance Music Programme (EMP).md
+      - Our Achievements/.keep
       - Our Achievements/O LEVEL RESULTS.md
       - Our Achievements/N LEVEL RESULTS.md
       - Our Achievements/OUTSTANDING ACHIEVEMENTS.md
       - Our Achievements/SCHOOL & STUDENT ACHIEVEMENTS.md
       - Our Achievements/ALUMNI ACHIEVEMENTS.md
       - Our Achievements/HONOURS ROLL.md
-      - Our Achievements/.keep
+      - Our Partners/.keep
       - Our Partners.md
