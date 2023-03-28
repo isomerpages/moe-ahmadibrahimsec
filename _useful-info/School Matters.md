@@ -3,7 +3,7 @@ title: School Matters
 permalink: /useful-info/school-matters/books-stationery-list-2023/
 description: ""
 ---
-<h3><strong>Booklist & Stationery List</strong></h3>
+<h2><strong>Booklist & Stationery List</strong></h2>
 <ul>
 <li><strong>Sec 1</strong><br />-&nbsp;<a href="/files/S1%20EXP.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S1%20NA%20Combined.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S1%20NT&20Combined.pdf" target="_blank" rel="noopener">Normal Technical</a><br /></li>
 <li><strong>Sec 2</strong><br />-&nbsp;<a href="/files/S2%20EXP%20final.pdf" target="_blank" rel="noopener">Express</a><br />-&nbsp;<a href="/files/S2%20NA&20final.pdf" target="_blank" rel="noopener">Normal Academic</a><br />-&nbsp;<a href="/files/S2%20NT%20final.pdf" target="_blank" rel="noopener">Normal Technical</a>
@@ -47,5 +47,5 @@ Those who walk-in without an appointment will have to wait for the next availabl
 ** Onsite or walk-in purchase will not be available at Blue Stag Headquarters.</strong>
 </ul>	
 	
-### School Timetable
+## School Timetable
 _\*Timetable updated on 27 Jan 2023_
