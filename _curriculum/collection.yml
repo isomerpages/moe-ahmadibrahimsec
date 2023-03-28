@@ -2,11 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Visually Impaired/Visually Impaired.md
-      - Visually Impaired/.keep
       - English.md
-      - Mother Tongue/About Us.md
       - Mother Tongue/.keep
+      - Mother Tongue/About Us.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
@@ -20,4 +18,6 @@ collections:
       - Aesthetics/Music.md
       - Aesthetics/Food & Nutrition Science.md
       - Physical Education.md
+      - Visually Impaired/.keep
+      - Visually Impaired/Visually Impaired.md
       - Info–Communication Technology.md
