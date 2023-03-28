@@ -6,7 +6,7 @@ third_nav_title: For Parents
 ---
 ## PSG
 
-<img src="/images/psg.jpg" style="width:45%">
+<img src="/images/psglogo.jpg" style="width:45%">
 
 #### Vision
 **To work in close rapport with the school to bring out the best in every AI Student**
