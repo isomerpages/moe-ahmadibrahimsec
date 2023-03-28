@@ -33,3 +33,7 @@ If you encounter any problem(s) accessing the link, please inform your child's/w
 *   [Option B](/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
 	
 	</ul>
+	
+<h4><strong>PLD@AISS for Parents / Guardians</strong></h4>	
+Dear Parents/Guardians,<br>
+Click the following [here](https://staging.dxta9dqb83ltq.amplifyapp.com/useful-info/for-parents/personal-learning-device-pld/) to learn more regarding National Digital Literacy Programme (NDLP) in AISS.
