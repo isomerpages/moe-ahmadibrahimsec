@@ -16,8 +16,10 @@ third_nav_title: For Parents
 *   [Edusave Character Award (ECHA) – Parent Letter and Nomination Form 2022](/files/ECHA_2022.pdf)
 
 <h4><Strong>Information on 2023 Sec 3 Subject Combination Selection</strong></h4>
-Dear Sec 2 Parents/Guardians,<br>
-Click the following [here](https://go.gov.sg/aiss-sec3-subjcombination) to learn more!<br>
+Dear Sec 2 Parents/Guardians,
+
+Click the following [here](https://go.gov.sg/aiss-sec3-subjcombination) to learn more!
+
 If you encounter any problem(s) accessing the link, please inform your child's/ward's Form Teachers.
 
 <h4><strong>DMA Information</strong></h4>
@@ -33,5 +35,6 @@ If you encounter any problem(s) accessing the link, please inform your child's/w
 	</ul>
 	
 <h4><strong>PLD@AISS for Parents / Guardians</strong></h4>	
-Dear Parents/Guardians,<br>
+Dear Parents/Guardians,
+
 Click the following [here](https://staging.dxta9dqb83ltq.amplifyapp.com/useful-info/for-parents/personal-learning-device-pld/) to learn more regarding National Digital Literacy Programme (NDLP) in AISS.
