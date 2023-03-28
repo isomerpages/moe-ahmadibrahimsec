@@ -1,0 +1,19 @@
+---
+title: Alumni
+permalink: /about-us/our-partners/
+description: ""
+third_nav_title: Our Partners
+---
+
+
+# Alumni
+
+
+### Join us as [AI Alumni](/partnerships/alumni/alumni-featured-interviews/)!
+
+
+To join the AI Alumni network or find out more about how alumni can be involved, please contact:
+
+  
+
+Mdm Latifah Noorahman (LT/ Physics) at [latifah\_noorahman@moe.edu.sg](mailto:latifah_noorahman@moe.edu.sg)
