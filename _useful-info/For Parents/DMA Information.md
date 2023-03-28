@@ -4,7 +4,7 @@ permalink: /useful-info/for-parents/dma-information/
 description: ""
 third_nav_title: For Parents
 ---
-<h4><strong>DMA Information</strong></h4>
+<h3><strong>DMA Information</strong></h3>
 
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 
