@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Visually Impaired/Visually Impaired.md
       - Visually Impaired/.keep
       - English.md
       - Mother Tongue/About Us.md
