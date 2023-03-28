@@ -2,12 +2,12 @@ collections:
   useful-info:
     output: true
     order:
-      - Direct School Admission.md
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
       - For Parents/Personalised Learning Device Programme (PLD).md
       - For Parents/Parents Gateway.md
       - For Students.md
+      - Direct School Admission.md
       - School Matters/.keep
       - School Matters/Books & Stationery List (2023).md
       - School Matters/School Timetable.md
