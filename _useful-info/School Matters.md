@@ -49,3 +49,19 @@ Those who walk-in without an appointment will have to wait for the next availabl
 	
 ## School Timetable
 _\*Timetable updated on 27 Jan 2023_
+
+* **Sec 1**
+- Even Week
+- Odd Week
+* **Sec 2**
+- Even Week
+- Odd Week
+* **Sec 3**
+- Even Week
+- Odd Week
+* **Sec 4**
+- Even Week
+- Odd Week
+* **Sec 5**
+- Even Week
+- Odd Week
