@@ -26,13 +26,10 @@ If you encounter any problem(s) accessing the link, please inform your child's/w
 
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 
-<ul><strong>Option Quick Guide & Information</strong>
-
+<ul><strong>Option Quick Guide & Information</strong><br>
 <a href="(/files/dma1.pdf)">Default Option</a><br>
 <a href="(/files/dma2.pdf)">Option A</a><br>
 <a href="(/files/dma3.pdf)">Option B</a>
-	
-	</ul>
 	
 <h4><strong>PLD@AISS for Parents / Guardians</strong></h4>	
 Dear Parents/Guardians,
