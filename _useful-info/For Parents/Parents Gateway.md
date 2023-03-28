@@ -37,3 +37,7 @@ third_nav_title: For Parents
 <p>Click here to watch the Parents Gateway Onboarding video: <strong><a href="http://tinyurl.com/y8g5n3td" target="_blank" rel="noopener">tinyurl.com/y8g5n3td</a></strong></p>
 </div>
 </li>
+
+<li><input type="checkbox" id="accordion3"><label for="accordion3">How to declare travel plan in Parents Gateway app?</label><div><p>  
+![](/images/pg1.jpg)<br>![](/images/pg2.jpg)<br>![](/images/pg3.jpg)<br><br><b>Note</b>: Supported OS Versions - <b>Android 6.0 or later & iOS 9.1 or later</b>
+</p></div></li>	
