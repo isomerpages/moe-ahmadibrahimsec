@@ -20,19 +20,19 @@ third_nav_title: Character Citizen Education
 
  You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
  
- ## Overview Of Ahmad Ibrahim Secondary School’s Sexuality Education Programme For 2023
+ #### Overview Of Ahmad Ibrahim Secondary School’s Sexuality Education Programme For 2023
 1\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 2\.  The subjects that incorporate topics on sexuality include:<br>
 a\. Science<br>
 b\. Character and Citizenship Education (CCE)
 
-## Sexuality Education Lessons:
+#### Sexuality Education Lessons:
 1\.  The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.  
       
 2\.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-## 2023 Sexuality Education Lessons in CCE 2021
+#### 2023 Sexuality Education Lessons in CCE 2021
 At Ahmad Ibrahim Secondary School, the following Sexuality Education lessons will be taught in 2023:
 
 <center><b>SECONDARY 1</b></center>
@@ -77,4 +77,17 @@ At Ahmad Ibrahim Secondary School, the following Sexuality Education lessons wil
 | Unit | Lesson Title / Duration | Lesson Overview | Lesson Objectives<br>At the end of the lesson, students will be able to: | Time Period<br>(e.g. Term 1 Week 2) |
 |:---:|:---:|---|---|:---:|
 | Respectful Relationships & Safety | This is Where I Draw the Line<br>(60 mins) | In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others. | - understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs | Term 3 Week 2 |
+|
+
+#### eTeens Programme:
+1\.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
+      
+2\.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+<center><b>At Ahmad Ibrahim Secondary School, the eTeens programme will be implemented as follows in 2023:</b></center>
+
+| Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) |
+|:---:|---|:---:|
+| Mass Talk by HPB appointed vendor | - Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV | Term 2 Week 8 |
+| Classroom-based Lesson | - Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 3 Week 3 |
 |
