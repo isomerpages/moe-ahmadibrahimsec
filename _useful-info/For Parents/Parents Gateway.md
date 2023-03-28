@@ -42,7 +42,7 @@ third_nav_title: For Parents
 <input type="checkbox" id="accordion3"><label for="accordion3">How to declare travel plan in Parents Gateway app?</label>
 <div>
 <p>  
-![](/images/pg1.jpg)<br>![](/images/pg2.jpg)<br>![](/images/pg3.jpg)<br><br><b>Note</b>: Supported OS Versions - <b>Android 6.0 or later & iOS 9.1 or later</b>
+<img src="/images/pg1.jpg" style="width:85%"><br><img src="/images/pg2.jpg" style="width:85%"><br><img src="/images/pg3.jpg" style="width:85%"><br><br><b>Note</b>: Supported OS Versions - <b>Android 6.0 or later & iOS 9.1 or later</b>
 </p>
 </div>
 </li>
@@ -51,9 +51,9 @@ third_nav_title: For Parents
 <input type="checkbox" id="accordion4"><label for="accordion4">How to declare not travelling Parents Gateway app?</label>
 <div>
 <p>  
-![](/images/pg4.jpg)<br>
-![](/images/pg5.jpg)
+<img src="/images/pg4.jpg" style="width:85%"><br>
+<img src="/images/pg5.jpg" style="width:85%">
 </p>
 </div>
 </li>
-</ul>	
+</ul>
