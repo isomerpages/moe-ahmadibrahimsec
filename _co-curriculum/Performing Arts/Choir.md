@@ -27,6 +27,7 @@ third_nav_title: Performing Arts
 <ul>
 <li>Singapore Youth Festival 2017: Certificate of Distinction</li>
 <li>Singapore Youth Festival 2019: Certificate of Distinction</li>
+<li>*   Singapore Youth Festival 2021</li>	
 </ul>
 <p><strong>Recent Activities</strong></p>
 <ul>
@@ -38,12 +39,12 @@ third_nav_title: Performing Arts
 <li>SYF Competition, 2019</li>
 <li>SYF Celebrations, 2019</li>
 <li>Zarathustra! Concert with Orchestra of the Music Makers, 2019</li>
+<li>Ahmad Ibrahim Secondary School Achievement Day, 2022</li>	
 </ul>
 <p><strong>Upcoming Events</strong></p>
 <ul>
-<li>Voices of Singapore Festival, March 2020</li>
-<li>AISS Achievement Day, April 2020&nbsp;</li>
-<li>AISS Biennial Combined Concert, November 2020</li>
+<li>Singapore Youth Festival, 2023</li>
+<li>Ahmad Ibrahim Secondary School Achievement Day 2023</li>
 </ul>
 </div>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
