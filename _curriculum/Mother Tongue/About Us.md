@@ -4,10 +4,9 @@ permalink: /curriculum/mother-tongue/
 description: ""
 third_nav_title: Mother Tongue
 ---
+## Mother Tongue
+### About Us
 
-
-
-<p><strong>About Us</strong></p>
 <p>The department consists of 3 language units: Chinese, Malay and Tamil. Our school offers Higher Mother Tongue Languages as well. Higher Chinese is taught in our school whereas the Higher Malay and Higher Tamil students attend lessons at the various Language Centres. The department aims to develop all our students to be cultured individuals who are articulate and confident speakers.</p>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Philosophy</label>
