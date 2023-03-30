@@ -42,3 +42,14 @@ For those who opt for self-collection, please note the <b><u>dates available fo
 
 <b><u>MOE FAS and School-Based FAS Students</u></b><br>
 Online purchase will not be available. Upon FAS approval, the school will contact parents to arrange for the collection of the approval letter. Parents who receive FAS approval from other schools are advised to contact our General Office to make an appointment for the collection of the approval letter from our school.
+
+##### <center><b>Online Purchase</b></center>
+
+|  | Textbooks & Stationery<br>(inc shoes and badge) | School Uniform | School PE Attire |
+|:---:|:---:|:---:|:---:|
+| **Vendor** | Pacific Bookstore | Chop Kong Chong | Blue Stag |
+| **Website for online purchase** | [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)<br>Please refer to [purchase guide](/files/2022%20PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE%20AISS.pdf).  | [http://www.euniforms.com.sg/](http://www.euniforms.com.sg/) | [http://www.bluestag.sg/](http://www.bluestag.sg/) |
+| **Dates of online purchases** | From: 3 Nov to 15 Dec 2022 | From: 3 Nov 2022 | From: 3 Nov 2022 |
+| **Home Delivery Charges** | $13.80 | $7.00 | $6.50 |
+| **Payment Mode** | PayNow (QR code) or Credit/Debit Card (Visa/Master only) | PayNow (QR code) or PayLah | PayNow Credit/Debit Card (Visa/Master only) |
+|
