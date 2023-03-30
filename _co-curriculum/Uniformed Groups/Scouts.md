@@ -7,18 +7,18 @@ third_nav_title: Uniformed Groups
 ## Scouts
 <img src="/images/scout%20logo.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-Ahmad Ibrahim Warrior Scouts has been active since 1967. We have been achieving the Gold Frank Cooper Sands Award for the past 13 years. The Frank Cooper Sands Award is an award that every scout unit in Singapore strives to achieve excellence in.
+Ahmad Ibrahim Warriors Scout Group has been active since 1967. We envision each Scout to be a gentleman clean in thought, word and deed, who strives to be a student leader and who is a cut above the rest. As individual Scouts, we work towards the Chief Commissioner’s Award which is conferred to the most outstanding and distinctive Scouts in recognition of their exemplary performance, dedication as well as services at the secondary school level. As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for fifteen consecutive years. The Frank Cooper Sands Award is an award which every Scout unit in Singapore strives to achieve excellence in.
 
 <br clear="left">
 
+In Scouts CCA, we conduct training twice a week where Scouts experience many exciting and enriching activities and learn Scouting skills such as camping, pioneering, orienteering and outdoor cooking. We also organise physical training during training to improve the fitness of Scouts and team-bonding games to further add the element of fun for Scouts.
 
-As for our CCA, we normally have 2 days of CCA per week in which we organize many exciting and enriching activities for our scouts. Some examples of the skills that you will acquire through scouting are outdoor cooking, knot tying, pioneering, orienteering, drills, first-aid and exploration. We also organize games during some of our CCA days to add on to the element of fun for our scouts.
+We organise inter-unit and inter-patrol competitions like Scout Lore Quest and cooking challenge to hone our Scouting knowledge and skills. Similarly, we also participate in courses, competitions and events like the Scout Leadership Training Course, Patrol Pioneering Challenge and World Scout Day Celebration organised by the North Area of the Singapore Scout Association. Furthermore, we also gather around campfires with Scouts from other units to celebrate achievements together and to forge stronger camaraderie. 
 
+To do our part for society, we organise and participate in service-learning activities. We also raise funds during the annual Job Week to support Scout programmes and activities. In Job Week, Scouts take to the homes of residents all over Singapore to do jobs like cleaning, gardening, and tutoring, so as to learn the dignity of labour, value of honest work and belief in helping others. As a result, Scouts can be developed into self-reliant, confident, responsible, and active citizens.  
 
-We occasionally hold inter-unit competitions in which scouts from other units can participate in. Likewise, we also participate in some competitions organized by other scout units. Furthermore, we also attend campfires held by other scout units. These campfires are a form of celebration for scouts of different units to gather and have fun together. To do our part to contribute to the society, we actively participate in national scouting activities such as our annual Jobweek and Donation Draw. Not only have that, but we also occasionally organized service learning activities. These are some examples of how you will get to serve the community through scouting.
+Each year, we organise two camps, one in March and the other in June. Once every two years at year end, we co-organise a combined camp with the Girl Guides and embark on an overseas camping trip to meet Scouts from other countries. This is to allow Scouts to make new friends and learn new knowledge and skills from our counterparts. 
 
-Each year we organise a minimum of 2 camps. One will be held during the June holidays while one will be held during the end of year holidays. At times, we also hold combined CCA days with the Girl Guides. This is to allow our scouts to bond with and learn more about members from a different CCA. In addition, we also organise overseas exchange trips for our scouts to learn more about scouts from other countries while, having fun overseas. Some of our scouts are also presented with the honourable opportunity to participate in the National Day Parade on the Floating Platform.
-<p>Some values that an AI Warrior scout will learn through scouting are leadership, discipline, brotherhood, integrity, excellence and teamwork. All the tasks that our scouts are required to accomplish will instill these values upon them, along with physical fitness as they will also be given opportunities to explore excellence there in physical capabilities. Through scouting, you will learn to break boundaries and move out of your comfort zone. Our primary objective is for our scouts to be shaped into more responsible and resilient individuals as they experience scouting.</p>
 <hr>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Vission & Mission</label>
@@ -47,20 +47,19 @@ Each year we organise a minimum of 2 camps. One will be held during the June hol
 <li>Nature</li>
 <li>Community Involvement</li>
 </ul>
-<h3 id="camping">Camping</h3>
+<h5 id="camping">Camping</h3>
 <p>Scouts’ hands are trained for wonders, with the ability to set up tents and structures necessary for surviving in the outdoors. Working in accordance with nature, Scouts improvise and make use of their surroundings to meet their needs while protecting them.</p>
-<h3 id="orienteering">Orienteering</h3>
+<h5 id="orienteering">Orienteering</h3>
 <p>Navigating with a map in one hand and a compass in the other, Scouts identify checkpoints and significant landmarks, and orientate themselves based on these points, allowing them to explore unfamiliar territory with ease while hiking.</p>
-<h3 id="pioneering">Pioneering</h3>
+<h5 id="pioneering">Pioneering</h3>
 <p>With nimble fingers and rugged hands, Scouts construct miniature wooden models, transforming them into life-sized bridges, swings and kitchens using mere wooden spars and manila ropes.</p>
-<h3 id="outdoor-cooking">Outdoor Cooking</h3>
+<h5 id="outdoor-cooking">Outdoor Cooking</h3>
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire, to putting small pieces of chicken to roast over a self-made cooking pit, this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
 <div>
-<p>Frank Cooper Sands Award - Gold</p>
-<p> Individual Award: Chief Commissioner’s Award</p>
+- Frank Cooper Sands Award - Gold<br> - Individual Award: Chief Commissioner’s Award
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
