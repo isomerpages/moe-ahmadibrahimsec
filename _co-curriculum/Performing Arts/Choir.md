@@ -87,4 +87,3 @@ third_nav_title: Performing Arts
 <p>Ms Foo Hui Cheng Candee<br />Ms Tan Wiphaporn</p>
 </div>
 </li>
-</ul>
