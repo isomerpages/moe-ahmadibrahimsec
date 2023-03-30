@@ -4,12 +4,15 @@ permalink: /co-curriculum/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<h4><strong>About Us</strong></h4>
-<p>The National Cadet Corps (Land) in Ahmad Ibrahim Secondary School is a Uniformed Group Co-Curricular Activity (CCA) whose mission is to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities.</p>
-<p>AI NCC believes strongly in the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart.</p>
-<p><strong>Mind:<br /></strong>A cadet with a resilient mind is confident to take on challenges and overcome setbacks.</p>
-<p><strong>Body:<br /></strong>Every cadet understands the importance of a fit body, takes ownership to maintain a good level of physical fitness and adopt healthy eating habits.</p>
-<p><strong>Heart:<br /></strong>Each cadet has a committed heart and lives by the NCC Core Values with a strong sense of purpose to serve the cadet&rsquo;s team, school and nation. Cadet learns passionately to develop cadet&rsquo;s own abilities and proactively contributes towards wherever the cadet is.</p>
+## National Cadet Corps (Land)
+### About Us
+
+<img src="/images/ncclogo.jpg" style="width:20%;margin-right:15px;" align = "left">
+
+The National Cadet Corps (Land) in Ahmad Ibrahim Secondary School is a Uniformed Group Co-Curricular Activity (CCA) that is supported by the Ministry of Defence (MINDEF) and Ministry of Education (MOE), and it is one of the largest youth uniformed groups in Singapore.  
+  
+The AISS NCC Unit centres its programmes on the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart. The training syllabus includes general military knowledge, as well as adventure training and leadership development. The integration of land, air and sea programmes is emphasised to enable NCC cadets to enjoy activities that encompass the three elements. In addition, to promote the quest for excellence and inculcate the spirit of participation and sportsmanship amongst the cadets, competitions are included as part of the training curriculum. NCC cadets are also engaged in community service, so as to help develop their sense of social responsibility.
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
 <div>
