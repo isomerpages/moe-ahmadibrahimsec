@@ -4,6 +4,8 @@ permalink: /co-curriculum/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+## Girl Guides
+
 
 <img align="right" src="/images/1_GG.jpg" style="width: 40%;">
 <p style="width:fixed;">The AI Girl Guides grooms the students as they go through a rigorous programme aimed at inculcating values and qualities required in the 21st Century. Via team building in small group based activities, our Guides are inducted in a gamut of courses that prepare them to be useful and responsible citizens of the world.</p>
