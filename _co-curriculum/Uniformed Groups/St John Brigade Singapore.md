@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 ## St John Brigade Singapore
 
 ### About Us
-<img style="width: 30%;" src="/images/sjbs.png" align = "LEFT" />
+<img style="width: 20%;" src="/images/sjbs.png" align = "LEFT" />
 St. John Brigade Singapore (SJBS) upholds the mottos &lsquo;Pro Fide&rsquo; and &lsquo;Pro Utilitate Hominum&rsquo;, which stands for &lsquo;For The Faith&rsquo; and &lsquo;For The Service Of Mankind&rsquo; respectively. Our corps seeks to train and develop cadets into confident, reliable and clear-headed leaders who contributes to the school and community actively.
 
 <br clear="left">
