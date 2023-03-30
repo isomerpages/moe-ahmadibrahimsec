@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ## Dance Ensemble
 ### About Us
-Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
+Twirl and swirl, our bodies will whirl! Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
 
 _"Dance has taught me many life values such as confidence, perseverance, and determination. Having the opportunity to plan many events, camps and leading the club as a whole, has definitely helped me improve my leadership skills too. One of the biggest take-aways that I have gained from dance is being a disciplined individual because I learnt to be a responsible person who never gives up despite challenges. Additionally, I learnt that teamwork is important as we have to work together to achieve common goals."_
 
