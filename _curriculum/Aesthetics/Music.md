@@ -56,14 +56,14 @@ third_nav_title: Aesthetics
 - Performance at ACSpressivo ACS MEP concerts<br>
 -  MEP 40 Celebrations – virtual ensemble, compositions, performances	<br>
 </ul><p><strong>Giving back to the community</strong></p><ul>
-<li>Tan Tock Seng Hospital Art of Healing Programme [<a rel="noopener" href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgXLPqsZKLZZlBsYFSviUeW0">Link</a>]</li>
-<li>Tan Tock Seng Hospital Founder’s Day Celebration (invited performers) [<a rel="noopener" href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgUdoenj2HCPsp_XxRk1pW9X">TTSH Performances for Founder’s Day</a>]&nbsp;</li>
-<li>SchoolARTS@Seng Kang Hospital&nbsp;</li>
-<li>AESPIRE Lunchtime Concerts at AISS [<a rel="noopener" href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos">YouTube channel</a>,&nbsp;<a rel="noopener" href="https://www.instagram.com/aespireaiss/?hl=en">Instagram</a>]</li>
-<li>Performances at the AI Achievement Day, National Day concerts, Teachers’ Day concerts, and Combined Performing Arts concerts</li>
+- Tan Tock Seng Hospital Art of Healing Programme [<a rel="noopener" href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgXLPqsZKLZZlBsYFSviUeW0">Link</a>]<br>
+- Tan Tock Seng Hospital Founder’s Day Celebration (invited performers) [<a rel="noopener" href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgUdoenj2HCPsp_XxRk1pW9X">TTSH Performances for Founder’s Day</a>]<br>
+- SchoolARTS@Seng Kang Hospital<br>
+- AESPIRE Lunchtime Concerts at AISS [<a rel="noopener" href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos">YouTube channel</a>,&nbsp;<a rel="noopener" href="https://www.instagram.com/aespireaiss/?hl=en">Instagram</a>]<br>
+- Performances at the AI Achievement Day, National Day concerts, Teachers’ Day concerts, and Combined Performing Arts concerts<br>
 </ul><p><strong>MOE-organised</strong></p><ul>
-<li>National MEP-EMP Camps and Showcase concerts</li>
-<li>MEP-EMP Higher Education Career Fairs</li>
+- National MEP-EMP Camps and Showcase concerts<br>
+- MEP-EMP Higher Education Career Fairs
 </ul><p><strong><u>Key features of the syllabus</u></strong></p><div>
 <p>Our comprehensive curriculum caters to various interests and aptitude levels. Students benefit from the study of Western and Asian music, Jazz and Pop, music composition, and music theory. Additionally, students in the EMP will get opportunities to perform as soloists or in ensembles, benefit from music workshops and masterclasses, and attend learning journeys and internships with local arts organisations and institutions.</p>
 <p>We develop students’ musical knowledge and skills and aim to build up students’ competence and confidence in music in order for them to study music at a higher level. The spiral curriculum introduces topics at a foundational level, and includes foundational music skills such as elements of music, music theory, music history, aural skills, composition skills, as well as solo and ensemble performance skills.</p>
