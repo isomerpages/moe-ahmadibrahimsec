@@ -12,7 +12,6 @@ third_nav_title: Clubs
 <p><em>"The past year in the Green Service Club (GSC) has been nothing but incredible. I was really fortunate to be able to form so many friendships with my fellow CCA mates. Being in GSC, I also learnt to plan and conduct events together. In this CCA, I was made more aware of the many harms done to the environment, some of which are easily overlooked, and ways that we can bring awareness to the people around us. GSC provided us with a creative platform which allowed us to do just that and to explore new and innovative ways to bring information to members in GSC and the school."</em></p>
 <p style="text-align: right;">- Mohamed Manaseer Masroora, 3E3 (2022)</p>
 
-<hr>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
 <div>
