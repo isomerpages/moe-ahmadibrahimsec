@@ -65,7 +65,7 @@ Those who walk-in without an appointment will have to wait for the next availabl
 
 | Sales / Collection Date |  |  | Operating Hours |  |
 |:---:|:---:|:---:|:---:|:---:|
-|  |  | Bookshop* | School Uniform | PE Attire** |
+|  |  | **Bookshop*** | **School Uniform** | **PE Attire** |
 | 21/11/2022 | Monday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
 | 22/11/2022 | Tuesday | 9.00 am to 3.00 pm |  |  |
 | 24/11/2022 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
@@ -83,3 +83,6 @@ Those who walk-in without an appointment will have to wait for the next availabl
 | 14/12/2022 | Wednesday | 9.00 am to 3.00 pm |  |  |
 | 15/12/2022 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
 |
+
+\* Onsite/walk-in purchase will not be available at Pacific Bookstores Headquarters.<br>
+\*\* Onsite/walk-in purchase will not be available at Blue Stag Headquarters.
