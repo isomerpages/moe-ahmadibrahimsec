@@ -4,7 +4,9 @@ permalink: /curriculum/aesthetics/design-n-technology/
 description: ""
 third_nav_title: Aesthetics
 ---
-<h4><strong>About Us</strong></h4>
+## Design & Technology
+### About Us
+
 <p>Situated in a small room in the D&amp;T workshop area, the D&amp;T unit is a closely-knited group of dedicated teachers who are passionate about helping students to be more creative and independent in their learning.&nbsp;</p>
 <p>D&amp;T students will gain a valuable skillset called &ldquo;Design Thinking&rdquo; at the end of their D&amp;T education. Such skillset will prove to be highly useful in a VUCA environment and will benefit the students in their tertiary education and working life in the future.</p>
 <ul class="jekyllcodex_accordion">
