@@ -4,6 +4,8 @@ permalink: /curriculum/aesthetics/art-n-craft/
 description: ""
 third_nav_title: Aesthetics
 ---
+## Arts
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Programmes</label>
 <div>
