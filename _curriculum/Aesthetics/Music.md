@@ -42,18 +42,19 @@ third_nav_title: Aesthetics
 <p><strong>Enrichment Programmes and Workshops</strong></p><ul>
 - Live Sound and Songwriting Workshop with Singapore Polytechnic and Timothy Rodrigues<br>- Sonic Arts Workshop with Republic Polytechnic<br>- Foley Workshop with Republic Polytechnic<br>- Gamelan Workshop with Gamelan Asmaradana<br>- Indian Music Workshop with Alapana Arts<br>- Concert outings to orchestral concerts, operas, etc.
 </ul><p><strong>Collaborations<br></strong></p><ul>
-<li>Music Mentoring Programme with ACS(I)</li>
-<li>Music Mentoring Programme with Eunoia Junior College</li>
-<li>Music Mentoring Programme with YST Conservatory of Music</li>
-<li>Composition Collaboration with RI (Secondary),&nbsp;</li>
-<li>Composition Collaboration with National Junior College</li>
+- Music Mentoring Programme with ACS(I)<br>
+- Music Mentoring Programme with Eunoia Junior College<br>
+- Music Mentoring Programme with YST Conservatory of Music<br>
+- Composition Collaboration with RI (Secondary),<br>
+- Composition Collaboration with National Junior College
 </ul><p><strong>Performances, Showcases, Competitions</strong></p><ul>
-<li>Music Technology Performance at Public Service Transformation Awards Ceremony (PSTAC) [<a rel="noopener" href="https://youtu.be/GMFGk8bezGs">Link</a>]</li>
-<li>SMTA Music Festival and Chamber Music Competition</li>
-<li>Singapore Rhapsodies Launch Concert at the National Gallery Singapore</li>
-<li>SYF Celebrations: Interactive Soundscape Music Technology Performance at National Gallery</li>
-<li>SYF Celebrations: Festival Concert Music Technology Collaborative Performance at Esplanade Concert Hall</li>
-<li>Performance at ACSpressivo ACS MEP concerts</li>
+- Music Technology Performance at Public Service Transformation Awards Ceremony (PSTAC) [<a rel="noopener" href="https://youtu.be/GMFGk8bezGs">Link</a>]<br>
+- SMTA Music Festival and Chamber Music Competition<br>
+- Singapore Rhapsodies Launch Concert at the National Gallery Singapore<br>
+- SYF Celebrations: Interactive Soundscape Music Technology Performance at National Gallery<br>
+- SYF Celebrations: Festival Concert Music Technology Collaborative Performance at Esplanade Concert Hall<br>
+- Performance at ACSpressivo ACS MEP concerts<br>
+-  MEP 40 Celebrations – virtual ensemble, compositions, performances	<br>
 </ul><p><strong>Giving back to the community</strong></p><ul>
 <li>Tan Tock Seng Hospital Art of Healing Programme [<a rel="noopener" href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgXLPqsZKLZZlBsYFSviUeW0">Link</a>]</li>
 <li>Tan Tock Seng Hospital Founder’s Day Celebration (invited performers) [<a rel="noopener" href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgUdoenj2HCPsp_XxRk1pW9X">TTSH Performances for Founder’s Day</a>]&nbsp;</li>
