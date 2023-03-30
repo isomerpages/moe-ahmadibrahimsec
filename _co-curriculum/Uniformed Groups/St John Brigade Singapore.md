@@ -16,7 +16,7 @@ We offer a wide variety of programmes that equip cadets with life-saving skills 
 
 _“Being in SJBS taught me a lot of meaningful life lessons that I can never learn outside, such as being there for each other during times of need and daring to lead. It also gave me useful skills that I can use in the future such as first aid and home nursing. Despite going through hard times in this CCA, I always remind myself I am never doing this alone because my platoon is always by my side. To me, SJBS is my second family.”_
 
-<div style="text-align: right;">-Loke Xin Yue, 5N1</div>
+<div style="text-align: right;"><b>-Loke Xin Yue, 5N1</b></div>
 
 <hr>
 <ul class="jekyllcodex_accordion">
