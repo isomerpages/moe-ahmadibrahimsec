@@ -14,9 +14,7 @@ third_nav_title: Mother Tongue
 <p><strong>&ldquo;To learn, love and live the language&rdquo;</strong></p>
 <p>Through the provision of a rich curriculum and authentic learning experiences, the Mother Tongue Languages Department is committed to develop our students into youths who are confident in communicating and expressing themselves in their MTLs. Cultural values and knowledge are two other important components of language learning.</p>
 <p>The Chinese, Malay and Tamil Units teach the respective Mother Tongue languages as practical and living languages, imparting values and developing the students&rsquo; cultural identities at the same time. We believe in nurturing a bilingual identity in our students, and strive to inspire in them a love for their Mother Tongue languages.</p>
-<p>CL: 乐学善用：学得开心，用得舒心</p>
-<p>ML: Bahasa disanjung, budaya dijunjung</p>
-<p>TL: கற்போம்! நேசிப்போம்!&nbsp;வாழும்மொழி ஆக்குவோம்!</p>
+CL: 乐学善用：学得开心，用得舒心<br>ML: Bahasa disanjung, budaya dijunjung<br>TL: கற்போம்! நேசிப்போம்!&nbsp;வாழும்மொழி ஆக்குவோம்!
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Organisation Chart</label>
