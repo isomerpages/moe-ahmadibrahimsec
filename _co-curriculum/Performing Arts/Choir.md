@@ -55,7 +55,7 @@ third_nav_title: Performing Arts
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
 <p><strong>Wednesdays:<br /></strong>3.30 pm - 6.00 pm</p>
-<p><strong>Friday:<br /></strong>2.30 pm &ndash; 6.00 pm</p>
+<p><strong>Friday:<br /></strong>2.30 pm &ndash; 5.00 pm</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
