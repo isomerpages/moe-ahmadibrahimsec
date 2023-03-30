@@ -90,18 +90,18 @@ Those who walk-in without an appointment will have to wait for the next availabl
 ### School Timetable
 _\*Timetable updated on 27 Jan 2023_
 
-* Sec 1
-	* [Even Week]
-	* [Odd Week]
-* Sec 2
-	* [Even Week]
-	* [Odd Week]
-* Sec 3
-	* [Even Week]
-	* [Odd Week]
-* Sec 4
-	* [Even Week]
-	* [Odd Week]
-* Sec 5
-	* [Even Week]
-	* [Odd Week]
+* **Sec 1**
+	* [Even Week](/files/sec1e.pdf)
+	* [Odd Week](/files/sec1o.pdf)
+* **Sec 2**
+	* [Even Week](/files/sec2e.pdf)
+	* [Odd Week](/files/sec2o.pdf)
+* **Sec 3**
+	* [Even Week](/files/sec3e.pdf)
+	* [Odd Week](/files/sec3o.pdf)
+* **Sec 4**
+	* [Even Week](/files/sec4e.pdf)
+	* [Odd Week](/files/sec4o.pdf)
+* **Sec 5**
+	* [Even Week](/files/sec5e.pdf)
+	* [Odd Week](/files/sec5o.pdf)
