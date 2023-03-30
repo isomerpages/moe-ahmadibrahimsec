@@ -4,14 +4,14 @@ permalink: /co-curriculum/performing-arts/dance-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
+## Dance Ensemble
+### About Us
+Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
 
-<h4><strong>About Us</strong></h4>
-<p>Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.</p>
-<blockquote>
-<p><em>"Dance has taught me many life values such as confidence, perseverance, and determination. Having the opportunity to plan many events, camps and leading the club as a whole, has definitely helped me improve my leadership skills too. One of the biggest take-aways that I have gained from dance is being a disciplined individual because I learnt to be a responsible person who never gives up despite challenges. Additionally, I learnt that teamwork is important as we have to work together to achieve common goals."</em><br /><br /></p>
-<p style="text-align: right;">- Nazurah Bte Zulkiflee, 3E3</p>
-</blockquote>
-<hr>
+_"Dance has taught me many life values such as confidence, perseverance, and determination. Having the opportunity to plan many events, camps and leading the club as a whole, has definitely helped me improve my leadership skills too. One of the biggest take-aways that I have gained from dance is being a disciplined individual because I learnt to be a responsible person who never gives up despite challenges. Additionally, I learnt that teamwork is important as we have to work together to achieve common goals."_
+
+<p style="text-align: right;"><b>- Nazurah Bte Zulkiflee, 3E3</b></p>
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
 <div>
