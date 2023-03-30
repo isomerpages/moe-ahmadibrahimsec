@@ -8,9 +8,9 @@ third_nav_title: Performing Arts
 ### About Us
 Twirl and swirl, our bodies will whirl! Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
 
-_"Dance has taught me many life values such as confidence, perseverance, and determination. Having the opportunity to plan many events, camps and leading the club as a whole, has definitely helped me improve my leadership skills too. One of the biggest take-aways that I have gained from dance is being a disciplined individual because I learnt to be a responsible person who never gives up despite challenges. Additionally, I learnt that teamwork is important as we have to work together to achieve common goals."_
+_“Dance has allowed me to blossom into a fully developed individual by teaching me new skills and providing me with experiences I never would have imagined. I learnt how to cooperate and tolerate people, how to lead, learning to think on my feet and discipline. Discipline is also a key factor in my time with dance as I have to mind how I act and when as I have to be disciplined for the dance instructors to be able to teach properly and adequately. Quick thinking is something I picked up over the years in dance, when our dance instructor relays a piece of information to us and we have to think quickly. All in all, dance has lead me a long way, and I owe the person I am today to dance."_
 
-<p style="text-align: right;"><b>- Nazurah Bte Zulkiflee, 3E3</b></p>
+<p style="text-align: right;"><b>- Avita Tang Engwei, 3E2</b></p>
 
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
