@@ -40,14 +40,7 @@ third_nav_title: Aesthetics
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <p><strong>Enrichment Programmes and Workshops</strong></p><ul>
-<li>Piano masterclass by Prof. Sergio de Simone, Head of Keyboard at Trinity Laban Conservatoire of Music and Dance</li>
-<li>Live Sound and Songwriting Workshop with Singapore Polytechnic and Timothy Rodrigues</li>
-<li>Sonic Arts Workshop with Republic Polytechnic&nbsp;</li>
-<li>Foley Workshop with Republic Polytechnic</li>
-<li>Gamelan Workshop with Gamelan Asmaradana</li>
-<li>Indian Music Workshop with Alapana Arts</li>
-<li>Concert outings to orchestral concerts, operas, etc.</li>
-<li>Arts Internship with The RICE Company</li>
+- Live Sound and Songwriting Workshop with Singapore Polytechnic and Timothy Rodrigues<br>- Sonic Arts Workshop with Republic Polytechnic<br>- Foley Workshop with Republic Polytechnic<br>- Gamelan Workshop with Gamelan Asmaradana<br>- Indian Music Workshop with Alapana Arts<br>- Concert outings to orchestral concerts, operas, etc.
 </ul><p><strong>Collaborations<br></strong></p><ul>
 <li>Music Mentoring Programme with ACS(I)</li>
 <li>Music Mentoring Programme with Eunoia Junior College</li>
