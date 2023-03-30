@@ -66,7 +66,7 @@ _“Being in SJBS taught me a lot of meaningful life lessons that I can never le
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mr Roy Lim (OIC)<br /></strong><strong>Contact:&nbsp;<a href="mailto:lim_yeow_teck_roy@moe.edu.sg" target="">lim_yeow_teck_roy@moe.edu.sg</a></strong></p>
-<p>Ms Chia Yun Xin<br />Mdm Hafizhah Jamel<br />Mdm Shamsiah Bte Mohd Shariff</p>
+<p>Ms Chia Yun Xin<br />Mdm Hafizhah Jamel<br />Ms Ching Loo May</p>
 </div>
 </li>
 </ul>
