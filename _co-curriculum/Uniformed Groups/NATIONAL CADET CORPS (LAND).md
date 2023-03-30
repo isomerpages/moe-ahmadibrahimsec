@@ -32,8 +32,8 @@ Other key programmes include the Air-Rifle experiential shooting experiences for
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
 <div>
 <p><strong>Best Unit Competition:<br /></strong>2011: Gold<br />2012: Gold<br />2013: Silver<br />2014: Silver<br />2015: Silver<br />2016: Silver<br />2017: Gold</p>
-<p><strong>Unit Recognition Award:<br /></strong>2018: Distinction<br />2019: Distinction</p>
-<p><strong>Outstanding Cadet Award:<br /></strong>2017: MSG Muhammad Syafiq Bin Haniss<br />2018: MSG Ravichandran Dharani<br />2019: MSG Hoe Jotham<br />2020: MSG Sathiah Elamaran</p>
+<p><strong>Unit Recognition Award:<br /></strong>2018: Distinction<br>2019: Distinction<br>2020: Waived<br>2021: Distinction</p>
+<p><strong>Outstanding Cadet Award:<br /></strong>2017: MSG (NCC) MUHAMMAD SYAFIQ BIN HANISS<br>2018: MSG (NCC) RAVICHANDRAN DHARANI<br>2019: MSG (NCC) HOE JOTHAM<br>2020: MSG (NCC) SATHIAH ELAMARAN<br>2021: MSG (NCC) AZRAEI SHAHRIEZAL BIN JAMIL</p>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
