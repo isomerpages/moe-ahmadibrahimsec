@@ -3,7 +3,8 @@ title: English
 permalink: /curriculum/english/
 description: ""
 ---
-<h4><strong>About Us</strong></h4>
+## English
+### About Us
 <p>A dedicated group of teachers who believe in the importance of building on the foundation in the English language through exposure and creative use, in reading, writing, listening and speaking.</p>
 
 
