@@ -14,7 +14,8 @@ third_nav_title: Aesthetics
 <div>
 <p>AISS is one of only four EMP (Enhanced Music Programme) schools in Singapore. We are also an O-Level Music Centre for students across Singapore who want to offer O-Level Music. As one of our school’s signature programmes, the AISS EMP is a four-year programme for Secondary One to Four students, culminating in the GCE ‘O’ Level Music examinations.</p>
 <p>Our unique programme includes talent identification and development, mentorships and collaborations with other institutions, myriad opportunities for exposure and experiences outside the classroom, and a supportive whole-school musical culture. Our cutting-edge music technology-based curriculum encourages experimentation and expression, and many opportunities to perform and compose music using music technology.</p>
-<p>Join us to experience a unique musical journey!</p>
+<p>Join us to experience a unique musical journey!</p><br><br>
+google slides<br><br>	
 <table>
 <tbody>
 <tr>
@@ -123,53 +124,12 @@ third_nav_title: Aesthetics
 </div>
 </li><li><input type="checkbox" id="accordion4"> <label for="accordion4">Organisation Chart</label>
 <div>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8ixl{background-color:#FFF;color:#2E2E2E;text-align:left;vertical-align:middle}
-</style>
-</div></li><table class="tg">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</table><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-e14l">Name<br></th>
     <th class="tg-e14l">Designation<br></th>
-  </tr>
+	</tr>
 </thead>
 <tbody>
   <tr>
@@ -187,4 +147,4 @@ third_nav_title: Aesthetics
 </tbody>
 </table>
 
-</ul>
+</div></li></ul>
