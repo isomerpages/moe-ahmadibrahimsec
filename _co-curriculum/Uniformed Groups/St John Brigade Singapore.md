@@ -18,7 +18,6 @@ _“Being in SJBS taught me a lot of meaningful life lessons that I can never le
 
 <div style="text-align: right;"><b>-Loke Xin Yue, 5N1</b></div>
 
-<hr>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
 <div>
