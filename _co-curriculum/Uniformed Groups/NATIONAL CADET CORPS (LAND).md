@@ -10,6 +10,8 @@ third_nav_title: Uniformed Groups
 <img src="/images/ncclogo.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 The National Cadet Corps (Land) in Ahmad Ibrahim Secondary School is a Uniformed Group Co-Curricular Activity (CCA) that is supported by the Ministry of Defence (MINDEF) and Ministry of Education (MOE), and it is one of the largest youth uniformed groups in Singapore.  
+
+<br clear="left">
   
 The AISS NCC Unit centres its programmes on the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart. The training syllabus includes general military knowledge, as well as adventure training and leadership development. The integration of land, air and sea programmes is emphasised to enable NCC cadets to enjoy activities that encompass the three elements. In addition, to promote the quest for excellence and inculcate the spirit of participation and sportsmanship amongst the cadets, competitions are included as part of the training curriculum. NCC cadets are also engaged in community service, so as to help develop their sense of social responsibility.
 
