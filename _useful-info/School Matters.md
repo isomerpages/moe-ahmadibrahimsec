@@ -4,6 +4,9 @@ permalink: /useful-info/school-matters/books-stationery-list-2023/
 description: ""
 ---
 ## School Matters
+**Information**<br>
+One stop page for all school matters including school timetable, exam timetable, booklist etc.
+
 ### Booklist & Stationery List (2023)
 
 * Sec 1
