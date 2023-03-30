@@ -23,7 +23,10 @@ The AISS NCC Unit centres its programmes on the 'Cadet Strong' framework, where 
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Training</label>
 <div>
-<p>Our trainings consist of classroom lessons, individual field craft (IFC), precision drill squad (PDS)/Freestyle drill (FSD), physical training and sports and games. We also organize camps, where our cadets could learnt to be more independent. The NCC HQ also organizes camps such as Camp Forge for junior cadets, Camp Steel for senior cadets and specialist course for the cadet leaders. They also organize activities such as AKE (Annual Kayaking Expedition) and mini league to get cadets to gain teamwork and to be immersed into the outdoor. There are also overseas camp to get our cadets to adapt to different environments.</p>
+<p>Our trainings consist of classroom lessons, individual field craft lessons (IFC), Precision Drill Squad (PDS) and/or Free-style Drill (FSD) trainings, physical training and sports and games. Annual camps, such as the Leadership camp and Unit camp are designed to allow for student ownership over their training activities and to develop the leadership competencies of the cadets.
+<br><br>
+Apart from our school activities, we leverage on the activities conducted by HQ NCC as well – such as Camp FORGE for the Junior Cadets, Camp STEEL for the Senior Cadets and the Specialist Course for the Cadet Leaders.
+Other key programmes include the Air-Rifle experiential shooting experiences for the Senior Cadets to prepare them for their live range shooting experience as Cadet Leaders. Immersive overseas exposure and experiential opportunities are given to cadets who demonstrate outstanding commitment and dedication to the corps.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
