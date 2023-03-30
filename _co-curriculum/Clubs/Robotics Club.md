@@ -4,7 +4,8 @@ permalink: /co-curriculum/clubs/ai-robotics-club/
 description: ""
 third_nav_title: Clubs
 ---
-<h4><strong>About Us</strong></h4>
+## Robotics Club
+### About Us
 <p>(AI)&sup2; Robotics Club is envisioned to equip students with essential skills that will better prepare them for the 21st century. The club aims to ignite the students&rsquo; interests and passion in pursuing STEM (Science, Technology, Engineering and Mathematics) related disciplines, through the learning of robotics skills using Lego&reg; Mindstorm EV3 robotics kit. Students will learn to work collaboratively to solve increasingly complex problems, honing their problem solving skills and acquire good social skills in the process. The club will provide a number of opportunities for the students to participate, present and showcase their talents in both intra- and inter-school competitions. Through these exposures, the club aims to build confidence and resilience in the students.</p>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Gallery</label>
