@@ -53,3 +53,33 @@ Online purchase will not be available. Upon FAS approval, the school will contac
 | **Home Delivery Charges** | $13.80 | $7.00 | $6.50 |
 | **Payment Mode** | PayNow (QR code) or Credit/Debit Card (Visa/Master only) | PayNow (QR code) or PayLah | PayNow Credit/Debit Card (Visa/Master only) |
 |
+
+<b><u>Walk-In Purchase</u></b><br>
+As part of safe management measures, the school strongly encourages appointments to be made for walk-in purchase. Those with scheduled appointment will receive priority. Appointments can made at our vendor website [Register.ezy-queue.com](https://register.ezy-queue.com/) or through the app PBS EzyQ (available on iOS and Android). The appointment system will be available from 14 Nov 22.
+
+**NB: This e-appointment will allow entry into the school for purchase from all vendors (i.e. textbooks and school attire).**
+
+Those who walk-in without an appointment will have to wait for the next available opening.
+
+<b><u>Available Dates for Walk-in Purchase in School:</u></b><br>
+
+| Sales / Collection Date |  |  | Operating Hours |  |
+|:---:|:---:|:---:|:---:|:---:|
+|  |  | Bookshop* | School Uniform | PE Attire** |
+| 21/11/2022 | Monday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 22/11/2022 | Tuesday | 9.00 am to 3.00 pm |  |  |
+| 24/11/2022 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 25/11/2022 | Friday | 9.00 am to 3.00 pm |  |  |
+| 29/11/2022 | Tuesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 30/11/2022 | Wednesday | 9.00 am to 3.00 pm |  |  |
+| 1/12/2022 | Thursday | 9.00 am to 3.00 pm |  |  |
+| 2/12/2022 | Friday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 5/12/2022 | Monday | 9.00 am to 3.00 pm |  |  |
+| 6/12/2022 | Tuesday | 9.00 am to 3.00 pm |  |  |
+| 7/12/2022 | Wednesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 9/12/2022 | Friday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 12/12/2022 | Monday | 9.00 am to 3.00 pm |  |  |
+| 13/12/2022 | Tuesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 14/12/2022 | Wednesday | 9.00 am to 3.00 pm |  |  |
+| 15/12/2022 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+|
