@@ -4,8 +4,9 @@ permalink: /co-curriculum/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
+## Choir
+### About Us
 
-<h4><strong>About Us</strong></h4>
 <img style="width: 60%;" src="/images/choir%20banner.jpg" />
 <p>AI Choir is a mixed youth choir with young and enthusiastic singers, who all share the same passion for music. Practices are held twice a week where our choristers learn a diverse repertoire of music ranging from the soundtracks of well-known musicals to songs of different languages and genres. In addition, besides the vocal, aural and musicianship training, our choristers also participate in various character- and team-building activities. AI Choir is also a visually impaired friendly choir, where our visually impaired peers can join choir as a CCA.</p>
 <p>Under the baton of Mr Chong Wai Lun, the choir has obtained several notable awards and achievements locally. Notably, AI Choir was awarded the highest accolade, Certificate of Distinction, at the Singapore Youth Festival 2019.</p>
