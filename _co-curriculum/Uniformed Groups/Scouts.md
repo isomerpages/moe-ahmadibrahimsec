@@ -104,28 +104,28 @@ Each year, we organise two camps, one in March and the other in June. Once every
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday</strong><br />3.30 to 6.000 pm</p>
+<p><strong>Wednesday</strong><br />3.30 to 6.00 pm</p>
 <p><strong>Friday</strong><br />2.30 to 5.30 pm</p>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Student Leaders</label>
 <div>
-<h4 id="senior-patrol-leader">Senior Patrol Leader</h4>
+	<b>Senior Patrol Leader</b><br>
 <ul>
 <li>3N2 Patrick Ng Zhan Peng</li>
 <li>3E2 Darren Lim Jieming</li>
 </ul>
-<h4 id="patrol-leader--secretary">Patrol Leader / Secretary</h4>
+<b>Patrol Leader / Secretary</b><br>
 <ul>
 <li>3E2 Dominic Cheong Wei Zheng</li>
 <li>3N1 Cendric Ling Jun Xuan</li>
 </ul>
-<h4 id="patrol-leader--quartermaster">Patrol Leader / Quartermaster</h4>
+<b>Patrol Leader / Quartermaster</b><br>
 <ul>
 <li>3E3 Zheng Cai Feng</li>
 <li>3E3 Nikkhil Dinesh</li>
 </ul>
-<h4 id="assistant-patrol-leader">Assistant Patrol Leader</h4>
+<b>Assistant Patrol Leader</b><br>
 <ul>
 <li>3N2 Jayden Wong Ting Jun</li>
 <li>3T1 Kum Che Yuen, Carvell</li>
