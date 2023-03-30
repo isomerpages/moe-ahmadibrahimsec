@@ -4,16 +4,20 @@ permalink: /co-curriculum/uniformed-groups/st-john-brigade-singapore/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+## St John Brigade Singapore
 
-
-<h4><strong>About Us</strong></h4>
+### About Us
 <img style="width: 30%;" src="/images/sjbs.png" align = "LEFT" />
-<p>St. John Brigade Singapore (SJBS) upholds the mottos &lsquo;Pro Fide&rsquo; and &lsquo;Pro Utilitate Hominum&rsquo;, which stands for &lsquo;For The Faith&rsquo; and &lsquo;For The Service Of Mankind&rsquo; respectively. Our corps seeks to train and develop cadets into confident, reliable and clear-headed leaders who contributes to the school and community actively.&nbsp;</p>
-<p>We offer a wide variety of programmes that equip cadets with life-saving skills such as First-Aid, Home Nursing, Transportation Of Casualties (TOC) and Footdrill. Our cadets participates actively in the Annual Hospital Attachment, Annual Walkathon, and Flag Day. Our cadets also partake in leadership training programmes such as the Zone Non-Commissioned Officer Course (NCOC) and Corps Trainer Course (CTC) which helps improve cadets&rsquo; leadership skills and broaden their way of thinking. With the Cadet Proficiency Badge Scheme (CPBS), cadets are able to gain other skills through different types of enriching courses and obtain different badges such as Leadership, Nursing Care, Shooting, Heart Saver and many more.</p>
-<blockquote>
-<div><em>&ldquo;Being in SJBS taught me a lot of meaningful life lessons that I can never learn outside, such as being there for each other during times of need and daring to lead. It also gave me useful skills that I can use in the future such as first aid and home nursing. Despite going through hard times in this CCA, I always remind myself I am never doing this alone because my platoon is always by my side. To me, SJBS is my second family.&rdquo;<br /></em></div>
-<div style="text-align: right;">-&nbsp;Loke Xin Yue, 5N1</div>
-</blockquote>
+St. John Brigade Singapore (SJBS) upholds the mottos &lsquo;Pro Fide&rsquo; and &lsquo;Pro Utilitate Hominum&rsquo;, which stands for &lsquo;For The Faith&rsquo; and &lsquo;For The Service Of Mankind&rsquo; respectively. Our corps seeks to train and develop cadets into confident, reliable and clear-headed leaders who contributes to the school and community actively.
+
+<br clear="left">
+
+We offer a wide variety of programmes that equip cadets with life-saving skills such as First-Aid, Home Nursing, Transportation Of Casualties (TOC) and Footdrill. Our cadets participates actively in the Annual Hospital Attachment, Annual Walkathon, and Flag Day. Our cadets also partake in leadership training programmes such as the Zone Non-Commissioned Officer Course (NCOC) and Corps Trainer Course (CTC) which helps improve cadets&rsquo; leadership skills and broaden their way of thinking. With the Cadet Proficiency Badge Scheme (CPBS), cadets are able to gain other skills through different types of enriching courses and obtain different badges such as Leadership, Nursing Care, Shooting, Heart Saver and many more.
+
+_“Being in SJBS taught me a lot of meaningful life lessons that I can never learn outside, such as being there for each other during times of need and daring to lead. It also gave me useful skills that I can use in the future such as first aid and home nursing. Despite going through hard times in this CCA, I always remind myself I am never doing this alone because my platoon is always by my side. To me, SJBS is my second family.”_
+
+<div style="text-align: right;">-Loke Xin Yue, 5N1</div>
+
 <hr>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
