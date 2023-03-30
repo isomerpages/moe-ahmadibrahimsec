@@ -4,7 +4,9 @@ permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-<h4><strong>About Us</strong></h4>
+## Aesthetics
+### About Us
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUTlfGeRQsaaPpmcufrmdVtxAuJpdiR0UtXZyEL724kLiVmjvkEU-OnTHczQvgiOEgPBFc85LoMVNx/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p>We are a fun, energetic, and dynamic group of teachers who love what we do and want to share our love for our subjects with our students!<br />The Aesthetics &amp; Craft Department consists of four units: Art, Design &amp; Technology, Nutrition &amp; Food Science, and Music</p>
 <ul class="jekyllcodex_accordion">
