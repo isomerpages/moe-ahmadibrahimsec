@@ -4,10 +4,11 @@ permalink: /co-curriculum/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
+## Concert Band
 
-<h4><strong>About Us</strong></h4>
+### About Us
 <p>The Ahmad Ibrahim Concert Band was established in 1970. It started as a military band and was then converted into a concert band in the year 2011. Fueled by passion for music and camaraderie among the members, we believe in music as a universal language. We hope that through the music we make, we can portray emotions to the audience through musical expression. Together with our Band Directors, Mr. Chong and Mr. Tarun, the band will continue striving for excellence in music.</p>
-<blockquote>
+
 <div>&ldquo;<em>When I first joined band, I thought it was just to play an instrument and perform with other people. I realized it was more than that. Band teaches us teamwork, perseverance and other values. We need to be comfortable and communicate well with band mates. Whenever we don't understand a certain part of the piece, we can always turn to our band mates and work together.</em>&rdquo;</div>
 <div style="text-align: right;">-&nbsp;<strong>Luqman Hakim Bin Mohammad Khalid</strong></div>
 <div>&nbsp;</div>
@@ -25,7 +26,7 @@ third_nav_title: Performing Arts
 <div>&nbsp;</div>
 <div>&ldquo;<em>Many people around me view band as just another cca but to me, it is more than that. Band has taught me many values such as respect, patience, discipline and perseverance. Band has taught me to be responsible.</em>"</div>
 <div style="text-align: right;">-&nbsp;<strong>Nadyne Nur Rahilah</strong></div>
-</blockquote>
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
 <div>
