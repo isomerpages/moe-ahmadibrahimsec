@@ -48,71 +48,84 @@ CL: 乐学善用：学得开心，用得舒心<br>ML: Bahasa disanjung, budaya d
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"><br />
-<table style="height: 216px;">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qdkk{background-color:#E5EDEA;color:#2E2E2E;text-align:left;vertical-align:middle}
+.tg .tg-arv9{background-color:#025036;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-8ixl{background-color:#FFF;color:#2E2E2E;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-arv9"><span style="font-weight:bold;color:#FFF;background-color:#025036">Chinese Language Unit</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr style="height: 18px;">
-<th style="height: 18px; width: 60.2344px;"><strong>Unit</strong></th>
-<th style="height: 18px; width: 137.484px;">&nbsp;<strong>Name</strong></th>
-<th style="height: 18px; width: 56.625px;"><strong>Ext No.</strong></th>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese</td>
-<td style="height: 18px; width: 137.484px;">&nbsp;Ms Ang Ping Ying</td>
-<td style="height: 18px; width: 56.625px;">9033</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese</td>
-<td style="height: 18px; width: 137.484px;">Mdm Goh Yuh Ping&nbsp;</td>
-<td style="height: 18px; width: 56.625px;">9043</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese</td>
-<td style="height: 18px; width: 137.484px;">&nbsp;Miss Ho Peishan</td>
-<td style="height: 18px; width: 56.625px;">9070</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese&nbsp;</td>
-<td style="height: 18px; width: 137.484px;">Miss Ng Hui Wen&nbsp;</td>
-<td style="height: 18px; width: 56.625px;">9070</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese</td>
-<td style="height: 18px; width: 137.484px;">Miss Oon Xiu Wen</td>
-<td style="height: 18px; width: 56.625px;">9037</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese</td>
-<td style="height: 18px; width: 137.484px;">Mdm Ren Jing</td>
-<td style="height: 18px; width: 56.625px;">9032</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese</td>
-<td style="height: 18px; width: 137.484px;">Mdm Xie Xiaowen</td>
-<td style="height: 18px; width: 56.625px;">9043</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Chinese</td>
-<td style="height: 18px; width: 137.484px;">Mdm Lim Zi Qi&nbsp;</td>
-<td style="height: 18px; width: 56.625px;">&nbsp;9043&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Malay</td>
-<td style="height: 18px; width: 137.484px;">Mdm Shamsiah</td>
-<td style="height: 18px; width: 56.625px;">9042</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Malay</td>
-<td style="height: 18px; width: 137.484px;">Miss Siti Salmiah</td>
-<td style="height: 18px; width: 56.625px;">9042</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 60.2344px;">Malay</td>
-<td style="height: 18px; width: 137.484px;">Mdm Fitrah</td>
-<td style="height: 18px; width: 56.625px;">9033</td>
-</tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Mdm Goh Yuh Ping (YH LS (Int))</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Ms Ching Loo May</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Mdm Jiang Nan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Ms Ng Hui Wen</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Ms Ow Hui Mei Wendy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Mdm Ren Jing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Mdm Song Weina</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Ms Zhang Yaqi</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Mdm Goh Bee Hong</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Mr Chong Ming Sze</span></td>
+  </tr>
+  <tr>
+    <td class="tg-arv9"><span style="font-weight:bold;color:#FFF;background-color:#025036">Malay Language Unit</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Ms Siti Salmiah Bte Amin (AYH) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Mdm Fitrah Bte Jamri</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Mr Mohamed Izwan Bin Abdul Manan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Mr Hamzah Bin Mohamad</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Mdm Siti Mariah Binte Omar</span></td>
+  </tr>
+  <tr>
+    <td class="tg-arv9"><span style="font-weight:bold;color:#FFF;background-color:#025036">Tamil Language Unit</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Mdm Chennakesavalu Sheela </span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdkk"><span style="color:#2E2E2E;background-color:#E5EDEA">Mdm Kanthiri Alasa</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl"><span style="color:#2E2E2E;background-color:#FFF">Mr Sathappan Meyyappan</span></td>
+  </tr>
 </tbody>
 </table>
-</div>
 </div>
 </li>
