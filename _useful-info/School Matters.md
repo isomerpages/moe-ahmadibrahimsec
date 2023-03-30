@@ -105,3 +105,25 @@ _\*Timetable updated on 27 Jan 2023_
 * **Sec 5**
 	* [Even Week](/files/sec5e.pdf)
 	* [Odd Week](/files/sec5o.pdf)
+
+### Personalised Learning Device Programme (PLD)
+*   [AISS PLD Information for Parents & Students](https://staging.dxta9dqb83ltq.amplifyapp.com/useful-info/for-parents/personal-learning-device-pld/)
+
+### Exam Timetable
+*   Sec 1 Express & 1 Normal Academic
+*   Sec 1 Normal Technical
+*   Sec 2 Express & 1 Normal Academic
+*   Sec 2 Normal Technical
+*   Sec 3 Express
+*   Sec 3 Normal Academic
+*   Sec 3 Normal Technical
+
+### Parents Gateway
+* [Registration Guide](https://staging.dxta9dqb83ltq.amplifyapp.com/partnerships/for-parents/parents-gateway/)
+* [Travel Declaration](https://staging.dxta9dqb83ltq.amplifyapp.com/partnerships/for-parents/parents-gateway/)
+* [Quick User Guide for Parents](/files/quickuserguide.pdf)
+
+### Useful Links
+*   [ICT@AISS Website for Students](https://sites.google.com/moe.edu.sg/ictaiss4students/home)  
+*   [Appointment for ECG counselling session](https://go.gov.sg/aissecg)
+*   [Edusave Character Award (ECHA) – Parent Letter and Nomination Form 2022](/files/ECHA_2022.pdf)
