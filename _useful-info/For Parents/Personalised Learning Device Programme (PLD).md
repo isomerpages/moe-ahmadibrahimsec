@@ -68,7 +68,7 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 *   [help123.sg](https://www.help123.sg/)
 
 # **DMA Information**<br>
-*   **[In-depth DMA Information for Parents](https://drive.google.com/file/d/1azH-ggesSi9RcYhDmhPOzTCgRdhAl2Ci/view?usp=share_link)**
+*   [In-depth DMA Information for Parents](https://drive.google.com/file/d/1azH-ggesSi9RcYhDmhPOzTCgRdhAl2Ci/view?usp=share_link)**
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 
 **Option Quick Guide &amp; Information**  

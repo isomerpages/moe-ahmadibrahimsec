@@ -3,7 +3,9 @@ title: Humanities
 permalink: /curriculum/humanities/
 description: ""
 ---
-<h4><strong>About Us</strong></h4>
+## Humanities
+### About Us
+
 <p>The AI Humanities Department aims to inspire learners with strong critical thinking skills, a global outlook, and the confidence to engage others responsibly in a globalised world.</p><br>
 
 

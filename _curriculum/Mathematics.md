@@ -3,7 +3,9 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 ---
-<h4><strong>About Us</strong></h4>
+## Mathematics
+### About Us
+
 <strong>Department Vision</strong><br>
 
 Every AI student, a future-ready and critical thinker with a passion for Mathematics

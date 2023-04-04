@@ -3,7 +3,9 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-<h4><strong>About Us</strong></h4>
+## Science
+### About Us
+
 <p>In Science Department, the staff creates a learning environment that focuses on conceptual learning and engages students in meaningful activities that enable them to apply and communicate their knowledge. Technology is used as a tool to help all students actively learn science in an inquiry-based curriculum. The inquiry-based process uses varied instructional strategies and scientific technologies to enable students to develop as self-directed learners.</p>
 
 <ul class="jekyllcodex_accordion">

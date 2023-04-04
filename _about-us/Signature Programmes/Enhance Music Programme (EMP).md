@@ -26,11 +26,11 @@ Join us to experience an enriching musical journey!
 </tbody>
 </table>
 
-<u><h4>**Leadership and musical developmental initiatives and opportunities**</h4></u>
+<h4>Leadership and musical developmental initiatives and opportunities</h4>
 At AISS, we believe that music-making is best experienced in authentic contexts. That’s why, apart from our focus on hands-on activities during music lessons, our students are exposed to a range of development and talent identification opportunities that allow them to participate in enrichment programmes, watch concerts and take part in performances throughout the year.
 
 <h4><center>
-<iframe align=center allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSappeZGd6UqRhPlizQfXTTQv5vn_wyw7NMxnOdit3xxyyQ2gPecN1rKogJJQnKL13jJK7kbkVWvARA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe></center></h4>
+<iframe align="center" allowfullscreen="true" height="460" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSappeZGd6UqRhPlizQfXTTQv5vn_wyw7NMxnOdit3xxyyQ2gPecN1rKogJJQnKL13jJK7kbkVWvARA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe></center></h4>
 	
 **Enrichment Programmes and Workshops**
 
@@ -72,7 +72,7 @@ At AISS, we believe that music-making is best experienced in authentic contexts.
 *   National Combined Schools’ MEP/EMP Camps and Showcase concerts
 *   Combined Schools’ MEP/EMP Higher Education Career Fairs
 	
-<u><h4>**Key features of the syllabus**</h4></u>
+<h4>Key features of the syllabus</h4>
 
 Our comprehensive curriculum caters to various interests and aptitude levels. Students benefit from the study of Western and Asian music, Jazz and Pop, music composition, and music theory. Additionally, students in the EMP will get opportunities to perform as soloists or in ensembles, benefit from music workshops and masterclasses, and attend learning journeys and internships with local arts organisations and institutions.
 	
@@ -80,12 +80,12 @@ We develop students’ musical knowledge and skills and aim to build up students
 
 Our students also benefit from a comprehensive enrichment programme. Students experience a wide range of musical activities in and outside of the classroom, in order to develop skills and competencies for more advanced studies in music, or to gain awareness of potential careers in Music.
 
-<u><h4>**Selection Test Information**</h4></u>
+<h4>Selection Test Information</h4>
 
 We conduct auditions and interviews throughout the year as part of our talent identification process. Suitable candidates in Secondary 1 and 2 can be accepted into the programme.
 
 
-<u><h4>**Our Success Stories**</h4></u>
+<h4>Our Success Stories</h4>
 
 Since our inception in 2016, we have had many Music students who have done exceptionally well and were successfully admitted into Music programmes in JCs and IHLs.
 
@@ -114,7 +114,7 @@ Since our inception in 2016, we have had many Music students who have done excep
 **Lawrence Gabriel Angel. Class of 2021**. NAFA (Music)
 
 
-<u><h4>**Talent Development**</h4></u>
+<h4>Talent Development</h4>
 
 At AISS, we believe that every student should have an equal opportunity to develop their talents. We do talent identification and development through the General Music Programme as well as via the school’s AESPIRE concerts, and provide training and performance opportunities for anything from beatboxing to pen-tapping!
 
@@ -131,9 +131,9 @@ At AISS, we believe that every student should have an equal opportunity to devel
 **Ng Li Xuan, Terry Zhang**. MEP40 ‘My Journey, Our Journey’ – Chinese Music Virtual Ensemble Showcase
 
 
-<u><h4>**Links**</h4></u>
+<h4>Links</h4>
 
-1.  Secondary School Posting Booklet \[**_To be updated_**\]
+1.  Secondary School Posting Booklet&nbsp;\[**_To be updated_**\]
 2.  [MOE EMP Webpage](http://go.gov.sg/musicelectiveprogramme)
 3.  [MOE MEP Webpage](http://go.gov.sg/enhancedmusicprogramme)
 4.  [OLM Teaching and Learning Syllabus](http://go.gov.sg/olmsyllabus)
@@ -143,13 +143,13 @@ At AISS, we believe that every student should have an equal opportunity to devel
 
 *   [https://www.youtube.com/watch?v=6dwp2ImDRjE](https://www.youtube.com/watch?v=6dwp2ImDRjE)
 *   [https://www.youtube.com/watch?v=T3IrEkM967w](https://www.youtube.com/watch?v=T3IrEkM967w)
-8.  Links to [Instagram](https://www.instagram.com/aespireaiss/?hl=en) and [YouTube](https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos) Channel
+8.  Links to&nbsp;[Instagram](https://www.instagram.com/aespireaiss/?hl=en)&nbsp;and&nbsp;[YouTube](https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos)&nbsp;Channel
 
 	
-<u><h4>**Contact details of relevant personnel**</h4></u>
+<h4>Contact details of relevant personnel</h4>
 
-* Ms Amelia Dizon (Music Teacher) - [amelia\_y\_dizon@moe.edu.sg](mailto:amelia_y_dizon@moe.edu.sg)
+* Ms Amelia Dizon (Music Teacher) -&nbsp;[amelia\_y\_dizon@moe.edu.sg](mailto:amelia_y_dizon@moe.edu.sg)
 
-* Ms Carita Chew Meng (Music Teacher) - [carita\_chew\_meng@moe.edu.sg](mailto:carita_chew_meng@moe.edu.sg)
+* Ms Carita Chew Meng (Music Teacher) -&nbsp;[carita\_chew\_meng@moe.edu.sg](mailto:carita_chew_meng@moe.edu.sg)
 
-* Mr Enzo Charles Victor Buttazzoni (Music Teacher) - [enzo\_charles\_victor\_buttazzoni@moe.edu.sg](mailto:enzo_charles_victor_buttazzoni@moe.edu.sg)
+* Mr Enzo Charles Victor Buttazzoni (Music Teacher) -&nbsp;[enzo\_charles\_victor\_buttazzoni@moe.edu.sg](mailto:enzo_charles_victor_buttazzoni@moe.edu.sg)

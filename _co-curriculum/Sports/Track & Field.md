@@ -4,14 +4,15 @@ permalink: /co-curriculum/sports/track-n-field/
 description: ""
 third_nav_title: Sports
 ---
-<h4><strong>About Us</strong></h4>
+## Track & Field
+### About Us
 <p>Track and Field is an all rounded CCA consisting of Run, Jump and Throws. All of it requires Resilience, Determination and Commitment. It is an individual sport unlike other sports CCA and hence u win through your own efforts. We are like a big family, motivating each other through hardships and caring for one another. Track and Field also puts hard work and a positive attitude first. We have fun during trainings but at the same time we maintain discipline.&nbsp;</p>
 <p>Our motto is,&nbsp;<strong>&ldquo;Chase your dreams, throw your worries, jump for your goals&rdquo;</strong>.&nbsp;</p>
 
-<blockquote>
+
 <div><em>"Track and Field has definitely helped me to become fitter. It encourages me to persevere through the difficult trainings. I am able to use the values I acquired from Track and Field in many real life situations. I believe the bonds that I have with my Track and Field friends have grown, especially when running together, as we get to talk to each other and help one another out. For example, once my friend got really bad cramps in his thighs and calves, and my group of friends went to help him out. This exemplifies the value of care, one of our school values."</em></div>
 <div style="text-align: right;">- Vignesh S/O Manoharan 3E3</div>
-</blockquote>
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Mission</label>
 <div>

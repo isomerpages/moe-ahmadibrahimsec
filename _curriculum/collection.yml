@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - English.md
-      - Mother Tongue/About Us.md
       - Mother Tongue/.keep
+      - Mother Tongue/About Us.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
@@ -18,5 +18,21 @@ collections:
       - Aesthetics/Music.md
       - Aesthetics/Food & Nutrition Science.md
       - Physical Education.md
-      - Visually Impaired.md
+      - Visually Impaired/.keep
+      - Visually Impaired/Overview.md
+      - Visually Impaired/Model of Success.md
+      - Visually Impaired/Events.md
+      - Visually Impaired/PE.md
+      - Visually Impaired/Distinguished Students.md
+      - Visually Impaired/Media.md
       - Info–Communication Technology.md
+      - Character Citizen Education/MOE Sexuality Education.md
+      - Character Citizen Education/Information for Parents.md
+      - Character Citizen Education/Education and Career Guidance (ECG).md
+      - Character Citizen Education/Cyber Wellness (CW) Programme.md
+      - Character Citizen Education/Values In Action Programme.md
+      - Character Citizen Education/Citizenship Education (CE).md
+      - Character Citizen Education/Organisation Chart.md
+      - Character Citizen Education/Student Development.md
+      - Character Citizen Education/Discipline.md
+      - Character Citizen Education/.keep

@@ -3,7 +3,9 @@ title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
 ---
-<h4><strong>About Us</strong></h4>
+## Physical Education
+### About Us
+
 <p><em>Motto: Play to Learn, Learn to Play</em></p>
 <p>The PE department hopes to empower the pupils and provide an experience that will allow them to achieve the following learning outcomes:</p>
 <ol>

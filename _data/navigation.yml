@@ -8,12 +8,7 @@ links:
     collection: co-curriculum
   - title: Useful Info
     collection: useful-info
-  - title: Download
-    url: /download/
-    sublinks:
-      - title: Yearbooks
-        url: /downloads/yearbooks/
-      - title: P6 Publicity Booklet
-        url: /downloads/p6-publicity-booklet/
-      - title: School Timetable
-        url: /partnerships/school-matters/school-timetable/
+  - title: Announcements
+    resource_room: true
+  - title: Ordinary Miracles
+    url: /ordinary-miracles/
