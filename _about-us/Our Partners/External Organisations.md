@@ -4,12 +4,8 @@ permalink: /partnerships/external-organisations/
 description: ""
 third_nav_title: Our Partners
 ---
-
-
-
-
 <hr><b>
-<h3 style="text-align: center;">External partners as valuable resources &ndash;<br />strategic partnerships with the community to enhance student education outcomes</h3>
+<h3 style="text-align: center;">External partners as valuable resources –<br>strategic partnerships with the community to enhance student education outcomes</h3>
 </b><hr>
 <p>AI believes that the school is a member of the community, and that external partners are valuable resources to enhance school educational outcomes. Thus, we actively engage with external partners, be they local schools, institutes of higher learning, community, corporate, or overseas partners.</p>
 <p>We work with partners for key school programmes as well as to complement student education at AI. Some partners that we have worked with:</p>
@@ -29,8 +25,8 @@ third_nav_title: Our Partners
 </ul>
 <p>Key school programmes that leverage on partnerships with external organisations include:</p>
 <ul>
-<li>Lifelong Learning Programme &ndash; Character Development through Outdoor Learning Experience</li>
-<li>Applied Learning Programme &ndash; Critical Social Inquiry and Media Literacy</li>
+<li>Lifelong Learning Programme – Character Development through Outdoor Learning Experience</li>
+<li>Applied Learning Programme – Critical Social Inquiry and Media Literacy</li>
 <li>Enhanced Music Programme</li>
 <li>Work Experience Module</li>
 <li>Education and Career Guidance Talks</li>
@@ -39,7 +35,7 @@ third_nav_title: Our Partners
 <li>Green Education</li>
 <li>Curricular programmes for English, Geography, Mother Tongue, etc</li>
 </ul>
-<hr><b>
-<h4><strong>Partnership Opportunities</strong></h4></b>
-<p>To explore partnership opportunities with AISS, please contact <strong>Ms Ng Sheh Feng (HOD/ Aesthetics &amp; Craft)</strong>&nbsp;at&nbsp;<strong><a href="mailto:Ng_Sheh_Feng@moe.edu.sg" target="">Ng_Sheh_Feng@moe.edu.sg</a></strong></p>
+<hr>
+<h4><strong>Partnership Opportunities</strong></h4>
+<p>To explore partnership opportunities with AISS, please contact us at <a href="mailto:aiss@moe.edu.sg" target="">aiss@moe.edu.sg</a></p>
 <hr>
