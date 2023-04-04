@@ -114,7 +114,7 @@ Since our inception in 2016, we have had many Music students who have done excep
 **Lawrence Gabriel Angel. Class of 2021**. NAFA (Music)
 
 
-<u><h4>**Talent Development**</h4></u>
+<h4>Talent Development</h4>
 
 At AISS, we believe that every student should have an equal opportunity to develop their talents. We do talent identification and development through the General Music Programme as well as via the school’s AESPIRE concerts, and provide training and performance opportunities for anything from beatboxing to pen-tapping!
 
@@ -131,7 +131,7 @@ At AISS, we believe that every student should have an equal opportunity to devel
 **Ng Li Xuan, Terry Zhang**. MEP40 ‘My Journey, Our Journey’ – Chinese Music Virtual Ensemble Showcase
 
 
-<u><h4>**Links**</h4></u>
+<h4>Links</h4>
 
 1.  Secondary School Posting Booklet&nbsp;\[**_To be updated_**\]
 2.  [MOE EMP Webpage](http://go.gov.sg/musicelectiveprogramme)
@@ -146,7 +146,7 @@ At AISS, we believe that every student should have an equal opportunity to devel
 8.  Links to&nbsp;[Instagram](https://www.instagram.com/aespireaiss/?hl=en)&nbsp;and&nbsp;[YouTube](https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos)&nbsp;Channel
 
 	
-<u><h4>**Contact details of relevant personnel**</h4></u>
+<h4>Contact details of relevant personnel</h4>
 
 * Ms Amelia Dizon (Music Teacher) -&nbsp;[amelia\_y\_dizon@moe.edu.sg](mailto:amelia_y_dizon@moe.edu.sg)
 
