@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Ordinary Miracles.md
       - Principal's Message.md
       - Our School.md
       - Our People.md
@@ -16,6 +15,7 @@ collections:
       - Signature Programmes/Outdoor Learning Experience (OLE).md
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/Enhance Music Programme (EMP).md
+      - Ordinary Miracles.md
       - Our Achievements/.keep
       - Our Achievements/O LEVEL RESULTS.md
       - Our Achievements/N LEVEL RESULTS.md
