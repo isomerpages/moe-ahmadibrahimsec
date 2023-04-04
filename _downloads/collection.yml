@@ -1,5 +1,4 @@
 collections:
   downloads:
     output: true
-    order:
-      - P6 Publicity Booklet.md
+    order: []
