@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Character Citizen Education/.keep
       - English.md
       - Mother Tongue/.keep
       - Mother Tongue/About Us.md
@@ -27,3 +26,4 @@ collections:
       - Visually Impaired/Distinguished Students.md
       - Visually Impaired/Media.md
       - Info–Communication Technology.md
+      - Character Citizen Education/.keep
