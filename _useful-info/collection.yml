@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - For Parents/DMA Information.md
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
       - For Parents/Personalised Learning Device Programme (PLD).md
