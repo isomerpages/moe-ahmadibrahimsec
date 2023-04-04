@@ -4,9 +4,8 @@ permalink: /partnerships/external-organisations/
 description: ""
 third_nav_title: Our Partners
 ---
-<hr><b>
+<hr>
 <h3 style="text-align: center;">External partners as valuable resources –<br>strategic partnerships with the community to enhance student education outcomes</h3>
-</b><hr>
 <p>AI believes that the school is a member of the community, and that external partners are valuable resources to enhance school educational outcomes. Thus, we actively engage with external partners, be they local schools, institutes of higher learning, community, corporate, or overseas partners.</p>
 <p>We work with partners for key school programmes as well as to complement student education at AI. Some partners that we have worked with:</p>
 <ul>
