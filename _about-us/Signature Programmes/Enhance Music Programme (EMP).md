@@ -85,7 +85,7 @@ Our students also benefit from a comprehensive enrichment programme. Students ex
 We conduct auditions and interviews throughout the year as part of our talent identification process. Suitable candidates in Secondary 1 and 2 can be accepted into the programme.
 
 
-<u><h4>**Our Success Stories**</h4></u>
+<h4>Our Success Stories</h4>
 
 Since our inception in 2016, we have had many Music students who have done exceptionally well and were successfully admitted into Music programmes in JCs and IHLs.
 
