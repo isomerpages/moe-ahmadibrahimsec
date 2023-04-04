@@ -2,5 +2,4 @@ collections:
   downloads:
     output: true
     order:
-      - Yearbooks.md
       - P6 Publicity Booklet.md
