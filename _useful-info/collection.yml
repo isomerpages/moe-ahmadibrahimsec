@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Useful Links & Information.md
+      - For Parents/Quick Links.md
       - For Parents/Booklist & Stationery List.md
       - For Parents/Personalised Learning Device Programme (PLD).md
       - For Parents/DMA Information.md
