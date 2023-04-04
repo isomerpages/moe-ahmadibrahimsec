@@ -2,9 +2,9 @@ collections:
   useful-info:
     output: true
     order:
-      - For Students/PLD Website for AISS Students (Self Guide & Learning).md
-      - For Students/Useful Links & Information.md
       - For Students/.keep
+      - For Students/Useful Links & Information.md
+      - For Students/PLD Website for AISS Students (Self Guide & Learning).md
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
       - For Parents/Booklist & Stationery List.md
