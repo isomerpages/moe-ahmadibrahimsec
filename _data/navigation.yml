@@ -10,3 +10,5 @@ links:
     collection: useful-info
   - title: Download
     collection: downloads
+  - title: Announcements
+    resource_room: true
