@@ -2,13 +2,13 @@ collections:
   useful-info:
     output: true
     order:
-      - For Parents/P6 Publicity Booklet.md
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
       - For Parents/Booklist & Stationery List.md
       - For Parents/Personalised Learning Device Programme (PLD).md
       - For Parents/DMA Information.md
       - For Parents/Parents Gateway.md
+      - For Parents/P6 Publicity Booklet.md
       - For Students/Yearbooks.md
       - For Students/.keep
       - For Students/Useful Links & Information.md
