@@ -2,7 +2,7 @@ collections:
   useful-info:
     output: true
     order:
-      - For Students/For Students.md
+      - For Students/Useful Links & Information.md
       - For Students/.keep
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
