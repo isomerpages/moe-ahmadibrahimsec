@@ -2,10 +2,10 @@ collections:
   useful-info:
     output: true
     order:
-      - For Parents/Booklist & Stationery List.md
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
       - For Parents/Personalised Learning Device Programme (PLD).md
+      - For Parents/Booklist & Stationery List.md
       - For Parents/Parents Gateway.md
       - For Students.md
       - E Open House.md
