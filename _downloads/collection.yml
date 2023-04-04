@@ -2,6 +2,5 @@ collections:
   downloads:
     output: true
     order:
-      - Class & Exam Timetable.md
       - Yearbooks.md
       - P6 Publicity Booklet.md
