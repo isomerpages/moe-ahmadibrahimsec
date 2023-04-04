@@ -2,15 +2,15 @@ collections:
   useful-info:
     output: true
     order:
-      - For Students/.keep
-      - For Students/Useful Links & Information.md
-      - For Students/PLD Website for AISS Students (Self Guide & Learning).md
       - For Parents/.keep
       - For Parents/Useful Links & Information.md
       - For Parents/Booklist & Stationery List.md
       - For Parents/Personalised Learning Device Programme (PLD).md
       - For Parents/DMA Information.md
       - For Parents/Parents Gateway.md
+      - For Students/.keep
+      - For Students/Useful Links & Information.md
+      - For Students/PLD Website for AISS Students (Self Guide & Learning).md
       - E Open House.md
       - Full Subject Based Banding.md
       - Secondary 1 Registration.md
