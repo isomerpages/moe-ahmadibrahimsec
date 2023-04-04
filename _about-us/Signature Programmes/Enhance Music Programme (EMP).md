@@ -80,7 +80,7 @@ We develop students’ musical knowledge and skills and aim to build up students
 
 Our students also benefit from a comprehensive enrichment programme. Students experience a wide range of musical activities in and outside of the classroom, in order to develop skills and competencies for more advanced studies in music, or to gain awareness of potential careers in Music.
 
-<u><h4>**Selection Test Information**</h4></u>
+<h4>Selection Test Information</h4>
 
 We conduct auditions and interviews throughout the year as part of our talent identification process. Suitable candidates in Secondary 1 and 2 can be accepted into the programme.
 
