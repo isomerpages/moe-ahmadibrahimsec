@@ -4,6 +4,6 @@ permalink: /downloads/p6-publicity-booklet/
 description: ""
 third_nav_title: For Parents
 ---
-![AISS Publicity Booklet_Page_01.jpg](/images/AISS%20Publicity%20Booklet_Page_01.jpg)  
+Click [here](/files/AISS%20Publicity%20Booklet.pdf) to view
 
-[P6 Publicity Booklet](/files/AISS%20Publicity%20Booklet.pdf)
+![P6 Publicity](/images/AISS%20Publicity%20Booklet_Page_01.jpg)
