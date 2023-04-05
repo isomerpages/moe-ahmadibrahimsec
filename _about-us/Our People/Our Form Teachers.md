@@ -8,7 +8,7 @@ third_nav_title: Our People
 <table style="width:100%">
 <tbody>
 <tr>
-<th style="width:25%">Class</th>
+<th style="width:22%">Class</th>
 <th>FT1</th>
 <th>FT2</th>
 </tr>
@@ -48,7 +48,47 @@ third_nav_title: Our People
 <td>Mdm	Kasturi d/o Manoselvam</td>
 </tr>
 	<tr>
-<td>1 Gratitude </td>
+<td>1 Gratitude</td>
+<td>Ms Hanna Diyana Binte Azahar</td>
+<td>Mdm	Koh Pei Pei Jennifer</td>
+</tr>
+		<tr>
+<td>2E1 </td>
+<td>Mdm	Low Sok Gek (Mrs Foo)</td>
+<td>Ms Ng Hui Wen</td>
+</tr>
+		<tr>
+<td>2E2</td>
+<td>Ms Wang Xuejuan</td>
+<td></td>
+</tr>
+		<tr>
+<td>2E3</td>
+<td>Mdm	Foo Hui Cheng, Candee</td>
+<td>Mr Ng Qi Qin, Gary</td>
+</tr>
+		<tr>
+<td>2E4</td>
+<td>Ms Agnes Lim Siew Mei</td>
+<td>Mdm	Farhanah Binte Abdullah Sani</td>
+</tr>
+		<tr>
+<td>2N1</td>
+<td>Ms	Hanna Diyana Binte Azahar</td>
+<td>Mdm	Koh Pei Pei Jennifer</td>
+</tr>
+		<tr>
+<td>2N2</td>
+<td>Ms	Hanna Diyana Binte Azahar</td>
+<td>Mdm	Koh Pei Pei Jennifer</td>
+</tr>
+		<tr>
+<td>2T1</td>
+<td>Ms	Hanna Diyana Binte Azahar</td>
+<td>Mdm	Koh Pei Pei Jennifer</td>
+</tr>
+		<tr>
+<td>2T2</td>
 <td>Ms	Hanna Diyana Binte Azahar</td>
 <td>Mdm	Koh Pei Pei Jennifer</td>
 </tr>
