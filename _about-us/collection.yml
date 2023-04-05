@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/Our Key Personnel.md
-      - Our People/.keep
       - Principal's Message.md
       - Our School.md
+      - Our People/.keep
+      - Our People/Our Key Personnel.md
       - Our Identity.md
       - Our History/.keep
       - Our History/Our Heritage.md
