@@ -27,5 +27,30 @@ third_nav_title: Our People
 <td>Mr Burton Sherlock Timothy Row</td>
 <td>Ms Carita Chew Meng</td>
 </tr>
+	<tr>
+<td>1 Excellence</td>
+<td>Mdm Chennakesavalu Sheela </td>
+<td>Mr Mohamed Imran Bin Ishak</td>
+</tr>
+	<tr>
+<td>1 Service</td>
+<td>Mr Burton Sherlock Timothy Row</td>
+<td>Ms Carita Chew Meng</td>
+</tr>
+	<tr>
+<td>1 Steadfastness</td>
+<td>Mr Burton Sherlock Timothy Row</td>
+<td>Ms Carita Chew Meng</td>
+</tr>
+	<tr>
+<td>1 Steadfastness</td>
+<td>Mr Burton Sherlock Timothy Row</td>
+<td>Ms Carita Chew Meng</td>
+</tr>
+	<tr>
+<td>1 Steadfastness</td>
+<td>Mr Burton Sherlock Timothy Row</td>
+<td>Ms Carita Chew Meng</td>
+</tr>
 </tbody>
 </table>
