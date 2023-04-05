@@ -74,23 +74,23 @@ third_nav_title: Our People
 </tr>
 		<tr>
 <td>2N1</td>
-<td>Ms	Hanna Diyana Binte Azahar</td>
-<td>Mdm	Koh Pei Pei Jennifer</td>
+<td>Mr Enzo Charles Victor Buttazzoni</td>
+<td>Mdm	Puah Shi Hui Silia</td>
 </tr>
 		<tr>
 <td>2N2</td>
-<td>Ms	Hanna Diyana Binte Azahar</td>
-<td>Mdm	Koh Pei Pei Jennifer</td>
+<td>Ms Ang Xin Ru, Ruby</td>
+<td>Ms Chew Hui Leng Faith</td>
 </tr>
 		<tr>
 <td>2T1</td>
-<td>Ms	Hanna Diyana Binte Azahar</td>
-<td>Mdm	Koh Pei Pei Jennifer</td>
+<td>Ms Hafizhah Jamel</td>
+<td>Mdm	Phua Meng Hong</td>
 </tr>
 		<tr>
 <td>2T2</td>
-<td>Ms	Hanna Diyana Binte Azahar</td>
-<td>Mdm	Koh Pei Pei Jennifer</td>
+<td>Mdm Chia Yun Xin</td>
+<td>Mr Mohamed Izwan Bin Abdul Manan</td>
 </tr>
 </tbody>
 </table>
