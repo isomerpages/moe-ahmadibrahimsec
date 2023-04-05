@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Our People
 ---
 <h3>Our Form Teachers</h3>
-<table>
+<table style="width:100%">
 <tbody>
 <tr>
-<th>Class</th>
+<th style="width:25%">Class</th>
 <th>FT1</th>
 <th>FT2</th>
 </tr>
