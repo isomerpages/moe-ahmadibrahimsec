@@ -34,23 +34,23 @@ third_nav_title: Our People
 </tr>
 	<tr>
 <td>1 Service</td>
-<td>Mr Burton Sherlock Timothy Row</td>
-<td>Ms Carita Chew Meng</td>
+<td>Ms	Tow Swee Ai Emily</td>
+<td>Mdm	Amelia Y Dizon</td>
 </tr>
 	<tr>
-<td>1 Steadfastness</td>
-<td>Mr Burton Sherlock Timothy Row</td>
-<td>Ms Carita Chew Meng</td>
+<td>1 Care</td>
+<td>Ms Ho Jie Min, Melody</td>
+<td>Mdm	Nirmala d/o K Periyiah (Mrs Ganesan)</td>
 </tr>
 	<tr>
-<td>1 Steadfastness</td>
-<td>Mr Burton Sherlock Timothy Row</td>
-<td>Ms Carita Chew Meng</td>
+<td>1 Courage</td>
+<td>Ms Ow Hui Mei Wendy</td>
+<td>Mdm	Kasturi d/o Manoselvam</td>
 </tr>
 	<tr>
-<td>1 Steadfastness</td>
-<td>Mr Burton Sherlock Timothy Row</td>
-<td>Ms Carita Chew Meng</td>
+<td>1 Gratitude </td>
+<td>Ms	Hanna Diyana Binte Azahar</td>
+<td>Mdm	Koh Pei Pei Jennifer</td>
 </tr>
 </tbody>
 </table>
