@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Alumni/.keep
       - Principal's Message.md
       - Our School.md
       - Our People/.keep
@@ -25,6 +24,7 @@ collections:
       - Our Partners/AEP.md
       - Our Partners/ECG.md
       - Our Partners/External Organisations.md
+      - Our Alumni/.keep
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Alumni Featured Interviews.md
