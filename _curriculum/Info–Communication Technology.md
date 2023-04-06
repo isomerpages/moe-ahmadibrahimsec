@@ -296,17 +296,14 @@ description: ""
 <tr>
 <th>Name</th>
 <th>Designation</th>
-<th></th>
 </tr>
 <tr>
-<td>Mr Tee Hong Heng&nbsp;</td>
+<td>Mr Tee Hong Heng</td>
 <td>HOD / ICT</td>
-<td></td>
 </tr>
 <tr>
-<td>Mr Lim Yeow Teck, Roy&nbsp;</td>
+<td>Mr Lim Yeow Teck, Roy</td>
 <td>Assistant Year Head / Upper Sec (Internal)</td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -315,20 +312,18 @@ description: ""
 <tbody>
 <tr>
 <th>Name</th>
-<th></th>
 </tr>
 <tr>
-<td>Mr Lim Yeow Teck, Roy&nbsp;</td>
-<td></td>
+<td>Mr Lim Yeow Teck, Roy</td>
 </tr>
 <tr>
-<td>&nbsp;Mr Luo Zhengyang</td>
-<td></td>
+<td>Mr Luo Zhengyang</td>
 </tr>
 <tr>
-<td>Ms Santhi D/O Mutrawipillai Sanmugum</td></tr><tr>
+<td>Ms Santhi D/O Mutrawipillai Sanmugum</td>
+</tr>
+<tr>
 <td>Ms Chia Yun Xin</td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -340,22 +335,22 @@ description: ""
 <tr>
 <th>Name</th>
 <th>Designation</th>
-<th></th>
 </tr>
 <tr>
 <td>Mr Mohd Hafiz<br><br></td>
 <td>ICT Associate</td>
-<td></td>
 </tr>
 <tr>
-<td>Ms Elisha Ruth Cabaltera Zamudio&nbsp;<br><br></td>
+<td>Ms Elisha Ruth Cabaltera Zamudio</td>
 <td>AVA Engineer</td>
-<td></td>
 </tr>
 <tr>
-<td>Mr Muhammad Nur Safwan Bin Bahrom<br><br></td>
+<td>Mr Muhammad Nur Safwan Bin Bahrom</td>
 <td>Desktop Engineer</td>
-<td></td>
+</tr>
+<tr>
+<td>Mr Ganesh Moorthy Vadiveloo</td>
+<td>Desktop Engineer</td>
 </tr>
 </tbody>
 </table>
