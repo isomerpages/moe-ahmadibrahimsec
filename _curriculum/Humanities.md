@@ -156,10 +156,9 @@ description: ""
   </tr>
 </tbody>
 </table>
-</div>
-</li>
 
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Learning Beyond Classroom: Fostering a Joy of Learning</label>
+
+</div></li><li><input id="accordion2" type="checkbox"> <label for="accordion2">Learning Beyond Classroom: Fostering a Joy of Learning</label>
 <div>
 	<p><strong>Humanites Head Out! Learning Journey</strong></p><p>Secondary Three History Elective students went for a learning journey to Fort Siloso to explore Singapore's only well-preserved coastal fort that served as part of the country's defences during World War Two. Students also enjoyed breathtaking panoramic views of Sentosa and parts of the Singapore city through a cable car ride on the Sentosa line. </p><br>
 	
