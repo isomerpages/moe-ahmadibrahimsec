@@ -87,10 +87,50 @@ third_nav_title: Our People
 <td>Ms Hafizhah Jamel</td>
 <td>Mdm	Phua Meng Hong</td>
 </tr>
-		<tr>
+<tr>
 <td>2T2</td>
 <td>Mdm Chia Yun Xin</td>
 <td>Mr Mohamed Izwan Bin Abdul Manan</td>
+</tr>
+	<tr>
+<td>3 Resilience</td>
+<td>Ms Chia Mei Lin Tania</td>
+<td>Mdm Jiang Nan</td>
+</tr>
+	<tr>
+<td>3 Integrity</td>
+<td>Mdm Ang Ping Ying</td>
+<td></td>
+</tr>
+	<tr>
+<td>3 Steadfastness</td>
+<td>Mdm	Ngui Lilian (Mrs Cheong)</td>
+<td>Mdm Song Weina</td>
+</tr>
+	<tr>
+<td>3 Excellence</td>
+<td>Mdm	Ren Jing</td>
+<td>Mr Teo Chee Siong</td>
+</tr>
+	<tr>
+<td>3 Service</td>
+<td>Mdm	Kang Li Choo Catherine(Mrs Leong)</td>
+<td>Mr Chong Wensheng</td>
+</tr>
+	<tr>
+<td>3 Care</td>
+<td>Mdm	Khoo Tee Mian</td>
+<td>Mdm Lee Pei Ting Doris</td>
+</tr>
+	<tr>
+<td>3 Courage</td>
+<td>Mdm	Phua Eng Sze</td>
+<td>Ms Tsang Wing Han</td>
+</tr>
+	<tr>
+<td>3 Gratitude</td>
+<td>Mdm	Lilian Loh Yen Cheng</td>
+<td>Mr Marcus Lau Shao Yun</td>
 </tr>
 </tbody>
 </table>
