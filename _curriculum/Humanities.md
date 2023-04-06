@@ -106,7 +106,7 @@ description: ""
 	
 <p><strong>Historical Investigation</strong></p>
 <p>This year, the Secondary 2 students partook in an Historical Investigation activity where they explored the inquiry question: How did healthcare in Singapore change after 1965 to the late 1980s?.</p>
-<p>Through the investigation, students were better able to understand the healthcare policies, infrastructure, and services introduced by the Singapore government since independence. Students were also excited to learn more about Encik Ahmad Ibrahim, whom our school is named after. Encik Ahmad Ibrahim had served as the Minister of Health from 1959-1961 and played a significant role in tackling healthcare issues from the spread of infectious diseases to improving the quality of healthcare services in Singapore.</p><p><br>
+<p>Through the investigation, students were better able to understand the healthcare policies, infrastructure, and services introduced by the Singapore government since independence. Students were also excited to learn more about Encik Ahmad Ibrahim, whom our school is named after. Encik Ahmad Ibrahim had served as the Minister of Health from 1959-1961 and played a significant role in tackling healthcare issues from the spread of infectious diseases to improving the quality of healthcare services in Singapore.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -131,7 +131,7 @@ description: ""
 </tbody>
 </table>
 <img style="width: 45%;" src="/images/HistoricalInvestigations5.jpg">
-</p><p><strong>Social Studies Investigation</strong></p>
+<p></p><p><strong>Social Studies Investigation</strong></p>
 <p>Through a digital virtual learning journey organised by Migrant X Me, our students (virtually) traversed the streets of Little India, Jalan Besar, and neighborhood. Our students took a tiny glimpse into the lives of migrant workers. Our students heard their struggles, their stories and the stigma migrant workers faced in Singapore. Drawing on the anecdotal evidence, diverse perspectives, and intensive research, our students unpacked the multifaceted issue. By undertaking Issues Investigation, our students scrutinized stereotypes, questioned their prejudices, and uncovered the complexities that shaped the issue. The students formed their conclusions and presented their findings in an infographic.</p><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
