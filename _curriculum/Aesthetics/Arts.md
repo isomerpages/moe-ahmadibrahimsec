@@ -27,17 +27,9 @@ third_nav_title: Aesthetics
 
 </div></li><li><input type="checkbox" id="accordion2"> <label for="accordion2">Art Advanced Elective Modules</label>
 <div>
-<b><u>Ideas for Design @Temasek Polytechnic</u></b><br><br>
-
-**google slides	**
-	
-<br><br>	
+<b><u>Ideas for Design @Temasek Polytechnic</u></b><br>
 Our students visited Temasek Polytechnic for the Ideas for Design AEM in 2022. This group was a mix of Art students and other students who were just interested in the AEM. These students refreshed their learning in the basics of Art before up-cycling a found object into an artwork. Our students also went on a tour of the Design School in Temasek Polytechnic and learned about the courses available. Our students were very impressed with the projects that Temasek Polytechnic students had participated in. All in all, our students found this AEM valuable because it gave them the time to conceptualise their own unique approach to creating artwork in a leisurely way and also think about what they wanted to do to further their education.	
-<br><br>	
-<p><strong><u>The ABCs of Making Games - Logic, Art &amp; User Experience</u></strong></p><br><br>
-
-**google slides**
-	
+<p><strong><u>The ABCs of Making Games - Logic, Art &amp; User Experience</u></strong></p>
 <p>Working from concept to prototype for a playable 2D game, 19 Secondary Three art students spent four days of their March school holidays designing an interactive game at Nanyang Polytechnic.</p>
 <p>From understanding user experience, interactive design to crafting a good gaming experience, the students had fun learning these valuable new skills and applying the knowledge gained from the lecturers. The workshop, which was specially designed to engage and inspire secondary school students, helped the students discover new strengths and interest. It also provided an authentic learning experience that would help them make a more well-informed decision on their post-secondary options.</p>
 </div>
