@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curriculum.md
       - Sports/.keep
       - Sports/Basketball.md
       - Sports/Football.md

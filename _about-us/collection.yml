@@ -4,17 +4,15 @@ collections:
     order:
       - Principal's Message.md
       - Our School.md
-      - Our People.md
+      - Our People/.keep
+      - Our People/Our Key Personnel.md
+      - Our People/Our Form Teachers.md
       - Our Identity.md
       - Our History/.keep
       - Our History/Our Heritage.md
       - Our History/Encik Ahmad Ibrahim.md
       - Our History/Key Milestones.md
       - Our History/Past Principals.md
-      - Signature Programmes/.keep
-      - Signature Programmes/Outdoor Learning Experience (OLE).md
-      - Signature Programmes/Applied Learning Programme (ALP).md
-      - Signature Programmes/Enhance Music Programme (EMP).md
       - Our Achievements/.keep
       - Our Achievements/O Level Results.md
       - Our Achievements/N Level Results.md
@@ -26,9 +24,3 @@ collections:
       - Our Partners/AEP.md
       - Our Partners/ECG.md
       - Our Partners/External Organisations.md
-      - Alumni/.keep
-      - Alumni/Alumni.md
-      - Alumni/Alumni Featured Interviews.md
-      - Alumni/Alumni Achievements.md
-      - Alumni/Alumni Gallery.md
-      - Alumni/Alumni Featured News.md

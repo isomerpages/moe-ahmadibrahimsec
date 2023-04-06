@@ -2,7 +2,7 @@
 title: Alumni Gallery
 permalink: /partnerships/alumni/alumni-gallery/
 description: ""
-third_nav_title: Alumni
+third_nav_title: Our Alumni
 ---
 <hr>
 <h4 style="text-align: center;">Alumni as contributing role models –<br>engaging alumni meaningfully to enrich school life</h4>

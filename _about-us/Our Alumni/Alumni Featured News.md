@@ -2,7 +2,7 @@
 title: Alumni Featured News
 permalink: /partnerships/alumni/alumni-featured-news/
 description: ""
-third_nav_title: Alumni
+third_nav_title: Our Alumni
 ---
 <h4><strong>Lim Hui Shi</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_YwlcWH4PADkUIul2kX7wtN0D3pHyR2qTCTEybmHSyKL71PI5ElR42XxfYDrhi4aS14t7j2Xa-UhN/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><h4><strong>Congratulations to Tiffany Ang Li Shan!</strong></h4>

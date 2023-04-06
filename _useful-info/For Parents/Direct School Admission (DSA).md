@@ -2,6 +2,7 @@
 title: Direct School Admission (DSA)
 permalink: /about-us/direct-school-admission/
 description: ""
+third_nav_title: For Parents
 ---
 <h3><strong>DSA-Sec Exercise 2022</strong></h3>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move towards a more flexible and broad-based education system. Under the DSA-Sec Exercise, schools will be able to select a percentage of their students for admission outside of the centralized posting system, via their own selection criteria. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
@@ -151,7 +152,7 @@ d) possess positive attitude, good communication skills and have demonstrated le
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong></p>
 <div>
 <p><u><strong>For ALP,CSI matters:<br></strong></u>Mdm Carol Ann Martin<br>HOD / Humanities<br>Tel: 6594 9022<br>Or<br>Mr Mohamed Imran Bin Ishak<br>Teacher-in-Charge<br>Tel: 6594 9036</p>
-<p><u><strong>For Music matters:<br></strong></u>Miss Ng Sheh Feng<br>HOD / Aesthetics &amp; Craft<br>Tel: 6758 5384<br>Or<br>Ms Amelia Y Dizon<br>Teacher-in-Charge<br>Tel: 6594 9038</p>
+<p><u><strong>For Music matters:<br></strong></u>Ms Amelia Y Dizon<br>Teacher-in-Charge<br>Tel: 6594 9038</p>
 <div>
 <p><u><strong>For Sports &amp; Games matters:<br></strong></u>Mr Tommy Toh<br>SH / CCA (Internal)<br>Tel: 6594 9047</p>
 <p><u><strong>For Student Leadership matters:<br></strong></u>Mdm Geraldine Chew<br>HOD / Student Leadership cum Science (internal)<br>Tel: 6594 9040</p></div></div></div></div></div>

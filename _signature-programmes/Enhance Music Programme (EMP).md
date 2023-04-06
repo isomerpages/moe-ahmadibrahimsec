@@ -1,8 +1,7 @@
 ---
 title: Enhance Music Programme (EMP)
-permalink: /about-us/signature-programmes/enhanced-music-programme-emp/
+permalink: /signature-programmes/enhanced-music-programme-emp/
 description: ""
-third_nav_title: Signature Programmes
 ---
 <div><iframe data-mce-fragment="1" allowfullscreen="allowfullscreen" scrolling="no" frameborder="0" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fvideos%2F2804504003096936%2F&amp;show_text=false&amp;width=560"></iframe></div>
 <h3><strong>Enhanced Music Programme (EMP)</strong></h3>

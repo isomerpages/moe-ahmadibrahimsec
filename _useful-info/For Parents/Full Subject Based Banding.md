@@ -2,6 +2,7 @@
 title: Full Subject Based Banding
 permalink: /useful-info/full-subject-based-banding/
 description: ""
+third_nav_title: For Parents
 ---
 ## Full Subject Based Banding
 Ahmad Ibrahim Secondary School is one of the secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023.
@@ -21,8 +22,8 @@ With Full SBB, we are moving towards one secondary education, with many subject 
 | **Mixed form class with the provision of a common curriculum** | Students will be grouped into mixed form classes, with each form class comprising students taking different courses. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.<br>In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.<br>These subjects are:<br>- Art<br>- Character and Citizenship Education<br>- Design and Technology<br>- Food and Consumer Education<br>- Music<br>- Physical Education<br><br>Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.<br>English Language, Mother Tongue Languages, Mathematics, and Science will be offered at Express Level, N(A) Level, and N(T) Level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students' PSLE AL Score for each subject. |
 |  |  |
 
-For more information on FSBB, please visit [www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).
+For more information on FSBB, please visit&nbsp;[www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).
 
-For more information on how AISS will be implementing FSBB, you can contact us at [aiss@moe.edu.sg](mailto:aiss@moe.edu.sg)
+For more information on how AISS will be implementing FSBB, you can contact us at&nbsp;[aiss@moe.edu.sg](mailto:aiss@moe.edu.sg)
 
 <img src="/images/sbb.jpg" style="width:85%">

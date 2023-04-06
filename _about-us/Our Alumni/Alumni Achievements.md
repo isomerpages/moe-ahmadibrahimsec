@@ -2,7 +2,7 @@
 title: Alumni Achievements
 permalink: /partnerships/alumni/alumni-achievements/
 description: ""
-third_nav_title: Alumni
+third_nav_title: Our Alumni
 ---
 <hr>
 <h4 style="text-align: center;">Heartiest congratulations to our Alumni for their outstanding achievements in post-secondary education.</h4>

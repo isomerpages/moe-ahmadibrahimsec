@@ -8,19 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Website Banner/ai.gif
-      key_highlights:
-        - title: Get to know
-          description: THE AI EXPERIENCE
-          url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
-        - title: Welcome to our classroom
-          description: Outdoor Learning Experience
-          url: /about-us/signature-programmes/outdoor-learning-experience-ole/
-        - title: Do you see what we see?
-          description: Applied Learning Programme
-          url: /about-us/signature-programmes/applied-learning-programme-alp/
-        - title: Music is our life
-          description: Enhanced Music Programme
-          url: /about-us/signature-programmes/enhanced-music-programme-emp/
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
@@ -34,6 +21,34 @@ sections:
       alt: Image alt text
       image: /images/principal3.png
       url: /about-us/principals-message
+  - infopic:
+      title: Outdoor Learning Experience (OLE)
+      subtitle: Signature Programmes
+      description: OLE is one of AISS signature programme as every AI student will
+        experience it over their years in the school.
+      button: Learn more
+      url: /signature-programmes/outdoor-learning-experience-ole/
+      image: /images/ole1-04094.jpg
+      alt: Image alt text
+  - infopic:
+      title: Applied Learning Programme (ALP)
+      subtitle: Signature Programmes
+      description: Aims to develop our students for the future while keeping them
+        grounded in strong values and a concern for others in the community.
+      button: Learn more
+      url: /signature-programmes/applied-learning-programme-alp/
+      image: /images/s2 alp4.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Enhance Music Programme (EMP)
+      subtitle: Signature Programme
+      description: Music learning should encourage expression and experimentation and
+        provide students with the resources they need to fully immerse
+        themselves in their craft.
+      button: Learn more
+      url: /signature-programmes/enhanced-music-programme-emp/
+      image: /images/emp cover.jpg
+      alt: Image alt text
   - infopic:
       title: Be Transformed Be Extraordinary
       subtitle: Ordinary Miracles

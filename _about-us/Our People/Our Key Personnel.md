@@ -1,7 +1,8 @@
 ---
-title: Our People
-permalink: /about-us/our-people-school-organisation-chart/
+title: Our Key Personnel
+permalink: /about-us/our-people/our-key-personnel/
 description: ""
+third_nav_title: Our People
 ---
 <h3>School Leaders</h3>
 <table>

@@ -2,13 +2,24 @@ logo: /images/logo (2).png
 links:
   - title: About Us
     collection: about-us
-  - title: Curriculum
-    collection: curriculum
-  - title: Co-Curriculum
-    collection: co-curriculum
+  - title: AISS Experience
+    url: /aiss-experience
+    sublinks:
+      - title: Get to know the AI Experience
+        url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
+      - title: Our Curriculum
+        url: /curriculum/our-curriculum/
+      - title: Our Co-Curriculum
+        url: /our-co-curriculum/co-curriculum/
+      - title: Outdoor Learning (OLE)
+        url: /signature-programmes/outdoor-learning-experience-ole/
+      - title: Applied Learning (ALP)
+        url: /signature-programmes/applied-learning-programme-alp/
+      - title: Enhanced Music (EMP)
+        url: /signature-programmes/enhanced-music-programme-emp/
   - title: Useful Info
     collection: useful-info
-  - title: Announcements
-    resource_room: true
   - title: Ordinary Miracles
     url: /ordinary-miracles/
+  - title: Contact Us
+    url: /contact-us/
