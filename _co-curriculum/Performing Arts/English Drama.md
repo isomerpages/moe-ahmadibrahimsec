@@ -55,7 +55,7 @@ English Drama has been driven by its passion-filled members, passing down a zest
 <p><strong>Chairperson:</strong>&nbsp;Wang Xin Tian (3E4)<br><strong>Vice-Chairperson:</strong>&nbsp;Siti Aisyah Bte Ruslan (3E2)<br><strong>Discipline IC:</strong>&nbsp;Ketheesan Olivia Surrthi (3E4)<br><strong>Logistics IC:</strong>&nbsp;Wan Wei Jie (3E4)<br><strong>Welfare IC:</strong>&nbsp;Fu Kailin (3E4)<br><strong>Secretary:</strong> Nyimas Fasya ‘Ayuni Bte K M H (2E4)<br><strong>Sec 3 Level Coordinator:</strong>&nbsp;Nur Izzati Bte Zulkifli (3E1)<br><strong>Sec 2 Level Coordinator:</strong>&nbsp;Bek Song Ze Xavier (2E4)<br><strong>Sec 1 Level Coordinator:</strong>&nbsp;Zuryn Aisyah Bte Zainudin (2E4)</p>
 </div>
 </li>
-<li><input type="checkbox" id="accordion7"><label for="accordion77">Teachers In Charge</label>
+<li><input type="checkbox" id="accordion7"><label for="accordion7">Teachers In Charge</label>
 <div>
 <p><strong>Ms Agnes Lim Siew Mei (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:agnes_lim_siew_mei@moe.edu.sg">agnes_lim_siew_mei@moe.edu.sg</a></strong></p>
 <p>Mrs Nirmala d/o K Peryiah<br>Mdm Song Weina</p>
