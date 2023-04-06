@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ## English Drama
 ### About Us
-English Drama has been driven by its passion-filled members, passing down a zest that has cultivated into raw commitment that is observed in all of our training programmes. In English Drama, every student gets a chance to shine on stage. English Drama not only focuses on theatrical and public speaking skills but also students’ character development and passion for drama. Students will also be pushed out of their comfort zone to achieve their full potential.<p></p>
+English Drama has been driven by its passion-filled members, passing down a zest that has cultivated into raw commitment that is observed in all of our training programmes. In English Drama, every student gets a chance to shine on stage. English Drama not only focuses on theatrical and public speaking skills but also students’ character development and passion for drama. Students will also be pushed out of their comfort zone to achieve their full potential.
 
 <blockquote>
 <p><em>The English Drama has made me into an individual who is definitely more confident and responsible. Not only that, the English Drama members have proven to be a family to me. I’m able to voice out my fears and weaknesses, with the guidance and comfort from the members and teachers. Being on stage, with the audience expecting something big and amazing from you makes me feel special. Overall, my experience in English Drama has been an awesome ride and one that I would never forget.</em></p>
