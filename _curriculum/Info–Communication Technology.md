@@ -311,8 +311,6 @@ description: ""
 </tbody>
 </table>
 <p><strong>CPA Teachers</strong></p>
-<div>
-<div>
 <table>
 <tbody>
 <tr>
@@ -361,4 +359,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div></div></div></li></ul>
+</div></li></ul>
