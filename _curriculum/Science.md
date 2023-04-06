@@ -290,7 +290,7 @@ description: ""
     <td class="tg-i1dh">Mdm Azlin Bte Abdul Majid (HOD / Information &amp; Knowledge Management)</td>
   </tr>
   <tr>
-    <td class="tg-i1dh">Mdm Chew Jia Zhen, Geraldine (SH / Science Innovations)</td>
+    <td class="tg-i1dh">Mdm Chew Jia Zhen, Geraldine (HOD / Science)</td>
   </tr>
   <tr>
     <td class="tg-i1dh">Mdm Catherine Kang (Senior Teacher)</td>
