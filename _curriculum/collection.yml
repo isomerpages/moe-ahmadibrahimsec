@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Test.md
+      - Our Curriculum.md
       - English.md
       - Mother Tongue/.keep
       - Mother Tongue/About Us.md
