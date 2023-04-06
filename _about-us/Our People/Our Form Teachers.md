@@ -8,12 +8,12 @@ third_nav_title: Our People
 <table style="width:100%">
 <tbody>
 <tr>
-<th style="width:22%">Class</th>
-<th>FT1</th>
-<th>FT2</th>
+<th style="width:25%">Class</th>
+<th style="width:40%">FT1</th>
+<th style="width:40%">FT2</th>
 </tr>
 <tr>
-<td>1 Resilience</td>
+	<td><strong>1 Resilience</strong></td>
 <td>Ms Ching Loo May</td>
 <td>Mdm Siti Fatima Binte Azmi</td>
 </tr>
@@ -159,18 +159,18 @@ third_nav_title: Our People
 </tr>
 		<tr>
 <td>4N2</td>
-<td>Mdm	Lilian Loh Yen Cheng</td>
-<td>Mr Marcus Lau Shao Yun</td>
+<td>Mr Fong Tjen Shan (Ryan)</td>
+<td>Ms Lui Ying Jien</td>
 </tr>
 		<tr>
 <td>4T1</td>
-<td>Mdm	Lilian Loh Yen Cheng</td>
-<td>Mr Marcus Lau Shao Yun</td>
+<td>Mr Luo Zhengyang</td>
+<td>Ms Sumitha Padmanathan</td>
 </tr>
 		<tr>
 <td>4T2</td>
-<td>Mdm	Lilian Loh Yen Cheng</td>
-<td>Mr Marcus Lau Shao Yun</td>
+<td>Mr Ng Ping Siang</td>
+<td>Mdm Santhi d/o Mutrawipillai Sanmugum</td>
 </tr>
 </tbody>
 </table>
