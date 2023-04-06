@@ -60,6 +60,7 @@ third_nav_title: Clubs
 <li>DJI Online Robomaster Challenge</li>
 </ul>
 </div></li>
+
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Teachers In Charge</label>
 <div>
 <p><strong>Mr Yeu Chee Wee Thomas (OIC)</strong><br><strong>Contact:&nbsp;<a href="mailto:yeu_chee_wee_thomas@moe.edu.sg" target="">yeu_chee_wee_thomas@moe.edu.sg</a></strong></p>
