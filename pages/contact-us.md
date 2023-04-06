@@ -19,5 +19,5 @@ contacts:
       - phone: +65 6758 5384
       - email: aiss@moe.edu.sg
       - other: "Fax: 6755 7778"
-    title: Telephone
+    title: General Enquiries & Feedback
 ---
