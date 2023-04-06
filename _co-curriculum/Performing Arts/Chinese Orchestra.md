@@ -13,10 +13,10 @@ third_nav_title: Performing Arts
 
 <blockquote>
 <p><em>I’ve always loved the Chinese culture and tradition, hence I was excited to know that AI has a Chinese Orchestra. No doubt, CO was my first CCA choice. I really enjoy being a CO member. On top of learning how to plays songs on the Zhongruan, I also made many friends in CO. CO provides opportunities for us to develop our music skills. It is a CCA which helps us to learn and grow.</em></p>
-<p style="text-align: right;">- Kelly Soh, 3E4</p>
+<p style="text-align: right;"><strong>- Kelly Soh, 3E4</strong></p>
 
 <p><em>"I learnt many skills in AICO which are applicable to my life even after I graduate from AI. Besides picking up the skill to play the yangqin, CO broadens my understanding of music and helps me to see the importance of teamwork and self-discipline. Everyone has a part to play in ensuring that the orchestra sounds harmonious and melodic. Every effort counts. I will remember this point as I take on the challenges in the future."</em></p>
-<p style="text-align: right;">- Allyn Tay, Alumnus</p>
+<p style="text-align: right;"><strong>- Allyn Tay, Alumnus</strong></p>
 </blockquote>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Mission</label>
