@@ -83,5 +83,5 @@ third_nav_title: Clubs
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Mr Ng Ping Siang (OIC)<br>Contact:&nbsp;<a href="mailto:ng_ping_siang@moe.edu.sg" target="">ng_ping_siang@moe.edu.sg</a></strong><br><br>Ms Tow Swee Ai Emily<br>Mdm Khoo Tee Mian
+<p><strong>Mr Ng Ping Siang (OIC)<br>Contact:&nbsp;<a href="mailto:ng_ping_siang@moe.edu.sg" target="">ng_ping_siang@moe.edu.sg</a></strong><br>Ms Tow Swee Ai Emily<br>Mdm Khoo Tee Mian
 </p></div></li></ul>
