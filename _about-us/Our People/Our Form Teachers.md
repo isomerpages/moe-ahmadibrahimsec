@@ -113,64 +113,69 @@ third_nav_title: Our People
 <td>Mr Teo Chee Siong</td>
 </tr>
 	<tr>
-<td>3 Service</td>
+		<td><strong>3 Service</strong></td>
 <td>Mdm	Kang Li Choo Catherine(Mrs Leong)</td>
 <td>Mr Chong Wensheng</td>
 </tr>
 	<tr>
-<td>3 Care</td>
+		<td><strong>3 Care</strong></td>
 <td>Mdm	Khoo Tee Mian</td>
 <td>Mdm Lee Pei Ting Doris</td>
 </tr>
 	<tr>
-<td>3 Courage</td>
+		<td><strong>3 Courage</strong></td>
 <td>Mdm	Phua Eng Sze</td>
 <td>Ms Tsang Wing Han</td>
 </tr>
 	<tr>
-<td>3 Gratitude</td>
+		<td><strong>3 Gratitude</strong></td>
 <td>Mdm	Lilian Loh Yen Cheng</td>
 <td>Mr Marcus Lau Shao Yun</td>
 </tr>
 		<tr>
-<td>4E1</td>
+			<td><strong>4E1</strong></td>
 <td>Mdm	Fitrah Bte Jamri</td>
 <td>Mdm Azlin Bte Abdul Majid</td>
 </tr>
 		<tr>
-<td>4E2</td>
+			<td><strong>4E2</strong></td>
 <td>Mdm	Kanthiri Alasa</td>
 <td>Ms Theresa Ong Hwee Fang</td>
 </tr>
 		<tr>
-<td>4E3</td>
+			<td><strong>4E3</strong></td>
 <td>Mr Yeu Chee Wee Thomas</td>
 <td>Ms Zhang Yaqi</td>
 </tr>
 		<tr>
-<td>4E4</td>
+			<td><strong>4E4</strong></td>
 <td>Ms Tan Wiphaporn</td>
 <td>Mdm	Tay Liling </td>
 </tr>
 		<tr>
-<td>4N1</td>
+			<td><strong>4N1</strong></td>
 <td>Mdm Noor Azizah Bte Ibrahim</td>
 <td>Mdm	Seah Yen Sin</td>
 </tr>
 		<tr>
-<td>4N2</td>
+			<td><strong>4N2</strong></td>
 <td>Mr Fong Tjen Shan (Ryan)</td>
 <td>Ms Lui Ying Jien</td>
 </tr>
 		<tr>
-<td>4T1</td>
+			<td><strong>4T1</strong></td>
 <td>Mr Luo Zhengyang</td>
 <td>Ms Sumitha Padmanathan</td>
 </tr>
 		<tr>
-<td>4T2</td>
+			<td><strong>4T2</strong></td>
 <td>Mr Ng Ping Siang</td>
 <td>Mdm Santhi d/o Mutrawipillai Sanmugum</td>
+</tr>
+		<tr>
+			<td><strong>5N1</strong></td>
+<td>Mdm Juny Iskawati Bte Mohamed Jaffar (Mrs Noor)</td>
+<td></td>
 </tr>
 </tbody>
 </table>
