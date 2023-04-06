@@ -9,18 +9,9 @@ sections:
   - hero:
       background: /images/Website Banner/ai.gif
       key_highlights:
-        - title: Get to know
-          description: THE AI EXPERIENCE
-          url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
-        - title: Welcome to our classroom
-          description: Outdoor Learning Experience
-          url: /about-us/signature-programmes/outdoor-learning-experience-ole/
-        - title: Do you see what we see?
-          description: Applied Learning Programme
-          url: /about-us/signature-programmes/applied-learning-programme-alp/
-        - title: Music is our life
-          description: Enhanced Music Programme
-          url: /about-us/signature-programmes/enhanced-music-programme-emp/
+        - title: ""
+          description: ""
+          url: ""
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
