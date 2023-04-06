@@ -152,7 +152,7 @@ d) possess positive attitude, good communication skills and have demonstrated le
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong></p>
 <div>
 <p><u><strong>For ALP,CSI matters:<br></strong></u>Mdm Carol Ann Martin<br>HOD / Humanities<br>Tel: 6594 9022<br>Or<br>Mr Mohamed Imran Bin Ishak<br>Teacher-in-Charge<br>Tel: 6594 9036</p>
-<p><u><strong>For Music matters:<br></strong></u>Miss Ng Sheh Feng<br>HOD / Aesthetics &amp; Craft<br>Tel: 6758 5384<br>Or<br>Ms Amelia Y Dizon<br>Teacher-in-Charge<br>Tel: 6594 9038</p>
+<p><u><strong>For Music matters:<br></strong></u>Ms Amelia Y Dizon<br>Teacher-in-Charge<br>Tel: 6594 9038</p>
 <div>
 <p><u><strong>For Sports &amp; Games matters:<br></strong></u>Mr Tommy Toh<br>SH / CCA (Internal)<br>Tel: 6594 9047</p>
 <p><u><strong>For Student Leadership matters:<br></strong></u>Mdm Geraldine Chew<br>HOD / Student Leadership cum Science (internal)<br>Tel: 6594 9040</p></div></div></div></div></div>
