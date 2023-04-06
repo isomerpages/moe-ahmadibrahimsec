@@ -329,7 +329,6 @@ description: ""
 </tbody>
 </table>
 <p><strong>ICT Support Staffs</strong></p>
-<div>
 <table>
 <tbody>
 <tr>
@@ -354,4 +353,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div></div></li></ul>
+</div></li></ul>
