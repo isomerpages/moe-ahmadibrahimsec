@@ -54,7 +54,7 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
-<div>
+<div><br>
 <h4><strong>Badge Winners</strong></h4>
 </div>
 <div>
@@ -65,10 +65,10 @@ third_nav_title: Uniformed Groups
 <td width="235"></td>
 	
 <td width="235">
-	<p><center><strong>2018</strong></center></p>
+	<p></p><center><strong>2018</strong></center><p></p>
 </td>
 <td width="376">
-	<p><center><strong>2019</strong></center></p>
+	<p></p><center><strong>2019</strong></center><p></p>
 </td>
 </tr>
 <tr>
