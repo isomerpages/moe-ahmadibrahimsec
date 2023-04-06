@@ -24,10 +24,9 @@ sections:
   - infopic:
       title: Outdoor Learning Experience (OLE)
       subtitle: Signature Programmes
-      description: Outdoor Learning Experience (OLE) is a holistic, school wide
-        programs lead by the PE department, involving all teachers, introduced
-        since year 2005.
-      button: Click to learn more
+      description: OLE is one of AISS signature programme as every AI student will
+        experience it over their years in the school.
+      button: Learn more
       url: /signature-programmes/outdoor-learning-experience-ole/
       image: /images/ole1-04094.jpg
       alt: Image alt text
@@ -36,9 +35,19 @@ sections:
       subtitle: Signature Programmes
       description: Aims to develop our students for the future while keeping them
         grounded in strong values and a concern for others in the community.
-      button: Click to learn more
+      button: Learn more
       url: /signature-programmes/applied-learning-programme-alp/
       image: /images/s2 alp4.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Enhance Music Programme (EMP)
+      subtitle: Signature Programme
+      description: Music learning should encourage expression and experimentation and
+        provide students with the resources they need to fully immerse
+        themselves in their craft.
+      button: Learn more
+      url: /signature-programmes/enhanced-music-programme-emp/
+      image: /images/emp cover.jpg
       alt: Image alt text
   - infopic:
       title: Be Transformed Be Extraordinary
