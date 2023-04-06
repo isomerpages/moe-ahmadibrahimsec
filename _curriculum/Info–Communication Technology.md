@@ -289,6 +289,7 @@ description: ""
 </table>
 </div>
 </li>
+
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Organisation Chart</label>
 <div>
 <table>
@@ -327,7 +328,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div>
 <p><strong>ICT Support Staffs</strong></p>
 <div>
 <table>
@@ -354,4 +354,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div></li></ul>
+</div></div></li></ul>
