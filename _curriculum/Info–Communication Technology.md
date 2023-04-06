@@ -337,7 +337,7 @@ description: ""
 <th>Designation</th>
 </tr>
 <tr>
-<td>Mr Mohd Hafiz</td>
+<td>Mr Mohammad Hafiz</td>
 <td>ICT Associate</td>
 </tr>
 <tr>
