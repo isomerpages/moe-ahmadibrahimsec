@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ## Football
 
-<img style="width: 80%;" src="/images/football%20banner.jpg">
+<img style="width: 80%;" src="/images/football%20banner.jpg"><br>
 <h4><strong>Our Mission</strong></h4>
 <p>Nurturing responsible players on and off the pitch, striving for excellence in all that we partake. Based on our motto, “Majulah AI”, we believe that if we seek to improve ourselves first, we as a team can achieve miracles and bring AI Football to be the best that it can be.</p>
 <ul class="jekyllcodex_accordion">
