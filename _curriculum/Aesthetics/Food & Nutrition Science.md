@@ -49,5 +49,4 @@ third_nav_title: Aesthetics
 </tbody>
 </table>
 </div>
-</li>
-</ul>
+</li></ul>
