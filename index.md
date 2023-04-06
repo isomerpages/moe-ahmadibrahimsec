@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Website Banner/ai.gif
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
