@@ -55,6 +55,7 @@ third_nav_title: Aesthetics
 </ul>
 </div>
 </li>
+
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Organisational Chart</label>
 <div>
 <style type="text/css">
@@ -135,5 +136,4 @@ third_nav_title: Aesthetics
 </tbody>
 </table>
 </div>
-</li>
-</ul>
+</li></ul>

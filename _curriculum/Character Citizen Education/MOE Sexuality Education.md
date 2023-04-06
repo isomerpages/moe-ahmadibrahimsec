@@ -20,7 +20,7 @@ third_nav_title: Character Citizen Education
 
  You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
  
- #### Overview Of Ahmad Ibrahim Secondary School’s Sexuality Education Programme For 2023
+#### Overview Of Ahmad Ibrahim Secondary School’s Sexuality Education Programme For 2023
 1\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 2\.  The subjects that incorporate topics on sexuality include:<br>

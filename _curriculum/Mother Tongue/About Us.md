@@ -9,15 +9,15 @@ third_nav_title: Mother Tongue
 
 <p>The department consists of 3 language units: Chinese, Malay and Tamil. Our school offers Higher Mother Tongue Languages as well. Higher Chinese is taught in our school whereas the Higher Malay and Higher Tamil students attend lessons at the various Language Centres. The department aims to develop all our students to be cultured individuals who are articulate and confident speakers.</p>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Philosophy</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Philosophy</label>
 <div>
-<p><strong>&ldquo;To learn, love and live the language&rdquo;</strong></p>
+<p><strong>“To learn, love and live the language”</strong></p>
 <p>Through the provision of a rich curriculum and authentic learning experiences, the Mother Tongue Languages Department is committed to develop our students into youths who are confident in communicating and expressing themselves in their MTLs. Cultural values and knowledge are two other important components of language learning.</p>
-<p>The Chinese, Malay and Tamil Units teach the respective Mother Tongue languages as practical and living languages, imparting values and developing the students&rsquo; cultural identities at the same time. We believe in nurturing a bilingual identity in our students, and strive to inspire in them a love for their Mother Tongue languages.</p>
+<p>The Chinese, Malay and Tamil Units teach the respective Mother Tongue languages as practical and living languages, imparting values and developing the students’ cultural identities at the same time. We believe in nurturing a bilingual identity in our students, and strive to inspire in them a love for their Mother Tongue languages.</p>
 CL: 乐学善用：学得开心，用得舒心<br>ML: Bahasa disanjung, budaya dijunjung<br>TL: கற்போம்! நேசிப்போம்!&nbsp;வாழும்மொழி ஆக்குவோம்!
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Organisation Chart</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Organisation Chart</label>
 <div>
 <table>
 <tbody>
@@ -28,7 +28,7 @@ CL: 乐学善用：学得开心，用得舒心<br>ML: Bahasa disanjung, budaya d
 </tr>
 <tr>
 <td>Mr R Azmann B A Rahman</td>
-<td>Subject Head, Malay Language</td>
+<td>HOD of Mother Tongue</td>
 <td>9035</td>
 </tr>
 <tr>
@@ -128,4 +128,4 @@ CL: 乐学善用：学得开心，用得舒心<br>ML: Bahasa disanjung, budaya d
 </tbody>
 </table>
 </div>
-</li>
+</li></ul>

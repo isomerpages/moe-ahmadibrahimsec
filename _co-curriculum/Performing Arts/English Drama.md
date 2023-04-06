@@ -6,10 +6,12 @@ third_nav_title: Performing Arts
 ---
 ## English Drama
 ### About Us
-English Drama has been driven by its passion-filled members, passing down a zest that has cultivated into raw commitment that is observed in all of our training programmes. In English Drama, every student gets a chance to shine on stage. English Drama not only focuses on theatrical and public speaking skills but also students’ character development and passion for drama. Students will also be pushed out of their comfort zone to achieve their full potential.<p></p>
+English Drama has been driven by its passion-filled members, passing down a zest that has cultivated into raw commitment that is observed in all of our training programmes. In English Drama, every student gets a chance to shine on stage. English Drama not only focuses on theatrical and public speaking skills but also students’ character development and passion for drama. Students will also be pushed out of their comfort zone to achieve their full potential.
 
-<p>"The English Drama has made me into an individual who is definitely more confident and responsible. Not only that, the English Drama members have proven to be a family to me. I’m able to voice out my fears and weaknesses, with the guidance and comfort from the members and teachers. Being on stage, with the audience expecting something big and amazing from you makes me feel special. Overall, my experience in English Drama has been an awesome ride and one that I would never forget."</p>
-	<p>- Fasya, 3E3</p>
+<blockquote>
+<p><em>The English Drama has made me into an individual who is definitely more confident and responsible. Not only that, the English Drama members have proven to be a family to me. I’m able to voice out my fears and weaknesses, with the guidance and comfort from the members and teachers. Being on stage, with the audience expecting something big and amazing from you makes me feel special. Overall, my experience in English Drama has been an awesome ride and one that I would never forget.</em></p>
+	<p style="text-align: right;"><strong>- Fasya, 3E3</strong></p>
+</blockquote>
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">Mission</label>
@@ -53,10 +55,9 @@ English Drama has been driven by its passion-filled members, passing down a zest
 <p><strong>Chairperson:</strong>&nbsp;Wang Xin Tian (3E4)<br><strong>Vice-Chairperson:</strong>&nbsp;Siti Aisyah Bte Ruslan (3E2)<br><strong>Discipline IC:</strong>&nbsp;Ketheesan Olivia Surrthi (3E4)<br><strong>Logistics IC:</strong>&nbsp;Wan Wei Jie (3E4)<br><strong>Welfare IC:</strong>&nbsp;Fu Kailin (3E4)<br><strong>Secretary:</strong> Nyimas Fasya ‘Ayuni Bte K M H (2E4)<br><strong>Sec 3 Level Coordinator:</strong>&nbsp;Nur Izzati Bte Zulkifli (3E1)<br><strong>Sec 2 Level Coordinator:</strong>&nbsp;Bek Song Ze Xavier (2E4)<br><strong>Sec 1 Level Coordinator:</strong>&nbsp;Zuryn Aisyah Bte Zainudin (2E4)</p>
 </div>
 </li>
-<li><input type="checkbox" id="accordion7"><label for="accordion77">Teachers In Charge</label>
+<li><input type="checkbox" id="accordion7"><label for="accordion7">Teachers In Charge</label>
 <div>
 <p><strong>Ms Agnes Lim Siew Mei (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:agnes_lim_siew_mei@moe.edu.sg">agnes_lim_siew_mei@moe.edu.sg</a></strong></p>
 <p>Mrs Nirmala d/o K Peryiah<br>Mdm Song Weina</p>
 </div>
-</li>
-</ul>
+</li></ul>
