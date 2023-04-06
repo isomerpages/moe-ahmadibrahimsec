@@ -10,7 +10,7 @@ English Drama has been driven by its passion-filled members, passing down a zest
 
 <blockquote>
 <p><em>The English Drama has made me into an individual who is definitely more confident and responsible. Not only that, the English Drama members have proven to be a family to me. I’m able to voice out my fears and weaknesses, with the guidance and comfort from the members and teachers. Being on stage, with the audience expecting something big and amazing from you makes me feel special. Overall, my experience in English Drama has been an awesome ride and one that I would never forget.</em></p>
-<p align="">- Fasya, 3E3</p>
+	<p style="text-align: right;"><strong>- Fasya, 3E3</strong></p>
 </blockquote>
 
 <ul class="jekyllcodex_accordion">
