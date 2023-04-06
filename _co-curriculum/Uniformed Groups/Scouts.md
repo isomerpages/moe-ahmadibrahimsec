@@ -53,7 +53,6 @@ Pioneering
 <p>With nimble fingers and rugged hands, Scouts construct miniature wooden models, transforming them into life-sized bridges, swings and kitchens using mere wooden spars and manila ropes.</p>
 <h3 id="outdoor-cooking">Outdoor Cooking</h3>
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire, to putting small pieces of chicken to roast over a self-made cooking pit, this is part of the outdoor cooking skill set that every Scout possesses.</p>
-
 </div></li><li><input type="checkbox" id="accordion3"> <label for="accordion3">Achievements</label>
 <div>
 - Frank Cooper Sands Award - Gold<br> - Individual Award: Chief Commissioner’s Award
