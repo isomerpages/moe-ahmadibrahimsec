@@ -619,5 +619,4 @@ To nurture students to be confident and inquisitive problem solvers
     <td class="tg-i1dh">Mr Matthew Ng</td>
   </tr>
 </tbody>
-</table>
-</div></li></ul>
+</table></div></li></ul>
