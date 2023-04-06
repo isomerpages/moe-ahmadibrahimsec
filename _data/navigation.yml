@@ -12,3 +12,8 @@ links:
     url: /ordinary-miracles/
   - title: Contact Us
     url: /contact-us/
+  - title: Discover AISS
+    url: /discover-aiss
+    sublinks:
+      - title: Curriculum
+        url: /permalink
