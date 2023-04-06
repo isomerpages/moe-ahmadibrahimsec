@@ -18,97 +18,97 @@ third_nav_title: Our People
 <td>Mdm Siti Fatima Binte Azmi</td>
 </tr>
 <tr>
-<td>1 Integrity</td>
+	<td><strong>1 Integrity</strong></td>
 <td>Ms Nur Syakira Binte Zamri</td>
 <td>Mr Tan Boon Seng</td>
 </tr>
 <tr>
-<td>1 Steadfastness</td>
+	<td><strong>1 Steadfastness</strong></td>
 <td>Mr Burton Sherlock Timothy Row</td>
 <td>Ms Carita Chew Meng</td>
 </tr>
 	<tr>
-<td>1 Excellence</td>
+		<td><strong>1 Excellence</strong></td>
 <td>Mdm Chennakesavalu Sheela </td>
 <td>Mr Mohamed Imran Bin Ishak</td>
 </tr>
 	<tr>
-<td>1 Service</td>
+		<td><strong>1 Service</strong></td>
 <td>Ms	Tow Swee Ai Emily</td>
 <td>Mdm	Amelia Y Dizon</td>
 </tr>
 	<tr>
-<td>1 Care</td>
+		<td><strong>1 Care</strong></td>
 <td>Ms Ho Jie Min, Melody</td>
 <td>Mdm	Nirmala d/o K Periyiah (Mrs Ganesan)</td>
 </tr>
 	<tr>
-<td>1 Courage</td>
+		<td><strong>1 Courage</strong></td>
 <td>Ms Ow Hui Mei Wendy</td>
 <td>Mdm	Kasturi d/o Manoselvam</td>
 </tr>
 	<tr>
-<td>1 Gratitude</td>
+		<td><strong>1 Gratitude</strong></td>
 <td>Ms Hanna Diyana Binte Azahar</td>
 <td>Mdm	Koh Pei Pei Jennifer</td>
 </tr>
 		<tr>
-<td>2E1 </td>
+			<td><strong>2E1</strong> </td>
 <td>Mdm	Low Sok Gek (Mrs Foo)</td>
 <td>Ms Ng Hui Wen</td>
 </tr>
 		<tr>
-<td>2E2</td>
+			<td><strong>2E2</strong></td>
 <td>Ms Wang Xuejuan</td>
 <td></td>
 </tr>
 		<tr>
-<td>2E3</td>
+			<td><strong>2E3</strong></td>
 <td>Mdm	Foo Hui Cheng, Candee</td>
 <td>Mr Ng Qi Qin, Gary</td>
 </tr>
 		<tr>
-<td>2E4</td>
+			<td><strong>2E4</strong></td>
 <td>Ms Agnes Lim Siew Mei</td>
 <td>Mdm	Farhanah Binte Abdullah Sani</td>
 </tr>
 		<tr>
-<td>2N1</td>
+			<td><strong>2N1</strong></td>
 <td>Mr Enzo Charles Victor Buttazzoni</td>
 <td>Mdm	Puah Shi Hui Silia</td>
 </tr>
 		<tr>
-<td>2N2</td>
+			<td><strong>2N2</strong></td>
 <td>Ms Ang Xin Ru, Ruby</td>
 <td>Ms Chew Hui Leng Faith</td>
 </tr>
 		<tr>
-<td>2T1</td>
+			<td><strong>2T1</strong></td>
 <td>Ms Hafizhah Jamel</td>
 <td>Mdm	Phua Meng Hong</td>
 </tr>
 <tr>
-<td>2T2</td>
+	<td><strong>2T2</strong></td>
 <td>Mdm Chia Yun Xin</td>
 <td>Mr Mohamed Izwan Bin Abdul Manan</td>
 </tr>
 	<tr>
-<td>3 Resilience</td>
+		<td><strong>3 Resilience</strong></td>
 <td>Ms Chia Mei Lin Tania</td>
 <td>Mdm Jiang Nan</td>
 </tr>
 	<tr>
-<td>3 Integrity</td>
+		<td><strong>3 Integrity</strong></td>
 <td>Mdm Ang Ping Ying</td>
 <td></td>
 </tr>
 	<tr>
-<td>3 Steadfastness</td>
+		<td><strong>3 Steadfastness</strong></td>
 <td>Mdm	Ngui Lilian (Mrs Cheong)</td>
 <td>Mdm Song Weina</td>
 </tr>
 	<tr>
-<td>3 Excellence</td>
+		<td><strong>3 Excellence</strong></td>
 <td>Mdm	Ren Jing</td>
 <td>Mr Teo Chee Siong</td>
 </tr>
