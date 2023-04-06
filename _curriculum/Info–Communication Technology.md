@@ -361,6 +361,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div>
-</div></div></li>
-</ul>
+</div></div></div></li></ul>
