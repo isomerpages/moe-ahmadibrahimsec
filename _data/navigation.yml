@@ -8,7 +8,7 @@ links:
     collection: co-curriculum
   - title: Useful Info
     collection: useful-info
-  - title: Announcements
-    resource_room: true
   - title: Ordinary Miracles
     url: /ordinary-miracles/
+  - title: Contact Us
+    url: /permalink
