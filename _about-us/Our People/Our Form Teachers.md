@@ -132,5 +132,45 @@ third_nav_title: Our People
 <td>Mdm	Lilian Loh Yen Cheng</td>
 <td>Mr Marcus Lau Shao Yun</td>
 </tr>
+		<tr>
+<td>4E1</td>
+<td>Mdm	Fitrah Bte Jamri</td>
+<td>Mdm Azlin Bte Abdul Majid</td>
+</tr>
+		<tr>
+<td>4E2</td>
+<td>Mdm	Kanthiri Alasa</td>
+<td>Ms Theresa Ong Hwee Fang</td>
+</tr>
+		<tr>
+<td>4E3</td>
+<td>Mr Yeu Chee Wee Thomas</td>
+<td>Ms Zhang Yaqi</td>
+</tr>
+		<tr>
+<td>4E4</td>
+<td>Ms Tan Wiphaporn</td>
+<td>Mdm	Tay Liling </td>
+</tr>
+		<tr>
+<td>4N1</td>
+<td>Mdm Noor Azizah Bte Ibrahim</td>
+<td>Mdm	Seah Yen Sin</td>
+</tr>
+		<tr>
+<td>4N2</td>
+<td>Mdm	Lilian Loh Yen Cheng</td>
+<td>Mr Marcus Lau Shao Yun</td>
+</tr>
+		<tr>
+<td>4T1</td>
+<td>Mdm	Lilian Loh Yen Cheng</td>
+<td>Mr Marcus Lau Shao Yun</td>
+</tr>
+		<tr>
+<td>4T2</td>
+<td>Mdm	Lilian Loh Yen Cheng</td>
+<td>Mr Marcus Lau Shao Yun</td>
+</tr>
 </tbody>
 </table>
