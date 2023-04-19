@@ -39,13 +39,13 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>1 Care</strong></td>
-<td>Ms Ho Jie Min, Melody</td>
-<td>Mdm	Nirmala d/o K Periyiah (Mrs Ganesan)</td>
+<td>Ms Ho Jie Min, Melody<br><a href="mailto: ho_jie_min_melody@moe.edu.sg">ho_jie_min_melody@moe.edu.sg</a></td>
+<td>Mdm	Nirmala d/o K Periyiah (Mrs Ganesan)<br><a href="mailto: nirmala_k_periyiah@moe.edu.sg">nirmala_k_periyiah@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>1 Courage</strong></td>
-<td>Ms Ow Hui Mei Wendy</td>
-<td>Mdm	Kasturi d/o Manoselvam</td>
+<td>Ms Ow Hui Mei Wendy<br><a href="mailto: ow_hui_mei_wendy@moe.edu.sg">ow_hui_mei_wendy@moe.edu.sg</a></td>
+<td>Mdm	Kasturi d/o Manoselvam<br><a href="mailto: do_manoselvam_kasturi@moe.edu.sg">do_manoselvam_kasturi@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>1 Gratitude</strong></td>
