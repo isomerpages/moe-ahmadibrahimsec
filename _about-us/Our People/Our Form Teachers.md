@@ -139,7 +139,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>4E2</strong></td>
-<td>Mdm	Kanthiri Alasa</td>
+<td>Mdm	Kanthiri Alasa<br><a href="mailto: kanthiri_alasa@moe.edu.sg">kanthiri_alasa@moe.edu.sg</a></td>
 <td>Ms Theresa Ong Hwee Fang</td>
 </tr>
 		<tr>
