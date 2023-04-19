@@ -159,7 +159,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>4N2</strong></td>
-<td>Mr Fong Tjen Shan (Ryan)</td>
+<td>Mr Fong Tjen Shan (Ryan<br><a href="mailto: ryan_fong_tjen_shan@moe.edu.sg">ryan_fong_tjen_shan@moe.edu.sg</a></td>
 <td>Ms Lui Ying Jien</td>
 </tr>
 		<tr>
