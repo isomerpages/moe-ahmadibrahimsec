@@ -9,7 +9,7 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <th style="width:30%">Class</th>
-<th style="width:30%">FT1</th>
+<th style="width:40%">FT1</th>
 <th style="width:30%">FT2</th>
 </tr>
 <tr>
