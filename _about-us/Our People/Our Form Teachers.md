@@ -169,8 +169,8 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>4T2</strong></td>
-<td>Mr Ng Ping Siang<br><a href="mailto: ng_ping_siang@moe.edu.sg">sng_ping_siang@moe.edu.sg</a></td>
-<td>Mdm Santhi d/o Mutrawipillai Sanmugum</td>
+<td>Mr Ng Ping Siang<br><a href="mailto: ng_ping_siang@moe.edu.sg">ng_ping_siang@moe.edu.sg</a></td>
+<td>Mdm Santhi d/o Mutrawipillai Sanmugum<br><a href="mailto: santhi_mutrawipillai_sanmu@moe.edu.sg">santhi_mutrawipillai_sanmu@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>5N1</strong></td>
