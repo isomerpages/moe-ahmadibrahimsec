@@ -17,7 +17,6 @@ third_nav_title: Our People
 <td>Ms Ching Loo May
 	
 ching_loo_may@moe.edu.sg
-	
 </td>
 <td>Mdm Siti Fatima Binte Azmi
 	
