@@ -154,7 +154,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>4N1</strong></td>
-<td>Mdm Noor Azizah Bte Ibrahim</td>
+<td>Mdm Noor Azizah Bte Ibrahim<br><a href="mailto: noor_azizah_ibrahim@moe.edu.sg">noor_azizah_ibrahim@moe.edu.sg</a></td>
 <td>Mdm	Seah Yen Sin</td>
 </tr>
 		<tr>
