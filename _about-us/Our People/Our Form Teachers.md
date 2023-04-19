@@ -40,7 +40,10 @@ third_nav_title: Our People
 	
 [burton_sherlock_timothy_row@moe.edu.sg](burton_sherlock_timothy_row@moe.edu.sg)	
 </td>
-<td>Ms Carita Chew Meng</td>
+<td>Ms Carita Chew Meng
+	
+[carita_chew_meng@moe.edu.sg](carita_chew_meng@moe.edu.sg)
+</td>
 </tr>
 	<tr>
 		<td><strong>1 Excellence</strong></td>
