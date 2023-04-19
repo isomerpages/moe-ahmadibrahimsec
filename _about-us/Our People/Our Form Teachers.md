@@ -89,7 +89,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 	<td><strong>2T2</strong></td>
-<td>Mdm Chia Yun Xin</td>
+<td>Mdm Chia Yun Xin<br><a href="mailto: chia_yun_xin@moe.edu.sg">chia_yun_xin@moe.edu.sg</a></td>
 <td>Mr Mohamed Izwan Bin Abdul Manan</td>
 </tr>
 	<tr>
