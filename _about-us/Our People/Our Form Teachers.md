@@ -16,9 +16,7 @@ third_nav_title: Our People
 	<td><strong>1 Resilience</strong></td>
 <td>Ms Ching Loo May<br><a href="mailto: ching_loo_may@moe.edu.sg">ching_loo_may@moe.edu.sg</a>
 </td>
-<td>Mdm Siti Fatima Binte Azmi
-	
-[siti_fatima_bte_azmi@moe.edu.sg](siti_fatima_bte_azmi@moe.edu.sg)
+<td>Mdm Siti Fatima Binte Azmi<br><a href="mailto: siti_fatima_bte_azmi@moe.edu.sg">siti_fatima_bte_azmi@moe.edu.sg</a>
 
 </td>
 </tr>
