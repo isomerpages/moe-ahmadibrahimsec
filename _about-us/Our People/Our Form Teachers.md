@@ -94,7 +94,7 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>3 Resilience</strong></td>
-<td>Ms Chia Mei Lin Tania</td>
+<td>Ms Chia Mei Lin Tania<br><a href="mailto: chia_mei_lin_tania@moe.edu.sg">chia_mei_lin_tania@moe.edu.sg</a></td>
 <td>Mdm Jiang Nan</td>
 </tr>
 	<tr>
