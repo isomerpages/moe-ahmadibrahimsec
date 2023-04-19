@@ -29,13 +29,13 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>1 Excellence</strong></td>
-<td>Mdm Chennakesavalu Sheela<br><a href="mailto: carita_chew_meng@moe.edu.sg">carita_chew_meng@moe.edu.sg</a></td>
-<td>Mr Mohamed Imran Bin Ishak</td>
+<td>Mdm Chennakesavalu Sheela<br><a href="mailto: chennakesavalu_sheela@moe.edu.sg">chennakesavalu_sheela@moe.edu.sg</a></td>
+<td>Mr Mohamed Imran Bin Ishak<br><a href="mailto: mohamed_imran_ishak@moe.edu.sg">mohamed_imran_ishak@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>1 Service</strong></td>
-<td>Ms	Tow Swee Ai Emily</td>
-<td>Mdm	Amelia Y Dizon</td>
+<td>Ms Tow Swee Ai Emily<br><a href="mailto: tow_swee_ai_emily@moe.edu.sg">tow_swee_ai_emily@moe.edu.sg</a></td>
+<td>Mdm	Amelia Y Dizon<br><a href="mailto: amelia_y_dizon@moe.edu.sg">amelia_y_dizon@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>1 Care</strong></td>
