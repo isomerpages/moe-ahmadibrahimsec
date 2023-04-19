@@ -129,8 +129,8 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>3 Gratitude</strong></td>
-<td>Mdm	Lilian Loh Yen Cheng</td>
-<td>Mr Marcus Lau Shao Yun</td>
+<td>Mdm	Lilian Loh Yen Cheng<br><a href="mailto: lilian_loh_yen_cheng@moe.edu.sg">lilian_loh_yen_cheng@moe.edu.sg</a></td>
+<td>Mr Marcus Lau Shao Yun<br><a href="mailto: marcus_lau_shao_yu@moe.edu.sg">marcus_lau_shao_yu@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>4E1</strong></td>
