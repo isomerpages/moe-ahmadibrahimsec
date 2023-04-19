@@ -28,13 +28,9 @@ third_nav_title: Our People
 </tr>
 <tr>
 	<td><strong>1 Steadfastness</strong></td>
-<td>Mr Burton Sherlock Timothy Row
-	
-[burton_sherlock_timothy_row@moe.edu.sg](burton_sherlock_timothy_row@moe.edu.sg)	
+<td>Mr Burton Sherlock Timothy Row<br><a href="mailto: burton_sherlock_timothy_row@moe.edu.sg">burton_sherlock_timothy_row@moe.edu.sg</a>
 </td>
-<td>Ms Carita Chew Meng
-	
-[carita_chew_meng@moe.edu.sg](carita_chew_meng@moe.edu.sg)
+<td>Ms Carita Chew Meng<br><a href="mailto: carita_chew_meng@moe.edu.sg">carita_chew_meng@moe.edu.sg</a>
 </td>
 </tr>
 	<tr>
