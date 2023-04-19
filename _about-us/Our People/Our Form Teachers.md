@@ -79,8 +79,8 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>2N2</strong></td>
-<td>Ms Ang Xin Ru, Ruby</td>
-<td>Ms Chew Hui Leng Faith</td>
+<td>Ms Ang Xin Ru, Ruby<br><a href="mailto: ang_xin_ru_ruby@moe.edu.sg">ang_xin_ru_ruby@moe.edu.sg</a></td>
+<td>Ms Chew Hui Leng Faith<br><a href="mailto: chew_hui_leng_faith@moe.edu.sg">chew_hui_leng_faith@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>2T1</strong></td>
