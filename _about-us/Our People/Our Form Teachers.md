@@ -164,7 +164,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>4T1</strong></td>
-<td>Mr Luo Zhengyang</td>
+<td>Mr Luo Zhengyang<br><a href="mailto: luo_zhengyang@moe.edu.sg">luo_zhengyang@moe.edu.sg</a></td>
 <td>Ms Sumitha Padmanathan</td>
 </tr>
 		<tr>
