@@ -69,7 +69,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>2E4</strong></td>
-<td>Ms Agnes Lim Siew Mei</td>
+<td>Ms Agnes Lim Siew Mei<br><a href="mailto: agnes_lim_siew_mei@moe.edu.sg">agnes_lim_siew_mei@moe.edu.sg</a></td>
 <td>Mdm	Farhanah Binte Abdullah Sani</td>
 </tr>
 		<tr>
