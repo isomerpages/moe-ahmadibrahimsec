@@ -54,7 +54,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>2E1</strong> </td>
-<td>Mdm	Low Sok Gek (Mrs Foo)</td>
+<td>Mdm	Low Sok Gek (Mrs Foo)<br><a href="mailto: low_sok_gek@moe.edu.sg">low_sok_gek@moe.edu.sg</a></td>
 <td>Ms Ng Hui Wen</td>
 </tr>
 		<tr>
