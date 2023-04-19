@@ -95,27 +95,27 @@ third_nav_title: Our People
 	<tr>
 		<td><strong>3 Resilience</strong></td>
 <td>Ms Chia Mei Lin Tania<br><a href="mailto: chia_mei_lin_tania@moe.edu.sg">chia_mei_lin_tania@moe.edu.sg</a></td>
-<td>Mdm Jiang Nan</td>
+<td>Mdm Jiang Nan<br><a href="mailto: jiang_nan@moe.edu.sg">jiang_nan@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Integrity</strong></td>
-<td>Mdm Ang Ping Ying</td>
+<td>Mdm Ang Ping Ying<br><a href="mailto: ang_ping_ying@moe.edu.sg">ang_ping_ying@moe.edu.sg</a></td>
 <td></td>
 </tr>
 	<tr>
 		<td><strong>3 Steadfastness</strong></td>
-<td>Mdm	Ngui Lilian (Mrs Cheong)</td>
-<td>Mdm Song Weina</td>
+<td>Mdm	Ngui Lilian (Mrs Cheong)<br><a href="mailto: ngui_lilian@moe.edu.sg">ngui_lilian@moe.edu.sg</a></td>
+<td>Mdm Song Weina<br><a href="mailto: song_weina@moe.edu.sg">song_weina@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Excellence</strong></td>
-<td>Mdm	Ren Jing</td>
-<td>Mr Teo Chee Siong</td>
+<td>Mdm	Ren Jing<br><a href="mailto: ren_jin@moe.edu.sg">ren_jin@moe.edu.sg</a></td>
+<td>Mr Teo Chee Siong<br><a href="mailto: ren_jin@moe.edu.sg">ren_jin@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Service</strong></td>
-<td>Mdm	Kang Li Choo Catherine(Mrs Leong)</td>
-<td>Mr Chong Wensheng</td>
+<td>Mdm	Kang Li Choo Catherine (Mrs Leong)<br><a href="mailto: kang_li_choo_catherine@moe.edu.sg">kang_li_choo_catherine@moe.edu.sg</a></td>
+<td>Mr Chong Wensheng<br><a href="mailto: chong_wensheng@moe.edu.sg">chong_wensheng@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Care</strong></td>
