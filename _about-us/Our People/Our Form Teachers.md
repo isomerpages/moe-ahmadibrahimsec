@@ -8,9 +8,9 @@ third_nav_title: Our People
 <table style="width:100%">
 <tbody>
 <tr>
-<th style="width:25%">Class</th>
-<th style="width:40%">FT1</th>
-<th style="width:40%">FT2</th>
+<th style="width:30%">Class</th>
+<th style="width:30%">FT1</th>
+<th style="width:30%">FT2</th>
 </tr>
 <tr>
 	<td><strong>1 Resilience</strong></td>
