@@ -119,13 +119,13 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>3 Care</strong></td>
-<td>Mdm	Khoo Tee Mian</td>
-<td>Mdm Lee Pei Ting Doris</td>
+<td>Mdm	Khoo Tee Mian<br><a href="mailto: khoo_tee_mian@moe.edu.sg">khoo_tee_mian@moe.edu.sg</a></td>
+<td>Mdm Lee Pei Ting Doris<br><a href="mailto: lee_pei_ting_doris@moe.edu.sg">lee_pei_ting_doris@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Courage</strong></td>
-<td>Mdm	Phua Eng Sze</td>
-<td>Ms Tsang Wing Han</td>
+<td>Mdm	Phua Eng Sze<br><a href="mailto: phua_eng_sze@moe.edu.sg">phua_eng_sze@moe.edu.sg</a></td>
+<td>Ms Tsang Wing Han<br><a href="mailto: tsang_wing_han@moe.edu.sg">tsang_wing_han@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Gratitude</strong></td>
