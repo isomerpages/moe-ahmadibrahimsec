@@ -59,12 +59,12 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>2E2</strong></td>
-<td>Ms Wang Xuejuan</td>
+<td>Ms Wang Xuejuan<br><a href="mailto: wang_xuejuan@moe.edu.sg">wang_xuejuan@moe.edu.sg</a></td>
 <td></td>
 </tr>
 		<tr>
 			<td><strong>2E3</strong></td>
-<td>Mdm	Foo Hui Cheng, Candee</td>
+<td>Mdm	Foo Hui Cheng, Candee<br><a href="mailto: foo_hui_cheng_candee@moe.edu.sg">foo_hui_cheng_candee@moe.edu.sg</a></td>
 <td>Mr Ng Qi Qin, Gary</td>
 </tr>
 		<tr>
