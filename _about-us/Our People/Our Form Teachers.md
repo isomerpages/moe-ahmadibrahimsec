@@ -25,8 +25,14 @@ siti_fatima_bte_azmi@moe.edu.sg
 </tr>
 <tr>
 	<td><strong>1 Integrity</strong></td>
-<td>Ms Nur Syakira Binte Zamri</td>
-<td>Mr Tan Boon Seng</td>
+<td>Ms Nur Syakira Binte Zamri
+
+nur_syakira_zamri@moe.edu.sg
+</td>
+<td>Mr Tan Boon Seng
+	
+tan_boon_seng_a@moe.edu.sg
+</td>
 </tr>
 <tr>
 	<td><strong>1 Steadfastness</strong></td>
