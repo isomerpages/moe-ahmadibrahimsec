@@ -85,7 +85,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>2T1</strong></td>
 <td>Ms Hafizhah Jamel<br><a href="mailto: hafizhah_jamel@moe.edu.sg">hafizhah_jamel@moe.edu.sg</a></td>
-<td>Mdm	Phua Meng Hong</td>
+<td>Mdm	Phua Meng Hong<br><a href="mailto: phua_meng_hong@moe.edu.sg">phua_meng_hong@moe.edu.sg</a></td>
 </tr>
 <tr>
 	<td><strong>2T2</strong></td>
