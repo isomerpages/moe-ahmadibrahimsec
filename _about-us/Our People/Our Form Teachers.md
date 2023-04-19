@@ -150,7 +150,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>4E4</strong></td>
 <td>Ms Tan Wiphaporn<br><a href="mailto: wiphaporn_tan@moe.edu.sg">wiphaporn_tan@moe.edu.sg</a></td>
-<td>Mdm	Tay Liling </td>
+<td>Mdm	Tay Liling<br><a href="mailto: tay_liling@moe.edu.sg">tay_liling@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>4N1</strong></td>
