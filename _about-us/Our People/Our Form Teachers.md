@@ -49,8 +49,8 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>1 Gratitude</strong></td>
-<td>Ms Hanna Diyana Binte Azahar</td>
-<td>Mdm	Koh Pei Pei Jennifer</td>
+<td>Ms Hanna Diyana Binte Azahar<br><a href="mailto: hanna_diyana_azahar@moe.edu.sg">hanna_diyana_azahar@moe.edu.sg</a></td>
+<td>Mdm	Koh Pei Pei Jennifer<br><a href="mailto: koh_pei_pei_jennifer@moe.edu.sg">koh_pei_pei_jennifer@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>2E1</strong> </td>
