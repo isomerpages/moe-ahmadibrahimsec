@@ -134,7 +134,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>4E1</strong></td>
-<td>Mdm	Fitrah Bte Jamri</td>
+<td>Mdm	Fitrah Bte Jamri<br><a href="mailto: fitrah_jamri@moe.edu.sg">fitrah_jamri@moe.edu.sg</a></td>
 <td>Mdm Azlin Bte Abdul Majid</td>
 </tr>
 		<tr>
