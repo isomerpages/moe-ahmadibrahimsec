@@ -174,7 +174,7 @@ third_nav_title: Our People
 </tr>
 		<tr>
 			<td><strong>5N1</strong></td>
-<td>Mdm Juny Iskawati Bte Mohamed Jaffar (Mrs Noor)</td>
+<td>Mdm Juny Iskawati Bte Mohamed Jaffar (Mrs Noor)<br><a href="mailto: juny_iskawati_mohd_jaffar@moe.edu.sg">juny_iskawati_mohd_jaffar@moe.edu.sg</a></td>
 <td></td>
 </tr>
 </tbody>
