@@ -65,7 +65,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>2E3</strong></td>
 <td>Mdm	Foo Hui Cheng, Candee<br><a href="mailto: foo_hui_cheng_candee@moe.edu.sg">foo_hui_cheng_candee@moe.edu.sg</a></td>
-<td>Mr Ng Qi Qin, Gary</td>
+<td>Mr Ng Qi Qin, Gary<br><a href="mailto: gary_ng_qi_qin@moe.edu.sg">gary_ng_qi_qin@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>2E4</strong></td>
