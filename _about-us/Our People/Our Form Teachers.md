@@ -14,28 +14,22 @@ third_nav_title: Our People
 </tr>
 <tr>
 	<td><strong>1 Resilience</strong></td>
-<td>Ms Ching Loo May<br><a href="mailto: ching_loo_may@moe.edu.sg">ching_loo_may@moe.edu.sg</a>
-</td>
-<td>Mdm Siti Fatima Binte Azmi<br><a href="mailto: siti_fatima_bte_azmi@moe.edu.sg">siti_fatima_bte_azmi@moe.edu.sg</a>
-</td>
+<td>Ms Ching Loo May<br><a href="mailto: ching_loo_may@moe.edu.sg">ching_loo_may@moe.edu.sg</a></td>
+<td>Mdm Siti Fatima Binte Azmi<br><a href="mailto: siti_fatima_bte_azmi@moe.edu.sg">siti_fatima_bte_azmi@moe.edu.sg</a></td>
 </tr>
 <tr>
 	<td><strong>1 Integrity</strong></td>
-<td>Ms Nur Syakira Binte Zamri<br><a href="mailto: nur_syakira_zamri@moe.edu.sg">nur_syakira_zamri@moe.edu.sg</a>
-</td>
-<td>Mr Tan Boon Seng<br><a href="mailto: tan_boon_seng_a@moe.edu.sg">tan_boon_seng_a@moe.edu.sg</a>
-</td>
+<td>Ms Nur Syakira Binte Zamri<br><a href="mailto: nur_syakira_zamri@moe.edu.sg">nur_syakira_zamri@moe.edu.sg</a></td>
+<td>Mr Tan Boon Seng<br><a href="mailto: tan_boon_seng_a@moe.edu.sg">tan_boon_seng_a@moe.edu.sg</a></td>
 </tr>
 <tr>
 	<td><strong>1 Steadfastness</strong></td>
-<td>Mr Burton Sherlock Timothy Row<br><a href="mailto: burton_sherlock_timothy_row@moe.edu.sg">burton_sherlock_timothy_row@moe.edu.sg</a>
-</td>
-<td>Ms Carita Chew Meng<br><a href="mailto: carita_chew_meng@moe.edu.sg">carita_chew_meng@moe.edu.sg</a>
-</td>
+<td>Mr Burton Sherlock Timothy Row<br><a href="mailto: burton_sherlock_timothy_row@moe.edu.sg">burton_sherlock_timothy_row@moe.edu.sg</a></td>
+<td>Ms Carita Chew Meng<br><a href="mailto: carita_chew_meng@moe.edu.sg">carita_chew_meng@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>1 Excellence</strong></td>
-<td>Mdm Chennakesavalu Sheela </td>
+<td>Mdm Chennakesavalu Sheela<br><a href="mailto: carita_chew_meng@moe.edu.sg">carita_chew_meng@moe.edu.sg</a></td>
 <td>Mr Mohamed Imran Bin Ishak</td>
 </tr>
 	<tr>
