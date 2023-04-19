@@ -75,7 +75,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>2N1</strong></td>
 <td>Mr Enzo Charles Victor Buttazzoni<br><a href="mailto: enzo_charles_victor_buttazzoni@moe.edu.sg">enzo_charles_victor_buttazzoni@moe.edu.sg</a></td>
-<td>Mdm	Puah Shi Hui Silia</td>
+<td>Mdm	Puah Shi Hui Silia<br><a href="mailto: puah_shi_hui_silia@moe.edu.sg">puah_shi_hui_silia@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>2N2</strong></td>
