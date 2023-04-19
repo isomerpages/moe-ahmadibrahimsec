@@ -145,7 +145,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>4E3</strong></td>
 <td>Mr Yeu Chee Wee Thomas<br><a href="mailto: yeu_chee_wee_thomas@moe.edu.sg">yeu_chee_wee_thomas@moe.edu.sg</a></td>
-<td>Ms Zhang Yaqi</td>
+<td>Ms Zhang Yaqi<br><a href="mailto: zhang_yaqi_a@moe.edu.sg">zhang_yaqi_a@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>4E4</strong></td>
