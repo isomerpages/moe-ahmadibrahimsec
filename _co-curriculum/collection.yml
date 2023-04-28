@@ -2,12 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA Achievements/SPORTS.md
-      - CCA Achievements/UNIFORMED GROUPS.md
-      - CCA Achievements/PERFORMING ARTS.md
-      - CCA Achievements/CLUB & SOCIETY.md
-      - CCA Achievements/SSSC AWARD.md
-      - CCA Achievements/.keep
       - Co Curriculum.md
       - Sports/.keep
       - Sports/Basketball.md
@@ -29,3 +23,9 @@ collections:
       - Clubs/.keep
       - Clubs/Robotics Club.md
       - Clubs/Green Service Club.md
+      - CCA Achievements/.keep
+      - CCA Achievements/SPORTS.md
+      - CCA Achievements/UNIFORMED GROUPS.md
+      - CCA Achievements/PERFORMING ARTS.md
+      - CCA Achievements/CLUB & SOCIETY.md
+      - CCA Achievements/SSSC AWARD.md
