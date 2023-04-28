@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCA Achievements/UNIFORMED GROUPS.md
       - CCA Achievements/PERFORMING ARTS.md
       - CCA Achievements/CLUB & SOCIETY.md
       - CCA Achievements/SSSC AWARD.md
