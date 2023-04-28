@@ -308,25 +308,10 @@ description: ""
     <td class="tg-i1dh">Mr Mohamed Imran Ishak</td>
   </tr>
   <tr>
-    <td class="tg-i1dh">Mr Ng Ping Siang</td>
-  </tr>
-  <tr>
     <td class="tg-i1dh">Mdm Puah Shi Hui, Silia</td>
   </tr>
   <tr>
     <td class="tg-i1dh">Mdm Tay Mui Khim</td>
-  </tr>
-  <tr>
-    <td class="tg-i1dh">Mr Tan Hong Chan</td>
-  </tr>
-  <tr>
-    <td class="tg-i1dh">Muhammad Na'im Bin Sa'dollah</td>
-  </tr>
-  <tr>
-    <td class="tg-i1dh">Mdm Lee Jia Min</td>
-  </tr>
-  <tr>
-    <td class="tg-i1dh">Miss Li Huimin</td>
   </tr>
   <tr>
     <td class="tg-i1dh">Mdm Phua Meng Hong</td>
