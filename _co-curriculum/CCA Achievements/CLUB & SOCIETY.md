@@ -4,7 +4,6 @@ permalink: /achievements/cca-achievements/club-n-society/
 description: ""
 third_nav_title: CCA Achievements
 ---
-
 <table width="0">
 <tbody>
 <tr>

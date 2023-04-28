@@ -4,8 +4,7 @@ permalink: /achievements/cca-achievements/sssc-award/
 description: ""
 third_nav_title: CCA Achievements
 ---
-
-<h4>2017</br><strong>SSSC Colours Award</strong></h4>
+<h4>2017<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>Choong Yuki (2N2)&nbsp;<strong>(Shooting)</strong></li>
 <li>Bryon Lim Guan Jie (3E3)&nbsp;<strong>(Shooting)</strong></li>
@@ -18,7 +17,7 @@ third_nav_title: CCA Achievements
 <ul>
 <li>Li Chenbin (4E2)<strong>&nbsp;(Basketball)</strong></li>
 </ul><hr>
-<h4>2016<br /><strong>SSSC Colours Award</strong></h4>
+<h4>2016<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>Chen Le Yi (3E5)&nbsp;<strong>(Shooting)</strong></li>
 <li>Ng Ko Chee (3E2)&nbsp;<strong>(Shooting)</strong></li>
@@ -40,17 +39,17 @@ third_nav_title: CCA Achievements
 <li>Byron Lim Guan Jie (2E3)&nbsp;<strong>(Shooting)</strong></li>
 <li>Broston Lim Heng Yi (4E1)<strong>&nbsp;(Shooting)</strong></li>
 </ul><hr>
-<h4>2015<br /><strong>SSSC Colours Award (Distinction)</strong></h4>
+<h4>2015<br><strong>SSSC Colours Award (Distinction)</strong></h4>
 <ul>
 <li>Lakksman S/O Ganapathy&nbsp;<strong>(Basketball)</strong></li>
 </ul><hr>
-<h4>2014<br /><strong>SSSC Colours Award (Distinction)</strong></h4>
+<h4>2014<br><strong>SSSC Colours Award (Distinction)</strong></h4>
 <ul>
 <li>Phua Wee Hung Natasha&nbsp;<strong>(Track and Field)</strong></li>
 <li>Leona Yeo&nbsp;<strong>(Shooting)</strong></li>
 <li>Sng Jian Hui&nbsp;<strong>(Shooting)</strong></li>
 </ul><hr>
-<h4>2013<br /><strong>SSSC Colours Award</strong></h4>
+<h4>2013<br><strong>SSSC Colours Award</strong></h4>
 <div>
 <ul>
 <li>B Boys Rifle&nbsp;<strong>(Shooting)</strong></li>
@@ -63,7 +62,7 @@ third_nav_title: CCA Achievements
 <li>Jawardheen&nbsp;<strong>(Track and Field)</strong></li>
 <li>Maisara<strong>&nbsp;(Track and Field)</strong></li>
 <li>Natasha<strong>&nbsp;(Track and Field)</strong></li>
-</ul><hr><h4>2012<br /><strong>SSSC Colours Award</strong></h4>
+</ul><hr><h4>2012<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>C Boys Rifle&nbsp;<strong>(Shooting)</strong></li>
 <li>C Girls Rifle&nbsp;<strong>(Shooting)</strong></li>
@@ -77,3 +76,4 @@ third_nav_title: CCA Achievements
 <li>Loh Suan Kheng&nbsp;<strong>(Shooting)</strong></li>
 <li>Gracia Toh Jie Xin&nbsp;<strong>(Shooting)</strong></li>
 </ul>
+</div>

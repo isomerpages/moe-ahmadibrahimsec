@@ -19,7 +19,7 @@ third_nav_title: CCA Achievements
 </tr>
 <tr style="height: 82px;">
 <td style="width: 149.625px; height: 82px;">
-<p style="text-align: center;"><strong>Best Unit competitions<br /></strong><strong>**</strong></p>
+<p style="text-align: center;"><strong>Best Unit competitions<br></strong><strong>**</strong></p>
 </td>
 <td style="width: 161.672px; height: 82px;">
 <p style="text-align: center;">Performance for year 2017</p>
@@ -33,7 +33,7 @@ third_nav_title: CCA Achievements
 <p><strong>NPCC</strong></p>
 </td>
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Gold</strong></td>
-<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br /></strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
 </tr>
 <tr style="height: 46px;">
 <td style="width: 149.625px; height: 46px; text-align: center;">
