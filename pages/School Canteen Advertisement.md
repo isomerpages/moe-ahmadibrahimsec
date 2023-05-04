@@ -33,7 +33,9 @@ Interested applicants must submit the following documents:
 Please submit the documents to the school's General Office or email to aiss@moe.edu.sg (Attention: Admin Manager) by 15 May 2023, 6pm. We regret that late applications will not be accepted.
 
 <u><strong>Interview and Food Tasting</strong></u><br>
-* Only shortlisted applicants will be invited for an interview and are required to provide food sampling.<br>
-* Successful applicant will be expected to commence operation of the stall on 26 June 2023.<br>
-* Closing date for Application: 15 May 2023, 6pm.<br>
-* Please contact the school’s Administration Manager, Ms Angeline Ng at 6758 5384 for any clarifications.<br>
+* Only shortlisted applicants will be invited for an interview and are required to provide food sampling.
+* Successful applicant will be expected to commence operation of the stall on 26 June 2023.
+* Closing date for Application: 15 May 2023, 6pm.
+* Please contact the school’s Administration Manager, Ms Angeline Ng at 6758 5384 for any clarifications.
+
+&lt;- Back to School Canteen
