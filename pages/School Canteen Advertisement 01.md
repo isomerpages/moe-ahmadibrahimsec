@@ -36,6 +36,6 @@ Please submit the documents to the school's General Office or email to <a href="
 * Only shortlisted applicants will be invited for an interview and are required to provide food sampling.
 * Successful applicant will be expected to commence operation of the stall on 26 June 2023.
 * Closing date for Application: 15 May 2023, 6.00 pm.
-* Please contact the school’s Administration Manager, Ms Angeline Ng at 6758 5384 for any clarifications.
+* Please contact the school’s Administration Manager, Ms Angeline Ng at <strong>6758 5384</strong> for any clarifications.
 
 [&lt;- Back to School Canteen](https://www.ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
