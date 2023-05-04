@@ -38,5 +38,3 @@ Please submit the documents to the school's General Office or email to aiss@moe.
 •	Successful applicant will be expected to commence operation of the stall on 26 June 2023.<br>
 •	Closing date for Application: 15 May 2023, 6pm.<br>
 •	Please contact the school’s Administration Manager, Ms Angeline Ng at 6758 5384 for any clarifications.<br></ul>
-
-
