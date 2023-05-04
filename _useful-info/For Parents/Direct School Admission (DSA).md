@@ -42,7 +42,7 @@ d) possess positive attitude, good communication skills and have demonstrated le
 </tbody>
 </table>
 <p style="text-align: center;"><em><br>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></em></p>
-<h3>Application Procedures</h3>
+<h3><strong>Application Procedures</strong></h3>
 <h4>Step 1: Submission of application form through DSA - Sec Portal&nbsp;</h4>
 <p>Application for DSA-Sec can be submitted through online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;<strong>4 May 2023, 11 am to 31 May 2023, 3 pm</strong>. For more details, please refer to MOE website -&nbsp;<strong><a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">www.moe.gov.sg/dsa-sec</a></strong></p>
 <p>For applicants studying in MOE mainstream primary schools: Only one parent's SingPass is needed to log in. If parent / guardian is unable to apply online, you can approach the child's primary school for assistance. Click&nbsp;<strong><a href="https://go.gov.sg/apply-dsa-sec" target="_blank" rel="noopener">here</a></strong>&nbsp;to access the application page.</p>
@@ -82,7 +82,7 @@ d) possess positive attitude, good communication skills and have demonstrated le
 <p>You will be notified of the outcome by&nbsp;<strong>11 September 2023</strong>, informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>, put on&nbsp;<strong>Wait List</strong>, or&nbsp;<strong>Rejected</strong>. The decision of the Selection Panel is final.<br><br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will receive notification on the School Preference Submission in&nbsp;<strong>October 2023</strong>.<br><br>Lastly, the DSA results will be released with the PSLE results.<br><br></p>
 <hr></div>
 <br>
-<h3>Selection Criteria</h3>
+<h3><strong>Selection Criteria</strong></h3>
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -145,7 +145,7 @@ d) possess positive attitude, good communication skills and have demonstrated le
 </tbody>
 </table>
 <br><br>
-<h3>Contact Us</h3>
+	<h3><strong>Contact Us</strong></h3>
 </div>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong></p>
 <div>
