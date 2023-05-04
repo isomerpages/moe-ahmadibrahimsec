@@ -23,12 +23,12 @@ Applicants should meet the following criteria:
 <u><strong>Application Procedure</strong></u><br>
 <p>Application form is available at our General Office (751 Yishun Ave 7, Singapore 768928) or can be downloaded from https://schadmsvc.moe.gov.sg/moescas/</p>
 
-<p>Interested applicants must submit the following documents: </p>
-a.	Completed application form<br>
-b.	Proposed menu and price list of all items to be sold<br>
-c.	Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.<br>
-d.	Photocopy of the Identification Card (front &amp; back).<br>
-e.	Records of past catering/canteen experiences, if any.<br>
+Interested applicants must submit the following documents:
+* Completed application form
+* Proposed menu and price list of all items to be sold
+* Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.
+* Photocopy of the Identification Card (front &amp; back).
+* Records of past catering/canteen experiences, if any.
 
 Please submit the documents to the school's General Office or email to aiss@moe.edu.sg (Attention: Admin Manager) by 15 May 2023, 6pm. We regret that late applications will not be accepted.
 
