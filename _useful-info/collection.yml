@@ -2,7 +2,6 @@ collections:
   useful-info:
     output: true
     order:
-      - School Canteen.md
       - For Parents/.keep
       - For Parents/Booklist & Stationery List.md
       - For Parents/Full Subject Based Banding.md
@@ -21,3 +20,4 @@ collections:
       - For Students/Yearbooks.md
       - For Students/Quick Links.md
       - For Students/Direct School Admission (DSA) Information.md
+      - School Canteen.md
