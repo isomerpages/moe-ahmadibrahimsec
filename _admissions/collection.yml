@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Sec 1 Registration.md
       - Direct School Admission (DSA).md
       - E Open House.md
