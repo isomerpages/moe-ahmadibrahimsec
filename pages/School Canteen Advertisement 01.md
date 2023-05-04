@@ -38,4 +38,4 @@ Please submit the documents to the school's General Office or email to aiss@moe.
 * Closing date for Application: 15 May 2023, 6pm.
 * Please contact the school’s Administration Manager, Ms Angeline Ng at 6758 5384 for any clarifications.
 
-&lt;- Back to School Canteen
+[&lt;- Back to School Canteen](https://www.ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
