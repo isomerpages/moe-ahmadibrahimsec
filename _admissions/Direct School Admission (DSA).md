@@ -46,11 +46,10 @@ d) possess positive attitude, good communication skills and have demonstrated le
 <p>Application for DSA-Sec can be submitted through online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;<strong>4 May 2023, 11 am to 31 May 2023, 3 pm</strong>. For more details, please refer to MOE website -&nbsp;<strong><a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener">www.moe.gov.sg/dsa-sec</a></strong></p>
 <p>For applicants studying in MOE mainstream primary schools: Only one parent's SingPass is needed to log in. If parent / guardian is unable to apply online, you can approach the child's primary school for assistance. Click&nbsp;<strong><a href="https://go.gov.sg/apply-dsa-sec" target="_blank" rel="noopener">here</a></strong>&nbsp;to access the application page.</p>
 <p>For applicants NOT studying in MOE mainstream primary schools, please obtain a Registration Number (RGxxxxxxx) online before applying through the DSA-Sec Portal.</p>
-<p>For more information, you can refer to the MOE website at:&nbsp;<strong><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a></strong></p>
-<div><hr></div>
-<div><br>
+<p>For more information, you can refer to the MOE website at:&nbsp;<strong><a href="https://go.gov.sg/nmsdsa-sec-application" target="_blank" rel="noopener">https://go.gov.sg/nmsdsa-sec-application</a></strong></p><br><br>
+<div>
 <h4>Step 2: Attending Auditions/Trials/Tests and Interview Sessions</h4>
-<p>Shortlisted applicants will be notified by&nbsp;<strong>7 July 2023</strong>&nbsp;to attend the selection trial.<br><br>In the event that you are unable to attend the session on the given date, please call us at 6758 5384 in advance to make a new appointment. The dates available are:<br><br><br></p>
+<p>Shortlisted applicants will be notified by&nbsp;<strong>7 July 2023</strong>&nbsp;to attend the selection trial.<br><br>In the event that you are unable to attend the session on the given date, please call us at 6758 5384 in advance to make a new appointment. The dates available are:<br></p>
 <table>
 <tbody>
 <tr>
@@ -74,13 +73,11 @@ d) possess positive attitude, good communication skills and have demonstrated le
 </tr>
 </tbody>
 </table>
-<p><br><br></p>
-<hr></div>
-<div><br>
+</div><br><br>
+<div>
 <h4>Step 3: Outcome of Selection</h4>
-<p>You will be notified of the outcome by&nbsp;<strong>11 September 2023</strong>, informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>, put on&nbsp;<strong>Wait List</strong>, or&nbsp;<strong>Rejected</strong>. The decision of the Selection Panel is final.<br><br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will receive notification on the School Preference Submission in&nbsp;<strong>October 2023</strong>.<br><br>Lastly, the DSA results will be released with the PSLE results.<br><br></p>
-<hr></div>
-<br>
+<p>You will be notified of the outcome by&nbsp;<strong>11 September 2023</strong>, informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>, put on&nbsp;<strong>Wait List</strong>, or&nbsp;<strong>Rejected</strong>. The decision of the Selection Panel is final.<br><br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will receive notification on the School Preference Submission in&nbsp;<strong>October 2023</strong>.<br><br>Lastly, the DSA results will be released with the PSLE results.<br></p>
+</div>
 <h3><strong>Selection Criteria</strong></h3>
 
 <div>&nbsp;</div>
@@ -143,13 +140,11 @@ d) possess positive attitude, good communication skills and have demonstrated le
 </tr>
 </tbody>
 </table>
-<br><br>
-	<h3><strong>Contact Us</strong></h3>
+<h3><strong>Contact Us</strong></h3>
 </div>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong></p>
 <div>
-<p><u><strong>For ALP,CSI matters:<br></strong></u>Mdm Carol Ann Martin<br>HOD / Humanities<br>Tel: 6594 9022<br>Or<br>Mr Mohamed Imran Bin Ishak<br>Teacher-in-Charge<br>Tel: 6594 9036</p>
+<p><u><strong>For ALP,CSI matters:<br></strong></u>Mdm Carol Ann Martin<br>HOD / Humanities<br>Tel: 6594 9022<br><br>Or<br><br>Mr Mohamed Imran Bin Ishak<br>Teacher-in-Charge<br>Tel: 6594 9036</p>
 <p><u><strong>For Music matters:<br></strong></u>Ms Amelia Y Dizon<br>Teacher-in-Charge<br>Tel: 6594 9038</p>
-<div>
 <p><u><strong>For Sports &amp; Games matters:<br></strong></u>Mr Tommy Toh<br>SH / CCA<br>Tel: 6594 9047</p>
-<p><u><strong>For Student Leadership matters:<br></strong></u>Ms Tsang Wing Han<br>SH / Systems &amp; Research<br>Tel: 6594 9047</p></div></div></div>
+<p><u><strong>For Student Leadership matters:<br></strong></u>Ms Tsang Wing Han<br>SH / Systems &amp; Research<br>Tel: 6594 9047</p></div></div>
