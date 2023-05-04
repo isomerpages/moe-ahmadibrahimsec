@@ -11,7 +11,7 @@ description: ""
 <u><strong>Criteria</strong></u><br>
 Applicants should meet the following criteria:
 1. Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.
-2. Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
+2. Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.
 3. Maintain high standard of food and personal hygiene set out by NEA for food handlers.
 4. Applicant must be in personal attendance at the stall during operating hours.
 5. Both applicant &amp; stall assistant(s) must have passed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency).
@@ -21,7 +21,7 @@ Applicants should meet the following criteria:
 9. Applicants who adopt green practices are also preferred
 
 <u><strong>Application Procedure</strong></u><br>
-Application form is available at our General Office (751 Yishun Ave 7, Singapore 768928) or can be downloaded from https://schadmsvc.moe.gov.sg/moescas/
+Application form is available at our General Office (751 Yishun Ave 7, Singapore 768928) or can be downloaded from <a href="https://schadmsvc.moe.gov.sg/moescas/">https://schadmsvc.moe.gov.sg/moescas/</a>.
 
 Interested applicants must submit the following documents:
 * Completed application form
