@@ -3,7 +3,6 @@ title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
 ---
-<div></div>
 <p>Ahmad Ibrahim Secondary School is inviting applicants to operate a “Chinese Noodle Stall” stall with immediate effect. Menu may include varieties such as fishball noodles, wanton mee, laksa etc.</p>
 
 <u><strong>Background:</strong></u><br>
