@@ -3,7 +3,7 @@ title: School Canteen Advertisement 01
 permalink: /school-canteen-advertisement-01/
 description: ""
 ---
-<p>Ahmad Ibrahim Secondary School is inviting applicants to operate a “Chinese Noodle Stall” stall with immediate effect. Menu may include varieties such as fishball noodles, wanton mee, laksa etc.</p>
+<p>Ahmad Ibrahim Secondary School is inviting applicants to operate a “Chinese Noodle Stall” stall. Menu may include varieties such as fishball noodles, wanton mee, laksa etc.</p>
 
 <u><strong>Background:</strong></u><br>
 <p>We are a single session secondary school with student enrolment of about 1150 and staff strength of 130. There are currently 5 food stalls and 1 drink/snack stall at our school. One of the food stalls is selling halal noodles.</p>
@@ -21,7 +21,7 @@ Applicants should meet the following criteria:
 9. Applicants who adopt green practices are also preferred
 
 <u><strong>Application Procedure</strong></u><br>
-Application form is available at our General Office (751 Yishun Ave 7, Singapore 768928) or can be downloaded from <a href="https://schadmsvc.moe.gov.sg/moescas/">https://schadmsvc.moe.gov.sg/moescas/</a>.
+Application form is available at our General Office (751 Yishun Ave 7, Singapore 768928) or can be downloaded from [here](/files/Admin/canteen%20application%20form.pdf).
 
 Interested applicants must submit the following documents:
 * Completed application form
