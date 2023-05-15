@@ -337,11 +337,11 @@ description: ""
 </tr>
 <tr>
 <td>Mr Mohammad Hafiz</td>
-<td>ICT Associate</td>
+<td>ICT Manager</td>
 </tr>
 <tr>
 <td>Ms Elisha Ruth Cabaltera Zamudio</td>
-<td>AVA Engineer</td>
+<td>ICT Associate</td>
 </tr>
 <tr>
 <td>Mr Muhammad Nur Safwan Bin Bahrom</td>
