@@ -21,7 +21,7 @@ Applicants should meet the following criteria:
 9. Applicants who adopt green practices are also preferred
 
 <u><strong>Application Procedure</strong></u><br>
-Application form is available at our General Office (751 Yishun Ave 7, Singapore 768928) or can be downloaded from
+Application form is available at our General Office (751 Yishun Ave 7, Singapore 768928) or can be downloaded from [here](/files/Admin/canteen%20application%20form.pdf).
 
 Interested applicants must submit the following documents:
 * Completed application form
