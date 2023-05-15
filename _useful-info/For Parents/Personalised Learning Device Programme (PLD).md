@@ -88,4 +88,4 @@ A list of answers to Frequently Asked Questions can be found <a target="_blank" 
 
 | PLD Matters | Administrative &amp; Financial Matters | DMA Matters|
 | -------- | -------- | -------- |
-| Mr Tee Hong Heng<br>HOD ICT<br>[tee\_hong\_heng@moe.edu.sg](mailto:tee_hong_heng@moe.edu.sg)    | Ms Angeline Ng<br>Administration Manager<br>[angeline\_ng@schools.gov.sg](mailto:angeline_ng@schools.gov.sg)  | Mr Mohammad Hafiz<br>ICT Associate<br>[mohammad\_hafiz\_hairuddin@moe.edu.sg](mailto:mohammad_hafiz_hairuddin@moe.edu.sg)    |
+| Mr Tee Hong Heng<br>HOD ICT<br>[tee\_hong\_heng@moe.edu.sg](mailto:tee_hong_heng@moe.edu.sg)    | Ms Angeline Ng<br>Administration Manager<br>[angeline\_ng@schools.gov.sg](mailto:angeline_ng@schools.gov.sg)  | Mr Mohammad Hafiz<br>ICT Manager<br>[mohammad\_hafiz\_hairuddin@moe.edu.sg](mailto:mohammad_hafiz_hairuddin@moe.edu.sg)    |
