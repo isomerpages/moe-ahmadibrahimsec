@@ -14,11 +14,10 @@ image: ""
 * [Sec 4](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%204%20-%20class%20special%20timetable_wk9.pdf)
 * [Sec 5](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%205%20-%20class%20special%20timetable_wk9.pdf)
 
-<h3><strong>Timetable for 22nd to 25th May</strong></h3>
+<h3><strong>Timetable for 22nd to 25th May</strong></h3>Updated on 17 May
 
-* [Sec 1](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%201%20-%20class%20special%20timetable_wk10.pdf)
-* [Sec 2](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%202%20-%20class%20special%20timetable_wk10.pdf)
-* [Sec 3](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%203%20-%20class%20special%20timetable_wk10.pdf)
-* [Sec 4](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%204%20-%20class%20special%20timetable_wk10.pdf)
-* [Sec 5](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%205%20-%20class%20special%20timetable_wk10.pdf)
-
+* [Sec 1](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%201%20-%20class%20special%20timetable_wk10-new.pdf)
+* [Sec 2](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%202%20-%20class%20special%20timetable_wk10-new.pdf)
+* [Sec 3](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%203%20-%20class%20special%20timetable_wk10-new.pdf)
+* [Sec 4](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%204%20-%20class%20special%20timetable_wk10-new.pdf)
+* [Sec 5](/files/Timetable/AI%20Learning%20Fiesta/2023/sec%205%20-%20class%20special%20timetable_wk10-new.pdf)
