@@ -15,4 +15,4 @@ description: ""
 <h3><strong>Mission</strong></h3>
 <p>To grow students with strength of character, nurturing inquiring and disciplined minds inspire courage to lead and serve.</p>
 <h3><strong>Values</strong></h3>
-<p>AI RISES with Care, Courage and Gratitude.<br><strong>R Resilience<br>I Integrity<br>S Steadfastness<br>E Excellence<br>S Excellence</strong></p>
+<p>AI RISES with Care, Courage and Gratitude.<br><strong>R Resilience<br>I Integrity<br>S Steadfastness<br>E Excellence<br>S Service</strong></p>
