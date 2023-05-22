@@ -1,6 +1,6 @@
 ---
 title: Sec 3 Subject Combinations Selection for 2024
-date: 2023-05-15
+date: 2023-05-22
 layout: link
 description: ""
 image: ""
