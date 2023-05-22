@@ -8,4 +8,5 @@ image: ""
 ---
 <h3><strong>Timetable for 16th to 20th June</strong></h3>
 
-* Click here to view
+* [June Study Programme Timetable](/files/Timetable/June%20Study%20Programme/2023/4e5n%20jun%20study%20programme%20timetable%202023.pdf)
+
