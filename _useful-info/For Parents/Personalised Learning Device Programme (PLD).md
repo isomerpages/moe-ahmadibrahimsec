@@ -73,9 +73,9 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 
 **Option Quick Guide &amp; Information**  
 
-*   [Default Option](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/School%20Matters/PLD/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf)
-*   [Option A](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/School%20Matters/PLD/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf)
-*   [Option B](https://ahmadibrahimsec-moe-edu-sg-admin.cwp.sg/qql/slot/u529/2022/School%20Matters/PLD/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
+* [Default Option](/files/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf)<br>
+* [Option A](/files/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf)
+* [Option B](/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
 
 # **Service Centre Information**<br>
 ![](/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg)
