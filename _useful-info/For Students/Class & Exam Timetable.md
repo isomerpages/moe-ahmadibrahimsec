@@ -1,15 +1,15 @@
 ---
-title: Class &amp; Exam Timetable
+title: Class & Exam Timetable
 permalink: /useful-info/for-students/class-exam-timetable/
 description: ""
 third_nav_title: For Students
 ---
 <h4><strong>Class Timetable</strong></h4>
 
-_\*Timetable updated on 27 Jan 2023_  
+_\*Timetable updated on 23 June 2023_  
 
 *   **Sec 1**  
-    \-&nbsp;[Even Week](/files/2023%20Sec%201%20Even%20Week.pdf)  
+    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%201%20even%20week.pdf)  
     \-&nbsp;[Odd Week](/files/2023%20Sec%201%20Odd%20Week.pdf)
 *   **Sec 2**  
     \-&nbsp;[Even Week](/files/2023%20Sec%202%20Even%20Week.pdf)  
