@@ -18,11 +18,11 @@ _\*Timetable updated on 23 June 2023_
     \-&nbsp;[Even Week](/files/2023%20sem%202_sec%203%20even%20week.pdf)  
     \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%203%20odd%20week.pdf)
 *   **Sec 4**  
-    \-&nbsp;[Even Week](/files/2023%20Sec%204%20Even%20Week.pdf)  
-    \-&nbsp;[Odd Week](/files/2023%20Sec%204%20Odd%20Week.pdf)
+    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%204%20even%20week.pdf)  
+    \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%204%20odd%20week.pdf)
 *   **Sec 5**  
-    \-&nbsp;[Even Week](/files/2023%20Sec%205%20Even%20Week.pdf)  
-    \-&nbsp;[Odd Week](/files/2023%20Sec%205%20Odd%20Week.pdf)
+    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%205%20even%20week.pdf)  
+    \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%205%20odd%20week.pdf)
 		
 <h4><strong>Exam Timetable</strong></h4>
 
