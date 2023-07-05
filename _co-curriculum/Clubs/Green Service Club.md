@@ -83,5 +83,5 @@ third_nav_title: Clubs
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Ms Tow Swee Ai Emily (OIC)<br>Contact:&nbsp;<a href="mailto:tow_swee_ai_emily@moe.edu.sg" target="">tow_swee_ai_emily@moe.edu.sg </a></strong><br>Mdm Khoo Tee Mian
+<p><strong>Ms Tow Swee Ai Emily (OIC)<br>Contact:&nbsp;<a href="mailto:tow_swee_ai_emily@moe.edu.sg" target="">tow_swee_ai_emily@moe.edu.sg </a></strong><br>Mdm Khoo Tee Mian<br>Mr Ng Qi Qin, Gary (Wu Qiqin)
 </p></div></li></ul>

@@ -60,7 +60,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>2E2</strong></td>
 <td>Ms Wang Xuejuan<br><a href="mailto: wang_xuejuan@moe.edu.sg">wang_xuejuan@moe.edu.sg</a></td>
-<td></td>
+<td>Ms Ng U-Ning Ruth<br><a href="mailto: ng_uning_ruth@moe.edu.sg">ng_uning_ruth@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>2E3</strong></td>
@@ -100,7 +100,7 @@ third_nav_title: Our People
 	<tr>
 		<td><strong>3 Integrity</strong></td>
 <td>Mdm Ang Ping Ying<br><a href="mailto: ang_ping_ying@moe.edu.sg">ang_ping_ying@moe.edu.sg</a></td>
-<td></td>
+<td>Mr Mohamed Fauzi Husin<br><a href="mailto: mohamed_fauzi_husin@moe.edu.sg">mohamed_fauzi_husin@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Steadfastness</strong></td>
@@ -109,8 +109,8 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>3 Excellence</strong></td>
-<td>Mdm	Ren Jing<br><a href="mailto: ren_jin@moe.edu.sg">ren_jin@moe.edu.sg</a></td>
-<td>Mr Teo Chee Siong<br><a href="mailto: ren_jin@moe.edu.sg">ren_jin@moe.edu.sg</a></td>
+<td>Mr Tan Yee Herng Zest<br><a href="mailto: tan_yee_herng_zest@moe.edu.sg">tan_yee_herng_zest@moe.edu.sg</a></td>
+<td>Mr Teo Chee Siong<br><a href="mailto: teo_chee_siong@moe.edu.sg">teo_chee_siong@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Service</strong></td>
@@ -170,6 +170,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>4T2</strong></td>
 <td>Mdm Santhi d/o Mutrawipillai Sanmugum<br><a href="mailto: santhi_mutrawipillai_sanmu@moe.edu.sg">santhi_mutrawipillai_sanmu@moe.edu.sg</a></td>
+			<td>Ms Yamuna Rani d/o Rajagopal<br><a href="mailto: yamuna_rani_rajagopal@moe.edu.sg">yamuna_rani_rajagopal@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>5N1</strong></td>

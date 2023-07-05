@@ -302,10 +302,6 @@ description: ""
 <td>Mr Tee Hong Heng</td>
 <td>HOD / ICT</td>
 </tr>
-<tr>
-<td>Mr Lim Yeow Teck, Roy</td>
-<td>Assistant Year Head / Upper Sec (Internal)</td>
-</tr>
 </tbody>
 </table>
 <p><strong>CPA Teachers</strong></p>
@@ -315,9 +311,7 @@ description: ""
 <th>Name</th>
 </tr>
 <tr>
-<td>Mr Lim Yeow Teck, Roy</td>
-</tr>
-<tr>
+</tr><tr>
 <td>Mr Luo Zhengyang</td>
 </tr>
 <tr>
@@ -342,10 +336,6 @@ description: ""
 <tr>
 <td>Ms Elisha Ruth Cabaltera Zamudio</td>
 <td>ICT Associate</td>
-</tr>
-<tr>
-<td>Mr Muhammad Nur Safwan Bin Bahrom</td>
-<td>Desktop Engineer</td>
 </tr>
 <tr>
 <td>Mr Ganesh Moorthy Vadiveloo</td>

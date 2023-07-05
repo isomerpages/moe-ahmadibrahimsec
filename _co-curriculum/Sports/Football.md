@@ -71,7 +71,7 @@ third_nav_title: Sports
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mr Ryan Fong Tjen Shan(OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:ryan_fong_tjen_shan@moe.edu.sg" target="">ryan_fong_tjen_shan@moe.edu.sg</a></strong></p>
-<p>Ms Hanna Diyana Binte Azahar<br>Mr Ng Qi Qin, Gary (Wu Qiqin)</p>
+<p>Ms Hanna Diyana Binte Azahar<br>Mr B. Vinayagam<br>Mr Daniel Chan Chong Weng</p>
 </div>
 </li>
 </ul>
