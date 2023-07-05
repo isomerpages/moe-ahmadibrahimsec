@@ -60,7 +60,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>2E2</strong></td>
 <td>Ms Wang Xuejuan<br><a href="mailto: wang_xuejuan@moe.edu.sg">wang_xuejuan@moe.edu.sg</a></td>
-<td></td>
+<td>Ms Ng U-Ning Ruth<br><a href="mailto: wang_xuejuan@moe.edu.sg">Ng_Uning_Ruth@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>2E3</strong></td>
