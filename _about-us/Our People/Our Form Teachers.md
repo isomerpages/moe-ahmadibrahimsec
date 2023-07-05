@@ -109,8 +109,8 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>3 Excellence</strong></td>
-<td>Mdm	Ren Jing<br><a href="mailto: ren_jin@moe.edu.sg">ren_jin@moe.edu.sg</a></td>
-<td>Mr Teo Chee Siong<br><a href="mailto: ren_jin@moe.edu.sg">ren_jin@moe.edu.sg</a></td>
+<td>Mr Tan Yee Herng<br><a href="mailto: Tan_Yee_Herng_Zest@moe.edu.sg">Tan_Yee_Herng_Zest@moe.edu.sg</a></td>
+<td>Mr Teo Chee Siong<br><a href="mailto: teo_chee_siong@moe.edu.sg">teo_chee_siong@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Service</strong></td>
