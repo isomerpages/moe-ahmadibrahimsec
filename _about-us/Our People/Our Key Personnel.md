@@ -105,10 +105,6 @@ third_nav_title: Our People
     <td class="tg-cly1">Assistant Year Head</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Mr Lim Yeow Teck Roy</td>
-    <td class="tg-cly1">Assistant Year Head / Upper Sec (Internal)</td>
-  </tr>
-  <tr>
     <td class="tg-cly1">Ms Woon Sher Lin Sheralyn</td>
     <td class="tg-cly1">Subject Head / Art</td>
   </tr>
