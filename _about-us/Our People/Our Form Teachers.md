@@ -100,7 +100,7 @@ third_nav_title: Our People
 	<tr>
 		<td><strong>3 Integrity</strong></td>
 <td>Mdm Ang Ping Ying<br><a href="mailto: ang_ping_ying@moe.edu.sg">ang_ping_ying@moe.edu.sg</a></td>
-<td>Mr Mohamed Fauzi Husin<br><a href="mailto: Mohamed_Fauzi_Husin@moe.edu.sg">Mohamed_Fauzi_Husin@moe.edu.sg</a></td>
+<td>Mr Mohamed Fauzi Husin<br><a href="mailto: mohamed_fauzi_husin@moe.edu.sg">mohamed_fauzi_husin@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Steadfastness</strong></td>
@@ -109,7 +109,7 @@ third_nav_title: Our People
 </tr>
 	<tr>
 		<td><strong>3 Excellence</strong></td>
-<td>Mr Tan Yee Herng<br><a href="mailto: Tan_Yee_Herng_Zest@moe.edu.sg">Tan_Yee_Herng_Zest@moe.edu.sg</a></td>
+<td>Mr Tan Yee Herng Zest<br><a href="mailto: tan_yee_herng_zest@moe.edu.sg">tan_yee_herng_zest@moe.edu.sg</a></td>
 <td>Mr Teo Chee Siong<br><a href="mailto: teo_chee_siong@moe.edu.sg">teo_chee_siong@moe.edu.sg</a></td>
 </tr>
 	<tr>
