@@ -60,7 +60,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>2E2</strong></td>
 <td>Ms Wang Xuejuan<br><a href="mailto: wang_xuejuan@moe.edu.sg">wang_xuejuan@moe.edu.sg</a></td>
-<td>Ms Ng U-Ning Ruth<br><a href="mailto: wang_xuejuan@moe.edu.sg">Ng_Uning_Ruth@moe.edu.sg</a></td>
+<td>Ms Ng U-Ning Ruth<br><a href="mailto: Ng_Uning_Ruth@moe.edu.sg">Ng_Uning_Ruth@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>2E3</strong></td>
@@ -100,7 +100,7 @@ third_nav_title: Our People
 	<tr>
 		<td><strong>3 Integrity</strong></td>
 <td>Mdm Ang Ping Ying<br><a href="mailto: ang_ping_ying@moe.edu.sg">ang_ping_ying@moe.edu.sg</a></td>
-<td></td>
+<td>Mr Mohamed Fauzi Husin<br><a href="mailto: Mohamed_Fauzi_Husin@moe.edu.sg">Mohamed_Fauzi_Husin@moe.edu.sg</a></td>
 </tr>
 	<tr>
 		<td><strong>3 Steadfastness</strong></td>
