@@ -170,7 +170,7 @@ third_nav_title: Our People
 		<tr>
 			<td><strong>4T2</strong></td>
 <td>Mdm Santhi d/o Mutrawipillai Sanmugum<br><a href="mailto: santhi_mutrawipillai_sanmu@moe.edu.sg">santhi_mutrawipillai_sanmu@moe.edu.sg</a></td>
-			<td>Mdm Yamuna Rani d/o Rajagopal<br><a href="mailto: yamuna_rani_rajagopal@moe.edu.sg">yamuna_rani_rajagopal@moe.edu.sg</a></td>
+			<td>Ms Yamuna Rani d/o Rajagopal<br><a href="mailto: yamuna_rani_rajagopal@moe.edu.sg">yamuna_rani_rajagopal@moe.edu.sg</a></td>
 </tr>
 		<tr>
 			<td><strong>5N1</strong></td>
