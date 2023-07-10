@@ -6,30 +6,28 @@ third_nav_title: For Students
 ---
 <h4><strong>Class Timetable</strong></h4>
 
-_\*Timetable updated on 23 June 2023_  
+_\*Timetable updated on 10 July 2023_  
 
 *   **Sec 1**  
-    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%201%20even%20week.pdf)  
-    \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%201%20odd%20week.pdf)
+    \-&nbsp;[Odd Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20odd%20wk_sec%201.pdf)<br>
+    \-&nbsp;[Even Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20even%20wk_sec%201.pdf)
 *   **Sec 2**  
-    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%202%20even%20week.pdf)  
-    \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%202%20odd%20week.pdf)
+    \-&nbsp;[Odd Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20odd%20wk_sec%202.pdf)  
+    \-&nbsp;[Even Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20even%20wk_sec%202.pdf)
 *   **Sec 3**  
-    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%203%20even%20week.pdf)  
-    \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%203%20odd%20week.pdf)
-*   **Sec 4**  
-    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%204%20even%20week.pdf)  
-    \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%204%20odd%20week.pdf)
-*   **Sec 5**  
-    \-&nbsp;[Even Week](/files/2023%20sem%202_sec%205%20even%20week.pdf)  
-    \-&nbsp;[Odd Week](/files/2023%20sem%202_sec%205%20odd%20week.pdf)
+    \-&nbsp;[Odd Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20odd%20wk_sec%203.pdf)  
+    \-&nbsp;[Even Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20even%20wk_sec%203.pdf)
+*   **Sec 4 &amp; 5**  
+    \-&nbsp;[Odd Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20odd%20wk_sec%204&amp;5.pdf)  
+    \-&nbsp;[Even Week](/files/Timetable/2023/Semester%202/2023%20class%20sem%202%20even%20wk_sec%204&amp;5.pdf)
+
 		
 <h4><strong>Exam Timetable</strong></h4>
 
-_\*Will be updated soon_  
-
 *   **Sec 1**  
 *   **Sec 2**  
 *   **Sec 3**  
-*   **Sec 4**  
-*   **Sec 5**
+*   **Sec 4 &amp; 5**  
+   \-&nbsp;[4 Express &amp; 5 Normal Academic](/files/Documents/Exam/Prelim/2023%20prelims%20timetable%20(4e5n).pdf)  
+    \-&nbsp;[4 Normal Academic](/files/Documents/Exam/Prelim/2023%20prelims%20timetable%20(4na).pdf)  
+		\-&nbsp;[4 Normal Technical](/files/Documents/Exam/Prelim/2023%20prelims%20timetable%20(4nt).pdf)
