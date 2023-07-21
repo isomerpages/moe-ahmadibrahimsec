@@ -70,15 +70,20 @@ third_nav_title: Clubs
 </li>
 <li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>Chairperson<br></strong>Mohamed Manaseer Masroora, 3E3</p>
-<p><strong>Vice-Chairperson<br></strong>Hannah Athirah Binte Mohamed Hazen, 3E1</p>
-<p><strong>Vice-Chairperson<br></strong>Muhammad Nazif Bin Mohamad Lani, 3E1</p>
-<p><strong>Secretary<br></strong>Jiang Yingrui, 3E1</p>
-<p><strong>Head Welfare<br></strong>Ma Chui Yee, 3E2</p>
-<p><strong>Head Logistics<br></strong>Karel Mak Wei Ting, 3E4</p>
-<p><strong>Urban Committee Head<br></strong>R Aravinthan, 3E3</p>
-<p><strong>Nature Committee Head<br></strong>Rachel Chew Rui Qi, 3E4</p>
-<p><strong>Outreach Committee Head<br></strong>Naina Mohamed Noorul Marliya, 3N1</p>
+	<h5>GSC EXCO</h5>
+<p><strong>Chairperson<br></strong>Thanakrit Yeo, 3 Courage</p>
+<p><strong>Vice-Chairperson<br></strong>Eden Tang Yi Xuan, 3 Integrity</p>
+<p><strong>Vice-Chairperson<br></strong>Eva Leong Yu Hua, 3 Steadfastness</p>
+<p><strong>Secretary<br></strong>Teo Zhe Ann, 3 Resilience</p>
+<p><strong>Head Discipline/Welfare<br></strong>Ee Zheng Jie, 3 Resilience</p>
+<p><strong>Head Logistics<br></strong>Muhammad Illyas Bin
+Muhammad Faizal, 3 Excellence</p>
+	<h5>Wildlife - Outreach Committee</h5>
+<p><strong>Head<br></strong>Eden Tang Yi Xuan, 3 Integrity<br><strong>Discipline/Welfare<br></strong>Cho Yuan, 2E1<br><strong>Logistics<br></strong>Jovia Khoo Lin Ying, 2N2<br></p>
+	<h5>Composting-Recycling Committee</h5>
+<p><strong>Head<br></strong>Eva Leong Yu Hua, 3 Steadfastness<br><strong>Discipline/Welfare<br></strong>Chow Wei Xuan, 2N1<br><strong>Logistics<br></strong>Felix Cheam Kai Hao, 2E3<br></p>
+	<h5>Gardening- Upcycling Committee</h5>
+<p><strong>Head<br></strong>Ee Zheng Jie, 3 Resilience<br><strong>Discipline/Welfare<br></strong>Phoebe Zhao Zhirou, 2E4<br><strong>Logistics<br></strong>Khloe Tan Le En, 2E2<br></p><br>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
