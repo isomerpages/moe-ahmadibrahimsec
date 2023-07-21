@@ -83,7 +83,7 @@ Muhammad Faizal, 3 Excellence</p>
 	<h5>Composting-Recycling Committee</h5>
 <p><strong>Head<br></strong>Eva Leong Yu Hua, 3 Steadfastness<br><strong>Discipline/Welfare<br></strong>Chow Wei Xuan, 2N1<br><strong>Logistics<br></strong>Felix Cheam Kai Hao, 2E3<br></p>
 	<h5>Gardening- Upcycling Committee</h5>
-<p><strong>Head<br></strong>Ee Zheng Jie, 3 Resilience<br><strong>Discipline/Welfare<br></strong>Chow Wei Xuan, 2N1<br><strong>Logistics<br></strong>Felix Cheam Kai Hao, 2E3<br></p><br>
+<p><strong>Head<br></strong>Ee Zheng Jie, 3 Resilience<br><strong>Discipline/Welfare<br></strong>Phoebe Zhao Zhirou, 2E4<br><strong>Logistics<br></strong>Khloe Tan Le En, 2E2<br></p><br>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
