@@ -81,7 +81,7 @@ Muhammad Faizal, 3 Excellence</p>
 	<h5>Wildlife - Outreach Committee</h5>
 <p><strong>Head<br></strong>Eden Tang Yi Xuan, 3 Integrity<br><strong>Discipline/Welfare<br></strong>Cho Yuan, 2E1<br><strong>Logistics<br></strong>Jovia Khoo Lin Ying, 2N2<br></p>
 	<h5>Composting-Recycling Committee</h5>
-<p><strong>Nature Committee Head<br></strong>Rachel Chew Rui Qi, 3E4</p>
+<p><strong>Head<br></strong>Eva Leong Yu Hua, 3 Steadfastness<br><strong>Discipline/Welfare<br></strong>Chow Wei Xuan, 2N1<br><strong>Logistics<br></strong>Felix Cheam Kai Hao, 2E3<br></p>
 	<h5>Gardening- Upcycling Committee</h5>
 <p><strong>Outreach Committee Head<br></strong>Naina Mohamed Noorul Marliya, 3N1</p><br>
 </div>
