@@ -79,9 +79,11 @@ third_nav_title: Clubs
 <p><strong>Head Logistics<br></strong>Muhammad Illyas Bin
 Muhammad Faizal, 3 Excellence</p>
 	<h5>Wildlife - Outreach Committee</h5>
-<p><strong>Urban Committee Head<br></strong>R Aravinthan, 3E3</p>
+<p><strong>Head<br></strong>Eden Tang Yi Xuan, 3 Integrity<br><strong>Discipline/Welfare<br></strong>Cho Yuan, 2E1<br><strong>Logistics<br></strong>Jovia Khoo Lin Ying, 2N2<br></p>
+	<h5>Composting-Recycling Committee</h5>
 <p><strong>Nature Committee Head<br></strong>Rachel Chew Rui Qi, 3E4</p>
-<p><strong>Outreach Committee Head<br></strong>Naina Mohamed Noorul Marliya, 3N1</p>
+	<h5>Gardening- Upcycling Committee</h5>
+<p><strong>Outreach Committee Head<br></strong>Naina Mohamed Noorul Marliya, 3N1</p><br>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
