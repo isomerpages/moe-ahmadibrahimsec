@@ -60,7 +60,7 @@ third_nav_title: Clubs
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvdxVsbrShxxeLoiowmOz8b8yXf_c7tCN1CnvTmxslUSN_2iQjn9dP9t7owoT_FBeMnH_h5BjJ-4TV/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKgoX2TMJv4jvgXieyhy9HuCzMpyh4h6WeYWL-0FMxQzBVztw2WcvhyEuKHg66LtxP2sSs3OPx9w6V/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
