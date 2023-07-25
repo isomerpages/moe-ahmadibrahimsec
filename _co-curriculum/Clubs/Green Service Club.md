@@ -15,12 +15,12 @@ third_nav_title: Clubs
 	</blockquote>
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Mission</label>
+<li><input type="checkbox" id="accordion1"> <label for="accordion1">Mission</label>
 <div>
 <p>To take&nbsp;<strong>Action</strong>&nbsp;for a common cause;<br>To show&nbsp;<strong>Concern</strong>&nbsp;for the common good;<br>To create&nbsp;<strong>Experience</strong>&nbsp;for the common population.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Activities</label>
+<li><input type="checkbox" id="accordion2"> <label for="accordion2">Activities</label>
 <div>
 <p>The Green Service Club [@ai_gsc] is a student-centred CCA, committed in serving the environment and the community through our Urban, Nature and Outreach committees.</p>
 <p>Some of our activities include:</p>
@@ -33,7 +33,7 @@ third_nav_title: Clubs
 
 </div>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
+<li><input type="checkbox" id="accordion3"> <label for="accordion3">Achievements</label>
 <div>
 <p><u><strong>2019</strong><br></u>Documentary Making Competition: 2nd Placing</p>
 <ul>
@@ -53,22 +53,22 @@ third_nav_title: Clubs
 <p><strong><u>2017<br></u></strong>School Green Award (Lotus Award)</p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Participation</label>
+<li><input type="checkbox" id="accordion4"> <label for="accordion4">Participation</label>
 <div>
 <p>NEA Environment Champion Programme<br>NUS-NParks Marine Debris Monitoring Programme<br>NIE-NParks Marine Ecotoxicology Monitoring Programme<br>WWF Eco-Schools Programme<br>WWF Leadership Programme<br>Nature Society (Singapore) Every Singaporean A Naturalist (NSS-ESN) Programme</p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
+<li><input type="checkbox" id="accordion5"> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvdxVsbrShxxeLoiowmOz8b8yXf_c7tCN1CnvTmxslUSN_2iQjn9dP9t7owoT_FBeMnH_h5BjJ-4TV/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKgoX2TMJv4jvgXieyhy9HuCzMpyh4h6WeYWL-0FMxQzBVztw2WcvhyEuKHg66LtxP2sSs3OPx9w6V/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
+<li><input type="checkbox" id="accordion6"> <label for="accordion6">Training Schedule</label>
 <div>
 <p><strong>Wednesday</strong><br>3.45 – 5.45 PM<br><br><strong>Friday</strong><br>2.00 – 4.00 PM</p><br><p><strong>Venue</strong><br>SR3/4T2/4N2</p>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
+<li><input type="checkbox" id="accordion7"> <label for="accordion7">Student Leaders</label>
 <div>
 	<h5>GSC EXCO</h5>
 <p><strong>Chairperson<br></strong>Thanakrit Yeo, 3 Courage</p>
@@ -86,7 +86,7 @@ Muhammad Faizal, 3 Excellence</p>
 <p><strong>Head<br></strong>Ee Zheng Jie, 3 Resilience<br><strong>Discipline/Welfare<br></strong>Phoebe Zhao Zhirou, 2E4<br><strong>Logistics<br></strong>Khloe Tan Le En, 2E2<br></p><br>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
+<li><input type="checkbox" id="accordion8"> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Ms Tow Swee Ai Emily (OIC)<br>Contact:&nbsp;<a href="mailto:tow_swee_ai_emily@moe.edu.sg" target="">tow_swee_ai_emily@moe.edu.sg </a></strong><br>Mdm Khoo Tee Mian<br>Mr Ng Qi Qin, Gary (Wu Qiqin)
+<p><strong>Ms Tow Swee Ai Emily (OIC)<br>Contact:&nbsp;<a target="" href="mailto:tow_swee_ai_emily@moe.edu.sg">tow_swee_ai_emily@moe.edu.sg </a></strong><br>Mdm Khoo Tee Mian<br>Mr Ng Qi Qin, Gary (Wu Qiqin)
 </p></div></li></ul>
