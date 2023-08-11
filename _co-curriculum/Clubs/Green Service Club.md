@@ -10,9 +10,10 @@ third_nav_title: Clubs
 <p>Green Service Club began as Leo Club, which was a CCA that develops youth leaders to provide service to the community. The transformation into a new CCA stems from the school’s commitment towards providing Outdoor Learning Experiences (OLE) with heightened awareness about the environment and green efforts. Through this new CCA, Green Service Club, we aim to learn more, do more and also lead others to make contributions to the environment and the community.</p>
 
 <blockquote>
-<p><em>"The past year in the Green Service Club (GSC) has been nothing but incredible. I was really fortunate to be able to form so many friendships with my fellow CCA mates. Being in GSC, I also learnt to plan and conduct events together. In this CCA, I was made more aware of the many harms done to the environment, some of which are easily overlooked, and ways that we can bring awareness to the people around us. GSC provided us with a creative platform which allowed us to do just that and to explore new and innovative ways to bring information to members in GSC and the school."</em></p>
-<p style="text-align: right;"><strong>- Mohamed Manaseer Masroora, 3E3 (2022)</strong></p>
+<p><em>"My experience as a Chairperson in Green Service Club (GSC) has been incredibly enriching and educational for me. When I first became a chairperson in GSC, I was filled with nerves and hesitation every time I had to speak or present in front of the entire group. However, as time went on, I gained confidence and now I can speak comfortably in front of my CCA. Taking up a leadership role has allowed me to not only plan engaging activities for the CCA, but also taught me how to effectively collaborate with other EXCO members in leading the CCA as a whole. Moreover, being a part of GSC has helped me become more aware of the pressing environmental issues surrounding us and has provided me with valuable knowledge about the current state of our environment."</em></p>
+<p style="text-align: right;"><strong>- Thanakrit Yeo, 3Courage (2023)</strong></p>
 	</blockquote>
+	
 
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Mission</label>
