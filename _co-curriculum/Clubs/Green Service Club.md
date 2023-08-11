@@ -11,8 +11,14 @@ third_nav_title: Clubs
 
 <blockquote>
 <p><em>"My experience as a Chairperson in Green Service Club (GSC) has been incredibly enriching and educational for me. When I first became a chairperson in GSC, I was filled with nerves and hesitation every time I had to speak or present in front of the entire group. However, as time went on, I gained confidence and now I can speak comfortably in front of my CCA. Taking up a leadership role has allowed me to not only plan engaging activities for the CCA, but also taught me how to effectively collaborate with other EXCO members in leading the CCA as a whole. Moreover, being a part of GSC has helped me become more aware of the pressing environmental issues surrounding us and has provided me with valuable knowledge about the current state of our environment."</em></p>
-<p style="text-align: right;"><strong>- Thanakrit Yeo, 3Courage (2023)</strong></p>
+<p style="text-align: right;"><strong>- Thanakrit Yeo, 3Courage (2023)</strong></p><br>
 	<div><img style="width:65%;" src="/images/green%20service%20club.JPG"></div>
+	<div align="center"><font size="2">
+		<b>Standing (Left to Right): Vice-Chairpersons</b><br>
+		Eden Tang Yi Xuan(3Integrity) and Eva Leong Yu Hua(3Steadfastness)<br>
+		<b>Seated: Chairperson</b><br>
+		Thanakrit Yeo(3Courage)
+</font></div>
 	</blockquote>
 	
 
