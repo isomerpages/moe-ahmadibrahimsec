@@ -30,7 +30,8 @@ Student Councillors also actively reach out to their peers to hear their concern
 ![Sec 4 Student Councillors from the 21st Student Council](/images/Co%20Curriculum/Student%20Leadership%20Development/student%20councillors%2021st.jpg)
 <center>Sec 4 Student Councillors from the 21st Student Council</center>
 
-<p><strong>Peer Support Leaders<br></strong>Peer Support Leaders play an active role in the support for students’ mental well-being. They are guided by the Peer Support and Relationship Framework, which is shaped by three main areas: Peer Supporting, Peer Bonding and Peer Influencing.</p>
+<p><strong>Peer Support Leaders<br></strong>
+Peer Support Leaders play an active role in the support for students’ mental well-being. They are guided by the Peer Support and Relationship Framework, which is shaped by three main areas: Peer Supporting, Peer Bonding and Peer Influencing.</p>
 
 <p>Peer Support Leaders aims to<br>
 • Provide emotional and physical support. <br>
@@ -40,7 +41,12 @@ Student Councillors also actively reach out to their peers to hear their concern
 
 <p>	Peer Support Leaders are involved in a number of events that cater to the socio-emotional well-being of the school and they undergo training to learn more advanced peer support skills such as befriending and bonding, managing challenging situations and self-management.</p>
 
-<p><strong>Class Leaders<br></strong>Class Chairperson and Vice-Chairperson oversee the smooth running of class processes and develop sense of identity to class and build class spirit through class-initiated and school activities.</p>
+<p><strong>Class Leaders<br></strong>
+Class Chairpersons and Vice-Chairpersons work towards building a positive and conducive learning environment for their classmates. They help develop a sense of identity and belonging amongst their classmates and strengthen class spirit through class-initiated and school activities. Through training programmes, Class Leaders develop leadership skills which enable them to be proactive in building good rapport with their peers and meeting the needs of their classes.</p>
+
+![Class Leaders Training Workshop](/images/Co%20Curriculum/Student%20Leadership%20Development/class%20leaders%20training%20workshop.jpg)
+<center>Class Leaders Training Workshop</center>
+
 <p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. They epitomise the outdoor spirit in striving for excellence and rising to challenges. They also spread the love for the outdoors when they lead their juniors during OLE2.</p>
 <p><strong>CCA Leaders<br></strong>CCA Leaders are selected to lead in different roles within their Co-curricular Activities in the planning and execution of meetings, camps and other activities.</p>
 
