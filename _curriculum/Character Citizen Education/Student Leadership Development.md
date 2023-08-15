@@ -28,6 +28,7 @@ The Student Council aims to build a sense of family and add excitement and vibra
 Student Councillors also actively reach out to their peers to hear their concerns and appropriate actions will be taken to address issues raised, as Student Councillors are constantly seeking to work with the School in improving the AI School experience for the student population. </p>
 
 ![Sec 4 Student Councillors from the 21st Student Council](/images/Co%20Curriculum/Student%20Leadership%20Development/student%20councillors%2021st.jpg)
+<center>Sec 4 Student Councillors from the 21st Student Council</center>
 
 <p><strong>Peer Support Leaders<br></strong>Peer Support Leaders look out for their peers and provide practical help and socio-emotional support for them. They undergo training to learn more advanced peer support skills such as befriending and bonding, managing challenging situations and self-management.</p>
 <p><strong>Class Leaders<br></strong>Class Chairperson and Vice-Chairperson oversee the smooth running of class processes and develop sense of identity to class and build class spirit through class-initiated and school activities.</p>
