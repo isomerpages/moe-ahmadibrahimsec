@@ -29,7 +29,7 @@ Interested applicants must submit the following documents:
 * Photocopy of the Identification Card (front &amp; back).
 * Records of past catering/canteen experiences, if any.
 
-Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a> (Attention: Admin Manager) by <strong>2 Oct 2024, 6.00 pm</strong>. We regret that late applications will not be accepted.
+Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a> (Attention: Admin Manager) by <strong>2 Oct 2023, 6.00 pm</strong>. We regret that late applications will not be accepted.
 
 <u><strong>Interview and Food Tasting</strong></u><br>
 * Only shortlisted applicants will be invited for an interview and are required to provide food sampling.
