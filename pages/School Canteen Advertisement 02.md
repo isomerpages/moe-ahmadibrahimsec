@@ -3,7 +3,7 @@ title: School Canteen Advertisement 02
 permalink: /school-canteen-advertisement-02/
 description: ""
 ---
-Ahmad Ibrahim Secondary School is inviting applicants to operate a food stall at our school. The stall may sell either Indian Food or Thai Food or Yong Tau Foo or Vegetarian Food with effect from August 2023.
+Ahmad Ibrahim Secondary School is inviting applicants to operate a food stall at our school. The stall may sell Indian Food/Thai Food/Yong Tau Foo/Vegetarian Food/Mediterranean Food with effect from Jan 2024.
 
 **Background**:  
 We are a Single Session Secondary School with student enrolment of about 1150 and staff strength of 130. There are currently 5 food stalls and 1 drink/snack stall at our school.
@@ -35,10 +35,10 @@ Interested applicants must submit the following documents:
 4. Photocopy of the Identification Card (front & back).  
 5. Records of past catering/canteen experiences, if any.
 
-Please submit the documents to the school's General Office or email to [aiss@moe.edu.sg](mailto:aiss@moe.edu.sg) (Attention: Admin Manager) by 14 July 2023, 6pm. We regret that late applications will not be accepted.
+Please submit the documents to the school's General Office or email to [aiss@moe.edu.sg](mailto:aiss@moe.edu.sg) (Attention: Admin Manager) by **2 Oct 2023, 6.00 pm**. We regret that late applications will not be accepted.
 
 **Interview and Food Tasting**
 * Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense
-* Successful applicant will be expected to commence operation of the stall on August 2023.
-* Closing date for Application: **14 July 2023, 6pm**.
+* Successful applicant will be expected to commence operation of the stall on Jan 2024.
+* Closing date for Application: **2 Oct 2023, 6.00 pm**.
 * Please contact the school’s Administration Manager, Ms Angeline Ng at 6758 5384 for any clarifications.
