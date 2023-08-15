@@ -16,7 +16,7 @@ We believe that<br>
 <p><strong>Our Approach<br></strong>
 Our approach to student leadership development is undergirded by Kouzes and Posner’s Student Leadership Challenge model which encapsulates our beliefs and principles in developing the leadership competencies in AI students as they make a difference in their spheres of influence and lead in the different domains of service.</p>
 
-
+![](/images/Co%20Curriculum/Student%20Leadership%20Development/5%20practices%20and%2010%20commitments.jpg)
 
 <h4><strong>Student Leaders in AI</strong></h4>
 <p><strong>Student Councillors<br></strong>Student Councillors lead and serve the school and uphold the school’s code of conduct. They receive leadership training through workshops, camps and the planning and implementation of school events. They also serve the community through SC-initiated service learning projects.</p>
