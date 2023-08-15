@@ -38,6 +38,8 @@ Student Councillors also actively reach out to their peers to hear their concern
 • <strong><u>Engage the class</u></strong> through activities.<br>
 • Ensure a <strong><u>conducive and positive classroom culture</u></strong> for all. <br></p>
 
+<p>	Peer Support Leaders are involved in a number of events that cater to the socio-emotional well-being of the school and they undergo training to learn more advanced peer support skills such as befriending and bonding, managing challenging situations and self-management.</p>
+
 <p><strong>Class Leaders<br></strong>Class Chairperson and Vice-Chairperson oversee the smooth running of class processes and develop sense of identity to class and build class spirit through class-initiated and school activities.</p>
 <p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. They epitomise the outdoor spirit in striving for excellence and rising to challenges. They also spread the love for the outdoors when they lead their juniors during OLE2.</p>
 <p><strong>CCA Leaders<br></strong>CCA Leaders are selected to lead in different roles within their Co-curricular Activities in the planning and execution of meetings, camps and other activities.</p>
