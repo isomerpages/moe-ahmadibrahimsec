@@ -18,8 +18,17 @@ Our approach to student leadership development is undergirded by Kouzes and Posn
 
 ![](/images/Co%20Curriculum/Student%20Leadership%20Development/5%20practices%20and%2010%20commitments.jpg)
 
+<p>With a structured approach, we are intentional in developing our student leaders through various leadership opportunities and training. As AI students lead and serve the school and community, they apply what they have learnt, evaluate their leadership effectiveness and reflect on how they can sharpen their leadership competencies.</p>
+
+![](/images/Co%20Curriculum/Student%20Leadership%20Development/student%20leadership%20flow.png)
+
 <h4><strong>Student Leaders in AI</strong></h4>
-<p><strong>Student Councillors<br></strong>Student Councillors lead and serve the school and uphold the school’s code of conduct. They receive leadership training through workshops, camps and the planning and implementation of school events. They also serve the community through SC-initiated service learning projects.</p>
+<p><strong>Student Councillors<br></strong>As the apex of student leadership of the school, Student Councillors lead the way for the student body through role modelling. Undergoing leadership trainings and hands- on project management, the Student Council develops student leaders who lead and serve the school while upholding the school’s code of conduct.<br><br>
+The Student Council aims to build a sense of family and add excitement and vibrancy to the students’ school life. The Student Councillors serve the interest of the students through the organisation and execution of school events and celebrations, including the Secondary One Orientation and Teachers Day Celebrations, where they are stretched to apply what they have learnt.<br><br>
+Student Councillors also actively reach out to their peers to hear their concerns and appropriate actions will be taken to address issues raised, as Student Councillors are constantly seeking to work with the School in improving the AI School experience for the student population. </p>
+
+![Sec 4 Student Councillors from the 21st Student Council](/images/Co%20Curriculum/Student%20Leadership%20Development/student%20councillors%2021st.jpg)
+
 <p><strong>Peer Support Leaders<br></strong>Peer Support Leaders look out for their peers and provide practical help and socio-emotional support for them. They undergo training to learn more advanced peer support skills such as befriending and bonding, managing challenging situations and self-management.</p>
 <p><strong>Class Leaders<br></strong>Class Chairperson and Vice-Chairperson oversee the smooth running of class processes and develop sense of identity to class and build class spirit through class-initiated and school activities.</p>
 <p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. They epitomise the outdoor spirit in striving for excellence and rising to challenges. They also spread the love for the outdoors when they lead their juniors during OLE2.</p>
