@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character Citizen Education
 ---
 <h4><strong>About Us</strong></h4>
-<p><strong>Vision<br></strong>Lead by Character and Service</p>
+<p><strong>Vision<br></strong>At AISS, we aim to nurture our students with the strength of character to care, lead and serve. </p>
 <p><strong>Mission<br></strong>Ahmad Ibrahim Secondary School adopts a tiered student leadership hierarchy that includes different student leaders’ appointments and functions – The Student Council, CCA Leaders, Outdoor Leaders, Peer Support Leaders and Class Leaders.</p>
 <p>The Student Leadership Development (SLD) Committee provides diverse platforms to nurture and develop leadership skills in students and aims to inspire courage in student leaders to lead and serve the school and community.</p>
 <p><strong>20th Student Council Investiture: Handover ceremony from 19th EXCO to 20th EXCO<br></strong></p>
