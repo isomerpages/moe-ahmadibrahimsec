@@ -11,7 +11,7 @@ third_nav_title: Character Citizen Education
 We believe that<br>
 • Every student can and should be developed as a leader.<br>
 • Leadership can be developed over time.<br>
-• Leadership development should be intentional..</p>
+• Leadership development should be intentional.</p>
 
 <p><strong>Our Approach<br></strong>
 Our approach to student leadership development is undergirded by Kouzes and Posner’s Student Leadership Challenge model which encapsulates our beliefs and principles in developing the leadership competencies in AI students as they make a difference in their spheres of influence and lead in the different domains of service.</p>
@@ -30,7 +30,14 @@ Student Councillors also actively reach out to their peers to hear their concern
 ![Sec 4 Student Councillors from the 21st Student Council](/images/Co%20Curriculum/Student%20Leadership%20Development/student%20councillors%2021st.jpg)
 <center>Sec 4 Student Councillors from the 21st Student Council</center>
 
-<p><strong>Peer Support Leaders<br></strong>Peer Support Leaders look out for their peers and provide practical help and socio-emotional support for them. They undergo training to learn more advanced peer support skills such as befriending and bonding, managing challenging situations and self-management.</p>
+<p><strong>Peer Support Leaders<br></strong>Peer Support Leaders play an active role in the support for students’ mental well-being. They are guided by the Peer Support and Relationship Framework, which is shaped by three main areas: Peer Supporting, Peer Bonding and Peer Influencing.</p>
+
+<p>Peer Support Leaders aims to<br>
+• Provide emotional and physical support. <br>
+• <strong><u>Create awareness</u></strong> on mental wellness, exam stress and other societal issues.<br>
+• <strong><u>Engage the class</u></strong> through activities.<br>
+• Ensure a <strong><u>conducive and positive classroom culture</u></strong> for all. <br></p>
+
 <p><strong>Class Leaders<br></strong>Class Chairperson and Vice-Chairperson oversee the smooth running of class processes and develop sense of identity to class and build class spirit through class-initiated and school activities.</p>
 <p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. They epitomise the outdoor spirit in striving for excellence and rising to challenges. They also spread the love for the outdoors when they lead their juniors during OLE2.</p>
 <p><strong>CCA Leaders<br></strong>CCA Leaders are selected to lead in different roles within their Co-curricular Activities in the planning and execution of meetings, camps and other activities.</p>
