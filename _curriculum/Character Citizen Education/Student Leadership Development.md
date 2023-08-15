@@ -8,18 +8,14 @@ third_nav_title: Character Citizen Education
 <p><strong>Vision<br></strong>At AISS, we aim to nurture our students with the strength of character to care, lead and serve. </p>
 <p><strong>Mission<br></strong>Ahmad Ibrahim Secondary School adopts a tiered student leadership hierarchy that includes different student leaders’ appointments and functions – The Student Council, CCA Leaders, Outdoor Leaders, Peer Support Leaders and Class Leaders.</p>
 <p>The Student Leadership Development (SLD) Committee provides diverse platforms to nurture and develop leadership skills in students and aims to inspire courage in student leaders to lead and serve the school and community.</p>
-<p><strong>20th Student Council Investiture: Handover ceremony from 19th EXCO to 20th EXCO<br></strong></p>
-<div><iframe title="YouTube video player" src="https://www.youtube.com/embed/7YXmQckJ4lw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Student Leaders in AI</label>
-<div>
+<h4><strong>Student Leaders in AI</strong></h4>
 <p><strong>Student Councillors<br></strong>Student Councillors lead and serve the school and uphold the school’s code of conduct. They receive leadership training through workshops, camps and the planning and implementation of school events. They also serve the community through SC-initiated service learning projects.</p>
 <p><strong>Peer Support Leaders<br></strong>Peer Support Leaders look out for their peers and provide practical help and socio-emotional support for them. They undergo training to learn more advanced peer support skills such as befriending and bonding, managing challenging situations and self-management.</p>
 <p><strong>Class Leaders<br></strong>Class Chairperson and Vice-Chairperson oversee the smooth running of class processes and develop sense of identity to class and build class spirit through class-initiated and school activities.</p>
 <p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. They epitomise the outdoor spirit in striving for excellence and rising to challenges. They also spread the love for the outdoors when they lead their juniors during OLE2.</p>
 <p><strong>CCA Leaders<br></strong>CCA Leaders are selected to lead in different roles within their Co-curricular Activities in the planning and execution of meetings, camps and other activities.</p>
-</div>
-</li>
+
+
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">20th Student Council Exco</label>
 <div>
 <p><strong>Organisation Chart<br></strong><em>(To be updated)</em></p>
@@ -72,4 +68,4 @@ third_nav_title: Character Citizen Education
 <p><strong>External workshops and leadership convention</strong><br>Beyond their involvement within the school, representatives from the Student Council also take part in external workshops and leadership convention (e.g. Chong Pang Youth Communication and Leadership workshop and Hwa Chong Student Leader Convention). These students learn and interact with student leaders of other schools and improve on their leadership skills, before consolidating their learning and sharing what they learn with their peers in school.</p>
 <img style="width: 65%;" src="/images/Image%2012_Chong%20Pang%20Workshop.jpg">
 </div>
-</li></ul>
+</li>
