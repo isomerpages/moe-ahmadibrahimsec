@@ -44,7 +44,7 @@ Student Councillors also actively reach out to their peers to hear their concern
 <p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. They epitomise the outdoor spirit in striving for excellence and rising to challenges. They also spread the love for the outdoors when they lead their juniors during OLE2.</p>
 <p><strong>CCA Leaders<br></strong>CCA Leaders are selected to lead in different roles within their Co-curricular Activities in the planning and execution of meetings, camps and other activities.</p>
 
-
+<ul class="jekyllcodex_accordion">
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">20th Student Council Exco</label>
 <div>
 <p><strong>Organisation Chart<br></strong><em>(To be updated)</em></p>
@@ -97,4 +97,4 @@ Student Councillors also actively reach out to their peers to hear their concern
 <p><strong>External workshops and leadership convention</strong><br>Beyond their involvement within the school, representatives from the Student Council also take part in external workshops and leadership convention (e.g. Chong Pang Youth Communication and Leadership workshop and Hwa Chong Student Leader Convention). These students learn and interact with student leaders of other schools and improve on their leadership skills, before consolidating their learning and sharing what they learn with their peers in school.</p>
 <img style="width: 65%;" src="/images/Image%2012_Chong%20Pang%20Workshop.jpg">
 </div>
-</li>
+</li></ul>
