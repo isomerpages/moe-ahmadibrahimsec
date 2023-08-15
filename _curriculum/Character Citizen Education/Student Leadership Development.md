@@ -6,8 +6,18 @@ third_nav_title: Character Citizen Education
 ---
 <h4><strong>About Us</strong></h4>
 <p><strong>Vision<br></strong>At AISS, we aim to nurture our students with the strength of character to care, lead and serve. </p>
-<p><strong>Mission<br></strong>Ahmad Ibrahim Secondary School adopts a tiered student leadership hierarchy that includes different student leaders’ appointments and functions – The Student Council, CCA Leaders, Outdoor Leaders, Peer Support Leaders and Class Leaders.</p>
-<p>The Student Leadership Development (SLD) Committee provides diverse platforms to nurture and develop leadership skills in students and aims to inspire courage in student leaders to lead and serve the school and community.</p>
+
+<p><strong>Beliefs<br></strong>
+We believe that<br>
+• Every student can and should be developed as a leader.<br>
+• Leadership can be developed over time.<br>
+• Leadership development should be intentional..</p>
+
+<p><strong>Our Approach<br></strong>
+Our approach to student leadership development is undergirded by Kouzes and Posner’s Student Leadership Challenge model which encapsulates our beliefs and principles in developing the leadership competencies in AI students as they make a difference in their spheres of influence and lead in the different domains of service.</p>
+
+
+
 <h4><strong>Student Leaders in AI</strong></h4>
 <p><strong>Student Councillors<br></strong>Student Councillors lead and serve the school and uphold the school’s code of conduct. They receive leadership training through workshops, camps and the planning and implementation of school events. They also serve the community through SC-initiated service learning projects.</p>
 <p><strong>Peer Support Leaders<br></strong>Peer Support Leaders look out for their peers and provide practical help and socio-emotional support for them. They undergo training to learn more advanced peer support skills such as befriending and bonding, managing challenging situations and self-management.</p>
