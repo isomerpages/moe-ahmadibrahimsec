@@ -55,4 +55,3 @@ Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) progr
 
 ![Outdoor Leaders @ Sports Carnival 2023](/images/Co%20Curriculum/Student%20Leadership%20Development/outdoor%20leaders%20at%20sports%20carnival%202023.jpg)
 <center>Outdoor Leaders @ Sports Carnival 2023</center>
-
