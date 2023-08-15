@@ -47,34 +47,18 @@ Class Chairpersons and Vice-Chairpersons work towards building a positive and co
 ![Class Leaders Training Workshop](/images/Co%20Curriculum/Student%20Leadership%20Development/class%20leaders%20training%20workshop.jpg)
 <center>Class Leaders Training Workshop</center>
 
-<p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. They epitomise the outdoor spirit in striving for excellence and rising to challenges. They also spread the love for the outdoors when they lead their juniors during OLE2.</p>
-<p><strong>CCA Leaders<br></strong>CCA Leaders are selected to lead in different roles within their Co-curricular Activities in the planning and execution of meetings, camps and other activities.</p>
+<p><strong>CCA Leaders<br></strong>
+CCA leaders play a vital role in ensuring that CCA activities are well-organized, engaging, and inclusive for all AI students. CCA Leaders support their peers in CCA and help forge meaningful relationships while learning how to overcome challenges and undertake decision making skills. They work closely with their CCA teachers to plan and execute events, and are also responsible for mentoring and training younger members of their CCA, helping to create a culture of camaraderie and excellence.</p>
+
+<p><strong>Outdoor Leaders<br></strong>
+Outdoor Leaders are the face of AISS’s Outdoor Learning Experience (OLE) programme. It is a leadership programme that encourages students to develop the interest and skills to serve the school community in areas involving sports and the outdoors. Outdoor Leaders are given the opportunity to develop qualities of leadership and responsibility and demonstrate decision-making skills by leading other students in sports and recreational activities. They epitomize the outdoor spirit in striving for excellence and rising to challenges.</p>
+
+![Outdoor Leaders @ Sports Carnival 2023](/images/Co%20Curriculum/Student%20Leadership%20Development/outdoor%20leaders%20at%20sports%20carnival%202023.jpg)
+<center>Outdoor Leaders @ Sports Carnival 2023</center>
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">20th Student Council Exco</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">AI Student Council Pledge</label>
 <div>
-<p><strong>Organisation Chart<br></strong><em>(To be updated)</em></p>
-<p><strong>Student Council Committees<br></strong>1. SC Internal Affairs Committee</p>
-<ul>
-<li>Maintains discipline of SCs</li>
-<li>Promotes bonding between of SCs</li>
-<li>Handles human resource and administrative tasks within SC</li>
-</ul>
-<p>2. SC Initiatives Committee</p>
-<ul>
-<li>Initiates and implements projects to improve students’ school experience</li>
-<li>Innovates in the implementation of school events</li>
-</ul>
-<p>3. School Spirit Committee</p>
-<ul>
-<li>Promotes AI identity in students</li>
-<li>Organises activities to strengthen school spirit</li>
-</ul>
-<p>4. Student Voice Committee</p>
-<ul>
-<li>Acts as a channel between students and school management</li>
-<li>Addresses students’ feedback and concerns</li>
-</ul>
 <p><strong>AI Student Council Pledge</strong></p>
 <p style="text-align: center;">We, The Student Councillors of AI, pledge that:</p>
 <p style="text-align: center;">We will, model the way, in upholding the school Code of Conduct,</p>
