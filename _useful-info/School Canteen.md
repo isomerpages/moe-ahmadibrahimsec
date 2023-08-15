@@ -19,8 +19,8 @@ There are currently 5 food stalls and 1 drink/snack stall at our school.
 <td>Please Click <a href="https://ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement-01/">Here</a></td>
 </tr>
 <tr>
-	<td>Indian Food / Thai Food / Yong Tau Foo / Vegetarian Food Stall</td>
-<td>14 July 2023, 6.00 pm<br></td>
+	<td>Indian Food / Thai Food / Yong Tau Foo / Vegetarian Food / Mediterranean Food Stall</td>
+<td>2 October 2023, 6.00 pm<br></td>
 <td>Please Click <a href="https://ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement-02/">Here</a></td>
 </tr>
 	</tbody></table>
