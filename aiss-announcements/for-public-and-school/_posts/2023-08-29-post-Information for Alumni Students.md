@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![Information for ex-students](/images/2023%20teachers%20day5.png)
