@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement-03/
 description: ""
 ---
 Ahmad Ibrahim Secondary School is inviting applicants to operate a Western food stall at our school
-with effect from Jan 2024.
+with effect from **Jan 2024**.
 
 <u>**Background:**</u><br>
 We are a Single Session Secondary School with student enrolment of about 1150 and staff strength
@@ -46,12 +46,12 @@ applicant and stall assistant/s.
 5. Records of past catering/canteen experiences, if any.
 
 Please submit the documents to the school's General Office or email to aiss@moe.edu.sg (Attention:
-Admin Manager) by 2 Oct 2023, 6pm. We regret that late applications will not be accepted.
+Admin Manager) by **2 Oct 2023, 6pm**. We regret that late applications will not be accepted.
 
 <u>**Interview and Food Tasting**</u><br>
 * Shortlisted applicants will be notified for an interview and will be required to provide food
 sampling for the School Canteen Selection Committee at the applicant's own expense.
-* Successful applicant will be expected to commence operation of the stall from Jan 2024.
-* Closing date for Application:&nbsp;2 Oct 2023, 6pm.
+* Successful applicant will be expected to commence operation of the stall from **Jan 2024**.
+* Closing date for Application:&nbsp;**2 Oct 2023, 6pm**.
 * Please contact the school’s Administration Manager, Ms Angeline Ng at 6758 5384 for any
 clarifications.
