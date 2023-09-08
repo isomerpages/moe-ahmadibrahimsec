@@ -6,7 +6,7 @@ description: ""
 Ahmad Ibrahim Secondary School is inviting applicants to operate a Western food stall at our school
 with effect from **Jan 2024**.
 
-<u>**Background:**</u><br>
+<u><b>Background:</b></u><br>
 We are a Single Session Secondary School with student enrolment of about 1150 and staff strength
 of 130. There are currently 5 food stalls and 1 drink/snack stall at our school.
 
