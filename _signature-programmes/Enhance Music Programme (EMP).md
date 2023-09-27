@@ -88,7 +88,7 @@ We conduct auditions and interviews throughout the year as part of our talent id
 
 Since our inception in 2016, we have had many Music students who have done exceptionally well and were successfully admitted into Music programmes in JCs and IHLs.
 
-**Adelyn Koh Xin Hui**. Class of 2018. Talented young musician who has been featured in the President’s Star Charity.
+**Adelyn Koh Xin Hui**. Class of 2017. Talented young musician who has been featured in the President’s Star Charity.
 
 **Nurul Natasya**. Class of 2018. Recipient of The Purple Symphony Training Award.
 
