@@ -17,7 +17,4 @@ There are currently 5 food stalls and 1 drink/snack stall at our school.
 	<td></td>
 <td><br></td>
 <td></td>
-</tr>
-
-
-	</tbody></table>
+</tr></tbody></table>
