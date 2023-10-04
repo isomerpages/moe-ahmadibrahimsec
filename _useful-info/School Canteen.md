@@ -5,7 +5,7 @@ description: ""
 ---
 <h3>School Stalls</h3>
 
-There are currently 5 food stalls and 1 drink/snack stall at our school.<br>
+There are currently 5 food stalls and 1 drink/snack stall at our school.
 <table style="width:100%">
 <tbody>
 <tr>
