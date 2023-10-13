@@ -4,6 +4,20 @@ permalink: /useful-info/for-students/class-exam-timetable/
 description: ""
 third_nav_title: For Students
 ---
+<h4><strong>Timetable for Semester 2 Learning Fiesta</strong></h4>
+
+_\*Timetable updated on 13 Oct 2023_  
+
+*   **Sec 1**  
+  
+*   **Sec 2**  
+
+*   **Sec 3**  
+  
+*   **Sec 4 &amp; 5**  
+   
+
+
 <h4><strong>Class Timetable</strong></h4>
 
 _\*Timetable updated on 10 July 2023_  
