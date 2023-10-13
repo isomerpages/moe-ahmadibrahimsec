@@ -10,13 +10,13 @@ _\*Timetable updated on 13 Oct 2023_
 
 *   **Sec 1**  
    \-&nbsp;[Week 6 (16th to 20th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%201%20-%20wk6_classes%20tt_11oct.pdf)  
-   \-&nbsp;
+   \-&nbsp;[Week 7 (23rd to 26th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%201%20-%20t4w7_class%20timetables_12%20oct.pdf)
 *   **Sec 2**  
    \-&nbsp;[Week 6 (16th to 20th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%202%20-%20wk6_classes%20tt_11oct.pdf)  
-   \-&nbsp;
+   \-&nbsp;[Week 7 (23rd to 26th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%202%20-%20t4w7_class%20timetables_12%20oct.pdf)
 *   **Sec 3**  
    \-&nbsp;[Week 6 (16th to 20th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%203%20-%20wk6_classes%20tt_11oct.pdf)  
-   \-&nbsp;
+   \-&nbsp;[Week 7 (23rd to 26th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%203%20-%20t4w7_class%20timetables_12%20oct.pdf)
    
 
 
