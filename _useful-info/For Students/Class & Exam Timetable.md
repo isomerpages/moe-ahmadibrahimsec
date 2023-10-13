@@ -9,12 +9,14 @@ third_nav_title: For Students
 _\*Timetable updated on 13 Oct 2023_  
 
 *   **Sec 1**  
-  
+   \-&nbsp;[Week 6 (16th to 20th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%201%20-%20wk6_classes%20tt_11oct.pdf)  
+   \-&nbsp;
 *   **Sec 2**  
-
+   \-&nbsp;[Week 6 (16th to 20th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%202%20-%20wk6_classes%20tt_11oct.pdf)  
+   \-&nbsp;
 *   **Sec 3**  
-  
-*   **Sec 4 &amp; 5**  
+   \-&nbsp;[Week 6 (16th to 20th Oct)](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%203%20-%20wk6_classes%20tt_11oct.pdf)  
+   \-&nbsp;
    
 
 
