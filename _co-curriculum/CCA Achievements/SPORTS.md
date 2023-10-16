@@ -62,10 +62,10 @@ third_nav_title: CCA Achievements
 </ul>
 4 x 100m B Girls<p></p>
 <ul>
-<li>ALYSSA BINTI YAZID</li>
-<li>ILLYA SUFIYA BINTE RAMZDAN</li>
-<li>HERLYNN ISZURA BINTE IMRAN</li>
-<li>BELLELYN ONG</li>
+<li>Alyssa Binte Yazid</li>
+<li>Illya Sufiya Binte Ramzdan</li>
+<li>Herlynn Iszura Binte Imran</li>
+<li>Bellelyn Ong</li>
 </ul>
 <p><strong>Qualify for 100m semi finals and finals (C Div Boy)<br></strong>CHOO YEE WEI (ZHU YIWEI)<br>
 </p><p><strong>Qualify for 200m semi finals and finals (C Div Girl): 2nd<br></strong>EVA CHIA YI HUI (XIE YIHUI)<br>
