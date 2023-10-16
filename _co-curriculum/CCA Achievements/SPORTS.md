@@ -110,10 +110,10 @@ third_nav_title: CCA Achievements
 <li>N.A</li>
 </ul>
 <strong>B Girls Pistol</strong><br>National: 3rd<p></p><ul>
-<li>TAN YI JIN</li>
-<li>CHEW YEE SIN</li>
-<li>HO YI XUAN, CHLOE</li>
-<li>ARAGON JANNA FRANCHESKA CABILLO</li>
+<li>Tan Yi Jin</li>
+<li>Chew Yee Sin</li>
+<li>Ho Yi Xuan, Chloe</li>
+<li>Aragon Janna Francheska Cabillo</li>
 </ul>
 <strong>B Boys Rifle</strong><ul>
 <li>N.A</li></ul>
