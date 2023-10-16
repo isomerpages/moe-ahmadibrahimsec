@@ -19,6 +19,8 @@ third_nav_title: CCA Achievements
 </p><p><u><strong>2018<br></strong></u>B Girls: 1st Round<br>C Girls: 1st Round</p>
 <hr>
 <h4><strong>Basketball</strong></h4>
+<p><u><strong>2022<br></strong></u>B Boys: Zone - 1st Runner up<br>C Boys: Zone - 2nd Round</p>
+<p>B Girls: Zone - 2nd Round<br>C Girls: Zone - 1st Round</p>
 <p><u><strong>2021<br></strong></u>B Boys: N.A<br>C Boys: N.A</p>
 <p>B Girls: N.A<br>C Girls: N.A</p>
 <p><u><strong>2020<br></strong></u>B Boys: Did not finish <br>C Boys: N.A</p>
