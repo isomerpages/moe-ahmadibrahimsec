@@ -120,10 +120,10 @@ third_nav_title: CCA Achievements
 <strong>B Boys Pistol</strong><ul>
 <li>N.A</li></ul>
 <strong>C Girls Rifles</strong><br>National: 4th<ul>
-<li>TAN WEE XUAN WICHELLE</li>
-<li>OH KWEE TENG JOEY</li>
-<li>ONG JIA YEE ERINNA</li>
-<li>QUSYAIRAH BINTE EDDY AMIN</li>
+<li>Tan Wee Xuan Wichelle</li>
+<li>Oh Kwee Teng Joey</li>
+<li>Ong Jia Yee Erinna</li>
+<li>Qusyairah Binte Eddy Amin</li>
 </ul>
 <strong>C Girls Pistol
 </strong><ul>
