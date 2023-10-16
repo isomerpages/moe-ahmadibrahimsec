@@ -122,11 +122,12 @@ Air Rifle Women Rank 7<ul>
 <li>Gao Xinyue</li></ul>
 Air Rifle Women Rank 10<ul>
 <li>Erinna Qusyairah Binte Eddy Amin</li></ul>
-<strong>B Girls Pistol</strong><br>National: 3rd<ul>
-<li>Tan Yi Jin</li>
+<strong>B Girls Pistol</strong><br>National: Champion<ul>
+<li>Lin Yuxuan</li>
 <li>Chew Yee Sin</li>
-<li>Ho Yi Xuan, Chloe</li>
-<li>Aragon Janna Francheska Cabillo</li>
+<li>Liu Ho Man Meagan</li>
+<li>Michelle Khoo Xin Yu</li>
+<li>Toh Jin Yi Jamie</li>
 </ul>
 <strong>B Boys Rifle</strong><ul>
 <li>N.A</li></ul>
