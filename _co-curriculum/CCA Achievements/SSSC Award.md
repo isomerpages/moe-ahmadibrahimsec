@@ -4,6 +4,20 @@ permalink: /achievements/cca-achievements/sssc-award/
 description: ""
 third_nav_title: CCA Achievements
 ---
+<h4>2019<br><strong>SSSC Colours Award</strong></h4>
+<ul>
+<li>Emma Jane Prasagam <strong>(Shooting)</strong></li>
+<li>Nur Yusrina Binte Yusni <strong>(Shooting)</strong></li>
+<li>Elisabeth Anne Lawrence <strong>(Shooting)</strong></li>
+<li>Nur Sara Insyira Binte Norhisham <strong>(Shooting)</strong></li>
+<li>Sayshaa Devi d/o Suresh <strong>(Shooting)</strong></li>
+<li>Ang Jun Kai, Ryan<strong>(Shooting)</strong></li>
+<li>Chaw min Min <strong>(Shooting)</strong></li>
+<li>Chong Siew Fen <strong>(Shooting)</strong></li>
+<li>Aragon Janna Francheska Cabillo <strong>(Shooting)</strong></li>
+<li>Mohammed Aamir <strong>(Track &amp; Field)</strong></li>
+</ul>
+
 <h4>2018<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>Bryon Lim Guan Jie <strong>(Shooting)</strong></li>
@@ -11,8 +25,8 @@ third_nav_title: CCA Achievements
 <li>Mohamed Shahmi B Mohamed S <strong>(Shooting)</strong></li>
 <li>Mohammad Nur'Muhaimin B Mohd Khatib <strong>(Shooting)</strong></li>
 <li>Aaron Mikael Suhairi <strong>(Shooting)</strong></li>
-<li>CHING ERNEST ANTONIO<strong>(Shooting)</strong></li>
-<li>KWOK CHANG FENG ZENDEN <strong>(Shooting)</strong></li>
+<li>Ching Ernrest Antonio<strong>(Shooting)</strong></li>
+<li>Kwok Chang Feng Zenden <strong>(Shooting)</strong></li>
 <li>Jerry Tan Song Kit <strong>(Shooting)</strong></li>
 <li>Bryon Lim Guan Jie <strong>(Shooting)</strong></li>
 <li>Elisabeth Anne Lawrence <strong>(Shooting)</strong></li>
