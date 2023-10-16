@@ -116,16 +116,16 @@ third_nav_title: CCA Achievements
 <p><strong>SP - CCA (Ethnic Dance)</strong></p>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul></ul>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul><li>Distinction</li></ul>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul></ul>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul></ul>
 </td>
 </tr>
 </tbody>
