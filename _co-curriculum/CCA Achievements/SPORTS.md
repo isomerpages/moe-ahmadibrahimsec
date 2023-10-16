@@ -131,11 +131,11 @@ Air Rifle Women Rank 10<ul>
 <li>Toh Jin Yi Jamie</li>
 </ul>
 Air Pistol Women Champion<ul>
-<li>CHEW YEE SIN</li></ul>
+<li>Chew Yee Sin</li></ul>
 Air Pistol Women Rank 4<ul>
-<li>TAN YI JIN</li></ul>
+<li>Tan Yi Jin</li></ul>
 Air Pistol Women Rank 5<ul>
-<li>LIN YUXUAN</li></ul>
+<li>Lin Yuxuan</li></ul>
 
 <strong>B Boys Rifle</strong><br>Air Rifle Men Rank 15<ul>
 <li>TOH JIN AN, BRANDON</li></ul>
