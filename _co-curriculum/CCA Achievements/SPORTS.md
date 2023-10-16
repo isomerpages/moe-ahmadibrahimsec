@@ -41,7 +41,7 @@ third_nav_title: CCA Achievements
 <p><u><strong>2020<br></strong></u>B Boys: Did not finish<br>C Boys: N.A</p>
 <p><u><strong>2019<br></strong></u><strong>NSG Football League 4 Championships</strong><br>B Boys: 3rd Placing<br><strong>NSG Football Championships</strong><br>C Boys: Merit Award</p>
 <p><u></u><u><strong>2018<br></strong></u>B Boys: 1st Round<br>C Boys: 2nd Round</p>
-<p>&nbsp;</p>
+
 <hr>
 <h4><strong>National Schools Track &amp; Field</strong></h4>
 <p><strong>NSG Track &amp; Field Championships</strong></p>
