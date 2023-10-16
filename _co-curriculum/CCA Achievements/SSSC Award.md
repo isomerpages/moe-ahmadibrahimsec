@@ -6,10 +6,10 @@ third_nav_title: CCA Achievements
 ---
 <h4>2020<br><strong>SSSC Colours Award</strong></h4>
 <ul>
-<li>NUR SARA INSYIRA <strong>(Shooting)</strong></li>
-<li>WONG YU XUANi <strong>(Shooting)</strong></li>
-<li>PANG XIN TONG <strong>(Shooting)</strong></li>
-<li>CHONG XUE MIN <strong>(Shooting)</strong></li>
+<li>Nur Sara Insyira <strong>(Shooting)</strong></li>
+<li>Wong Yu Xuani <strong>(Shooting)</strong></li>
+<li>Pang Xin Tong <strong>(Shooting)</strong></li>
+<li>Chong Xue Min <strong>(Shooting)</strong></li>
 </ul>
 
 <h4>2019<br><strong>SSSC Colours Award</strong></h4>
