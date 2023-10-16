@@ -106,6 +106,34 @@ third_nav_title: CCA Achievements
 
 <hr>
 <h4><strong>Shooting</strong></h4>
+<p><u><strong>2023<br></strong></u><strong>B Girls Rifle</strong></p><ul>
+<li>N.A</li>
+</ul>
+<strong>B Girls Pistol</strong><br>National: 3rd<ul>
+<li>Tan Yi Jin</li>
+<li>Chew Yee Sin</li>
+<li>Ho Yi Xuan, Chloe</li>
+<li>Aragon Janna Francheska Cabillo</li>
+</ul>
+<strong>B Boys Rifle</strong><ul>
+<li>N.A</li></ul>
+<strong>B Boys Pistol</strong><ul>
+<li>N.A</li></ul>
+<strong>C Girls Rifles</strong><br>National: 4th<ul>
+<li>Tan Wee Xuan Wichelle</li>
+<li>Oh Kwee Teng Joey</li>
+<li>Ong Jia Yee Erinna</li>
+<li>Qusyairah Binte Eddy Amin</li>
+</ul>
+<strong>C Girls Pistol
+</strong><ul>
+<li>N.A</li></ul>
+<strong>C Boys Rifles
+</strong><ul>
+<li>N.A</li></ul>
+<strong>C Boys Pistol
+</strong><ul>
+<li>N.A</li></ul>
 <p><u><strong>2022<br></strong></u><strong>B Girls Rifle</strong></p><ul>
 <li>N.A</li>
 </ul>
