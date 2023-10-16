@@ -106,7 +106,48 @@ third_nav_title: CCA Achievements
 
 <hr>
 <h4><strong>Shooting</strong></h4>
-<p><u><strong>2023<br></strong></u><strong>B Girls Rifle</strong></p><ul>
+<p><u><strong>2023<br></strong></u></p><strong>B Girls Rifle</strong><br>National: Champion<ul>
+<li>TAN WEE XUAN, WICHELLE</li>
+<li>GAO XINYUE</li>
+<li>ONG JIA YEE (WANG JIAYI)</li>
+<li>ERINNA QUSYAIRAH BINTE EDDY AMIN</li>
+<li>OH HWEE TENG JOEY</li>
+<li>NYLA BATRISYIA EVBUOMWAN</li>
+</ul>
+Air Rifle Women Rank 4<ul>
+<li>OH HWEE TENG JOEY</li></ul>
+Air Rifle Women Rank 6<ul>
+<li>TAN WEE XUAN, WICHELLE</li></ul>
+Air Rifle Women Rank 7<ul>
+<li>GAO XINYUE</li></ul>
+Air Rifle Women Rank 10<ul>
+<li>ERINNA QUSYAIRAH BINTE EDDY AMIN</li></ul>
+<strong>B Girls Pistol</strong><br>National: 3rd<ul>
+<li>Tan Yi Jin</li>
+<li>Chew Yee Sin</li>
+<li>Ho Yi Xuan, Chloe</li>
+<li>Aragon Janna Francheska Cabillo</li>
+</ul>
+<strong>B Boys Rifle</strong><ul>
+<li>N.A</li></ul>
+<strong>B Boys Pistol</strong><ul>
+<li>N.A</li></ul>
+<strong>C Girls Rifles</strong><br>National: 4th<ul>
+<li>Tan Wee Xuan Wichelle</li>
+<li>Oh Kwee Teng Joey</li>
+<li>Ong Jia Yee Erinna</li>
+<li>Qusyairah Binte Eddy Amin</li>
+</ul>
+<strong>C Girls Pistol
+</strong><ul>
+<li>N.A</li></ul>
+<strong>C Boys Rifles
+</strong><ul>
+<li>N.A</li></ul>
+<strong>C Boys Pistol
+</strong><ul>
+<li>N.A</li></ul>
+<p><u><strong>2022<br></strong></u></p><strong>B Girls Rifle</strong><ul>
 <li>N.A</li>
 </ul>
 <strong>B Girls Pistol</strong><br>National: 3rd<ul>
@@ -134,35 +175,7 @@ third_nav_title: CCA Achievements
 <strong>C Boys Pistol
 </strong><ul>
 <li>N.A</li></ul>
-<p><u><strong>2022<br></strong></u><strong>B Girls Rifle</strong></p><ul>
-<li>N.A</li>
-</ul>
-<strong>B Girls Pistol</strong><br>National: 3rd<ul>
-<li>Tan Yi Jin</li>
-<li>Chew Yee Sin</li>
-<li>Ho Yi Xuan, Chloe</li>
-<li>Aragon Janna Francheska Cabillo</li>
-</ul>
-<strong>B Boys Rifle</strong><ul>
-<li>N.A</li></ul>
-<strong>B Boys Pistol</strong><ul>
-<li>N.A</li></ul>
-<strong>C Girls Rifles</strong><br>National: 4th<ul>
-<li>Tan Wee Xuan Wichelle</li>
-<li>Oh Kwee Teng Joey</li>
-<li>Ong Jia Yee Erinna</li>
-<li>Qusyairah Binte Eddy Amin</li>
-</ul>
-<strong>C Girls Pistol
-</strong><ul>
-<li>N.A</li></ul>
-<strong>C Boys Rifles
-</strong><ul>
-<li>N.A</li></ul>
-<strong>C Boys Pistol
-</strong><ul>
-<li>N.A</li></ul>
-<p><u><strong>2021<br></strong></u><strong>B Girls Rifle</strong><br>National: 4th</p><ul>
+<p><u><strong>2021<br></strong></u><strong>B Girls Rifle</strong></p><br>National: 4th<ul>
 <li>Nur Sara Insyira</li>
 <li>Wong Yu Xuan</li>
 <li>Pang Xin Tong</li>
@@ -185,7 +198,7 @@ third_nav_title: CCA Achievements
 <strong>C Boys Pistol
 </strong><ul>
 <li>N.A</li></ul>
-<p><u><strong>2020<br></strong></u><strong>B Girls Rifle</strong></p><ul>
+<p><u><strong>2020<br></strong></u></p><strong>B Girls Rifle</strong><ul>
 <li>N.A</li></ul>
 <strong>B Girls Pistol</strong><ul>
 <li>N.A</li></ul>
