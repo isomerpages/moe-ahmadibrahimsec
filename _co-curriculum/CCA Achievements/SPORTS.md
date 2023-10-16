@@ -73,7 +73,7 @@ third_nav_title: CCA Achievements
 <li>Abdul Qayyum Bin Mohamed Fauzy, 8th</li>
 <li>Aw Cheng Hong, 15th</li>
 </ul>
-<p><br><strong>Relay Events 4 X 100m Relay<br></strong>C Boys:&nbsp;</p>
+<p><strong>Relay Events 4 X 100m Relay<br></strong>C Boys:&nbsp;</p>
 <ul>
 <li>Yang Hao Wen</li>
 <li>Brendon Chow Zheng Jie</li>
