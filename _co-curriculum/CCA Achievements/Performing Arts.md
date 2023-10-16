@@ -109,7 +109,7 @@ third_nav_title: CCA Achievements
 <ul><li>International Science Drama Competition 2022 (Open Category - 3rd place in Singapore Finals)</li></ul>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul><li>Distinction</li></ul>
 </td>
 </tr>
 <tr><td style="text-align: center; width: 150px;">
