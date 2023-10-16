@@ -115,13 +115,13 @@ third_nav_title: CCA Achievements
 <li>Nyla Batrisyia Evbuomwan</li>
 </ul>
 Air Rifle Women Rank 4<ul>
-<li>OH HWEE TENG JOEY</li></ul>
+<li>Oh Hwee Teng Joey</li></ul>
 Air Rifle Women Rank 6<ul>
-<li>TAN WEE XUAN, WICHELLE</li></ul>
+<li>Tan Wee Xuan, Wichelle</li></ul>
 Air Rifle Women Rank 7<ul>
-<li>GAO XINYUE</li></ul>
+<li>Gao Xinyue</li></ul>
 Air Rifle Women Rank 10<ul>
-<li>ERINNA QUSYAIRAH BINTE EDDY AMIN</li></ul>
+<li>Erinna Qusyairah Binte Eddy Amin</li></ul>
 <strong>B Girls Pistol</strong><br>National: 3rd<ul>
 <li>Tan Yi Jin</li>
 <li>Chew Yee Sin</li>
