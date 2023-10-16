@@ -17,14 +17,14 @@ third_nav_title: CCA Achievements
 <li>Bryon Lim Guan Jie <strong>(Shooting)</strong></li>
 <li>Elisabeth Anne Lawrence <strong>(Shooting)</strong></li>
 <li>Emma Jane Pragasam <strong>(Shooting)</strong></li>
-<li>NUR YUSRINA BINTE YUSNI <strong>(Shooting)</strong></li>
-<li>NUR SARA INSYIRA BINTE NORHISHAM <strong>(Shooting)</strong></li>
-<li>NAH WEI LIN <strong>(Basketball)</strong></li>
-<li>DANIA ERVIANNY <strong>(Basketball)</strong></li>
+<li>Nur Yusrina Binte Yusni <strong>(Shooting)</strong></li>
+<li>Nur Sara Insyira Binte Norhisham <strong>(Shooting)</strong></li>
+<li>Nah Wei Lin <strong>(Basketball)</strong></li>
+<li>Dania Ervianny <strong>(Basketball)</strong></li>
 </ul>
 <h4><strong>SSSC Colours Award (Distinction)</strong></h4>
 <ul>
-<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
+<li>Bryon Lim Guan Jie <strong>(Shooting)</strong></li>
 </ul><hr>
 
 <h4>2017<br><strong>SSSC Colours Award</strong></h4>
