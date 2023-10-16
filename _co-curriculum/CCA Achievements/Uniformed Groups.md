@@ -59,7 +59,7 @@ third_nav_title: CCA Achievements
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Gold</strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
-<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Suspended<br></strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;">Suspended<br></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
 </tr>
@@ -70,7 +70,7 @@ third_nav_title: CCA Achievements
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Gold</strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
-<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Suspended</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;">Suspended</td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
 </tr>
@@ -80,19 +80,31 @@ third_nav_title: CCA Achievements
 </td>
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Gold</strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;">Suspended</td>
+<td style="width: 161.703px; height: 46px; text-align: center;">Suspended</td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
 </tr>
 <tr style="height: 46px;">
 <td style="width: 149.625px; height: 46px; text-align: center;">
 <p><strong>Girl Guides</strong></p>
 </td>
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Silver</strong></td>
-<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold&nbsp;</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;">Suspended</td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
 </tr>
 <tr style="height: 46px;">
 <td style="width: 149.625px; height: 46px; text-align: center;">
 <p><strong>SJAB</strong></p>
 </td>
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;">Suspended</td>
+<td style="width: 161.703px; height: 46px; text-align: center;">Suspended</td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold</strong></td>
 </tr>
 </tbody>
