@@ -122,6 +122,7 @@ Air Rifle Women Rank 7<ul>
 <li>Gao Xinyue</li></ul>
 Air Rifle Women Rank 10<ul>
 <li>Erinna Qusyairah Binte Eddy Amin</li></ul>
+
 <strong>B Girls Pistol</strong><br>National: Champion<ul>
 <li>Lin Yuxuan</li>
 <li>Chew Yee Sin</li>
@@ -129,15 +130,19 @@ Air Rifle Women Rank 10<ul>
 <li>Michelle Khoo Xin Yu</li>
 <li>Toh Jin Yi Jamie</li>
 </ul>
-<strong>B Boys Rifle</strong><ul>
-<li>N.A</li></ul>
+Air Pistol Women Champion<ul>
+<li>CHEW YEE SIN</li></ul>
+Air Pistol Women Rank 4<ul>
+<li>TAN YI JIN</li></ul>
+Air Pistol Women Rank 5<ul>
+<li>LIN YUXUAN</li></ul>
+
+<strong>B Boys Rifle</strong><br>Air Rifle Men Rank 15<ul>
+<li>TOH JIN AN, BRANDON</li></ul>
 <strong>B Boys Pistol</strong><ul>
 <li>N.A</li></ul>
-<strong>C Girls Rifles</strong><br>National: 4th<ul>
-<li>Tan Wee Xuan Wichelle</li>
-<li>Oh Kwee Teng Joey</li>
-<li>Ong Jia Yee Erinna</li>
-<li>Qusyairah Binte Eddy Amin</li>
+<strong>C Girls Rifles</strong><ul>
+<li>N.A</li>
 </ul>
 <strong>C Girls Pistol
 </strong><ul>
