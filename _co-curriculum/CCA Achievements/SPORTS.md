@@ -48,10 +48,10 @@ third_nav_title: CCA Achievements
 <h4><strong>National Schools Track &amp; Field</strong></h4>
 <p><u><strong>2023<br></strong></u><strong>Qualify for Semi finals relay:<br></strong>4 x 100m C Boys</p>
 <ul>
-<li>RYAN SUFFIEAN BIN ROHAIZAT</li>
-<li>RABAGO GIO RAPHAEL FAELDOG</li>
-<li>CHOO YEE WEI (ZHU YIWEI)</li>
-<li>ELFIE SHAQRY BIN MUHAMMAD NIN SULAIMAN</li>
+<li>Ryan Suffiean Bin Rohaizat</li>
+<li>Rabago Gio Raphael Faeldog</li>
+<li>Choo Yee Wei (Zhu Yiwei)</li>
+<li>Elfie Shaqry Bin Muhammad Nin Sulaiman</li>
 </ul>
 4 x 100m B Boys<p></p>
 <ul>
