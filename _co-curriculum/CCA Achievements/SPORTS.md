@@ -107,12 +107,12 @@ third_nav_title: CCA Achievements
 <hr>
 <h4><strong>Shooting</strong></h4>
 <p><u><strong>2023<br></strong></u></p><strong>B Girls Rifle</strong><br>National: Champion<ul>
-<li>TAN WEE XUAN, WICHELLE</li>
-<li>GAO XINYUE</li>
-<li>ONG JIA YEE (WANG JIAYI)</li>
-<li>ERINNA QUSYAIRAH BINTE EDDY AMIN</li>
-<li>OH HWEE TENG JOEY</li>
-<li>NYLA BATRISYIA EVBUOMWAN</li>
+<li>Tan Wee Xuan, Wichelle</li>
+<li>Gao Xinyue</li>
+<li>Ong Jia Yee (Wang Jiayi)</li>
+<li>Erinna Qusyairah Binte Eddy Amin</li>
+<li>Oh Hwee Teng Joey</li>
+<li>Nyla Batrisyia Evbuomwan</li>
 </ul>
 Air Rifle Women Rank 4<ul>
 <li>OH HWEE TENG JOEY</li></ul>
