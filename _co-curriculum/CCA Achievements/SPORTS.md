@@ -130,6 +130,30 @@ third_nav_title: CCA Achievements
 </strong><ul>
 <li>N.A</li></ul>
 <p></p>
+<p><u><strong>2021<br></strong></u><strong>B Girls Rifle</strong><br>National: 4th</p><ul>
+<li>Nur Sara Insyira</li>
+<li>Wong Yu Xuan</li>
+<li>Pang Xin Tong</li>
+<li>Chong Xue Min</li>
+</ul>
+<strong>B Girls Pistol</strong><ul>
+<li>N.A</li></ul>
+<strong>B Boys Rifle</strong><ul>
+<li>N.A</li></ul>
+<strong>B Boys Pistol</strong><ul>
+<li>N.A</li></ul>
+<strong>C Girls Rifles</strong><ul>
+<li>N.A</li></ul>
+<strong>C Girls Pistol
+</strong><ul>
+<li>N.A</li></ul>
+<strong>C Boys Rifles
+</strong><ul>
+<li>N.A</li></ul>
+<strong>C Boys Pistol
+</strong><ul>
+<li>N.A</li></ul>
+<p></p>
 <p><u><strong>2020<br></strong></u><strong>B Girls Rifle</strong></p><ul>
 <li>N.A</li></ul>
 <strong>B Girls Pistol</strong><ul>
