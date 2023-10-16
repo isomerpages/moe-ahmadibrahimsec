@@ -4,6 +4,24 @@ permalink: /achievements/cca-achievements/sssc-award/
 description: ""
 third_nav_title: CCA Achievements
 ---
+<h4>2022<br><strong>SSSC Colours Award</strong></h4>
+<ul>
+<li>Aragon Janna Francheska Cabillo <strong>(Shooting)</strong></li>
+<li>Chew Yee Sin Erinna <strong>(Shooting)</strong></li>
+<li>Qusyairah Binte Eddy Amin <strong>(Shooting)</strong></li>
+<li>Ho Yi Xuan, Chloe <strong>(Shooting)</strong></li>
+<li>Michelle Khoo <strong>(Shooting)</strong></li>
+<li>Xin Yu <strong>(Shooting)</strong></li>
+<li>Nur Amberlina Binte Abdul Rahim <strong>(Shooting)</strong></li>
+<li>Oh Hwee Teng Joey <strong>(Shooting)</strong></li>
+<li>Ong Jia Yee (Wang Jiayi) <strong>(Shooting)</strong></li>
+<li>Tan Wee Xuan, Wichelle <strong>(Shooting)</strong></li>
+<li>Tan Yi Jin <strong>(Shooting)</strong></li>
+<li>Tan Yi Xuan <strong>(Shooting)</strong></li>
+<li>Kimiko Ang Jianing (Hong Jianing) <strong>(Golf)</strong></li>
+</ul>
+
+
 <h4>2021<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>Nur Sara Insyira <strong>(Shooting)</strong></li>
