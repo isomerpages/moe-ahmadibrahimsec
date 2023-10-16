@@ -81,7 +81,7 @@ third_nav_title: CCA Achievements
 <li>Abdul Qayyum Bin Mohamed Fauzy</li>
 </ul>
 <p><strong>Colours Award<br></strong>Mohammed Aamir</p>
-<p><u><strong>2018</strong></u><br>B Girls 4 X 100m: 7th<br>C Boys 800m: Thaksin Sombat, 15th<br>C Girls 4 X 400m: 9th<br>C Boys 4 X 100m: 9th<br>C Boys 800m: Brent Seow Jun Heng, 12th<br>B Boys Shot Put: Mohammed Thaqif Khalaf,15th<br>B Boys Discus: Mohammed Thaqif Khalaf, 11th<br>Theesvaran Marshall,12th<br>B Girls 1500m Walk: Nur Elrina, 17th<br>B Girls Discus: Nurul Nazirah, 15th<br>Roshni, 16th<br>B Girls Javelin: Thian Yi En, 15th<br><br></p>
+<p><u><strong>2018</strong></u><br>B Girls 4 X 100m: 7th<br>C Boys 800m: Thaksin Sombat, 15th<br>C Girls 4 X 400m: 9th<br>C Boys 4 X 100m: 9th<br>C Boys 800m: Brent Seow Jun Heng, 12th<br>B Boys Shot Put: Mohammed Thaqif Khalaf,15th<br>B Boys Discus: Mohammed Thaqif Khalaf, 11th<br>Theesvaran Marshall,12th<br>B Girls 1500m Walk: Nur Elrina, 17th<br>B Girls Discus: Nurul Nazirah, 15th<br>Roshni, 16th<br>B Girls Javelin: Thian Yi En, 15th<br></p>
 
 <hr>
 <h4><strong>Shooting</strong></h4>
