@@ -18,6 +18,7 @@ third_nav_title: CCA Achievements
 <p><u><strong>2020<br></strong></u>B Girls: 1st Round
 </p><p><u><strong>2019<br></strong></u>B Girls: 1st Round
 </p><p><u><strong>2018<br></strong></u>B Girls: 1st Round<br>C Girls: 1st Round</p>
+
 <hr>
 <h4><strong>Basketball</strong></h4>
 <p><u><strong>2023<br></strong></u>B Boys: Zone - 2nd Round<br>C Boys: Zone - 2nd Round</p>
@@ -45,7 +46,6 @@ third_nav_title: CCA Achievements
 
 <hr>
 <h4><strong>National Schools Track &amp; Field</strong></h4>
-<p><strong>NSG Track &amp; Field Championships</strong></p>
 <p><u><strong>2021<br></strong></u>
 	</p><ul>
 <li>N.A</li>
@@ -68,7 +68,7 @@ third_nav_title: CCA Achievements
 <li>Mary Elizabeth Precious Tan</li>
 <li>Tan Xuan Yun Joyous</li>
 </ul>
-<p><strong>Individual Events 200m<br></strong>B Boys: Mohammed Aamir, 4th<br><br><br><strong>Individual Events Javelin<br></strong>B Girls: Thian Yi En, 11th<br><br><br><strong>Individual Events Long Jump</strong><br>C Boys&nbsp;</p>
+<p><strong>Individual Events 200m<br></strong>B Boys: Mohammed Aamir, 4th<br><br><strong>Individual Events Javelin<br></strong>B Girls: Thian Yi En, 11th<br><br><strong>Individual Events Long Jump<br></strong>C Boys</p>
 <ul>
 <li>Abdul Qayyum Bin Mohamed Fauzy, 8th</li>
 <li>Aw Cheng Hong, 15th</li>
