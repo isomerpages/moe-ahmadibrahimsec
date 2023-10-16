@@ -46,6 +46,9 @@ third_nav_title: CCA Achievements
 
 <hr>
 <h4><strong>National Schools Track &amp; Field</strong></h4>
+<p><u><strong>2022<br></strong></u><strong>Relay Events 4 X 400m Relay<br></strong>B Boys: 6th</p>
+<ul>
+<li>Wang Yibo</li></ul>
 <p><u><strong>2021<br></strong></u>
 	</p><ul>
 <li>N.A</li>
