@@ -67,7 +67,10 @@ third_nav_title: CCA Achievements
 <li>HERLYNN ISZURA BINTE IMRAN</li>
 <li>BELLELYN ONG</li>
 </ul>
-<p><u><strong>2022<br></strong></u><strong>C Girls Shotput: 6th</strong></p>
+<p><strong>Qualify for 100m semi finals and finals (C Div Boy)<br></strong>CHOO YEE WEI (ZHU YIWEI)<br>
+</p><p><strong>Qualify for 200m semi finals and finals (C Div Girl): 2nd<br></strong>EVA CHIA YI HUI (XIE YIHUI)<br>
+</p><p><strong>Qualify for 400m semi finals and finals (C Div Girl): 1st<br></strong>EVA CHIA YI HUI (XIE YIHUI)<br>
+</p><p><u><strong>2022<br></strong></u><strong>C Girls Shotput: 6th</strong></p>
 <ul>
 <li>Kendra Gomez</li></ul>
 <strong>C Girls 400mt: 8th</strong><p></p>
