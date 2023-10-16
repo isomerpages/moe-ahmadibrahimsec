@@ -60,6 +60,13 @@ third_nav_title: CCA Achievements
 <li>Ang Wei Siang Jeffrey</li>
 <li>Ilhan Faheem Bin Zainal Abidin</li>
 </ul>
+4 x 100m B Girls<p></p>
+<ul>
+<li>ALYSSA BINTI YAZID</li>
+<li>ILLYA SUFIYA BINTE RAMZDAN</li>
+<li>HERLYNN ISZURA BINTE IMRAN</li>
+<li>BELLELYN ONG</li>
+</ul>
 <p><u><strong>2022<br></strong></u><strong>C Girls Shotput: 6th</strong></p>
 <ul>
 <li>Kendra Gomez</li></ul>
