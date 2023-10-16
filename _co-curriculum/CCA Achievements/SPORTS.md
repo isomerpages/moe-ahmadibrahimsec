@@ -55,10 +55,10 @@ third_nav_title: CCA Achievements
 </ul>
 4 x 100m B Boys<p></p>
 <ul>
-<li>TANG ZHIJIE NICHOLAS</li>
-<li>CHIA TIAN LE</li>
-<li>ANG WEI SIANG JEFFREY</li>
-<li>ILHAN FAHEEM BIN ZAINAL ABIDIN</li>
+<li>Tang Zhijie Nicholas</li>
+<li>Chia Tian Le</li>
+<li>Ang Wei Siang Jeffrey</li>
+<li>Ilhan Faheem Bin Zainal Abidin</li>
 </ul>
 <p><u><strong>2022<br></strong></u><strong>C Girls Shotput: 6th</strong></p>
 <ul>
