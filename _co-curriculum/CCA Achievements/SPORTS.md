@@ -109,7 +109,7 @@ third_nav_title: CCA Achievements
 <p><u><strong>2022<br></strong></u><strong>B Girls Rifle</strong></p><ul>
 <li>N.A</li>
 </ul>
-<strong>B Girls Pistol</strong><br>National: 3rd<p></p><ul>
+<strong>B Girls Pistol</strong><br>National: 3rd<ul>
 <li>Tan Yi Jin</li>
 <li>Chew Yee Sin</li>
 <li>Ho Yi Xuan, Chloe</li>
@@ -119,8 +119,12 @@ third_nav_title: CCA Achievements
 <li>N.A</li></ul>
 <strong>B Boys Pistol</strong><ul>
 <li>N.A</li></ul>
-<strong>C Girls Rifles</strong><ul>
-<li>N.A</li></ul>
+<strong>C Girls Rifles</strong><br>National: 4th<ul>
+<li>TAN WEE XUAN WICHELLE</li>
+<li>OH KWEE TENG JOEY</li>
+<li>ONG JIA YEE ERINNA</li>
+<li>QUSYAIRAH BINTE EDDY AMIN</li>
+</ul>
 <strong>C Girls Pistol
 </strong><ul>
 <li>N.A</li></ul>
