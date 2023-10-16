@@ -4,7 +4,7 @@ permalink: /achievements/cca-achievements/sssc-award/
 description: ""
 third_nav_title: CCA Achievements
 ---
-<h4>2020<br><strong>SSSC Colours Award</strong></h4>
+<h4>2021<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>Nur Sara Insyira <strong>(Shooting)</strong></li>
 <li>Wong Yu Xuani <strong>(Shooting)</strong></li>
