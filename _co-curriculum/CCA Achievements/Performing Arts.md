@@ -83,16 +83,16 @@ third_nav_title: CCA Achievements
 <p><strong>Dance Ensemble</strong></p>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul><li>Distinction</li></ul>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul></ul>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Accomplishment</p>
+<ul><li>2x Accomplishment</li></ul>
 </td>
 <td style="text-align: left; width: 125px;">
-<p>Distinction</p>
+<ul><li>Accomplishment</li></ul>
 </td>
 </tr>
 <tr>
