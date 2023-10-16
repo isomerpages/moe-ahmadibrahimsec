@@ -4,6 +4,31 @@ permalink: /achievements/cca-achievements/sssc-award/
 description: ""
 third_nav_title: CCA Achievements
 ---
+<h4>2023<br><strong>SSSC Colours Award</strong></h4>
+<ul>
+<li>Kimiko Ang Jianing (Hong Jianing) <strong>(Golf)</strong></li>
+<li>Toh Jin Yi Jamie <strong>(Shooting)</strong></li>
+<li>Michelle Khoo Xin Yu <strong>(Shooting)</strong></li>
+<li>Chew Yee Sin <strong>(Shooting)</strong></li>
+<li>Liu Ho Man Meagan <strong>(Shooting)</strong></li>
+<li>Lin Yuxuan <strong>(Shooting)</strong></li>
+<li>Tan Yi Jin <strong>(Shooting)</strong></li>
+<li>Chew Yee Sin <strong>(Shooting)</strong></li>
+<li>Tan Yi Jin <strong>(Shooting)</strong></li>
+<li>Michelle Khoo Xin Yu <strong>(Shooting)</strong></li>
+<li>Chew Yee Sin <strong>(Shooting)</strong></li>
+<li>Liu Ho Man Meagan <strong>(Shooting)</strong></li>
+<li>Lin Yuxuan <strong>(Shooting)</strong></li>
+<li>Tan Wee Xuan, Wichelle <strong>(Shooting)</strong></li>
+<li>Nyla Batrisyia Evbuomwan <strong>(Shooting)</strong></li>
+<li>Ong Jia Yee (Wang Jiayi) <strong>(Shooting)</strong></li>
+<li>Gao Xinyue <strong>(Shooting)</strong></li>
+<li>Oh Hwee Teng Joey <strong>(Shooting)</strong></li>
+<li>Erinna Qusyairah Binte Eddy Amin <strong>(Shooting)</strong></li>
+<li>Eva Chia Yi Hui (Xie Yihui) <strong>(Track &amp; Field)</strong></li>
+</ul>
+
+
 <h4>2022<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>Aragon Janna Francheska Cabillo <strong>(Shooting)</strong></li>
