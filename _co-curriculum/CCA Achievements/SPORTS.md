@@ -4,15 +4,6 @@ permalink: /achievements/cca-achievements/sports/
 description: ""
 third_nav_title: CCA Achievements
 ---
-<h4><strong>Shooting</strong></h4>
-<p><strong>NSG Shooting Championships Air Rifle</strong><u><strong><br><br>2021</strong></u><u><strong><br><br></strong></u><strong>B Girls</strong><br>Team: 4th Place</p>
-<ul>
-<li>Nur Sara Insyira Binte Nor</li>
-<li>Chong Xue Min</li>
-<li>Pang Xin Tong</li>
-<li>Wong Yu Xuan</li>
-</ul>
-
 <hr>
 <h4><strong>Netball</strong></h4>
 <p><u><strong>2020<br></strong></u>B Girls: 1st Round
