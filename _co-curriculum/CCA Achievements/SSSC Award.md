@@ -6,12 +6,11 @@ third_nav_title: CCA Achievements
 ---
 <h4>2018<br><strong>SSSC Colours Award</strong></h4>
 <ul>
-<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
-<li>KANG ZONG LIN, KEITH <strong>(Shooting)</strong></li>
-<li>MOHAMED SHAHMI B MOHAMED S <strong>(Shooting)</strong></li>
-<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
-<li>MOHAMMAD NUR'MUHAIMIN B MOHD KHATIB <strong>(Shooting)</strong></li>
-<li>AARON MIKAEL SUHAIRI <strong>(Shooting)</strong></li>
+<li>Bryon Lim Guan Jie <strong>(Shooting)</strong></li>
+<li>Kang Zong Lin, Keith <strong>(Shooting)</strong></li>
+<li>Mohamed Shahmi B Mohamed S <strong>(Shooting)</strong></li>
+<li>Mohammad Nur'Muhaimin B Mohd Khatib <strong>(Shooting)</strong></li>
+<li>Aaron Mikael Suhairi <strong>(Shooting)</strong></li>
 <li>CHING ERNEST ANTONIO<strong>(Shooting)</strong></li>
 <li>KWOK CHANG FENG ZENDEN <strong>(Shooting)</strong></li>
 <li>JERRY TAN SONG KIT <strong>(Shooting)</strong></li>
