@@ -138,7 +138,7 @@ Air Pistol Women Rank 5<ul>
 <li>Lin Yuxuan</li></ul>
 
 <strong>B Boys Rifle</strong><br>Air Rifle Men Rank 15<ul>
-<li>TOH JIN AN, BRANDON</li></ul>
+<li>Toh Jin An, Brandon</li></ul>
 <strong>B Boys Pistol</strong><ul>
 <li>N.A</li></ul>
 <strong>C Girls Rifles</strong><ul>
