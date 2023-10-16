@@ -13,10 +13,10 @@ third_nav_title: CCA Achievements
 <li>Aaron Mikael Suhairi <strong>(Shooting)</strong></li>
 <li>CHING ERNEST ANTONIO<strong>(Shooting)</strong></li>
 <li>KWOK CHANG FENG ZENDEN <strong>(Shooting)</strong></li>
-<li>JERRY TAN SONG KIT <strong>(Shooting)</strong></li>
-<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
-<li>ELISABETH ANNE LAWRENCE <strong>(Shooting)</strong></li>
-<li>EMMA JANE PRAGASAM <strong>(Shooting)</strong></li>
+<li>Jerry Tan Song Kit <strong>(Shooting)</strong></li>
+<li>Bryon Lim Guan Jie <strong>(Shooting)</strong></li>
+<li>Elisabeth Anne Lawrence <strong>(Shooting)</strong></li>
+<li>Emma Jane Pragasam <strong>(Shooting)</strong></li>
 <li>NUR YUSRINA BINTE YUSNI <strong>(Shooting)</strong></li>
 <li>NUR SARA INSYIRA BINTE NORHISHAM <strong>(Shooting)</strong></li>
 <li>NAH WEI LIN <strong>(Basketball)</strong></li>
