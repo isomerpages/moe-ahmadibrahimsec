@@ -58,12 +58,20 @@ third_nav_title: CCA Achievements
 </td>
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Gold</strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Suspended<br></strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Gold<br></strong></td>
 </tr>
 <tr style="height: 46px;">
 <td style="width: 149.625px; height: 46px; text-align: center;">
 <p><strong>NCC Land</strong></p>
 </td>
 <td style="width: 161.672px; height: 46px; text-align: center;"><strong>Gold</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Suspended</strong></td>
+<td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
 <td style="width: 161.703px; height: 46px; text-align: center;"><strong>Distinction</strong></td>
 </tr>
 <tr style="height: 46px;">
