@@ -4,6 +4,30 @@ permalink: /achievements/cca-achievements/sssc-award/
 description: ""
 third_nav_title: CCA Achievements
 ---
+<h4>2018<br><strong>SSSC Colours Award</strong></h4>
+<ul>
+<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
+<li>KANG ZONG LIN, KEITH <strong>(Shooting)</strong></li>
+<li>MOHAMED SHAHMI B MOHAMED S <strong>(Shooting)</strong></li>
+<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
+<li>MOHAMMAD NUR'MUHAIMIN B MOHD KHATIB <strong>(Shooting)</strong></li>
+<li>AARON MIKAEL SUHAIRI <strong>(Shooting)</strong></li>
+<li>CHING ERNEST ANTONIO<strong>(Shooting)</strong></li>
+<li>KWOK CHANG FENG ZENDEN <strong>(Shooting)</strong></li>
+<li>JERRY TAN SONG KIT <strong>(Shooting)</strong></li>
+<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
+<li>ELISABETH ANNE LAWRENCE <strong>(Shooting)</strong></li>
+<li>EMMA JANE PRAGASAM <strong>(Shooting)</strong></li>
+<li>NUR YUSRINA BINTE YUSNI <strong>(Shooting)</strong></li>
+<li>NUR SARA INSYIRA BINTE NORHISHAM <strong>(Shooting)</strong></li>
+<li>NAH WEI LIN <strong>(Basketball)</strong></li>
+<li>DANIA ERVIANNY <strong>(Basketball)</strong></li>
+</ul>
+<h4><strong>SSSC Colours Award (Distinction)</strong></h4>
+<ul>
+<li>BRYON LIM GUAN JIE <strong>(Shooting)</strong></li>
+</ul><hr>
+
 <h4>2017<br><strong>SSSC Colours Award</strong></h4>
 <ul>
 <li>Choong Yuki (2N2)&nbsp;<strong>(Shooting)</strong></li>
