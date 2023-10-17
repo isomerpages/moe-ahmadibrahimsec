@@ -217,8 +217,8 @@ Air Pistol Women Rank 5
 </strong>
 <li>N.A</li>
 <strong>C Boys Pistol
-</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
 <p><u><strong>2019<br></strong></u><strong>B Girls<br></strong>Individual: Elisabeth Anne Lawrence, 3rd Placing</p>
 <p>Team: 2nd Placing</p>
 <ul>
