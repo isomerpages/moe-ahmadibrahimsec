@@ -44,14 +44,14 @@ third_nav_title: CCA Achievements
 <li>Choo Yee Wei (Zhu Yiwei)</li>
 <li>Elfie Shaqry Bin Muhammad Nin Sulaiman</li>
 </ul>
-4 x 100m B Boys<p></p>
+<p>4 x 100m B Boys</p>
 <ul>
 <li>Tang Zhijie Nicholas</li>
 <li>Chia Tian Le</li>
 <li>Ang Wei Siang Jeffrey</li>
 <li>Ilhan Faheem Bin Zainal Abidin</li>
 </ul>
-4 x 100m B Girls<p></p>
+<p>4 x 100m B Girls</p>
 <ul>
 <li>Alyssa Binte Yazid</li>
 <li>Illya Sufiya Binte Ramzdan</li>
@@ -64,7 +64,7 @@ third_nav_title: CCA Achievements
 </p><p><u><strong>2022<br></strong></u><strong>C Girls Shotput: 6th</strong></p>
 <ul>
 <li>Kendra Gomez</li></ul>
-<strong>C Girls 400mt: 8th</strong><p></p>
+<p><strong>C Girls 400mt: 8th</strong></p>
 <ul>
 <li>Eva Chia Yi Hui (Xie YihuiI)</li></ul>
 <p><u><strong>2021<br></strong></u>
@@ -106,120 +106,116 @@ third_nav_title: CCA Achievements
 
 <hr>
 <h4><strong>Shooting</strong></h4>
-<p><u><strong>2023<br></strong></u></p><strong>B Girls Rifle</strong><br>National: Champion<ul>
+<p><u><strong>2023<br></strong></u></p><strong>B Girls Rifle</strong><br>National: Champion
 <li>Tan Wee Xuan, Wichelle</li>
 <li>Gao Xinyue</li>
 <li>Ong Jia Yee (Wang Jiayi)</li>
 <li>Erinna Qusyairah Binte Eddy Amin</li>
 <li>Oh Hwee Teng Joey</li>
 <li>Nyla Batrisyia Evbuomwan</li>
-</ul>
-Air Rifle Women Rank 4<ul>
-<li>Oh Hwee Teng Joey</li></ul>
-Air Rifle Women Rank 6<ul>
-<li>Tan Wee Xuan, Wichelle</li></ul>
-Air Rifle Women Rank 7<ul>
-<li>Gao Xinyue</li></ul>
-Air Rifle Women Rank 10<ul>
-<li>Erinna Qusyairah Binte Eddy Amin</li></ul>
 
-<strong>B Girls Pistol</strong><br>National: Champion<ul>
+Air Rifle Women Rank 4
+<li>Oh Hwee Teng Joey</li>
+Air Rifle Women Rank 6
+<li>Tan Wee Xuan, Wichelle</li>
+Air Rifle Women Rank 7
+<li>Gao Xinyue</li>
+Air Rifle Women Rank 10
+<li>Erinna Qusyairah Binte Eddy Amin</li>
+
+<strong>B Girls Pistol</strong><br>National: Champion
 <li>Lin Yuxuan</li>
 <li>Chew Yee Sin</li>
 <li>Liu Ho Man Meagan</li>
 <li>Michelle Khoo Xin Yu</li>
 <li>Toh Jin Yi Jamie</li>
-</ul>
-Air Pistol Women Champion<ul>
-<li>Chew Yee Sin</li></ul>
-Air Pistol Women Rank 4<ul>
-<li>Tan Yi Jin</li></ul>
-Air Pistol Women Rank 5<ul>
-<li>Lin Yuxuan</li></ul>
 
-<strong>B Boys Rifle</strong><br>Air Rifle Men Rank 15<ul>
-<li>Toh Jin An, Brandon</li></ul>
-<strong>B Boys Pistol</strong><ul>
-<li>N.A</li></ul>
-<strong>C Girls Rifles</strong><ul>
+Air Pistol Women Champion
+<li>Chew Yee Sin</li>
+Air Pistol Women Rank 4
+<li>Tan Yi Jin</li>
+Air Pistol Women Rank 5
+<li>Lin Yuxuan</li>
+
+<strong>B Boys Rifle</strong>
+<br>Air Rifle Men Rank 15
+<li>Toh Jin An, Brandon</li>
+<strong>B Boys Pistol</strong>
 <li>N.A</li>
-</ul>
+<strong>C Girls Rifles</strong>
+<li>N.A</li>
 <strong>C Girls Pistol
-</strong><ul>
-<li>N.A</li></ul>
-<strong>C Boys Rifles
-</strong><ul>
-<li>N.A</li></ul>
-<strong>C Boys Pistol
-</strong><ul>
-<li>N.A</li></ul>
-<p><u><strong>2022<br></strong></u></p><strong>B Girls Rifle</strong><ul>
+</strong>
 <li>N.A</li>
-</ul>
-<strong>B Girls Pistol</strong><br>National: 3rd<ul>
+<strong>C Boys Rifles
+</strong>
+<li>N.A</li>
+<strong>C Boys Pistol
+</strong>
+<li>N.A</li>
+<p><u><strong>2022<br></strong></u></p><strong>B Girls Rifle</strong>
+<li>N.A</li>
+<strong>B Girls Pistol</strong><br>National: 3rd
 <li>Tan Yi Jin</li>
 <li>Chew Yee Sin</li>
 <li>Ho Yi Xuan, Chloe</li>
 <li>Aragon Janna Francheska Cabillo</li>
-</ul>
-<strong>B Boys Rifle</strong><ul>
-<li>N.A</li></ul>
-<strong>B Boys Pistol</strong><ul>
-<li>N.A</li></ul>
-<strong>C Girls Rifles</strong><br>National: 4th<ul>
+<strong>B Boys Rifle</strong>
+<li>N.A</li>
+<strong>B Boys Pistol</strong>
+<li>N.A</li>
+<strong>C Girls Rifles</strong><br>National: 4th
 <li>Tan Wee Xuan Wichelle</li>
 <li>Oh Kwee Teng Joey</li>
 <li>Ong Jia Yee Erinna</li>
 <li>Qusyairah Binte Eddy Amin</li>
-</ul>
 <strong>C Girls Pistol
-</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
 <strong>C Boys Rifles
-</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
 <strong>C Boys Pistol
-</strong><ul>
-<li>N.A</li></ul>
-<p><u><strong>2021<br></strong></u><strong>B Girls Rifle</strong></p><br>National: 4th<ul>
+</strong>
+<li>N.A</li>
+<p><u><strong>2021<br></strong></u><strong>B Girls Rifle</strong></p><br>National: 4th
 <li>Nur Sara Insyira</li>
 <li>Wong Yu Xuan</li>
 <li>Pang Xin Tong</li>
 <li>Chong Xue Min</li>
-</ul>
-<strong>B Girls Pistol</strong><ul>
-<li>N.A</li></ul>
-<strong>B Boys Rifle</strong><ul>
-<li>N.A</li></ul>
-<strong>B Boys Pistol</strong><ul>
-<li>N.A</li></ul>
-<strong>C Girls Rifles</strong><ul>
-<li>N.A</li></ul>
+<strong>B Girls Pistol</strong>
+<li>N.A</li>
+<strong>B Boys Rifle</strong>
+<li>N.A</li>
+<strong>B Boys Pistol</strong>
+<li>N.A</li>
+<strong>C Girls Rifles</strong>
+<li>N.A</li>
 <strong>C Girls Pistol
-</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
 <strong>C Boys Rifles
-</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
 <strong>C Boys Pistol
-</strong><ul>
-<li>N.A</li></ul>
-<p><u><strong>2020<br></strong></u></p><strong>B Girls Rifle</strong><ul>
-<li>N.A</li></ul>
-<strong>B Girls Pistol</strong><ul>
-<li>N.A</li></ul>
-<strong>B Boys Rifle</strong><ul>
-<li>N.A</li></ul>
-<strong>B Boys Pistol</strong><ul>
-<li>N.A</li></ul>
-<strong>C Girls Rifles</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
+<p><u><strong>2020<br></strong></u></p><strong>B Girls Rifle</strong>
+<li>N.A</li>
+<strong>B Girls Pistol</strong>
+<li>N.A</li>
+<strong>B Boys Rifle</strong>
+<li>N.A</li>
+<strong>B Boys Pistol</strong>
+<li>N.A</li>
+<strong>C Girls Rifles</strong>
+<li>N.A</li>
 <strong>C Girls Pistol
-</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
 <strong>C Boys Rifles
-</strong><ul>
-<li>N.A</li></ul>
+</strong>
+<li>N.A</li>
 <strong>C Boys Pistol
 </strong><ul>
 <li>N.A</li></ul>
