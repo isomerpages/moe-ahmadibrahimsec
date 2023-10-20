@@ -20,7 +20,7 @@ sections:
         November 2023. Go to our IG and FB page for more details!
       button: Register here
       url: https://www.instagram.com/reel/CyXhnQ4hko2/?igshid=NjFhOGMzYTE3ZQ==
-      alt: Image alt text
+      alt: AI 60th Anniversary Homecoming
       image: /images/Mainpage/ai-homecoming-2023.png
   - infopic:
       title: Meet Ms Tan Ke-Xin
