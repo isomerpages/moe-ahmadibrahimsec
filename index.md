@@ -16,11 +16,12 @@ sections:
       title: AI 60th Anniversary Homecoming
       subtitle: 18 November 2023
       id: infopic
-      description: "Dear Alumni, come join us for Homecoming! Register before 6
-        November 2023. Go to our IG and FB page for more details!  "
+      description: Dear Alumni, come join us for Homecoming! Register before 6
+        November 2023. Go to our IG and FB page for more details!
       button: Register here
       url: https://www.instagram.com/reel/CyXhnQ4hko2/?igshid=NjFhOGMzYTE3ZQ==
       alt: Image alt text
+      image: /images/Mainpage/ai-homecoming-2023.png
   - infopic:
       title: Meet Ms Tan Ke-Xin
       subtitle: Principal of AISS
