@@ -13,10 +13,20 @@ sections:
       subtitle: Latest News and Highlights
       button: View more
   - infopic:
+      title: AI 60th Anniversary Homecoming
+      subtitle: 18 November 2023
+      id: infopic
+      description: Dear Alumni, come join us for Homecoming! Register before 6
+        November 2023. Go to our IG and FB page for more details!
+      button: Register here
+      url: https://www.instagram.com/reel/CyXhnQ4hko2/?igshid=NjFhOGMzYTE3ZQ==
+      alt: AI 60th Anniversary Homecoming
+      image: /images/Mainpage/ai-homecoming-2023.png
+  - infopic:
       title: Meet Ms Tan Ke-Xin
       subtitle: Principal of AISS
-      description: "Welcome dear parents and visitors! It gives me great pleasure to
-        introduce you to our AI Family... "
+      description: Welcome dear parents and visitors! It gives me great pleasure to
+        introduce you to our AI Family...
       button: Read More
       alt: Image alt text
       image: /images/principal3.png
@@ -49,14 +59,4 @@ sections:
       url: /signature-programmes/enhanced-music-programme-emp/
       image: /images/emp cover.jpg
       alt: Image alt text
-  - infopic:
-      title: Be Transformed Be Extraordinary
-      subtitle: Ordinary Miracles
-      description: Introduced in 2014, it has become an AI tradition for students to
-        recollect significant moments that touched them in the year. We call it
-        Ordinary Miracles@AI..
-      button: Read More
-      alt: Image alt text
-      image: /images/miracle2.png
-      url: /ordinary-miracles
 ---
