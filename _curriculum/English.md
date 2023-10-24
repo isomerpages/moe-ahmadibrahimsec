@@ -8,7 +8,7 @@ description: ""
 <p>A dedicated group of teachers who believe in the importance of building on the foundation in the English language through exposure and creative use, in reading, writing, listening and speaking.</p>
 
 <h5>Contemplations</h5>
-<li>[2022 - 2023](https://sites.google.com/moe.edu.sg/contemplations2022-2023/)</li>
+<li><a href="https://sites.google.com/moe.edu.sg/contemplations2022-2023/" target="_blank" rel="noopener">2022 - 2023</a></li>
 	
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Public Speaking Programme</label>
