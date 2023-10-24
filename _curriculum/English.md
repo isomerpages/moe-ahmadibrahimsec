@@ -7,7 +7,7 @@ description: ""
 ### About Us
 <p>A dedicated group of teachers who believe in the importance of building on the foundation in the English language through exposure and creative use, in reading, writing, listening and speaking.</p>
 
-<h5>Contemplations</h5>
+<h4>Contemplations</h4>
 <li><a href="https://sites.google.com/moe.edu.sg/contemplations2022-2023/" target="_blank" rel="noopener">2022 - 2023</a></li>
 	
 <ul class="jekyllcodex_accordion">
