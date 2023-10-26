@@ -53,8 +53,16 @@ Online purchase will not be available. Upon FAS approval, the school will contac
 | **Customer Service Contact** | HOTLINE: 69298012<br>(9am to 5pm, Mon to Fri)<br>Email: [sales@pacificbookstores.com](sales@pacificbookstores.com)| Whatsapp: 9077 2932 | Tel/Whatsapp: 8282 9153<br>(9am to 5pm, Mon to Fri)<br>Email: [general@bluestag.sg](general@bluestag.sg) |
 |
 
+*Online purchase is not available for MOE FAS and School Based FAS students
+
 <b><u>Walk-In Purchase</u></b><br>
-As part of safe management measures, the school strongly encourages appointments to be made for walk-in purchase. Those with scheduled appointment will receive priority. Appointments can made at our vendor website&nbsp;[Register.ezy-queue.com](https://register.ezy-queue.com/)&nbsp;or through the app PBS EzyQ (available on iOS and Android). The appointment system will be available from 14 Nov 22.
+As part of safe management measures, the school strongly encourages appointments to be made for walk-in purchase of textbooks. Those with scheduled appointment will receive priority at the bookstore. Those who walk-in without an appointment will have to wait for the next available opening. 
+
+Appointments can made at our vendor [website](https://www.pacificbookstores.com) . The appointment system will be available from 13 Nov. 
+
+The user guide for the appointment system is attached.
+* 
+
 
 **NB: This e-appointment will allow entry into the school for purchase from all vendors (i.e. textbooks and school attire).**
 
