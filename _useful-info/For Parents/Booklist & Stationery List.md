@@ -7,26 +7,31 @@ third_nav_title: For Parents
 ### Booklist &amp; Stationery List (2024)
 
 * Sec 1
-	- [Express](/files/sec1a.pdf)
-	- [Normal Academic](/files/sec1b.pdf)
-	- [Normal Technical](/files/sec1c.pdf)
+	- [Sec 1](/files/Booklist/2024/sec%20one.pdf)
 
 * Sec 2
-	- [Express](/files/sec2a.pdf)
-	- [Normal Academic](/files/sec2b.pdf)
-	- [Normal Technical](/files/sec2c.pdf)
+	- [G3 - Express](/files/Booklist/2024/sec%202%20express.pdf)
+	- [G2 - Normal Academic](/files/Booklist/2024/sec%202%20normal%20acad.pdf)
+	- [G2 - Normal Academic (SBB)](/files/Booklist/2024/sec%202%20normal%20acad%20-%20sbb.pdf)
+	- [G1 - Normal Technical](/files/Booklist/2024/sec%202%20normal%20tech.pdf)
+	- [G1 - Normal Technical (SBB)](/files/Booklist/2024/sec%20%202%20normal%20tech%20-%20sbb.pdf)
 
 * Sec 3
-	- [Express](/files/sec3a.pdf)
-	- [Normal Academic](/files/sec3b.pdf)
-	- [Normal Technical](/files/sec3c.pdf)
+	- [G3 - Express](/files/Booklist/2024/sec%203%20express.pdf)
+	- [G2 - Normal Academic](/files/Booklist/2024/sec%203%20normal%20acad.pdf)
+	- [G2 - Normal Academic (SBB)](/files/Booklist/2024/sec%203%20normal%20acad%20-%20sbb.pdf)
+	- [G1 - Normal Technical](/files/Booklist/2024/sec%203%20normal%20tech.pdf)
+	- [G1 - Normal Technical (SBB)](/files/Booklist/2024/sec%203%20normal%20tech%20-%20sbb.pdf)
 
 * Sec 4
-	- [Express](/files/sec4a.pdf)
-	- [Normal Academic](/files/sec4b.pdf)
-	- [Normal Technical](/files/sec4c.pdf)
+	- [G3 - Express](/files/Booklist/2024/sec%204%20express.pdf)
+	- [G2 - Normal Academic](/files/Booklist/2024/sec%204%20normal%20acad.pdf)
+	- [G2 - Normal Academic (SBB)](/files/Booklist/2024/sec%204%20normal%20acad%20-%20sbb.pdf)
+	- [G1 - Normal Technical](/files/Booklist/2024/sec%204%20normal%20tech.pdf)
+	- [G1 - Normal Technical (SBB)](/files/Booklist/2024/sec%204%20normal%20tech%20-%20sbb.pdf)
 
-* [Sec 5](/files/sec5.pdf)
+* Sec 5
+	- [Sec 5](/files/Booklist/2024/sec%205%20normal%20acad.pdf)
 
 #### End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2024
 The school textbooks and attire can be purchased from our approved vendors either online* or directly at the school during specified dates (see walk-in purchase).
