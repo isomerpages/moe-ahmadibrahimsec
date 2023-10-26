@@ -71,30 +71,32 @@ Please refer to the available dates for walk-in purchase in school at the table 
 | **Supplier** | Pacific Bookstore | Chop Kong Chong | Blue Stag |
 | **Payment Modes** | Cash, Paynow(QR) NTUC BTS Fund (e-voucher), CDAC (e-voucher) | Cash, Paynow | Cash, Paynow |
 
-Those who walk-in without an appointment will have to wait for the next available opening.
-
 <b><u>Available Dates for Walk-in Purchase in School:</u></b><br>
 
 | Sales / Collection Date |  |  | Operating Hours |  |
 |:---:|:---:|:---:|:---:|:---:|
 |  |  | **Bookshop*** | **School Uniform** | **PE Attire** |
-| 21/11/2022 | Monday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-| 22/11/2022 | Tuesday | 9.00 am to 3.00 pm |  |  |
-| 24/11/2022 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-| 25/11/2022 | Friday | 9.00 am to 3.00 pm |  |  |
-| 29/11/2022 | Tuesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-| 30/11/2022 | Wednesday | 9.00 am to 3.00 pm |  |  |
-| 1/12/2022 | Thursday | 9.00 am to 3.00 pm |  |  |
-| 2/12/2022 | Friday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-| 5/12/2022 | Monday | 9.00 am to 3.00 pm |  |  |
-| 6/12/2022 | Tuesday | 9.00 am to 3.00 pm |  |  |
-| 7/12/2022 | Wednesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-| 9/12/2022 | Friday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-| 12/12/2022 | Monday | 9.00 am to 3.00 pm |  |  |
-| 13/12/2022 | Tuesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-| 14/12/2022 | Wednesday | 9.00 am to 3.00 pm |  |  |
-| 15/12/2022 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
-|
+| 20/11/2023 | Monday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 21/11/2023 | Tuesday | 9.00 am to 3.00 pm |  |  |
+| 23/11/2023 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 24/11/2023 | Friday | 9.00 am to 3.00 pm |  |  |
+| 28/11/2023 | Tuesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 29/11/2023 | Wednesday | 9.00 am to 3.00 pm |  |  |
+| 30/11/2023 | Thursday | 9.00 am to 3.00 pm |  |  |
+| 1/12/2023 | Friday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 4/12/2023 | Monday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 5/12/2023 | Tuesday | 9.00 am to 3.00 pm |  |  |
+| 7/12/2023 | Thursday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 8/12/2023 | Friday | 9.00 am to 3.00 pm |  |  |
+| 11/12/2023 | Monday | 9.00 am to 3.00 pm |  |  |
+| 12/12/2023 | Tuesday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 14/12/2023 | Thursday | 9.00 am to 3.00 pm |  |  |
+| 15/12/2023 | Friday | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm | 9.00 am to 3.00 pm |
+| 3/1/2024 | Wednesday |  |  | 9.00 am to 2.00 pm |
+| 5/1/2024 | Friday |  |  | 9.00 am to 2.00 pm |
+| 10/1/2024 | Wednesday |  |  | 9.00 am to 2.00 pm |
+
+
 
 \* Onsite/walk-in purchase will not be available at Pacific Bookstores Headquarters.<br>
 \*\* Onsite/walk-in purchase will not be available at Blue Stag Headquarters.
