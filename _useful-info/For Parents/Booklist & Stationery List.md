@@ -7,7 +7,7 @@ third_nav_title: For Parents
 ### Booklist &amp; Stationery List (2024)
 
 * Sec 1
-	- *To be updated in later date*
+	- *To be updated on later date*
 
 * Sec 2
 	- [G3 - Express](/files/Booklist/2024/sec%202%20express.pdf)
