@@ -96,7 +96,11 @@ Please refer to the available dates for walk-in purchase in school at the table 
 | 5/1/2024 | Friday |  |  | 9.00 am to 2.00 pm |
 | 10/1/2024 | Wednesday |  |  | 9.00 am to 2.00 pm |
 
-
+| <center>**Type of Sales**</center> | <center>**Venue**</center>| 
+|:---:|:---:|
+| Textbooks | Classroom J 01-1 (Junior Block)  |
+| PE Attire | Classroom J 02-3 (Junior Block) / AI Arc (3/1/2024, 5/1/2024 &amp; 10/1/2024)  |
+| School Uniform | Classroom J 02-1 (Junior Block)  |
 
 \* Onsite/walk-in purchase will not be available at Pacific Bookstores Headquarters.<br>
 \*\* Onsite/walk-in purchase will not be available at Blue Stag Headquarters.
