@@ -51,7 +51,6 @@ Online purchase will not be available. Upon FAS approval, the school will contac
 | **Delivery Timeline** | 7 days | 6-8 Working Days | 5-7 Working Days |
 | **Exchange Policy** |<ul><li>All purchases are final, and no cancellation will be accepted.</li><li>No refund allowed and only exchange will be entertained.</li></ul>| <ul><li>All items sold are non-refundable.</li><li>Items may be exchanged at our Retail Outlet within 14 days with the receipt.</li><li>Items sold may be exchanged provided that they are in their original condition, i.e., the items are not washed, worn or altered.</li><li>All exchanges are subjected to stock availability of the items.</li></ul>| <ul><li>All items sold are non-refundable.</li><li>Items can be exchanged at the sales venue in school during our operating hours within 14 days.</li><li>In order to be accepted for exchanges, the products should not be washed, altered, worn or ironed.</li></ul> |
 | **Customer Service Contact** | HOTLINE: 69298012<br>(9am to 5pm, Mon to Fri)<br>Email: [sales@pacificbookstores.com](sales@pacificbookstores.com)| Whatsapp: 9077 2932 | Tel/Whatsapp: 8282 9153<br>(9am to 5pm, Mon to Fri)<br>Email: [general@bluestag.sg](general@bluestag.sg) |
-|
 
 <b>*Online purchase is not available for MOE FAS and School Based FAS students</b>
 
@@ -61,10 +60,16 @@ As part of safe management measures, the school strongly encourages appointments
 Appointments can made at our vendor [website](https://www.pacificbookstores.com) . The appointment system will be available from 13 Nov. 
 
 The user guide for the appointment system is attached.
-* 
+* [Guide](/files/Booklist/2024/eappointment%20guide.pdf)
 
+<b>NB: E-appointment is not required for school attire.</b>
 
-**NB: This e-appointment will allow entry into the school for purchase from all vendors (i.e. textbooks and school attire).**
+Please refer to the available dates for walk-in purchase in school at the table below.
+
+|  | Textbooks | School Uniform | PE Attire |
+|:---:|:---:|:---:|:---:|
+| **Supplier** | Pacific Bookstore | Chop Kong Chong | Blue Stag |
+| **Payment Modes** | Cash, Paynow(QR) NTUC BTS Fund (e-voucher), CDAC (e-voucher) | Cash, Paynow | Cash, Paynow |
 
 Those who walk-in without an appointment will have to wait for the next available opening.
 
