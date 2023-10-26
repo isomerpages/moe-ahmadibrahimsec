@@ -101,7 +101,7 @@ Please refer to the available dates for walk-in purchase in school at the table 
 | 5/1/2024 | Friday |  |  | 9.00 am to 2.00 pm |
 | 10/1/2024 | Wednesday |  |  | 9.00 am to 2.00 pm |
 
-|**Type of Sales** | **Venue**| 
+| <center><b>Type of Sales</b></center> | <center><b>Venue</b></center>| 
 |:---:|:---:|
 | Textbooks | Classroom J 01-1 (Junior Block)  |
 | PE Attire | Classroom J 02-3 (Junior Block) / AI Arc (3/1/2024, 5/1/2024 &amp; 10/1/2024)  |
