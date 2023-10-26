@@ -1,5 +1,5 @@
 ---
-title: Booklist &amp; Stationery List
+title: Booklist & Stationery List
 permalink: /useful-info/for-parents/booklist-stationery-list/
 description: ""
 third_nav_title: For Parents
@@ -28,30 +28,27 @@ third_nav_title: For Parents
 
 * [Sec 5](/files/sec5.pdf)
 
-#### End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2023
-<b><u>Online Purchase</u></b><br>
-Due to COVID-19 situation, parents are strongly encouraged to purchase textbooks and school attire online.
+#### End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2024
+The school textbooks and attire can be purchased from our approved vendors either online* or directly at the school during specified dates (see walk-in purchase).
 
-<b><u>Mode of Collection for Online Purchase</u></b><br>
-(i) Home delivery; or<br>
-(ii) Self-collection at the school
+Students are advised to purchase school textbooks from our school bookshop vendor to ensure the correct editions and titles are selected as prescribed by the school
 
-Parents are encouraged to opt for home delivery to limit social interactions.
+<b><u>STUDENTS OFFERED SBB SUBJECTS</u></b><br>
+Students who are uncertain about whether they will be offered SBB subjects should refrain from purchasing textbooks at this time. Please be aware that purchases from our school bookshop are non-refundable, and only books in their original condition can be exchanged. For instance, books with students' names written in them cannot be exchanged.
 
-For those who opt for self-collection, please note the&nbsp;<b><u>dates available for collection below.</u></b>
-
-<b><u>MOE FAS and School-Based FAS Students</u></b><br>
+<b><u>MOE FAS AND SCHOOL-BASED FAS STUDENTS</u></b><br>
 Online purchase will not be available. Upon FAS approval, the school will contact parents to arrange for the collection of the approval letter. Parents who receive FAS approval from other schools are advised to contact our General Office to make an appointment for the collection of the approval letter from our school.
 
-##### <center><b>Online Purchase</b></center>
+##### <center><b>Online Purchase*</b></center>
 
 |  | Textbooks &amp; Stationery<br>(inc shoes and badge) | School Uniform | School PE Attire |
 |:---:|:---:|:---:|:---:|
 | **Vendor** | Pacific Bookstore | Chop Kong Chong | Blue Stag |
 | **Website for online purchase** | [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)<br>Please refer to [purchase guide](/files/2022%20PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE%20AISS.pdf).  | [http://www.euniforms.com.sg/](http://www.euniforms.com.sg/) | [http://www.bluestag.sg/](http://www.bluestag.sg/) |
-| **Dates of online purchases** | From: 3 Nov to 15 Dec 2022 | From: 3 Nov 2022 | From: 3 Nov 2022 |
-| **Home Delivery Charges** | $13.80 | $7.00 | $6.50 |
-| **Payment Mode** | PayNow (QR code) or Credit/Debit Card (Visa/Master only) | PayNow (QR code) or PayLah | PayNow Credit/Debit Card (Visa/Master only) |
+| **Dates of online purchases** | From: 3 Nov to 13 Dec | Ongoing | Ongoing |
+| **Payment Mode** | PayNow (QR code)<br>Credit/Debit Card (Visa/Master only) | PayNow | PayNow<br>Credit/Debit Card (Visa/Master only) |
+| **Mode of Collection** | Home Delivery <br>Local delivery charge of <b>$14.60</b> applies.<br>Self-Collection at School (Appointment required) | Home Delivery only<br>Local delivery charge of <b>$7.00</b> applies | $6.50 |
+| **Payment Mode** | PayNow (QR code)<br>Credit/Debit Card (Visa/Master only) | PayNow | PayNow<br>Credit/Debit Card (Visa/Master only) |
 |
 
 <b><u>Walk-In Purchase</u></b><br>
