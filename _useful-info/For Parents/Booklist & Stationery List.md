@@ -49,9 +49,8 @@ Online purchase will not be available. Upon FAS approval, the school will contac
 | **Payment Mode** | PayNow (QR code)<br>Credit/Debit Card (Visa/Master only) | PayNow | PayNow<br>Credit/Debit Card (Visa/Master only) |
 | **Mode of Collection** | Home Delivery <br>Local delivery charge of <b>$14.60</b> applies.<br>Self-Collection at School (Appointment required) | Home Delivery only<br>Local delivery charge of <b>$7.00</b> applies | Home Delivery only<br>Local delivery charge of <b>$6.50</b> applies |
 | **Delivery Timeline** | 7 days | 6-8 Working Days | 5-7 Working Days |
-| **Exchange Policy** |<li>All purchases are final, and no cancellation will be accepted.</li><li>No refund allowed and only exchange will be entertained.</li>
- | PayNow | PayNow<br>Credit/Debit Card (Visa/Master only) |
-| **Payment Mode** | PayNow (QR code)<br>Credit/Debit Card (Visa/Master only) | PayNow | PayNow<br>Credit/Debit Card (Visa/Master only) |
+| **Exchange Policy** |<ul><li>All purchases are final, and no cancellation will be accepted.</li><li>No refund allowed and only exchange will be entertained.</li></ul>| <ul><li>All items sold are non-refundable.</li><li>Items may be exchanged at our Retail Outlet within 14 days with the receipt.</li><li>Items sold may be exchanged provided that they are in their original condition, i.e., the items are not washed, worn or altered.</li><li>All exchanges are subjected to stock availability of the items.</li></ul>| <ul><li>All items sold are non-refundable.</li><li>Items can be exchanged at the sales venue in school during our operating hours within 14 days.</li><li>In order to be accepted for exchanges, the products should not be washed, altered, worn or ironed.</li></ul> |
+| **Customer Service Contact** | HOTLINE: 69298012<br>(9am to 5pm, Mon to Fri)<br>Email: [sales@pacificbookstores.com](sales@pacificbookstores.com)| Whatsapp: 9077 2932 | Tel/Whatsapp: 8282 9153<br>(9am to 5pm, Mon to Fri)<br>Email: [general@bluestag.sg](general@bluestag.sg) |
 |
 
 <b><u>Walk-In Purchase</u></b><br>
