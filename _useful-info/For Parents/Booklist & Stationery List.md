@@ -4,7 +4,7 @@ permalink: /useful-info/for-parents/booklist-stationery-list/
 description: ""
 third_nav_title: For Parents
 ---
-### Booklist &amp; Stationery List (2023)
+### Booklist &amp; Stationery List (2024)
 
 * Sec 1
 	- [Express](/files/sec1a.pdf)
@@ -53,7 +53,7 @@ Online purchase will not be available. Upon FAS approval, the school will contac
 | **Customer Service Contact** | HOTLINE: 69298012<br>(9am to 5pm, Mon to Fri)<br>Email: [sales@pacificbookstores.com](sales@pacificbookstores.com)| Whatsapp: 9077 2932 | Tel/Whatsapp: 8282 9153<br>(9am to 5pm, Mon to Fri)<br>Email: [general@bluestag.sg](general@bluestag.sg) |
 |
 
-*Online purchase is not available for MOE FAS and School Based FAS students
+<b>*Online purchase is not available for MOE FAS and School Based FAS students</b>
 
 <b><u>Walk-In Purchase</u></b><br>
 As part of safe management measures, the school strongly encourages appointments to be made for walk-in purchase of textbooks. Those with scheduled appointment will receive priority at the bookstore. Those who walk-in without an appointment will have to wait for the next available opening. 
