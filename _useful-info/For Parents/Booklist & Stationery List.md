@@ -49,8 +49,8 @@ Online purchase will not be available. Upon FAS approval, the school will contac
 |  | Textbooks &amp; Stationery<br>(inc shoes and badge) | School Uniform | School PE Attire |
 |:---:|:---:|:---:|:---:|
 | **Vendor** | Pacific Bookstore | Chop Kong Chong | Blue Stag |
-| **Website for online purchase** | [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)<br>Please refer to [purchase guide](/files/2022%20PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE%20AISS.pdf).  | [http://www.euniforms.com.sg/](http://www.euniforms.com.sg/) | [http://www.bluestag.sg/](http://www.bluestag.sg/) |
-| **Dates of online purchases** | From: 3 Nov to 13 Dec | Ongoing | Ongoing |
+| **Website for online purchase** | [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)<br>Please refer to [purchase guide](/files/Booklist/2024/pacific%20bookstores%20purchase%20guide%202024%20secondary.pdf).  | [http://www.euniforms.com.sg/](http://www.euniforms.com.sg/) | [http://www.bluestag.sg/](http://www.bluestag.sg/) |
+| **Dates of online purchases** | From: 3 Nov to 15 Dec | Ongoing | Ongoing |
 | **Payment Mode** | PayNow (QR code)<br>Credit/Debit Card (Visa/Master only) | PayNow | PayNow<br>Credit/Debit Card (Visa/Master only) |
 | **Mode of Collection** | Home Delivery <br>Local delivery charge of <b>$14.60</b> applies.<br>Self-Collection at School (Appointment required) | Home Delivery only<br>Local delivery charge of <b>$7.00</b> applies | Home Delivery only<br>Local delivery charge of <b>$6.50</b> applies |
 | **Delivery Timeline** | 7 days | 6-8 Working Days | 5-7 Working Days |
