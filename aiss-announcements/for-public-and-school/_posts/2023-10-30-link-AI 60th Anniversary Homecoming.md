@@ -4,5 +4,5 @@ date: 2023-10-30
 layout: link
 description: ""
 image: ""
-external: https://https://go.gov.sg/ai60homecoming
+external: https://go.gov.sg/ai60homecoming
 ---
