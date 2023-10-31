@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - P6 Publicity Booklet.md
       - Direct School Admission (DSA).md
       - E Open House.md
+      - P6 Publicity Booklet.md
       - Sec 1 Registration.md
