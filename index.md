@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website Banner/ai.gif
+      background: /images/Website Banner/ai2019-072732.jpg
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
@@ -19,7 +19,7 @@ sections:
       description: Dear Alumni, come join us for Homecoming! Register before 6
         November 2023. Go to our IG and FB page for more details!
       button: Register here
-      url: https://www.instagram.com/reel/CyXhnQ4hko2/?igshid=NjFhOGMzYTE3ZQ==
+      url: https://go.gov.sg/ai60homecoming
       alt: AI 60th Anniversary Homecoming
       image: /images/Mainpage/ai-homecoming-2023.png
   - infopic:
