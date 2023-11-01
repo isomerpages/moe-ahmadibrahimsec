@@ -13,6 +13,15 @@ sections:
       subtitle: Latest News and Highlights
       button: View more
   - infopic:
+      title: "AI E-Open House 2023 "
+      subtitle: 11 November 2023
+      id: infopic
+      description: "Interested to know more about our school? "
+      button: Read More
+      url: /useful-info/e-openhouse/
+      image: /images/Mainpage/eopen house.jpg
+      alt: Image alt text
+  - infopic:
       title: AI 60th Anniversary Homecoming
       subtitle: 18 November 2023
       id: infopic
