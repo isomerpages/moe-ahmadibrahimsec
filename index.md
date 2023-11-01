@@ -13,13 +13,6 @@ sections:
       subtitle: Latest News and Highlights
       button: View more
   - infopic:
-      title: AI E-Open House
-      subtitle: 11 November 2023
-      id: infopic
-      button: Visit here
-      url: https://sites.google.com/moe.edu.sg/aieopenhouse2023/home
-      alt: Image alt text
-  - infopic:
       title: AI 60th Anniversary Homecoming
       subtitle: 18 November 2023
       id: infopic
