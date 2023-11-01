@@ -5,7 +5,7 @@ description: ""
 ---
 ## E-Open House
 
-![](/images/Mainpage/eopen%20house.jpg)
+![](/images/Mainpage/eopen%20house-compressed-1080px.jpg)
 
 Interested to know more about our school? Come join our E-Open House on 11 or 18 November 2023 over Zoom from 9.30 to 11.00 am.  Listen to our Team and have a chat with our School Leaders and Teachers. We'll be happy to share with you about our school.
 
