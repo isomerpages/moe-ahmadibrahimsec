@@ -95,7 +95,7 @@ Each year, we organise two camps, one in March and the other in June. Once every
 </li>
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Gallery</label>
 <div>
-*To be updated at a later date*
+*Updating in Progress*
 </div>
 </li>
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Training Schedule</label>
