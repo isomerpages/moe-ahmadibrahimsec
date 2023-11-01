@@ -11,8 +11,7 @@ third_nav_title: For Parents
 
 * Sec 2
 	- [G3 - Express](/files/Booklist/2024/sec%202%20express.pdf)
-	- [G2 - Normal Academic](/files/Booklist/2024/sec%202%20normal%20acad.pdf)
-	- [G2 - Normal Academic (SBB)](/files/Booklist/2024/sec%202%20normal%20acad%20-%20sbb.pdf)
+	- G2 - Normal Academic: *To be updated on later date*
 	- [G1 - Normal Technical](/files/Booklist/2024/sec%202%20normal%20tech.pdf)
 	- [G1 - Normal Technical (SBB)](/files/Booklist/2024/sec%20%202%20normal%20tech%20-%20sbb.pdf)
 
