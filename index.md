@@ -20,7 +20,7 @@ sections:
         House on 11 or 18 November 2023 over Zoom from 9.30 to 11.00 am.
       button: Read More
       url: /useful-info/e-openhouse/
-      image: /images/Mainpage/eopen house-compressed.jpg
+      image: /images/Mainpage/eopen house-compressed-v1.jpg
       alt: Image alt text
   - infopic:
       title: AI 60th Anniversary Homecoming
