@@ -49,7 +49,7 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <p>Scouts’ hands are trained for wonders, with the ability to set up tents and structures necessary for surviving in the outdoors. Working in accordance with nature, Scouts improvise and make use of their surroundings to meet their needs while protecting them.</p>
 <h3 id="orienteering">Orienteering</h3>
 <p>Navigating with a map in one hand and a compass in the other, Scouts identify checkpoints and significant landmarks, and orientate themselves based on these points, allowing them to explore unfamiliar territory with ease while hiking.</p>
-Pioneering
+<h3 id="orienteering">Pioneering</h3>
 <p>With nimble fingers and rugged hands, Scouts construct miniature wooden models, transforming them into life-sized bridges, swings and kitchens using mere wooden spars and manila ropes.</p>
 <h3 id="outdoor-cooking">Outdoor Cooking</h3>
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire, to putting small pieces of chicken to roast over a self-made cooking pit, this is part of the outdoor cooking skill set that every Scout possesses.</p>
@@ -95,7 +95,7 @@ Pioneering
 </li>
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Gallery</label>
 <div>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqfpA8t5FLMQsqXyrFqgFmPJ1VV6qGuhnC2QZH1-aBH7-4rUG0Avll3pEtM8iAkbgju7FUIYQyDwGn/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+*Updating in Progress*
 </div>
 </li>
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Training Schedule</label>
