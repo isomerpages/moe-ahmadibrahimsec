@@ -13,6 +13,16 @@ sections:
       subtitle: Latest News and Highlights
       button: View more
   - infopic:
+      title: AI E-Open House 2023
+      subtitle: 11 November 2023
+      id: infopic
+      description: Interested to know more about our school? Come join our E-Open
+        House on 11 or 18 November 2023 over Zoom from 9.30 to 11.00 am.
+      button: Read More
+      url: /useful-info/e-openhouse/
+      image: /images/Mainpage/eopen house.jpg
+      alt: Image alt text
+  - infopic:
       title: AI 60th Anniversary Homecoming
       subtitle: 18 November 2023
       id: infopic

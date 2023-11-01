@@ -19,7 +19,7 @@ To do our part for society, we organise and participate in service-learning acti
 
 Each year, we organise two camps, one in March and the other in June. Once every two years at year end, we co-organise a combined camp with the Girl Guides and embark on an overseas camping trip to meet Scouts from other countries. This is to allow Scouts to make new friends and learn new knowledge and skills from our counterparts. 
 <ul class="jekyllcodex_accordion">
-<li><input type="checkbox" id="accordion1"> <label for="accordion1">Vission &amp; Mission</label>
+<li><input type="checkbox" id="accordion1"> <label for="accordion1">Vision &amp; Mission</label>
 <div>
 	<p><strong>Vision</strong><br>Each Scout a gentleman clean in thought, word and deed, who strives to be a student leader who is a cut above the rest.</p>
 <p><strong>Mission</strong><br>To develop in young gentlemen courage, resilience and a sense of brotherhood</p>

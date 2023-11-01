@@ -1,6 +1,6 @@
 ---
 title: Sec 3 Subject Combinations Selection Result Release
-date: 2022-10-31
+date: 2023-11-01
 layout: link
 description: ""
 image: ""
