@@ -10,3 +10,4 @@ variant: markdown
 <p>Our AI alumni provide strong support in CCAs and ECG by conducting Career and Industry talks as well as motivational talks to our students.
 </p>
 
+<h5>1. Networking Session with Alumni in 2017</h5>
