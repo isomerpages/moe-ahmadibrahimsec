@@ -15,8 +15,10 @@ variant: markdown
 
 
 
-
-
+![](/images/sakthibalan-balathandautham.jpg)
+<p>Congratulations to Sakthibalan Balathandautham from Class of 2009, for being awarded the Straits Times Singaporean of the Year 2021. His strong advocacy of organ donation is exemplified by no less than his own act of donating a part of his liver to a baby in need. AI is proud of you!</p>
+<br>
+<br>
 <img src="/images/afna.png">
 <p style="text-align: center;"><strong><a href="http://www.channelnewsasia.com/news/sport/ahmad-ibrahim-secondary/2454196.html" target="_blank" rel="noopener">Click here to view the clip</a></strong></p>
 <p>Channel NewsAsia featured national shooter Jasmine Ser and traced the history of the shooting sport at Ahmad Ibrahim Secondary School (AISS). Ser shared that AISS had a long track record of achievements, leading to an inevitable pressure on the student athletes to continue the school’s legacy.</p>
