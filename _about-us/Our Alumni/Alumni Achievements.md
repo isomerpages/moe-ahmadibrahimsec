@@ -12,6 +12,11 @@ variant: markdown
 
 
 <h4><strong>AI in the News!</strong></h4>
+
+
+
+
+
 <img src="/images/afna.png">
 <p style="text-align: center;"><strong><a href="http://www.channelnewsasia.com/news/sport/ahmad-ibrahim-secondary/2454196.html" target="_blank" rel="noopener">Click here to view the clip</a></strong></p>
 <p>Channel NewsAsia featured national shooter Jasmine Ser and traced the history of the shooting sport at Ahmad Ibrahim Secondary School (AISS). Ser shared that AISS had a long track record of achievements, leading to an inevitable pressure on the student athletes to continue the school’s legacy.</p>
