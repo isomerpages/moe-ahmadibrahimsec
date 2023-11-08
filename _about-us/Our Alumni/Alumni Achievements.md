@@ -3,12 +3,14 @@ title: Alumni Achievements
 permalink: /partnerships/alumni/alumni-featured-news/
 description: ""
 third_nav_title: Our Alumni
-variant: tiptap
+variant: markdown
 ---
-<h4><strong>Lim Hui Shi</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_YwlcWH4PADkUIul2kX7wtN0D3pHyR2qTCTEybmHSyKL71PI5ElR42XxfYDrhi4aS14t7j2Xa-UhN/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><h4><strong>Congratulations to Tiffany Ang Li Shan!</strong></h4>
-<img src="/images/slide.jpg">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrXNONmkhgxad2n7bbJLWAyRGOcWJz24l9EfYOzsj16DxI6u6tDS1bwpjmW4CqhHmH_lM_T5oWZKwE/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<hr>
+<h4 style="text-align: center;">Heartiest congratulations to our Alumni for their outstanding achievements beyond AI.<br>AI IS PROUD OF YOU!</h4>
+<hr>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDjEcesnns_wyNIOB2GAHXE2ZbJNV-t2PghR1bUujYxxobmetfz4edHiqEEkyZ-i_GkqLmE1yT4Qtg/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="850" height="569" allowfullscreen="true"></iframe>
+
+
 <h4><strong>AI in the News!</strong></h4>
 <img src="/images/afna.png">
 <p style="text-align: center;"><strong><a href="http://www.channelnewsasia.com/news/sport/ahmad-ibrahim-secondary/2454196.html" target="_blank" rel="noopener">Click here to view the clip</a></strong></p>
