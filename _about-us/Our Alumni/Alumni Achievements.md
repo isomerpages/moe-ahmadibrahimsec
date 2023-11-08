@@ -12,18 +12,21 @@ variant: markdown
 
 
 <h4><strong>AI in the News!</strong></h4>
+<hr>
 
-
+![](/images/lou%20hong%20yeow.jpg)
+<p>Congratulations to our alumnus Lou Hong Yeow from Class of 2011 for representing Singapore in Freestyle Wrestling in the Commonwealth Games 2022 in Birmingham, UK.</p>
+<hr>
 
 ![](/images/sakthibalan-balathandautham.jpg)
 <p>Congratulations to Sakthibalan Balathandautham from Class of 2009, for being awarded the Straits Times Singaporean of the Year 2021. His strong advocacy of organ donation is exemplified by no less than his own act of donating a part of his liver to a baby in need. AI is proud of you!</p>
-<br>
+<hr>
 <br>
 <img src="/images/afna.png">
 <p style="text-align: center;"><strong><a href="http://www.channelnewsasia.com/news/sport/ahmad-ibrahim-secondary/2454196.html" target="_blank" rel="noopener">Click here to view the clip</a></strong></p>
 <p>Channel NewsAsia featured national shooter Jasmine Ser and traced the history of the shooting sport at Ahmad Ibrahim Secondary School (AISS). Ser shared that AISS had a long track record of achievements, leading to an inevitable pressure on the student athletes to continue the school’s legacy.</p>
 <p>Mr Charles Cheak, Subject head of CCA/AISS, said there was a talent identification programme for all Secondary 1 students and they go through suitability assessments, where they get to try out all sports in order to determine their suitability for each of them.</p>
-<p>Mr Yao Zi Jian, Assistant Year Head of Secondary 2/AISS, added that there was a Shooting Appreciation Module during physical education lessons where students could learn more about, and thus gain a deeper appreciation of, the sport.</p>
+<p>Mr Yao Zi Jian, Assistant Year Head of Secondary 2/AISS, added that there was a Shooting Appreciation Module during physical education lessons where students could learn more about, and thus gain a deeper appreciation of, the sport.</p><hr>
 <h4><strong>AI alumni who represented nation as Team Singapore's athletes at Sea Games 2015</strong></h4>
 <img src="/images/seagame.jpg"><p style="text-align: center;">From Left to Right: Muhammad Nasiruddin , Siraaj , Micky Lin , Jasmine Ser , Chen Huifen&nbsp;</p>
 <p><strong><u>Click the link below to learn more about them:</u></strong></p>
