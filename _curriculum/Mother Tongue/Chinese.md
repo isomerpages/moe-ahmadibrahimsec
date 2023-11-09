@@ -187,8 +187,6 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>3E3</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="2" width="50">
 <p><strong>2020</strong></p>
