@@ -13,4 +13,8 @@ variant: markdown
 <h5><strong>Networking Session with Alumni in 2017</strong></h5>
 
 <h5><strong>AI Homecoming 2021 for Alumni from Class of 1990 to 1996</strong></h5>
+<p>The highlight of the event was meeting their former Principal Mrs Molly Tan and beloved teachers such as Discipline Master Mr Sani and HOD PE, Mr Tan Boon Seng. </p>
 
+<h5><strong>AI Homecoming 2022 for Class of 1997’s 25th Anniversary</strong></h5>
+
+<h5><strong>Mr Chek Wai Yin from Class of 1988 shared his career in Aerospace Engineering in 2022  </strong></h5>
