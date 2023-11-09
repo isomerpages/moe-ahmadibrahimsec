@@ -347,7 +347,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 <tr>
 <td rowspan="2" width="87">
-<p><strong>Lower Sec低年级组</strong></p>
+<p><strong>Lower Sec</strong></p>
+<p><strong>低年级组</strong></p>
 </td>
 <td width="126">
 <p>GOLD Award (Individual)</p>
