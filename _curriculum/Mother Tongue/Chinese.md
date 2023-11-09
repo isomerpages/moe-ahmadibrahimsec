@@ -334,6 +334,9 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong><em>全国中小学课文朗读比赛</em></strong></p>
 <p>有天分的学生，需要发挥才华的空间。每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI 代表和团队都很荣幸得到评审的认可，勇夺铜奖和银奖。今年，我校的其中一位学生荣获金奖和优秀奖。 </p>
 
+
+
+
 <hr>
 	<p><u><strong>Joy in Chinese beyond the classroom</strong></u></p>
 <p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p>
