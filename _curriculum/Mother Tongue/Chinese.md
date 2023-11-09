@@ -40,7 +40,7 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 	• 《中四》是中二高华学生的延伸读物。<br>
 	• 《走路的云》是中三高华学生的延伸读物。</p>
 	
-![](/images/Mother%20Tongue%20%20%20CL/2023%20cl%201.png)
+
 	
 	
 <p>As the saying goes, “teach a man to fish and you feed him for a lifetime”. To develop AI students into confident self-regulated adults, they are guided to evaluate oral and writing pieces throughout 4 years of Chinese Language experience.</p>
