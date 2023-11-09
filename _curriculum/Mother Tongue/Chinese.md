@@ -340,14 +340,61 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <div>
 <div>
 <div style="text-align: center;">
-<table width="0">
+<p><strong>Award Winners for 2023</strong></p><table width="0">
 <tbody>
 
 
+
 <tr>
-<td rowspan="2" width="50">
-<p><strong>2023</strong></p>
+<td rowspan="3" width="50">
+<p><strong>Preliminary Round</strong></p>
 </td>
+
+</tr><tr>
+<td width="87">
+<p>Lower Sec低年级组</p>
+</td>
+<td width="126">
+<p>GOLD Award (Individual)</p>
+<p>金奖（个人）</p>
+</td>
+<td width="138">
+<p>LINUS TAN</p>
+</td>
+<td width="84">
+<p>陈嘉康</p>
+</td>
+<td width="54">
+<p>2T2</p>
+</td>
+</tr>
+
+<tr>
+<td width="87">
+<p>Lower Sec低年级组</p>
+</td>
+<td width="126">
+<p>SILVER Award (Team)</p>
+<p>银奖（团体）</p>
+</td>
+<td width="138">
+<p>Hung De Han</p>
+<p>Tang Jia Jun</p>
+<p>Heng Wei En</p>
+</td>
+<td width="84">
+<p>孔德翰</p>
+<p>陈佳俊</p>
+<p>邢维恩</p>
+</td>
+<td width="54">
+<p>2T1</p>
+<p>2T1</p>
+<p>2T1</p>
+</td>
+</tr>
+	
+<tr>
 <td width="87">
 <p>Upper Sec高年级组</p>
 </td>
@@ -375,36 +422,6 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>S3-Steadfastness</p>
 <p>S3-Excellence</p>
 <p>S3-Resilience</p>
-</td>
-</tr>
-<tr>
-<td width="87">
-<p>Lower Sec低年级组</p>
-</td>
-<td width="126">
-<p>Accomplishment Award</p>
-<p>二等奖</p>
-</td>
-<td width="138">
-<p>Wong Wan Yan (Huang Wanyan)</p>
-<p>Joellyn Yap Yanxi</p>
-<p>Lai Rou Ying</p>
-<p>Koh Ching Voon</p>
-<p>Wang Xiaoyu</p>
-</td>
-<td width="84">
-<p>黄婉嫣</p>
-<p>葉妍希</p>
-<p>赖柔颖</p>
-<p>辜靖文</p>
-<p>王晓钰</p>
-</td>
-<td width="54">
-<p>2E1</p>
-<p>2E2</p>
-<p>2E3</p>
-<p>2E3</p>
-<p>2E4</p>
 </td>
 </tr>
 </tbody>
