@@ -106,18 +106,18 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>Michelle Khoo Xin Yu</p>
 </td>
 <td width="84">
-<p>刘一湾</p>
-<p>胡欣怡</p>
-<p>罗鸿轩</p>
-<p>苏诗雅</p>
-<p>张欣怡</p>
+<p>杜思颖</p>
+<p>林芷言</p>
+<p>謝佳璇</p>
+<p>江应锐</p>
+<p>邱鋅嵛</p>
 </td>
 <td width="54">
 <p>3E1</p>
+<p>3E2</p>
+<p>3E4</p>
 <p>3E1</p>
-<p>3E2&nbsp;</p>
-<p>3E4</p>
-<p>3E4</p>
+<p>3E3</p>
 </td>
 </tr>
 <tr>
