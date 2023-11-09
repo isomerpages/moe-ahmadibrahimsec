@@ -7,7 +7,7 @@ variant: markdown
 ---
 <h4 style="text-align: center;">Heartiest congratulations to our Alumni for their outstanding achievements beyond AI.<br>AI IS PROUD OF YOU!</h4>
 <hr>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAyQW87zvmVAgLZSd0iLhLU7Pqe3D6osqNkjywsNufZDuoAgcY_9MbiPrywRYWy4s6_qM9rR2iF3T7/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="850" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAyQW87zvmVAgLZSd0iLhLU7Pqe3D6osqNkjywsNufZDuoAgcY_9MbiPrywRYWy4s6_qM9rR2iF3T7/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="850" height="569" allowfullscreen="true"></iframe>
 
 
 <h4><strong>AI in the News!</strong></h4>
