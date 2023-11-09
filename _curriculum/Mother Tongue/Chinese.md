@@ -326,17 +326,17 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </div>
 </div>
 </div>
+
+
 <p><u>Joy in Chinese beyond the classroom</u></p>
 <p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p>
-<p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual&nbsp;<strong>Chinese New Year Celebration</strong>, as well as&nbsp;<strong>Mother Tongue Fortnight Programme</strong>. A singing competition,&nbsp;<strong>Chang Chu Xin Sheng</strong>, was also held to engage students in Chinese popular culture.</p>
-<p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local&nbsp;<strong>Chinese Language theatrical productions</strong>. During Home Based Learning in 2020, AI students also had the privilege to engage in an online conference with a local writer-cum-lecturer. Through these activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
-<p>3. To allow students to immerse in an authentically Chinese environment, selected students are brought to China for our annual<strong>&nbsp;Overseas Immersion Programme</strong>. Students get to interact with the Chinese students, and see the past, present and future of China, the economic power house of the world. Who knows, our AI students might be working in China or with their China counterparts in the future!</p>
+<p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p>
+<p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local Chinese Language theatrical productions. Due to the fluid pandemic situation, AI students had the privilege to engage in an online drama production, POPPY. Through both online and Telegram activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
+
 <p><u>寓乐于课堂之外</u></p>
 <p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p>
-<p>1. 学习华文不但能让学生培养语言技能，也能让学生传承文化。为了让学生体验华族文化，我校每年都让学生参与<strong>农历新年活动</strong>，以及年度<strong>母语双周活动</strong>。我校也曾主办<strong>《唱出欣声》</strong>歌唱比赛，让学生有机会沉浸在华文流行文化之中。</p>
-<p>华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场(。2020年，在家中学习的时候，AI学生也很荣欣和本地作家兼大学导师，进行了一场线上座谈会。通过这些活动，学生能亲眼见证，社会素材如何成为专业创作灵感的来源。</p>
-<p>华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华语剧场。2020年，居家学习（HBL）期间，AI学生也很荣幸和本地作家兼大学讲师，进行了一场<strong>线上座谈会</strong>。通过这些活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
-<p>2. 我校每年也举办<strong>中国浸濡活动</strong>，带领获选的学生到中国去，沉浸在华文华语环境。学生有机会和中国学生交流，也有机会一览中国历史古迹，一睹中国当下的风貌，从中一探中国未来的发展趋势。说不定，我们AI 学生将来也需要到中国公干，或和中国同事紧密合作。</p>
+<p>1. 2022年的母语双周活动在学生的欢声笑语中圆满落幕！今年伊布拉欣中学华文部特别为中一中二的学生设计了不同的活动，希望每位学生都能体会华族传统文化之美。中一的学生在导师的带领下了解了传统宫灯文化，还亲手制作了精美的宫灯；中二的学生除了更深入地认识端午节的由来和传统习俗以外，还参加了龙舟模型和泥塑粽子制作活动。今年华文部也特别为普通工艺班的学生安排了传统游戏站，让学生们体验投壶和踢毽子等中国传统游戏。</p>
+<p>2. 华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场。2022年，因疫情状况不明，AI学生在课室里，体验了一场线上舞台剧。通过线上线下的互动活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Experiencing Chinese Culture</label>
