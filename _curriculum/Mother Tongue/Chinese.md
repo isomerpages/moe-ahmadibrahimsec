@@ -22,14 +22,14 @@ third_nav_title: Mother Tongue
 <div>• 《爱上读报2》是中二高华与快捷学生的辅助读物</div>
 <div>• 《爱上读报3》是中三高华与快捷学生的辅助读物</div>
 <img src="/images/combine_images.jpg">
-	
+<hr>
 	
 <p><strong><em>Narrative Writing<br></em></strong>
 We know students need inspiration to write deeper stories. Therefore, the following books are selected as compulsory reading materials to spark AI students’ imagination.</p>
 <p>• Sec 1 G3 Chinese students: That small, small dessert shop<br>
 	• Sec 1 Higher Chinese students: Zuo He’s Super Grandma<br>
 	• Sec 2 Express students: Where do you want to go?<br>
-	• Sec 2 Higher Chinese students: Secondary 4<br>
+	• Sec 2 Higher Chinese students: Secondary Four<br>
 	• Sec 3 Higher Chinese students: Walking Clouds</p>
 	
 <p><u>记叙文写作<br></u>
@@ -40,8 +40,10 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 	• 《中四》是中二高华学生的延伸读物。<br>
 	• 《走路的云》是中三高华学生的延伸读物。</p>
 	
-
+![](/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%201.JPG)
+![](/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%202.JPG)
 	
+<hr>
 	
 <p>As the saying goes, “teach a man to fish and you feed him for a lifetime”. To develop AI students into confident self-regulated adults, they are guided to evaluate oral and writing pieces throughout 4 years of Chinese Language experience.</p>
 <p>• Sec 1 students: oral evaluation lessons<br>• Sec 2 students: narrative writing skills Process Writing lessons<br>• Sec 3 students: discursive writing skills through Process Writing lessons</p>
