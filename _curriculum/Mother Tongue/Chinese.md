@@ -72,7 +72,9 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJJ481Of8QDMpOzdittti-i_RH36Btr0O2HX9HjoqxUlmdjYmvYIBP8YCxGuHRTh9PYfEUXnAYEgaf/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <p><u><strong>2022</strong></u></p>
-<hr>	
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxBZSZ8-QQqI0Ym5VPr_kseUqbhkXogm3_eyNwAPKJTLPyCA7gQRSgPUZ7hdcNobppFNlRdvcflKvM/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
 
 <br>
 <div>
