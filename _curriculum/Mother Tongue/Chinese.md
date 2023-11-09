@@ -87,9 +87,10 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <table width="0">
 <tbody>
 
+
 <tr>
 <td rowspan="2" width="50">
-<p><strong>2022</strong></p>
+<p><strong>2023</strong></p>
 </td>
 <td width="87">
 <p>Upper Sec高年级组</p>
@@ -148,6 +149,41 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>2E2</p>
 <p>2E1</p>
 <p>2E1</p>
+</td>
+</tr>
+
+
+<tr>
+<td rowspan="2" width="50">
+<p><strong>2022</strong></p>
+</td>
+<td width="87">
+<p>Upper Sec高年级组</p>
+</td>
+<td width="126">
+<p>Accomplishment Award + Best Theme Award</p>
+<p>二等奖 + 最佳题材</p>
+</td>
+<td width="138">
+<p>Toh Shi Ying</p>
+<p>Lim Ziyan</p>
+<p>Seah Jia Xuan Rachel</p>
+<p>Jiang Yingrui</p>
+<p>Michelle Khoo Xin Yu</p>
+</td>
+<td width="84">
+<p>杜思颖</p>
+<p>林芷言</p>
+<p>謝佳璇</p>
+<p>江应锐</p>
+<p>邱鋅嵛</p>
+</td>
+<td width="54">
+<p>3E1</p>
+<p>3E2</p>
+<p>3E4</p>
+<p>3E1</p>
+<p>3E3</p>
 </td>
 </tr>
 
