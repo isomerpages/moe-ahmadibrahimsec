@@ -41,6 +41,7 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 	• 《走路的云》是中三高华学生的延伸读物。</p>
 	
 ![](/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%201.JPG)
+
 ![](/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%202.JPG)
 	
 <hr>
@@ -85,6 +86,72 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <div style="text-align: center;">
 <table width="0">
 <tbody>
+
+<tr>
+<td rowspan="2" width="50">
+<p><strong>2022</strong></p>
+</td>
+<td width="87">
+<p>Upper Sec高年级组</p>
+</td>
+<td width="126">
+<p>Accomplishment Award + Best Theme Award</p>
+<p>二等奖 + 最佳题材</p>
+</td>
+<td width="138">
+<p>Toh Shi Ying</p>
+<p>Lim Ziyan</p>
+<p>Seah Jia Xuan Rachel</p>
+<p>Jiang Yingrui</p>
+<p>Michelle Khoo Xin Yu</p>
+</td>
+<td width="84">
+<p>刘一湾</p>
+<p>胡欣怡</p>
+<p>罗鸿轩</p>
+<p>苏诗雅</p>
+<p>张欣怡</p>
+</td>
+<td width="54">
+<p>3E1</p>
+<p>3E1</p>
+<p>3E2&nbsp;</p>
+<p>3E4</p>
+<p>3E4</p>
+</td>
+</tr>
+<tr>
+<td width="87">
+<p>Lower Sec低年级组</p>
+</td>
+<td width="126">
+<p>Accomplishment Award</p>
+<p>二等奖</p>
+</td>
+<td width="138">
+<p>Weng Siying</p>
+<p>Lim Swee Hong</p>
+<p>Seah Jun De</p>
+<p>Lim Zhi Qi</p>
+<p>Lim Enyu</p>
+</td>
+<td width="84">
+<p>翁思颖</p>
+<p>林瑞峰</p>
+<p>佘俊德</p>
+<p>林芷琪</p>
+<p>林恩瑜</p>
+</td>
+<td width="54">
+<p>2E3</p>
+<p>2E3</p>
+<p>2E2</p>
+<p>2E1</p>
+<p>2E1</p>
+</td>
+</tr>
+
+
 <tr>
 <td rowspan="2" width="50">
 <p><strong>2020</strong></p>
@@ -148,6 +215,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>2E1</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2" width="50">
 <p><strong>2019&nbsp;</strong></p>
@@ -214,6 +283,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </tr>
 </tbody>
 </table>
+
+
 </div>
 </div>
 </div>
