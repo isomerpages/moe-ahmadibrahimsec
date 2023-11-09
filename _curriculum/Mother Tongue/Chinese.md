@@ -62,9 +62,12 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 <div>为了培养精益求精的学习精神，同时也让学生巩固课堂所学，我校每年都会奖励在年度华文写作比赛中表现优异的学生。这项比赛，是母语部比赛的常设项目之一，旨在提供学生展现文采的平台。</div>
 <hr>
 
-<p><strong><em>Zaobao Editorial Competition</em></strong><br>Talents need opportunities to shine. Every year, selected students in Sec 2 and 3 Higher Chinese participate in Create Your Own Newspaper Competition, organised by Singapore Press Holdings. Students hone their Chinese language skills as they work as a team of journalist to produce professional newspaper articles. AI teams are proud to clinch top awards for consecutive years.</p>
-<p><u>全国中学编采比赛</u><br>有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI 代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqAZ1xiSxGADgRRs-Ypz94l_L4IoDYPIMnRsdOi6YaFDiffWE-jHfAd8obrdbVBldc9Y0G1R-2ow9g/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong><em>Zaobao Editorial Competition</em></strong><br>
+Talents need opportunities to shine. Every year, selected students in Sec 2 and 3 Higher Chinese participate in Create Your Own Newspaper Competition, organised by Singapore Press Holdings. Students hone their Chinese language skills as they work as a team of journalist to produce professional newspaper articles. AI teams are proud to clinch top awards for consecutive years. This year, one of our teams clinched the “Accomplishment Award” and the “Best Theme ” award.</p>
+
+<p><u>全国中学编采比赛</u><br>
+有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI 代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。今年，校的其中一组学生荣获二等奖和最佳题材奖。 </p>
+
 <div>
 <div>
 <p style="text-align: center;"><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br></u></strong><strong><u>伊布拉欣中学得奖名单</u></strong></p>
