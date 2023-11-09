@@ -113,7 +113,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>梁语萱</p>
 <p>洪恩芯</p>
 </td>
-<td width="54">
+<td width="100">
 <p>S3-Steadfastness</p>
 <p>S3-Steadfastness</p>
 <p>S3-Steadfastness</p>
