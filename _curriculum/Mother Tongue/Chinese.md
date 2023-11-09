@@ -334,22 +334,14 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong><em>全国中小学课文朗读比赛</em></strong></p>
 <p>有天分的学生，需要发挥才华的空间。每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI 代表和团队都很荣幸得到评审的认可，勇夺铜奖和银奖。今年，我校的其中一位学生荣获金奖和优秀奖。 </p>
 
-
-
-
-<hr>
-	<p><u><strong>Joy in Chinese beyond the classroom</strong></u></p>
-<p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p>
-<p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p>
-<p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local Chinese Language theatrical productions. Due to the fluid pandemic situation, AI students had the privilege to engage in an online drama production, POPPY. Through both online and Telegram activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
-
-	<p><u><strong>寓乐于课堂之外</strong></u></p>
-<p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p>
-<p>1. 2022年的母语双周活动在学生的欢声笑语中圆满落幕！今年伊布拉欣中学华文部特别为中一中二的学生设计了不同的活动，希望每位学生都能体会华族传统文化之美。中一的学生在导师的带领下了解了传统宫灯文化，还亲手制作了精美的宫灯；中二的学生除了更深入地认识端午节的由来和传统习俗以外，还参加了龙舟模型和泥塑粽子制作活动。今年华文部也特别为普通工艺班的学生安排了传统游戏站，让学生们体验投壶和踢毽子等中国传统游戏。</p>
-<p>2. 华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场。2022年，因疫情状况不明，AI学生在课室里，体验了一场线上舞台剧。通过线上线下的互动活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
-</div>
-</li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Experiencing Chinese Culture</label>
+<br>
+<div>
+<div>
+<p style="text-align: center;"><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br></u></strong><strong><u>伊布拉欣中学得奖名单</u></strong></p>
+<div>
+<div>
+<div style="text-align: center;">
+<p><strong>Preliminary Round</strong></p><hr><p><u><strong>Joy in Chinese beyond the classroom</strong></u></p><p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p><p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p><p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local Chinese Language theatrical productions. Due to the fluid pandemic situation, AI students had the privilege to engage in an online drama production, POPPY. Through both online and Telegram activities, students get see how real life societal issues can be the source of imagination for professional creations.</p><p><u><strong>寓乐于课堂之外</strong></u></p><p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p><p>1. 2022年的母语双周活动在学生的欢声笑语中圆满落幕！今年伊布拉欣中学华文部特别为中一中二的学生设计了不同的活动，希望每位学生都能体会华族传统文化之美。中一的学生在导师的带领下了解了传统宫灯文化，还亲手制作了精美的宫灯；中二的学生除了更深入地认识端午节的由来和传统习俗以外，还参加了龙舟模型和泥塑粽子制作活动。今年华文部也特别为普通工艺班的学生安排了传统游戏站，让学生们体验投壶和踢毽子等中国传统游戏。</p><p>2. 华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场。2022年，因疫情状况不明，AI学生在课室里，体验了一场线上舞台剧。通过线上线下的互动活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p><li><input id="accordion2" type="checkbox"> <label for="accordion2">Experiencing Chinese Culture</label>
 <div>
 <p><strong>Mother Tongue Fortnight</strong></p>
 <p>“After Chang’e ate up the elixir, she drifted all the way up into the sky, towards the big, round moon……”</p>
@@ -389,8 +381,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong>华文音乐欣赏</strong></p>
 <p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
 </div>
-</li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Appreciating Chinese through Professional Lenses</label>
+</li><li><input id="accordion3" type="checkbox"> <label for="accordion3">Appreciating Chinese through Professional Lenses</label>
 <div>
 <p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong></p>
 <img src="/images/Pic%201.jpg">
@@ -404,8 +395,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
 <p>During the circle breaker, while doing HBL, students had opportunities to take part in the exciting online activities. Our Chinese Language Department invited Ms Lin Rongchan, local writer and also lecturer at NIE, to have a live conversation with us on April 24. Focusing on her new Chinese short story, "Where are you going?" Ms Lin shared with us her source of inspiration and the writing journey. The characters in the story resonated with many of our AI students, and we were inspired to pay closer attention to people in their lives. All of us were energized by the interaction and definitely enjoyed this unique HBL experience!</p>
 </div>
-</li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Immersing in a Chinese Environment</label>
+</li><li><input id="accordion4" type="checkbox"> <label for="accordion4">Immersing in a Chinese Environment</label>
 <div>
 <p>The Singaporean students listened intently. It was the first time they listened to a music lesson being conducted in Chinese, and for most of them, a first time learning about Chinese Opera. They were amazed by the teacher’s humorous way of teaching and the seriousness of their Chinese buddies who enthusiastically volunteered to demonstrate what was being taught.&nbsp;</p>
 <p>Influenced by their enthusiasm, a few AI students stepped out of their comfort zone and tried the opera moves. This is part of their experience during the 7 days 6 nights Overseas Immersion Programme.</p>
@@ -414,5 +404,89 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxBDMEP2wAyNcMWgNAhtxdk_p34b-KiAnJ01isE2cHln9y1F8J7msIqWiHYR5xYdBZQHmHWwpZMF0A/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p>2019年，30名伊布拉欣中学的学生在5位老师的带领下前往西安，进行了为期一个星期的文化浸濡之旅。许多学生有了他们“第一次”的尝试与体验，例如第一次乘搭高铁、第一次以华语上音乐课和第一次尝试表演京剧。除了在学校交流中认识并结交当地朋友外，我校学生也有机会参观秦始皇兵马俑博物馆、乾陵等景点，一览中国历史古迹；同时也通过参观“陕鼓动力”公司和“盒马鲜生”超市一睹中国当下的风貌，从中一探中国未来的发展趋势。学生能在华文华语环境中进行不同的活动，相信这些体验都让他们获益良多。</p>
 </div>
-</li>
-</ul>
+</li><table width="0">
+<tbody>
+
+
+<tr>
+<td rowspan="2" width="50">
+<p><strong>2023</strong></p>
+</td>
+<td width="87">
+<p>Upper Sec高年级组</p>
+</td>
+<td width="126">
+<p>Special Mention Award</p>
+<p>表扬奖</p>
+</td>
+<td width="138">
+<p>Soo Yin Wei</p>
+<p>Chong Ning Xin</p>
+<p>Chia Min Jun</p>
+<p>New Yu Xuan</p>
+<p>Ang En Xin, Alyssa</p>
+</td>
+<td width="84">
+<p>苏尹唯</p>
+<p>张宁芯</p>
+<p>谢旻均</p>
+<p>梁语萱</p>
+<p>洪恩芯</p>
+</td>
+<td width="54">
+<p>S3-Steadfastness</p>
+<p>S3-Steadfastness</p>
+<p>S3-Steadfastness</p>
+<p>S3-Excellence</p>
+<p>S3-Resilience</p>
+</td>
+</tr>
+<tr>
+<td width="87">
+<p>Lower Sec低年级组</p>
+</td>
+<td width="126">
+<p>Accomplishment Award</p>
+<p>二等奖</p>
+</td>
+<td width="138">
+<p>Wong Wan Yan (Huang Wanyan)</p>
+<p>Joellyn Yap Yanxi</p>
+<p>Lai Rou Ying</p>
+<p>Koh Ching Voon</p>
+<p>Wang Xiaoyu</p>
+</td>
+<td width="84">
+<p>黄婉嫣</p>
+<p>葉妍希</p>
+<p>赖柔颖</p>
+<p>辜靖文</p>
+<p>王晓钰</p>
+</td>
+<td width="54">
+<p>2E1</p>
+<p>2E2</p>
+<p>2E3</p>
+<p>2E3</p>
+<p>2E4</p>
+</td>
+</tr>
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+</tbody></table></div></div></div></div></div></div></li></ul>
