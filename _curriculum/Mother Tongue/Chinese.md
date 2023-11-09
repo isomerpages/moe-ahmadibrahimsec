@@ -38,11 +38,12 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 	• 《佐贺的超级阿嬷》是中一高华学生的延伸读物。<br>
 	• 《请问你要去哪里？》是中二快捷华文学生的延伸读物。<br>
 	• 《中四》是中二高华学生的延伸读物。<br>
-	• 《走路的云》是中三高华学生的延伸读物。</p><br>
+	• 《走路的云》是中三高华学生的延伸读物。</p>
 
-![](/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%201.JPG)<br>
+<img src="/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%201.JPG">
+	
+<img src="/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%202.JPG">
 
-![](/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%202.JPG)
 	
 <hr>
 	
@@ -221,6 +222,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>3E4</p>
 </td>
 </tr>
+
 <tr>
 <td width="87">
 <p>Lower Sec低年级组</p>
