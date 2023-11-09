@@ -349,8 +349,9 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <td rowspan="3" width="50">
 <p><strong>Preliminary Round</strong></p>
 </td>
+</tr>
 
-</tr><tr>
+<tr>
 <td width="87">
 <p>Lower Sec低年级组</p>
 </td>
@@ -393,37 +394,27 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>2T1</p>
 </td>
 </tr>
-	
+
 <tr>
 <td width="87">
 <p>Upper Sec高年级组</p>
 </td>
 <td width="126">
-<p>Special Mention Award</p>
-<p>表扬奖</p>
+<p>GOLD Award (Individual)</p>
+<p>金奖（个人）</p>
 </td>
 <td width="138">
-<p>Soo Yin Wei</p>
-<p>Chong Ning Xin</p>
-<p>Chia Min Jun</p>
-<p>New Yu Xuan</p>
-<p>Ang En Xin, Alyssa</p>
+<p>LINUS TAN</p>
 </td>
 <td width="84">
-<p>苏尹唯</p>
-<p>张宁芯</p>
-<p>谢旻均</p>
-<p>梁语萱</p>
-<p>洪恩芯</p>
+<p>陈嘉康</p>
 </td>
 <td width="54">
-<p>S3-Steadfastness</p>
-<p>S3-Steadfastness</p>
-<p>S3-Steadfastness</p>
-<p>S3-Excellence</p>
-<p>S3-Resilience</p>
+<p>2T2</p>
 </td>
 </tr>
+
+
 </tbody>
 </table>
 
