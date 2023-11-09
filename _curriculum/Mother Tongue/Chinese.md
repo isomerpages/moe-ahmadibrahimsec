@@ -130,25 +130,25 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>二等奖</p>
 </td>
 <td width="138">
-<p>Weng Siying</p>
-<p>Lim Swee Hong</p>
-<p>Seah Jun De</p>
-<p>Lim Zhi Qi</p>
-<p>Lim Enyu</p>
+<p>Wong Wan Yan (Huang Wanyan)</p>
+<p>Joellyn Yap Yanxi</p>
+<p>Lai Rou Ying</p>
+<p>Koh Ching Voon</p>
+<p>Wang Xiaoyu</p>
 </td>
 <td width="84">
-<p>翁思颖</p>
-<p>林瑞峰</p>
-<p>佘俊德</p>
-<p>林芷琪</p>
-<p>林恩瑜</p>
+<p>黄婉嫣</p>
+<p>葉妍希</p>
+<p>赖柔颖</p>
+<p>辜靖文</p>
+<p>王晓钰</p>
 </td>
 <td width="54">
-<p>2E3</p>
-<p>2E3</p>
+<p>2E1</p>
 <p>2E2</p>
-<p>2E1</p>
-<p>2E1</p>
+<p>2E3</p>
+<p>2E3</p>
+<p>2E4</p>
 </td>
 </tr>
 
