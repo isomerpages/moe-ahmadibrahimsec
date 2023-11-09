@@ -155,7 +155,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 
 <tr>
-<td rowspan="2" width="50">
+<td rowspan="1" width="50">
 <p><strong>2022</strong></p>
 </td>
 <td width="87">
