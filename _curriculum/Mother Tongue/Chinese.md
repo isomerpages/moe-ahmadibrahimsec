@@ -96,29 +96,29 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>Upper Sec高年级组</p>
 </td>
 <td width="126">
-<p>Accomplishment Award + Best Theme Award</p>
-<p>二等奖 + 最佳题材</p>
+<p>Special Mention Award</p>
+<p>表扬奖</p>
 </td>
 <td width="138">
-<p>Toh Shi Ying</p>
-<p>Lim Ziyan</p>
-<p>Seah Jia Xuan Rachel</p>
-<p>Jiang Yingrui</p>
-<p>Michelle Khoo Xin Yu</p>
+<p>Soo Yin Wei</p>
+<p>Chong Ning Xin</p>
+<p>Chia Min Jun</p>
+<p>New Yu Xuan</p>
+<p>Ang En Xin, Alyssa</p>
 </td>
 <td width="84">
-<p>杜思颖</p>
-<p>林芷言</p>
-<p>謝佳璇</p>
-<p>江应锐</p>
-<p>邱鋅嵛</p>
+<p>苏尹唯</p>
+<p>张宁芯</p>
+<p>谢旻均</p>
+<p>梁语萱</p>
+<p>洪恩芯</p>
 </td>
 <td width="54">
-<p>3E1</p>
-<p>3E2</p>
-<p>3E4</p>
-<p>3E1</p>
-<p>3E3</p>
+<p>S3-Steadfastness</p>
+<p>S3-Steadfastness</p>
+<p>S3-Steadfastness</p>
+<p>S3-Excellence</p>
+<p>S3-Resilience</p>
 </td>
 </tr>
 <tr>
