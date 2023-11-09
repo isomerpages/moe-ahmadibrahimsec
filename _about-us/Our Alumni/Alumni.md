@@ -6,7 +6,9 @@ third_nav_title: Our Alumni
 variant: markdown
 ---
 <hr>
-<img src="/images/01-alumni-banner-2.jpg">
+
+![](/images/Alumni/01-alumni-banner-2.jpg)
+
 <p>AI has nurtured many generations of alumni over 60 years of rich history. We have a healthy number of alumni who return as teachers and those whose children also study in AI.<br>
 <br>
 Our AI alumni are established in respective fields and provide a broad network with which to enhance our AI students’ learning experience.  AI alumni provide strong support in key areas such as co-curricular activities (CCAs) and Education Career Guidance by conducting Career and Industry talks as well as motivational talks to our students.<br>
