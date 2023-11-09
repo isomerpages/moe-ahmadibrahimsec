@@ -341,70 +341,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <div>
 <div>
 <div style="text-align: center;">
-<p><strong>Preliminary Round</strong></p><hr><p><u><strong>Joy in Chinese beyond the classroom</strong></u></p><p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p><p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p><p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local Chinese Language theatrical productions. Due to the fluid pandemic situation, AI students had the privilege to engage in an online drama production, POPPY. Through both online and Telegram activities, students get see how real life societal issues can be the source of imagination for professional creations.</p><p><u><strong>寓乐于课堂之外</strong></u></p><p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p><p>1. 2022年的母语双周活动在学生的欢声笑语中圆满落幕！今年伊布拉欣中学华文部特别为中一中二的学生设计了不同的活动，希望每位学生都能体会华族传统文化之美。中一的学生在导师的带领下了解了传统宫灯文化，还亲手制作了精美的宫灯；中二的学生除了更深入地认识端午节的由来和传统习俗以外，还参加了龙舟模型和泥塑粽子制作活动。今年华文部也特别为普通工艺班的学生安排了传统游戏站，让学生们体验投壶和踢毽子等中国传统游戏。</p><p>2. 华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场。2022年，因疫情状况不明，AI学生在课室里，体验了一场线上舞台剧。通过线上线下的互动活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p><li><input id="accordion2" type="checkbox"> <label for="accordion2">Experiencing Chinese Culture</label>
-<div>
-<p><strong>Mother Tongue Fortnight</strong></p>
-<p>“After Chang’e ate up the elixir, she drifted all the way up into the sky, towards the big, round moon……”</p>
-<p>As the student who was acting as Chang’e got into her character, the class roared with a thunderous applause.</p>
-<p>“嫦娥吃下了仙丹后，缓缓地升上天空，向月亮飞去……”</p>
-<p>饰演嫦娥的学生卖力地表演，教室里欢呼声和掌声此起彼落，也为今年的母语双周画上完美的句点。</p>
-<p>This year, AI tagged on the theme of Mid-Autumn Festival for our Mother Tongue Fortnight Programme. Other than viewing videos to understand the origins of Mid-Autumn Festival and mooncakes, students also had the opportunity to make lanterns and guess lantern-riddles, both which are related to the Festival.</p>
-<p>今年我校以中秋为主题，为母语双周设计了一系列的活动。学生除了观看视频，了解中秋节和月饼的由来，还有机会参与一些与中秋节相关的活动，例如制作灯笼和猜灯谜等。</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdHcNmNSJiQSvmCaFrKXcmvAmwpGNRR5DI7k520V2TfdH5zdUQ1eNKIWsSULUhoSj0zmsk27eh3zbJ/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<p>AI students also had a hand in making mooncakes. Unlike how it is usually done, students used plasticine as ingredients, instead of flour. They re-enacted the story of “The Revolt by Emperor Zhu Yuan Zhang” by stuffing well-wishes into their mooncake, and passing it around anonymously. Although they could not indulge in their own mooncakes, they could feel the warmth as they unravel the messages hidden within the mooncakes.</p>
-<p>除此之外，学生还尝试制作月饼。今年因为防控新冠病毒（COVID-19）的缘故，制作月饼有别于一般的做法，导师让学生“重现”朱元璋月饼起义的故事。在活动中，学生用粘土制作月饼，把写上祝福语的字条夹在月饼中，送给其他同学。虽然学生无法品尝他们制作的月饼，但却能感受到来自朋友满满的祝福！</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQijkPFEgeMKbPEJ_0yy033V_aA5CA8ayoGqJm7E-p9I-VTQseXVVMQzFptJT5e9NVh5SZd6ATyN2Sa/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<p>AI students also had a hand in making mooncakes. Unlike how it is usually done, students used plasticine as ingredients, instead of flour. They re-enacted the story of “The Revolt by Emperor Zhu Yuan Zhang” by stuffing well-wishes into their mooncake, and passing it around anonymously. Although they could not indulge in their own mooncakes, they could feel the warmth as they unravel the messages hidden within the mooncakes.</p>
-<p>除此之外，学生还尝试制作月饼。今年因为防控新冠病毒（COVID-19）的缘故，制作月饼有别于一般的做法，导师让学生“重现”朱元璋月饼起义的故事。在活动中，学生用粘土制作月饼，把写上祝福语的字条夹在月饼中，送给其他同学。虽然学生无法品尝他们制作的月饼，但却能感受到来自朋友满满的祝福！</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0wSKyqJtJ0IsA5UrUmtqTzYcg1Mn2pUc31IwEASQOgldUcAT9-zIws-A0VsaPo_oRhQQ08nckEGwc/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<p>Last but not least, every student participated in the dramatization of “Hou Yi Shoots the Suns” and “Chang’e Drifts to the Moon” legend, drawing the programme to close with a fairy tale ending.<br><br>最后，学生还通过话剧的方式临场表演了“后羿射日”和“嫦娥奔月”这两个故事。今年的母语双周也在学生生动的演绎中拉下帷幕。</p>
-<div><iframe class="ive_eobj_center" src="https://www.youtube.com/embed/oNc5maq0a-4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
-<p><strong>Chinese New Year 2020</strong></p>
-<p>Every year, our school holds a series of Chinese New Year celebrations. This year is no exception.<br>每年，伊布拉欣中学都会举办一系列的华人新年庆祝活动。今年也不例外。</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSazF5HvXhSMP-wsEYF_Z5t3FVKsX4YcuRjQNOurOgt2NC1YFYIU3j-sALNyf43vCom8Cm9322qOTT9/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<p>One of the activities was calligraphy. We invited professional calligraphy teachers to teach students to write&nbsp;New Year couplets. Outstanding pieces were selected to use as decorations in the school hall and classrooms.&nbsp;</p>
-<p>其中一项活动是新年挥春。我们邀请了专业的书法老师教学生写春联。学生优秀的书法作品都获选用来装饰学校礼堂和课室。</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKoRS2as2CfYbGzWyXN-vwlLzJzfnK6UJYhQxuM7oLZTNeb_lqX267YP1bQadgRo8so2W3mhjgw7tp/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<p>Another activity is the classroom decoration competition.&nbsp;Every class displayed their creativity as they decorated the classroom according to the given theme. Students not only learned about traditional Chinese culture, but also filled the classroom with a mood of celebration!&nbsp;</p>
-<p>另一项活动是课室装饰比赛。每个年级的学生会根据相应的主题，发挥自己的创意，装饰课室。这样既让学生学习了华族传统文化，又使课室充满浓厚的新年气息。</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMu5yMxLXawDlBy2lpVcxhiEhOzqAFasVb2swT4scmuYiT7JsSaxie5cgrg0BJfW2rWHrAiCMb0iWe/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-<img style="width: 40%;" src="/images/cl6.jpg" align="left">
-<p>This year, the most popular performance was the magic show "Amazing Umbrellas".&nbsp;<br>The audience repeatedly cheered in awe as the magician made umbrellas appear seemingly out of nowhere!</p>
-<p>今年最受欢迎的节目就是魔术表演《变伞》，魔术师用自己精湛的技艺将一把把伞从手中变出来，使观众各个都惊叹欢呼！</p>
-<p>Finally, with the crashing of cymbals and roar of drums, the celebration reached its climax as the lion dance troupe made their way into the school hall. Up on stage, our school leaders received the well wishes given by the troupe and this drew the New Year celebration to a close.</p>
-<p>最后，年年受欢迎的舞狮队伍进一步将庆祝活动推向了最高潮，也让新年庆祝活动在锣鼓声中划上了圆满的句号。</p>
-<img style="width: 65%;" src="/images/cl7.jpg">
-<p><strong>Chinese Song Appreciation</strong></p>
-<p>Music is to the soul what words are to the mind. Fueled by the aim of sharing the love of the Chinese language through alternative mediums, the Secondary 2 Chinese students came together for a joyous session of singing and song appreciation during the Mother Tongue Fortnight. Teachers kick-started the event and took the audience’s breath away by performing popular songs by singers JJ Lin and A-mei. Enthusiastic representatives from each class sang to their hearts’ content and were rewarded by thunderous applause from the audience. What a feast for the ears it was! We hope that the students and teachers have enjoyed themselves at this event and continue to find joy in learning the Chinese language as they immerse themselves in Chinese songs.</p>
-<p><iframe src="https://www.youtube.com/embed/y3lRk2hUk3I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br>
-<iframe src="https://www.youtube.com/embed/90RLT9ndb_E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-<p><strong>华文音乐欣赏</strong></p>
-<p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
-</div>
-</li><li><input id="accordion3" type="checkbox"> <label for="accordion3">Appreciating Chinese through Professional Lenses</label>
-<div>
-<p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong></p>
-<img src="/images/Pic%201.jpg">
-<img style="width: 40%;" src="/images/Pic%203.jpg" align="right">
-<p>Our Secondary 3 Express students were immersed in the traditional art form of Chinese culture-Cross Talk. A constant ripple of laughter and applause from the audience punctuated the performance, which featured various issues from the everyday lives of Singaporeans.&nbsp;</p>
-<p>Rich in puns and allusions, crosstalk is delivered in a rapid bantering style, presenting societal trends in a light-hearted manner. We hope that this alternative form of language expression will bring the language alive and promote students’ appreciation of the Chinese culture and the arts!</p>
-<img style="width: 40%;" src="/images/Pic%202.jpg" align="left">
-<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
-<p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan</strong></p>
-<p>“云端连线，坦抒己见”写作对话会</p>
-<p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
-<p>During the circle breaker, while doing HBL, students had opportunities to take part in the exciting online activities. Our Chinese Language Department invited Ms Lin Rongchan, local writer and also lecturer at NIE, to have a live conversation with us on April 24. Focusing on her new Chinese short story, "Where are you going?" Ms Lin shared with us her source of inspiration and the writing journey. The characters in the story resonated with many of our AI students, and we were inspired to pay closer attention to people in their lives. All of us were energized by the interaction and definitely enjoyed this unique HBL experience!</p>
-</div>
-</li><li><input id="accordion4" type="checkbox"> <label for="accordion4">Immersing in a Chinese Environment</label>
-<div>
-<p>The Singaporean students listened intently. It was the first time they listened to a music lesson being conducted in Chinese, and for most of them, a first time learning about Chinese Opera. They were amazed by the teacher’s humorous way of teaching and the seriousness of their Chinese buddies who enthusiastically volunteered to demonstrate what was being taught.&nbsp;</p>
-<p>Influenced by their enthusiasm, a few AI students stepped out of their comfort zone and tried the opera moves. This is part of their experience during the 7 days 6 nights Overseas Immersion Programme.</p>
-<p>Besides having school immersion, the students also got to see the past, present and future of China through visiting the historical landmarks such as the Qianling Mausoleum and Terra Cotta Warriors and Horses, and also learned about the uprising of China economic market with company visits to Xi’an Shaangu Power and FreshHema Supermarket.</p>
-<p>AI students gained valuable insights and these experience allowed them to have a deeper appreciation of the things that they may take for granted in Singapore.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxBDMEP2wAyNcMWgNAhtxdk_p34b-KiAnJ01isE2cHln9y1F8J7msIqWiHYR5xYdBZQHmHWwpZMF0A/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p>2019年，30名伊布拉欣中学的学生在5位老师的带领下前往西安，进行了为期一个星期的文化浸濡之旅。许多学生有了他们“第一次”的尝试与体验，例如第一次乘搭高铁、第一次以华语上音乐课和第一次尝试表演京剧。除了在学校交流中认识并结交当地朋友外，我校学生也有机会参观秦始皇兵马俑博物馆、乾陵等景点，一览中国历史古迹；同时也通过参观“陕鼓动力”公司和“盒马鲜生”超市一睹中国当下的风貌，从中一探中国未来的发展趋势。学生能在华文华语环境中进行不同的活动，相信这些体验都让他们获益良多。</p>
-</div>
-</li><table width="0">
+<p><strong>Preliminary Round</strong></p><table width="0">
 <tbody>
 
 
@@ -456,22 +393,93 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>2E4</p>
 </td>
 </tr>
+</tbody>
+</table>
 
 
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr>
 
 
-	
+	<p><u><strong>Joy in Chinese beyond the classroom</strong></u></p>
+<p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p>
+<p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p>
+<p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local Chinese Language theatrical productions. Due to the fluid pandemic situation, AI students had the privilege to engage in an online drama production, POPPY. Through both online and Telegram activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
 
-
-
-
-	
-
-
-
-
-
-
-
-
-</tbody></table></div></div></div></div></div></div></li></ul>
+	<p><u><strong>寓乐于课堂之外</strong></u></p>
+<p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p>
+<p>1. 2022年的母语双周活动在学生的欢声笑语中圆满落幕！今年伊布拉欣中学华文部特别为中一中二的学生设计了不同的活动，希望每位学生都能体会华族传统文化之美。中一的学生在导师的带领下了解了传统宫灯文化，还亲手制作了精美的宫灯；中二的学生除了更深入地认识端午节的由来和传统习俗以外，还参加了龙舟模型和泥塑粽子制作活动。今年华文部也特别为普通工艺班的学生安排了传统游戏站，让学生们体验投壶和踢毽子等中国传统游戏。</p>
+<p>2. 华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场。2022年，因疫情状况不明，AI学生在课室里，体验了一场线上舞台剧。通过线上线下的互动活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Experiencing Chinese Culture</label>
+<div>
+<p><strong>Mother Tongue Fortnight</strong></p>
+<p>“After Chang’e ate up the elixir, she drifted all the way up into the sky, towards the big, round moon……”</p>
+<p>As the student who was acting as Chang’e got into her character, the class roared with a thunderous applause.</p>
+<p>“嫦娥吃下了仙丹后，缓缓地升上天空，向月亮飞去……”</p>
+<p>饰演嫦娥的学生卖力地表演，教室里欢呼声和掌声此起彼落，也为今年的母语双周画上完美的句点。</p>
+<p>This year, AI tagged on the theme of Mid-Autumn Festival for our Mother Tongue Fortnight Programme. Other than viewing videos to understand the origins of Mid-Autumn Festival and mooncakes, students also had the opportunity to make lanterns and guess lantern-riddles, both which are related to the Festival.</p>
+<p>今年我校以中秋为主题，为母语双周设计了一系列的活动。学生除了观看视频，了解中秋节和月饼的由来，还有机会参与一些与中秋节相关的活动，例如制作灯笼和猜灯谜等。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdHcNmNSJiQSvmCaFrKXcmvAmwpGNRR5DI7k520V2TfdH5zdUQ1eNKIWsSULUhoSj0zmsk27eh3zbJ/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>AI students also had a hand in making mooncakes. Unlike how it is usually done, students used plasticine as ingredients, instead of flour. They re-enacted the story of “The Revolt by Emperor Zhu Yuan Zhang” by stuffing well-wishes into their mooncake, and passing it around anonymously. Although they could not indulge in their own mooncakes, they could feel the warmth as they unravel the messages hidden within the mooncakes.</p>
+<p>除此之外，学生还尝试制作月饼。今年因为防控新冠病毒（COVID-19）的缘故，制作月饼有别于一般的做法，导师让学生“重现”朱元璋月饼起义的故事。在活动中，学生用粘土制作月饼，把写上祝福语的字条夹在月饼中，送给其他同学。虽然学生无法品尝他们制作的月饼，但却能感受到来自朋友满满的祝福！</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQijkPFEgeMKbPEJ_0yy033V_aA5CA8ayoGqJm7E-p9I-VTQseXVVMQzFptJT5e9NVh5SZd6ATyN2Sa/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>AI students also had a hand in making mooncakes. Unlike how it is usually done, students used plasticine as ingredients, instead of flour. They re-enacted the story of “The Revolt by Emperor Zhu Yuan Zhang” by stuffing well-wishes into their mooncake, and passing it around anonymously. Although they could not indulge in their own mooncakes, they could feel the warmth as they unravel the messages hidden within the mooncakes.</p>
+<p>除此之外，学生还尝试制作月饼。今年因为防控新冠病毒（COVID-19）的缘故，制作月饼有别于一般的做法，导师让学生“重现”朱元璋月饼起义的故事。在活动中，学生用粘土制作月饼，把写上祝福语的字条夹在月饼中，送给其他同学。虽然学生无法品尝他们制作的月饼，但却能感受到来自朋友满满的祝福！</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0wSKyqJtJ0IsA5UrUmtqTzYcg1Mn2pUc31IwEASQOgldUcAT9-zIws-A0VsaPo_oRhQQ08nckEGwc/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>Last but not least, every student participated in the dramatization of “Hou Yi Shoots the Suns” and “Chang’e Drifts to the Moon” legend, drawing the programme to close with a fairy tale ending.<br><br>最后，学生还通过话剧的方式临场表演了“后羿射日”和“嫦娥奔月”这两个故事。今年的母语双周也在学生生动的演绎中拉下帷幕。</p>
+<div><iframe class="ive_eobj_center" src="https://www.youtube.com/embed/oNc5maq0a-4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p><strong>Chinese New Year 2020</strong></p>
+<p>Every year, our school holds a series of Chinese New Year celebrations. This year is no exception.<br>每年，伊布拉欣中学都会举办一系列的华人新年庆祝活动。今年也不例外。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSazF5HvXhSMP-wsEYF_Z5t3FVKsX4YcuRjQNOurOgt2NC1YFYIU3j-sALNyf43vCom8Cm9322qOTT9/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>One of the activities was calligraphy. We invited professional calligraphy teachers to teach students to write&nbsp;New Year couplets. Outstanding pieces were selected to use as decorations in the school hall and classrooms.&nbsp;</p>
+<p>其中一项活动是新年挥春。我们邀请了专业的书法老师教学生写春联。学生优秀的书法作品都获选用来装饰学校礼堂和课室。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKoRS2as2CfYbGzWyXN-vwlLzJzfnK6UJYhQxuM7oLZTNeb_lqX267YP1bQadgRo8so2W3mhjgw7tp/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p>Another activity is the classroom decoration competition.&nbsp;Every class displayed their creativity as they decorated the classroom according to the given theme. Students not only learned about traditional Chinese culture, but also filled the classroom with a mood of celebration!&nbsp;</p>
+<p>另一项活动是课室装饰比赛。每个年级的学生会根据相应的主题，发挥自己的创意，装饰课室。这样既让学生学习了华族传统文化，又使课室充满浓厚的新年气息。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMu5yMxLXawDlBy2lpVcxhiEhOzqAFasVb2swT4scmuYiT7JsSaxie5cgrg0BJfW2rWHrAiCMb0iWe/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<img style="width: 40%;" src="/images/cl6.jpg" align="left">
+<p>This year, the most popular performance was the magic show "Amazing Umbrellas".&nbsp;<br>The audience repeatedly cheered in awe as the magician made umbrellas appear seemingly out of nowhere!</p>
+<p>今年最受欢迎的节目就是魔术表演《变伞》，魔术师用自己精湛的技艺将一把把伞从手中变出来，使观众各个都惊叹欢呼！</p>
+<p>Finally, with the crashing of cymbals and roar of drums, the celebration reached its climax as the lion dance troupe made their way into the school hall. Up on stage, our school leaders received the well wishes given by the troupe and this drew the New Year celebration to a close.</p>
+<p>最后，年年受欢迎的舞狮队伍进一步将庆祝活动推向了最高潮，也让新年庆祝活动在锣鼓声中划上了圆满的句号。</p>
+<img style="width: 65%;" src="/images/cl7.jpg">
+<p><strong>Chinese Song Appreciation</strong></p>
+<p>Music is to the soul what words are to the mind. Fueled by the aim of sharing the love of the Chinese language through alternative mediums, the Secondary 2 Chinese students came together for a joyous session of singing and song appreciation during the Mother Tongue Fortnight. Teachers kick-started the event and took the audience’s breath away by performing popular songs by singers JJ Lin and A-mei. Enthusiastic representatives from each class sang to their hearts’ content and were rewarded by thunderous applause from the audience. What a feast for the ears it was! We hope that the students and teachers have enjoyed themselves at this event and continue to find joy in learning the Chinese language as they immerse themselves in Chinese songs.</p>
+<p><iframe src="https://www.youtube.com/embed/y3lRk2hUk3I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br>
+<iframe src="https://www.youtube.com/embed/90RLT9ndb_E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p><strong>华文音乐欣赏</strong></p>
+<p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">Appreciating Chinese through Professional Lenses</label>
+<div>
+<p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong></p>
+<img src="/images/Pic%201.jpg">
+<img style="width: 40%;" src="/images/Pic%203.jpg" align="right">
+<p>Our Secondary 3 Express students were immersed in the traditional art form of Chinese culture-Cross Talk. A constant ripple of laughter and applause from the audience punctuated the performance, which featured various issues from the everyday lives of Singaporeans.&nbsp;</p>
+<p>Rich in puns and allusions, crosstalk is delivered in a rapid bantering style, presenting societal trends in a light-hearted manner. We hope that this alternative form of language expression will bring the language alive and promote students’ appreciation of the Chinese culture and the arts!</p>
+<img style="width: 40%;" src="/images/Pic%202.jpg" align="left">
+<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
+<p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan</strong></p>
+<p>“云端连线，坦抒己见”写作对话会</p>
+<p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
+<p>During the circle breaker, while doing HBL, students had opportunities to take part in the exciting online activities. Our Chinese Language Department invited Ms Lin Rongchan, local writer and also lecturer at NIE, to have a live conversation with us on April 24. Focusing on her new Chinese short story, "Where are you going?" Ms Lin shared with us her source of inspiration and the writing journey. The characters in the story resonated with many of our AI students, and we were inspired to pay closer attention to people in their lives. All of us were energized by the interaction and definitely enjoyed this unique HBL experience!</p>
+</div>
+</li>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">Immersing in a Chinese Environment</label>
+<div>
+<p>The Singaporean students listened intently. It was the first time they listened to a music lesson being conducted in Chinese, and for most of them, a first time learning about Chinese Opera. They were amazed by the teacher’s humorous way of teaching and the seriousness of their Chinese buddies who enthusiastically volunteered to demonstrate what was being taught.&nbsp;</p>
+<p>Influenced by their enthusiasm, a few AI students stepped out of their comfort zone and tried the opera moves. This is part of their experience during the 7 days 6 nights Overseas Immersion Programme.</p>
+<p>Besides having school immersion, the students also got to see the past, present and future of China through visiting the historical landmarks such as the Qianling Mausoleum and Terra Cotta Warriors and Horses, and also learned about the uprising of China economic market with company visits to Xi’an Shaangu Power and FreshHema Supermarket.</p>
+<p>AI students gained valuable insights and these experience allowed them to have a deeper appreciation of the things that they may take for granted in Singapore.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxBDMEP2wAyNcMWgNAhtxdk_p34b-KiAnJ01isE2cHln9y1F8J7msIqWiHYR5xYdBZQHmHWwpZMF0A/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>2019年，30名伊布拉欣中学的学生在5位老师的带领下前往西安，进行了为期一个星期的文化浸濡之旅。许多学生有了他们“第一次”的尝试与体验，例如第一次乘搭高铁、第一次以华语上音乐课和第一次尝试表演京剧。除了在学校交流中认识并结交当地朋友外，我校学生也有机会参观秦始皇兵马俑博物馆、乾陵等景点，一览中国历史古迹；同时也通过参观“陕鼓动力”公司和“盒马鲜生”超市一睹中国当下的风貌，从中一探中国未来的发展趋势。学生能在华文华语环境中进行不同的活动，相信这些体验都让他们获益良多。</p>
+</div>
+</li>
+</ul>
