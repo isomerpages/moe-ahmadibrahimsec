@@ -409,11 +409,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 
 <tr>
-<td rowspan="2" width="50">
-<p><strong>2023</strong></p>
-</td>
-<td width="87">
-<p>Upper Sec高年级组</p>
+<td rowspan="2" width="87">
+<p><strong>Lower Sec低年级组</strong></p>
 </td>
 <td width="126">
 <p>Special Mention Award</p>
@@ -442,8 +439,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </td>
 </tr>
 <tr>
-<td width="87">
-<p>Lower Sec低年级组</p>
+<td rowspan="2" width="87">
+<p><strong>Upper Sec高年级组</strong></p>
 </td>
 <td width="126">
 <p>Accomplishment Award</p>
