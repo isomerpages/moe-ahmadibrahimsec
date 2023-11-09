@@ -46,7 +46,10 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 <hr>
 	
 <p>As the saying goes, “teach a man to fish and you feed him for a lifetime”. To develop AI students into confident self-regulated adults, they are guided to evaluate oral and writing pieces throughout 4 years of Chinese Language experience.</p>
-<p>• Sec 1 students: oral evaluation lessons<br>• Sec 2 students: narrative writing skills Process Writing lessons<br>• Sec 3 students: discursive writing skills through Process Writing lessons</p>
+<p>• Sec 1 students: oral evaluation lessons<br>
+• Sec 2 students: narrative writing skills Process Writing lessons<br>
+• Sec 3 students: discursive writing skills through Process Writing lessons</p>
+
 <div>正所谓“授人以鱼，不如授之以渔”。为了提高AI学生独立思考的能力，我校教师每年都会针对不同的语文技能，培养学生自我评价的能力，增强他们使用华文华语的信心。</div>
 <div>&nbsp;</div>
 <div>• 通过互评与自评，中一学生将学习如何评价自己的说话内容</div>
@@ -57,6 +60,8 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 <div>excellence, AI Chinese students who display flair in Chinese Language during our annual Chinese Writing Competition will receive prizes to acknowledge their strength. This competition is part of our Mother Tongue Language Prize Competition which aims to give such talents a sense of achievement.</div>
 <div>&nbsp;</div>
 <div>为了培养精益求精的学习精神，同时也让学生巩固课堂所学，我校每年都会奖励在年度华文写作比赛中表现优异的学生。这项比赛，是母语部比赛的常设项目之一，旨在提供学生展现文采的平台。</div>
+<hr>
+
 <p><strong><em>Zaobao Editorial Competition</em></strong><br>Talents need opportunities to shine. Every year, selected students in Sec 2 and 3 Higher Chinese participate in Create Your Own Newspaper Competition, organised by Singapore Press Holdings. Students hone their Chinese language skills as they work as a team of journalist to produce professional newspaper articles. AI teams are proud to clinch top awards for consecutive years.</p>
 <p><u>全国中学编采比赛</u><br>有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI 代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqAZ1xiSxGADgRRs-Ypz94l_L4IoDYPIMnRsdOi6YaFDiffWE-jHfAd8obrdbVBldc9Y0G1R-2ow9g/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
