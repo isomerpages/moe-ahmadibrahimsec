@@ -68,7 +68,13 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><u>全国中学编采比赛</u><br>
 有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI 代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。今年，校的其中一组学生荣获二等奖和最佳题材奖。 </p>
 
+<p><u><strong>2023</strong></u></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJJ481Of8QDMpOzdittti-i_RH36Btr0O2HX9HjoqxUlmdjYmvYIBP8YCxGuHRTh9PYfEUXnAYEgaf/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+<p><u><strong>2022</strong></u></p>
+<hr>	
+
+<br>
 <div>
 <div>
 <p style="text-align: center;"><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br></u></strong><strong><u>伊布拉欣中学得奖名单</u></strong></p>
