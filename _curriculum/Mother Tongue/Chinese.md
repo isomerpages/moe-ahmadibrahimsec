@@ -334,39 +334,52 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong><em>全国中小学课文朗读比赛</em></strong></p>
 <p>有天分的学生，需要发挥才华的空间。每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI 代表和团队都很荣幸得到评审的认可，勇夺铜奖和银奖。今年，我校的其中一位学生荣获金奖和优秀奖。 </p>
 
-<br>
 <div>
 <div>
 <p style="text-align: center;"><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br></u></strong><strong><u>伊布拉欣中学得奖名单</u></strong></p>
 <div>
 <div>
 <div style="text-align: center;">
-<p><strong>Preliminary Round</strong></p><table width="0">
+<table width="0">
 <tbody>
 
 
 <tr>
-<td rowspan="2" width="87">
-<p><strong>Lower Sec</strong></p>
-<p><strong>低年级组</strong></p>
+<td rowspan="2" width="50">
+<p><strong>2023</strong></p>
+</td>
+<td width="87">
+<p>Upper Sec高年级组</p>
 </td>
 <td width="126">
-<p>GOLD Award (Individual)</p>
-<p>金奖（个人）</p>
+<p>Special Mention Award</p>
+<p>表扬奖</p>
 </td>
 <td width="138">
-<p>LINUS TAN</p>
+<p>Soo Yin Wei</p>
+<p>Chong Ning Xin</p>
+<p>Chia Min Jun</p>
+<p>New Yu Xuan</p>
+<p>Ang En Xin, Alyssa</p>
 </td>
 <td width="84">
-<p>陈嘉康 </p>
+<p>苏尹唯</p>
+<p>张宁芯</p>
+<p>谢旻均</p>
+<p>梁语萱</p>
+<p>洪恩芯</p>
 </td>
 <td width="54">
-<p>2T2</p>
+<p>S3-Steadfastness</p>
+<p>S3-Steadfastness</p>
+<p>S3-Steadfastness</p>
+<p>S3-Excellence</p>
+<p>S3-Resilience</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="87">
-<p><strong>Upper Sec高年级组</strong></p>
+<td width="87">
+<p>Lower Sec低年级组</p>
 </td>
 <td width="126">
 <p>Accomplishment Award</p>
@@ -404,6 +417,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </div>
 </div>
 <hr>
+
+
 
 
 	<p><u><strong>Joy in Chinese beyond the classroom</strong></u></p>
