@@ -22,11 +22,27 @@ third_nav_title: Mother Tongue
 <div>• 《爱上读报2》是中二高华与快捷学生的辅助读物</div>
 <div>• 《爱上读报3》是中三高华与快捷学生的辅助读物</div>
 <img src="/images/combine_images.jpg">
-<p><strong><em>Narrative Writing<br></em></strong>We know students need inspiration to write deeper stories. Therefore, the following books are selected as compulsory reading materials to spark AI students’ imagination.</p>
-<p>• Sec 1 Higher Chinese students: Zuo He’s Super Grandma,<br>• Sec 2 Express students: My Home is a United Nations Too<br>• Sec 2 Normal Academic students: teenager-friendly version of Journey to the West.</p>
-<p><u>记叙文写作<br></u>常言道：“读书破万卷，下笔如有神”。广泛阅读，对培养学生的写作能力至关重要。为了加强学生记叙文的写作能力，我校挑选了一些课外读物，让学生在课本之外，培养良好的阅读习惯：</p>
-<p>• 《佐贺的超级阿嬷》是中一高华学生的延伸读物<br>• 《我家也是联合国》是中二快捷华文学生的延伸读物<br>• 《西游记》是中二普通学术华文学生的延伸读物</p>
-<img src="/images/cl1.png">
+	
+	
+<p><strong><em>Narrative Writing<br></em></strong>
+We know students need inspiration to write deeper stories. Therefore, the following books are selected as compulsory reading materials to spark AI students’ imagination.</p>
+<p>• Sec 1 G3 Chinese students: That small, small dessert shop<br>
+	• Sec 1 Higher Chinese students: Zuo He’s Super Grandma<br>
+	• Sec 2 Express students: Where do you want to go?<br>
+	• Sec 2 Higher Chinese students: Secondary 4<br>
+	• Sec 3 Higher Chinese students: Walking Clouds</p>
+	
+<p><u>记叙文写作<br></u>
+常言道：“读书破万卷，下笔如有神”。广泛阅读，对培养学生的写作能力至关重要。为了加强学生记叙文的写作能力，我校挑选了一些课外读物，让学生在课本之外，培养良好的阅读习惯：</p>
+<p>•《那间小小的、小小的甜点店》是中一G3学生的延伸读物。<br>
+	• 《佐贺的超级阿嬷》是中一高华学生的延伸读物。<br>
+	• 《请问你要去哪里？》是中二快捷华文学生的延伸读物。<br>
+	• 《中四》是中二高华学生的延伸读物。<br>
+	• 《走路的云》是中三高华学生的延伸读物。</p>
+	
+![](/images/Mother%20Tongue%20%20%20CL/2023%20cl%201.png)
+	
+	
 <p>As the saying goes, “teach a man to fish and you feed him for a lifetime”. To develop AI students into confident self-regulated adults, they are guided to evaluate oral and writing pieces throughout 4 years of Chinese Language experience.</p>
 <p>• Sec 1 students: oral evaluation lessons<br>• Sec 2 students: narrative writing skills Process Writing lessons<br>• Sec 3 students: discursive writing skills through Process Writing lessons</p>
 <div>正所谓“授人以鱼，不如授之以渔”。为了提高AI学生独立思考的能力，我校教师每年都会针对不同的语文技能，培养学生自我评价的能力，增强他们使用华文华语的信心。</div>
