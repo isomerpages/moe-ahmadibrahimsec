@@ -326,8 +326,11 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </div>
 </div>
 </div>
+<hr>
 
 
+
+<hr>
 <p><u>Joy in Chinese beyond the classroom</u></p>
 <p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p>
 <p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p>
