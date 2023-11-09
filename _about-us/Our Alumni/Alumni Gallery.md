@@ -26,4 +26,8 @@ variant: markdown
 
 <h5><strong>AI Homecoming 2022 for Class of 1997’s 25th Anniversary</strong></h5>
 
+![](/images/Alumni/alumni%20gallery%205.png)
+
+![](/images/Alumni/alumni%20gallery%206.png)
+
 <h5><strong>Mr Chek Wai Yin from Class of 1988 shared his career in Aerospace Engineering in 2022  </strong></h5>
