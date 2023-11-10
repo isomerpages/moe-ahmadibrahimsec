@@ -15,7 +15,7 @@ variant: markdown
 	- [G2 - Normal Academic](/files/Booklist/2024/S2_NA_AISS_2024_final.pdf) \*\* <em>(updated as of 10/11/2023)</em> 
 	- [G1 - Normal Technical](/files/Booklist/2024/sec%202%20normal%20tech.pdf)
 	- [G1 - Normal Technical (SBB)](/files/Booklist/2024/sec%20%202%20normal%20tech%20-%20sbb.pdf)
-<br>\*\*  The book “All About English Activate Your Vocabulary by Hodder” will not be used in 2024. The book 'Vocabulary Builder Secondary Level 1' – SAP (Bought in Sec 1) will be reutilised.
+<br>\*\*  The book “All About English Activate Your Vocabulary by Hodder” will not be used in 2024. Instead, the book 'Vocabulary Builder Secondary Level 1' – SAP (Bought in Sec 1) will be reutilised.
 
 
 * Sec 3
