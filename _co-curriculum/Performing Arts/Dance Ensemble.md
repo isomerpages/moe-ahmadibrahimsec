@@ -19,9 +19,9 @@ Through the exploration of dance as an art form, we aim to develop each individu
 <br>
 <br>
 <blockquote>
-<p><em>Dance has allowed me to blossom into a fully developed individual by teaching me new skills and providing me with experiences I never would have imagined. I learnt how to cooperate and tolerate people, how to lead, learning to think on my feet and discipline. Discipline is also a key factor in my time with dance as I have to mind how I act and when as I have to be disciplined for the dance instructors to be able to teach properly and adequately. Quick thinking is something I picked up over the years in dance, when our dance instructor relays a piece of information to us and we have to think quickly. All in all, dance has lead me a long way, and I owe the person I am today to dance.</em></p>
+<p><em>As an active member of AIDE from 2021 to 2023, the journey in which we progress from online to physical training has mould me to be an adaptable dancer. In my serving years at AI, I continue to strive higher as I make more friends and seniors, where their guidance have brought me closer to achieving what I feel is the key achievement to a dancer; discipline and expression. I am more aware of my strengths which has led me to achieving my current position as Captain of AIDE. In a nutshell, the care and inclusivity that we have in AIDE community has created a second family in us. Being a part of AIDE has made me grow not only in terms of the physical strengths of a dancer but also as a resilient, discipline and great team player and discipline.</em></p>
 
-<p style="text-align: right;"><strong>- Avita Tang Engwei, 3E2</strong></p>
+<p style="text-align: right;"><strong>- Joey Heng Wen Ting <br>(3 Excellence)</strong></p>
 	
 </blockquote>
 
