@@ -64,10 +64,9 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 <p><strong>Captains<br></strong>Joey Heng Wen Ting (3 Excellence)<br>Isabel Tay Yun Xi (3 Steadfastness)</p>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teacher In Charge</label>
 <div>
-<p><strong>Mdm Juny Iskawati (Mrs Noor)&nbsp;(OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:juny_iskawati_mohd_jaffar@moe.edu.sg" target="">juny_iskawati_mohd_jaffar@moe.edu.sg</a></strong></p>
-<p>Mdm Fitrah Bte Jamri<br>Ms Yamuna Rani D/O Rajagopal</p>
+<p><strong>Mdm Fitrah Bte Jamri<br></strong><strong>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" target="">fitrah_jamri@moe.edu.sg</a></strong></p>
 </div>
 </li>
 </ul>
