@@ -346,7 +346,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 
 <tr>
-<td rowspan="3" width="50">
+<td rowspan="4" width="50">
 <p><strong>Preliminary Round</strong></p>
 </td>
 </tr>
