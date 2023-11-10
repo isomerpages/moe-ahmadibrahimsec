@@ -27,7 +27,7 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
 <div>
 <ul style="list-style-type:disc;">
-<li>Singapore Youth Festival Presentation</li></ul>
+<li>Singapore Youth Festival Presentation</li></ul><br>
 <ul style="list-style-type:none;">
 <li>- 2013 - Certificate of Distinction</li>
 <li>- 2015 - Certificate of Distinction</li>
