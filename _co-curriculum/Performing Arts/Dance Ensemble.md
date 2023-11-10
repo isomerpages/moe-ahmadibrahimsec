@@ -59,8 +59,9 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 </li>
 <li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>Chiarperson<br></strong>Avita Tang Engwei (3E2)</p>
-<p><strong>Vice-Chairperson<br></strong>Misha Hannah Binte Mohamed Fariq (3E4)</p>
+<p><strong>Chiarperson<br></strong>Nyla Aqila Binte Zainal Abidin (3 Excellence)</p>
+<p><strong>Vice-Chairperson<br></strong>Chong Ning Xin (3 Steadfastness)</p>
+<p><strong>Captains<br></strong>Joey Heng Wen Ting (3 Excellence)<br>Isabel Tay Yun Xi (3 Steadfastness)</p>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
