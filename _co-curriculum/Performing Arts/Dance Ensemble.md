@@ -26,14 +26,14 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
 <div>
-* Singapore Youth Festival Presentation<br>
+<ul style="list-style-type:disc;"><li>Singapore Youth Festival Presentation</li></ul><br>
 <p>- 2013 - Certificate of Distinction</p>
 <p>- 2015 - Certificate of Distinction</p>
 <p>- 2017 - Certificate of Achievement</p>
 <p>- 2019 - Certificate of Distinction</p>
 <p>- 2021 - Certificate of Accomplishment</p>
 <p>- 2023 - Certificate of Accomplishment</p><br>
-* Recognition of Participation at The Royal Dance Off Youth League Festival 2018
+<ul style="list-style-type:disc;"><li>Recognition of Participation at The Royal Dance Off Youth League Festival 2018</li></ul>
 
 
 
