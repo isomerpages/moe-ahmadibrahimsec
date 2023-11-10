@@ -10,9 +10,9 @@ third_nav_title: Performing Arts
 Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
 
 <blockquote>
-<p><em>Dance has allowed me to blossom into a fully developed individual by teaching me new skills and providing me with experiences I never would have imagined. I learnt how to cooperate and tolerate people, how to lead, learning to think on my feet and discipline. Discipline is also a key factor in my time with dance as I have to mind how I act and when as I have to be disciplined for the dance instructors to be able to teach properly and adequately. Quick thinking is something I picked up over the years in dance, when our dance instructor relays a piece of information to us and we have to think quickly. All in all, dance has lead me a long way, and I owe the person I am today to dance.</em></p>
+<p><em>Throughout the 3 years that I've been in AIDE, the experience that I've had as a dancer has been nothing short of fun &amp; full of excitement. AIDE has taught me the importance of discipline, perseverance and teamwork through the preparation for various performances. Mostly, it is the friends I have made and come to know in AIDE that have made it all more meaningful.</em></p>
 
-<p style="text-align: right;"><strong>- Avita Tang Engwei, 3E2</strong></p>
+<p style="text-align: right;"><strong>- Nyla Aqila Binte Zainal Abidin <br>(3 Excellence)</strong></p>
 	
 </blockquote>
 <br>
