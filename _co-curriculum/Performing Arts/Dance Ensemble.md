@@ -1,60 +1,95 @@
 ---
 title: Dance Ensemble
 permalink: /co-curriculum/performing-arts/dance-ensemble/
+variant: markdown
 description: ""
 third_nav_title: Performing Arts
 ---
 ## Dance Ensemble
 ### About Us
-Twirl and swirl, our bodies will whirl! Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
+Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
 
 <blockquote>
-<p><em>Dance has allowed me to blossom into a fully developed individual by teaching me new skills and providing me with experiences I never would have imagined. I learnt how to cooperate and tolerate people, how to lead, learning to think on my feet and discipline. Discipline is also a key factor in my time with dance as I have to mind how I act and when as I have to be disciplined for the dance instructors to be able to teach properly and adequately. Quick thinking is something I picked up over the years in dance, when our dance instructor relays a piece of information to us and we have to think quickly. All in all, dance has lead me a long way, and I owe the person I am today to dance.</em></p>
+<p><em>Throughout the 3 years that I've been in AIDE, the experience that I've had as a dancer has been nothing short of fun &amp; full of excitement. AIDE has taught me the importance of discipline, perseverance and teamwork through the preparation for various performances. Mostly, it is the friends I have made and come to know in AIDE that have made it all more meaningful.</em></p>
 
-<p style="text-align: right;"><strong>- Avita Tang Engwei, 3E2</strong></p>
+<p style="text-align: right;"><strong>- Nyla Aqila Binte Zainal Abidin <br>(3 Excellence)</strong></p>
 	
 </blockquote>
+<br>
+<br>
+<br>
+<blockquote>
+<p><em>As an active member of AIDE from 2021 to 2023, the journey in which we progress from online to physical training has mould me to be an adaptable dancer. In my serving years at AI, I continue to strive higher as I make more friends and seniors, where their guidance have brought me closer to achieving what I feel is the key achievement to a dancer; discipline and expression. I am more aware of my strengths which has led me to achieving my current position as Captain of AIDE. In a nutshell, the care and inclusivity that we have in AIDE community has created a second family in us. Being a part of AIDE has made me grow not only in terms of the physical strengths of a dancer but also as a resilient, discipline and great team player and discipline.</em></p>
+
+<p style="text-align: right;"><strong>- Joey Heng Wen Ting <br>(3 Excellence)</strong></p>
+	
+</blockquote>
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Activities</label>
 <div>
 <p><em>“Great dancers are not great because of their technique, they are great because of their passion.”</em></p>
 <p><strong>- Martha Graham</strong></p>
-<p>What is dance? Or rather, why dance?  </p>
-<p>It has been said dance is the mother of the arts, for it’s the oldest of the art which reflects man’s age old need to communicate different emotions such as joy, grief, excitement, and many others. Dance simply started as man’s own life for almost all occasions, in whatever aspects, such as birth, death, healing of the sick, asking for forgiveness, war, marriage – were celebrated by dancing.</p>
-<p>So AI dancers dance to express ourselves when words are insufficient. We dance to help us engrave those cherished moments. We dance to give tribute to the heroes of yesterday. Because when we dance, we can remember them a little better, feel the butterflies once again and return to the purest moments of our lives when time of no matter.</p>
+<p>In the rhythmic heart of Ahmad Ibrahim Secondary School, Dance Ensemble has been a vibrant and energetic presence. With each step, twirl and beat drop, our talented dancers have brought the magic of dance to our school community.
+
+This year, the Dance Ensemble performed in the annual Achievement Day and cultural events. Our dance routines were nothing short of mesmerizing, and the dedication and passion of our dancers shone brightly on stage.
+
+Behind every spectacular performance lay hours of hard work and dedication. Our dancers pushed their limits and honed their techniques, all under the guidance of our talented instructors.
+
+Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from diverse backgrounds come together in the spirit of dance. We strongly believe in the sense of belonging and friendship, where we support each other both on and off the dance floor.</p>
 </div>
 </li>
+
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
 <div>
-<p>- SYF Arts Presentation 2019: Distinction<br>- Recognition of Participation at The Royal Dance Off Youth League Festival 2018<br>- Certification of Accomplishment in the 2017 Singapore Youth Festival Arts Presentation</p>
+<ul style="list-style-type:disc;"><li>Singapore Youth Festival Presentation</li></ul>
+<p>- 2013 - Certificate of Distinction</p>
+<p>- 2015 - Certificate of Distinction</p>
+<p>- 2017 - Certificate of Achievement</p>
+<p>- 2019 - Certificate of Distinction</p>
+<p>- 2021 - Certificate of Accomplishment</p>
+<p>- 2023 - Certificate of Accomplishment</p><br>
+<ul style="list-style-type:disc;"><li>Recognition of Participation at The Royal Dance Off Youth League Festival 2018</li></ul>
+
+
+
+
 </div>
 </li>
+
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Participation</label>
 <div>
-<p>- Achievement Day performance<br>- National Day performance<br>- Chinese New Year performance<br>- Teachers’ Day performance</p>
+<ul style="list-style-type:disc;">
+<li>Chinese New Year Performance</li>
+<li>Racial Harmony Day Performance</li>
+<li>Achievement Day Performance</li></ul>
 </div>
 </li>
+
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQ-YceplZX0rSp4qUr1UvBBL5Z3dzpFCwBgE_UubTiepY9iYPRmkdFl08uVfSAhQTszFhbCNP853nO/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST7bCq0uLVGdpHPatlD7rW3aWYOpVM7svSCbLArqqq367-XIFM99WQsELGzgfTy3Heg3KUXeQ43WHI/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 </li>
+
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
 <div>
 <p><strong>Wednesday</strong><br>3.45 pm to 6.15 pm</p>
 <p><strong>Friday</strong><br>1.30 pm to 5.00 pm</p>
 </div>
 </li>
+
 <li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>Chiarperson<br></strong>Avita Tang Engwei (3E2)</p>
-<p><strong>Vice-Chairperson<br></strong>Misha Hannah Binte Mohamed Fariq (3E4)</p>
+<p><strong>Chiarperson<br></strong>Nyla Aqila Binte Zainal Abidin (3 Excellence)</p>
+<p><strong>Vice-Chairperson<br></strong>Chong Ning Xin (3 Steadfastness)</p>
+<p><strong>Captains<br></strong>Joey Heng Wen Ting (3 Excellence)<br>Isabel Tay Yun Xi (3 Steadfastness)</p>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
+
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teacher In Charge</label>
 <div>
-<p><strong>Mdm Juny Iskawati (Mrs Noor)&nbsp;(OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:juny_iskawati_mohd_jaffar@moe.edu.sg" target="">juny_iskawati_mohd_jaffar@moe.edu.sg</a></strong></p>
-<p>Mdm Fitrah Bte Jamri<br>Ms Yamuna Rani D/O Rajagopal</p>
+<p><strong>Mdm Fitrah Bte Jamri<br></strong><strong>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" target="">fitrah_jamri@moe.edu.sg</a></strong></p>
 </div>
 </li>
 </ul>

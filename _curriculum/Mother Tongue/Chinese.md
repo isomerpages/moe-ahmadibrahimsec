@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /curriculum/mother-tongue/permalink/
+permalink: /curriculum/mother-tongue/chinese-language-unit/
 variant: markdown
 description: ""
 third_nav_title: Mother Tongue

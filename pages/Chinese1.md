@@ -1,6 +1,6 @@
 ---
 title: Chinese1
-permalink: /curriculum/mother-tongue/chinese-language-unit/
+permalink: /curriculum/mother-tongue/permalink/
 description: ""
 variant: tiptap
 ---
