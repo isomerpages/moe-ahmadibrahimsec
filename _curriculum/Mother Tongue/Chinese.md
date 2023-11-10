@@ -420,6 +420,30 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </td>
 </tr>
 
+<tr>
+<td width="50">
+<p><strong>Finals</strong></p>
+</td>
+</tr>
+
+<tr>
+<td width="87">
+<p>Lower Sec低年级组</p>
+</td>
+<td width="126">
+<p>Special Mention Award (Individual)</p>
+<p>优秀奖（个人）</p>
+</td>
+<td width="138">
+<p>Linus Tan</p>
+</td>
+<td width="84">
+<p>陈嘉康</p>
+</td>
+<td width="54">
+<p>2T2</p>
+</td>
+</tr>
 
 </tbody>
 </table>
