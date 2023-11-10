@@ -9,6 +9,22 @@ third_nav_title: Performing Arts
 ### About Us
 Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
 
+<blockquote>
+<p><em>Dance has allowed me to blossom into a fully developed individual by teaching me new skills and providing me with experiences I never would have imagined. I learnt how to cooperate and tolerate people, how to lead, learning to think on my feet and discipline. Discipline is also a key factor in my time with dance as I have to mind how I act and when as I have to be disciplined for the dance instructors to be able to teach properly and adequately. Quick thinking is something I picked up over the years in dance, when our dance instructor relays a piece of information to us and we have to think quickly. All in all, dance has lead me a long way, and I owe the person I am today to dance.</em></p>
+
+<p style="text-align: right;"><strong>- Avita Tang Engwei, 3E2</strong></p>
+	
+</blockquote>
+<br>
+<br>
+<br>
+<blockquote>
+<p><em>Dance has allowed me to blossom into a fully developed individual by teaching me new skills and providing me with experiences I never would have imagined. I learnt how to cooperate and tolerate people, how to lead, learning to think on my feet and discipline. Discipline is also a key factor in my time with dance as I have to mind how I act and when as I have to be disciplined for the dance instructors to be able to teach properly and adequately. Quick thinking is something I picked up over the years in dance, when our dance instructor relays a piece of information to us and we have to think quickly. All in all, dance has lead me a long way, and I owe the person I am today to dance.</em></p>
+
+<p style="text-align: right;"><strong>- Avita Tang Engwei, 3E2</strong></p>
+	
+</blockquote>
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Activities</label>
 <div>
