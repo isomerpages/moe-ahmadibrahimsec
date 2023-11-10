@@ -15,6 +15,8 @@ variant: markdown
 	- [G2 - Normal Academic](/files/Booklist/2024/S2_NA_AISS_2024_final.pdf)
 	- [G1 - Normal Technical](/files/Booklist/2024/sec%202%20normal%20tech.pdf)
 	- [G1 - Normal Technical (SBB)](/files/Booklist/2024/sec%20%202%20normal%20tech%20-%20sbb.pdf)
+<br>\*  
+
 
 * Sec 3
 	- [G3 - Express](/files/Booklist/2024/sec%203%20express.pdf)
