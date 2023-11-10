@@ -48,7 +48,7 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQ-YceplZX0rSp4qUr1UvBBL5Z3dzpFCwBgE_UubTiepY9iYPRmkdFl08uVfSAhQTszFhbCNP853nO/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST7bCq0uLVGdpHPatlD7rW3aWYOpVM7svSCbLArqqq367-XIFM99WQsELGzgfTy3Heg3KUXeQ43WHI/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
