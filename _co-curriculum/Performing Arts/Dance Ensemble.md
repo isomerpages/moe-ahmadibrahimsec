@@ -21,22 +21,23 @@ This year, the Dance Ensemble performed in the annual Achievement Day and cultur
 Behind every spectacular performance lay hours of hard work and dedication. Our dancers pushed their limits and honed their techniques, all under the guidance of our talented instructors.
 
 Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from diverse backgrounds come together in the spirit of dance. We strongly believe in the sense of belonging and friendship, where we support each other both on and off the dance floor.</p>
-
 </div>
 </li>
+
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
 <div>
-<ul style="list-style-type:disc;">
-<li>Singapore Youth Festival Presentation</li></ul><br>
-<ul style="list-style-type:none;">
-<li>- 2013 - Certificate of Distinction</li>
-<li>- 2015 - Certificate of Distinction</li>
-<li>- 2017 - Certificate of Achievement</li>
-<li>- 2019 - Certificate of Distinction</li>
-<li>- 2021 - Certificate of Accomplishment</li>
-<li>- 2023 - Certificate of Accomplishment</li></ul>
-<ul style="list-style-type:disc;">
-<li>Recognition of Participation at The Royal Dance Off Youth League Festival 2018</li></ul>
+* Singapore Youth Festival Presentation<br>
+<p>- 2013 - Certificate of Distinction</p>
+<p>- 2015 - Certificate of Distinction</p>
+<p>- 2017 - Certificate of Achievement</p>
+<p>- 2019 - Certificate of Distinction</p>
+<p>- 2021 - Certificate of Accomplishment</p>
+<p>- 2023 - Certificate of Accomplishment</p><br>
+* Recognition of Participation at The Royal Dance Off Youth League Festival 2018
+
+
+
+
 </div>
 </li>
 
