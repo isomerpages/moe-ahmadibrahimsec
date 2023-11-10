@@ -40,7 +40,10 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 </li>
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Participation</label>
 <div>
-<p>- Achievement Day performance<br>- National Day performance<br>- Chinese New Year performance<br>- Teachers’ Day performance</p>
+<ul style="list-style-type:disc;">
+<li>Chinese New Year Performance</li>
+<li>Racial Harmony Day Performance</li>
+<li>Achievement Day Performance</li></ul>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
