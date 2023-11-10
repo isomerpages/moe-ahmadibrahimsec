@@ -360,7 +360,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>金奖（个人）</p>
 </td>
 <td width="138">
-<p>LINUS TAN</p>
+<p>Linus Tan</p>
 </td>
 <td width="84">
 <p>陈嘉康</p>
@@ -400,17 +400,23 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>Upper Sec高年级组</p>
 </td>
 <td width="126">
-<p>GOLD Award (Individual)</p>
-<p>金奖（个人）</p>
+<p>BRONZE Award (Team)</p>
+<p>铜奖（团体）</p>
 </td>
 <td width="138">
-<p>LINUS TAN</p>
+<p>Zhang Tingrui, Terry</p>
+<p>Ong Xiang Rou</p>
+<p>Pang Xinyu</p>
 </td>
 <td width="84">
-<p>陈嘉康</p>
+<p>张庭睿</p>
+<p>王湘柔</p>
+<p>彭歆喻</p>
 </td>
 <td width="54">
-<p>2T2</p>
+<p>S3-Resilience</p>
+<p>S3-Care</p>
+<p>S3-Service</p>
 </td>
 </tr>
 
@@ -429,7 +435,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 
 
-	<p><u><strong>Joy in Chinese beyond the classroom</strong></u></p>
+<p><u><strong>Joy in Chinese beyond the classroom</strong></u></p>
 <p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p>
 <p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p>
 <p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local Chinese Language theatrical productions. Due to the fluid pandemic situation, AI students had the privilege to engage in an online drama production, POPPY. Through both online and Telegram activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
