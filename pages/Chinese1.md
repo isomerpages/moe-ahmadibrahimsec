@@ -1,9 +1,8 @@
 ---
-title: Chinese
-permalink: /curriculum/mother-tongue/permalink/
-variant: markdown
+title: Chinese1
+permalink: /curriculum/mother-tongue/chinese-language-unit/
 description: ""
-third_nav_title: Mother Tongue
+variant: tiptap
 ---
 ## Chinese
 
@@ -22,36 +21,13 @@ third_nav_title: Mother Tongue
 <div>• 《爱上读报2》是中二高华与快捷学生的辅助读物</div>
 <div>• 《爱上读报3》是中三高华与快捷学生的辅助读物</div>
 <img src="/images/combine_images.jpg">
-<hr>
-	
-<p><strong><em>Narrative Writing<br></em></strong>
-We know students need inspiration to write deeper stories. Therefore, the following books are selected as compulsory reading materials to spark AI students’ imagination.</p>
-<p>• Sec 1 G3 Chinese students: That small, small dessert shop<br>
-	• Sec 1 Higher Chinese students: Zuo He’s Super Grandma<br>
-	• Sec 2 Express students: Where do you want to go?<br>
-	• Sec 2 Higher Chinese students: Secondary Four<br>
-	• Sec 3 Higher Chinese students: Walking Clouds</p>
-	
-<p><u>记叙文写作<br></u>
-常言道：“读书破万卷，下笔如有神”。广泛阅读，对培养学生的写作能力至关重要。为了加强学生记叙文的写作能力，我校挑选了一些课外读物，让学生在课本之外，培养良好的阅读习惯：</p>
-<p>•《那间小小的、小小的甜点店》是中一G3学生的延伸读物。<br>
-	• 《佐贺的超级阿嬷》是中一高华学生的延伸读物。<br>
-	• 《请问你要去哪里？》是中二快捷华文学生的延伸读物。<br>
-	• 《中四》是中二高华学生的延伸读物。<br>
-	• 《走路的云》是中三高华学生的延伸读物。</p>
-
-<img src="/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%201.JPG">
-	
-<img src="/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%202.JPG">
-
-	
-<hr>
-	
+<p><strong><em>Narrative Writing<br></em></strong>We know students need inspiration to write deeper stories. Therefore, the following books are selected as compulsory reading materials to spark AI students’ imagination.</p>
+<p>• Sec 1 Higher Chinese students: Zuo He’s Super Grandma,<br>• Sec 2 Express students: My Home is a United Nations Too<br>• Sec 2 Normal Academic students: teenager-friendly version of Journey to the West.</p>
+<p><u>记叙文写作<br></u>常言道：“读书破万卷，下笔如有神”。广泛阅读，对培养学生的写作能力至关重要。为了加强学生记叙文的写作能力，我校挑选了一些课外读物，让学生在课本之外，培养良好的阅读习惯：</p>
+<p>• 《佐贺的超级阿嬷》是中一高华学生的延伸读物<br>• 《我家也是联合国》是中二快捷华文学生的延伸读物<br>• 《西游记》是中二普通学术华文学生的延伸读物</p>
+<img src="/images/cl1.png">
 <p>As the saying goes, “teach a man to fish and you feed him for a lifetime”. To develop AI students into confident self-regulated adults, they are guided to evaluate oral and writing pieces throughout 4 years of Chinese Language experience.</p>
-<p>• Sec 1 students: oral evaluation lessons<br>
-• Sec 2 students: narrative writing skills Process Writing lessons<br>
-• Sec 3 students: discursive writing skills through Process Writing lessons</p>
-
+<p>• Sec 1 students: oral evaluation lessons<br>• Sec 2 students: narrative writing skills Process Writing lessons<br>• Sec 3 students: discursive writing skills through Process Writing lessons</p>
 <div>正所谓“授人以鱼，不如授之以渔”。为了提高AI学生独立思考的能力，我校教师每年都会针对不同的语文技能，培养学生自我评价的能力，增强他们使用华文华语的信心。</div>
 <div>&nbsp;</div>
 <div>• 通过互评与自评，中一学生将学习如何评价自己的说话内容</div>
@@ -62,23 +38,9 @@ We know students need inspiration to write deeper stories. Therefore, the follow
 <div>excellence, AI Chinese students who display flair in Chinese Language during our annual Chinese Writing Competition will receive prizes to acknowledge their strength. This competition is part of our Mother Tongue Language Prize Competition which aims to give such talents a sense of achievement.</div>
 <div>&nbsp;</div>
 <div>为了培养精益求精的学习精神，同时也让学生巩固课堂所学，我校每年都会奖励在年度华文写作比赛中表现优异的学生。这项比赛，是母语部比赛的常设项目之一，旨在提供学生展现文采的平台。</div>
-<hr>
-
-<p><strong><em>Zaobao Editorial Competition</em></strong><br>
-Talents need opportunities to shine. Every year, selected students in Sec 2 and 3 Higher Chinese participate in Create Your Own Newspaper Competition, organised by Singapore Press Holdings. Students hone their Chinese language skills as they work as a team of journalist to produce professional newspaper articles. AI teams are proud to clinch top awards for consecutive years. This year, one of our teams clinched the “Accomplishment Award” and the “Best Theme ” award.</p>
-
-<p><u>全国中学编采比赛</u><br>
-有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI 代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。今年，校的其中一组学生荣获二等奖和最佳题材奖。 </p>
-
-<p><u><strong>2023</strong></u></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJJ481Of8QDMpOzdittti-i_RH36Btr0O2HX9HjoqxUlmdjYmvYIBP8YCxGuHRTh9PYfEUXnAYEgaf/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-<p><u><strong>2022</strong></u></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxBZSZ8-QQqI0Ym5VPr_kseUqbhkXogm3_eyNwAPKJTLPyCA7gQRSgPUZ7hdcNobppFNlRdvcflKvM/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-
-
-<br>
+<p><strong><em>Zaobao Editorial Competition</em></strong><br>Talents need opportunities to shine. Every year, selected students in Sec 2 and 3 Higher Chinese participate in Create Your Own Newspaper Competition, organised by Singapore Press Holdings. Students hone their Chinese language skills as they work as a team of journalist to produce professional newspaper articles. AI teams are proud to clinch top awards for consecutive years.</p>
+<p><u>全国中学编采比赛</u><br>有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI 代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqAZ1xiSxGADgRRs-Ypz94l_L4IoDYPIMnRsdOi6YaFDiffWE-jHfAd8obrdbVBldc9Y0G1R-2ow9g/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <div>
 <div>
 <p style="text-align: center;"><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br></u></strong><strong><u>伊布拉欣中学得奖名单</u></strong></p>
@@ -87,107 +49,6 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <div style="text-align: center;">
 <table width="0">
 <tbody>
-
-
-<tr>
-<td rowspan="2" width="50">
-<p><strong>2023</strong></p>
-</td>
-<td width="87">
-<p>Upper Sec高年级组</p>
-</td>
-<td width="126">
-<p>Special Mention Award</p>
-<p>表扬奖</p>
-</td>
-<td width="138">
-<p>Soo Yin Wei</p>
-<p>Chong Ning Xin</p>
-<p>Chia Min Jun</p>
-<p>New Yu Xuan</p>
-<p>Ang En Xin, Alyssa</p>
-</td>
-<td width="84">
-<p>苏尹唯</p>
-<p>张宁芯</p>
-<p>谢旻均</p>
-<p>梁语萱</p>
-<p>洪恩芯</p>
-</td>
-<td width="54">
-<p>S3-Steadfastness</p>
-<p>S3-Steadfastness</p>
-<p>S3-Steadfastness</p>
-<p>S3-Excellence</p>
-<p>S3-Resilience</p>
-</td>
-</tr>
-<tr>
-<td width="87">
-<p>Lower Sec低年级组</p>
-</td>
-<td width="126">
-<p>Accomplishment Award</p>
-<p>二等奖</p>
-</td>
-<td width="138">
-<p>Wong Wan Yan (Huang Wanyan)</p>
-<p>Joellyn Yap Yanxi</p>
-<p>Lai Rou Ying</p>
-<p>Koh Ching Voon</p>
-<p>Wang Xiaoyu</p>
-</td>
-<td width="84">
-<p>黄婉嫣</p>
-<p>葉妍希</p>
-<p>赖柔颖</p>
-<p>辜靖文</p>
-<p>王晓钰</p>
-</td>
-<td width="54">
-<p>2E1</p>
-<p>2E2</p>
-<p>2E3</p>
-<p>2E3</p>
-<p>2E4</p>
-</td>
-</tr>
-
-
-<tr>
-<td width="50">
-<p><strong>2022</strong></p>
-</td>
-<td width="87">
-<p>Upper Sec高年级组</p>
-</td>
-<td width="126">
-<p>Accomplishment Award + Best Theme Award</p>
-<p>二等奖 + 最佳题材</p>
-</td>
-<td width="138">
-<p>Toh Shi Ying</p>
-<p>Lim Ziyan</p>
-<p>Seah Jia Xuan Rachel</p>
-<p>Jiang Yingrui</p>
-<p>Michelle Khoo Xin Yu</p>
-</td>
-<td width="84">
-<p>杜思颖</p>
-<p>林芷言</p>
-<p>謝佳璇</p>
-<p>江应锐</p>
-<p>邱鋅嵛</p>
-</td>
-<td width="54">
-<p>3E1</p>
-<p>3E2</p>
-<p>3E4</p>
-<p>3E1</p>
-<p>3E3</p>
-</td>
-</tr>
-	
 <tr>
 <td rowspan="2" width="50">
 <p><strong>2020</strong></p>
@@ -216,7 +77,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <td width="54">
 <p>3E1</p>
 <p>3E1</p>
-<p>3E2</p>
+<p>3E2&nbsp;</p>
 <p>3E4</p>
 <p>3E4</p>
 </td>
@@ -251,8 +112,6 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>2E1</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="2" width="50">
 <p><strong>2019&nbsp;</strong></p>
@@ -319,155 +178,22 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </tr>
 </tbody>
 </table>
-
-
 </div>
 </div>
 </div>
 </div>
 </div>
-<hr>
-
-<p><strong><em>Text Recital Competition</em></strong><br>
-</p><p>Talents need opportunities to shine. Every year, selected students in Sec 1 to Sec 3 cohort participate in Text Recital Competition, organised by Committee to promote Chinese Language Learning. Students hone their Chinese language reading skills to bring life to otherwise dry texts individually or in teams. AI students and teams are proud to clinch top awards for consecutive years. This year, one of our students clinched the “Gold Award” and went on qualify for the “Special Mention ” award in the finals.</p><br>
-
-<p><strong><em>全国中小学课文朗读比赛</em></strong></p>
-<p>有天分的学生，需要发挥才华的空间。每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI 代表和团队都很荣幸得到评审的认可，勇夺铜奖和银奖。今年，我校的其中一位学生荣获金奖和优秀奖。 </p>
-
-<div>
-<div>
-<p style="text-align: center;"><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br></u></strong><strong><u>伊布拉欣中学得奖名单</u></strong></p>
-<div>
-<div>
-<div style="text-align: center;">
-<p><strong>Award Winners for 2023</strong></p><table width="0">
-<tbody>
-
-
-
-<tr>
-<td rowspan="4" width="50">
-<p><strong>Preliminary Round</strong></p>
-</td>
-</tr>
-
-<tr>
-<td width="87">
-<p>Lower Sec低年级组</p>
-</td>
-<td width="126">
-<p>GOLD Award (Individual)</p>
-<p>金奖（个人）</p>
-</td>
-<td width="138">
-<p>Linus Tan</p>
-</td>
-<td width="84">
-<p>陈嘉康</p>
-</td>
-<td width="54">
-<p>2T2</p>
-</td>
-</tr>
-
-<tr>
-<td width="87">
-<p>Lower Sec低年级组</p>
-</td>
-<td width="126">
-<p>SILVER Award (Team)</p>
-<p>银奖（团体）</p>
-</td>
-<td width="138">
-<p>Hung De Han</p>
-<p>Tang Jia Jun</p>
-<p>Heng Wei En</p>
-</td>
-<td width="84">
-<p>孔德翰</p>
-<p>陈佳俊</p>
-<p>邢维恩</p>
-</td>
-<td width="54">
-<p>2T1</p>
-<p>2T1</p>
-<p>2T1</p>
-</td>
-</tr>
-
-<tr>
-<td width="87">
-<p>Upper Sec高年级组</p>
-</td>
-<td width="126">
-<p>BRONZE Award (Team)</p>
-<p>铜奖（团体）</p>
-</td>
-<td width="138">
-<p>Zhang Tingrui, Terry</p>
-<p>Ong Xiang Rou</p>
-<p>Pang Xinyu</p>
-</td>
-<td width="84">
-<p>张庭睿</p>
-<p>王湘柔</p>
-<p>彭歆喻</p>
-</td>
-<td width="54">
-<p>S3-Resilience</p>
-<p>S3-Care</p>
-<p>S3-Service</p>
-</td>
-</tr>
-
-<tr>
-<td rowspan="2" width="50">
-<p><strong>Finals</strong></p>
-</td>
-</tr>
-
-<tr>
-<td width="87">
-<p>Lower Sec低年级组</p>
-</td>
-<td width="126">
-<p>Special Mention Award (Individual)</p>
-<p>优秀奖（个人）</p>
-</td>
-<td width="138">
-<p>Linus Tan</p>
-</td>
-<td width="84">
-<p>陈嘉康</p>
-</td>
-<td width="54">
-<p>2T2</p>
-</td>
-</tr>
-
-</tbody>
-</table>
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
-<hr>
-
-
-
-
-<p><u><strong>Joy in Chinese beyond the classroom</strong></u></p>
+<p><u>Joy in Chinese beyond the classroom</u></p>
 <p>While Chinese can be learnt in the classroom, the fun and excitement of the language can also be experienced beyond the classroom.</p>
-<p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual Chinese New Year Celebration, as well as Mother Tongue Fortnight Programme. The programme includes introduction on the culture of Palace Lantern and a hands-on activity - lantern making. Students also had the opportunity to learn about the history and traditional customs of Dragon Boat Festival, and tried their hands on making miniature dragon boat and rice dumplings. Fun and interesting games, such as Pitch-pot (投壶 Touhu) and Shuttlecock (毽子Jianzi) were also introduced to the students.</p>
-<p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local Chinese Language theatrical productions. Due to the fluid pandemic situation, AI students had the privilege to engage in an online drama production, POPPY. Through both online and Telegram activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
-
-	<p><u><strong>寓乐于课堂之外</strong></u></p>
+<p>1. To let students experience Chinese as a culture, students engage in cultural activities in our annual&nbsp;<strong>Chinese New Year Celebration</strong>, as well as&nbsp;<strong>Mother Tongue Fortnight Programme</strong>. A singing competition,&nbsp;<strong>Chang Chu Xin Sheng</strong>, was also held to engage students in Chinese popular culture.</p>
+<p>2. Chinese Language is not just an academic subject, it can also be a professional form of expression, To help students appreciate Chinese language through different forms of expression, Sec 3 students are brought on learning journeys to view local&nbsp;<strong>Chinese Language theatrical productions</strong>. During Home Based Learning in 2020, AI students also had the privilege to engage in an online conference with a local writer-cum-lecturer. Through these activities, students get see how real life societal issues can be the source of imagination for professional creations.</p>
+<p>3. To allow students to immerse in an authentically Chinese environment, selected students are brought to China for our annual<strong>&nbsp;Overseas Immersion Programme</strong>. Students get to interact with the Chinese students, and see the past, present and future of China, the economic power house of the world. Who knows, our AI students might be working in China or with their China counterparts in the future!</p>
+<p><u>寓乐于课堂之外</u></p>
 <p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p>
-<p>1. 2022年的母语双周活动在学生的欢声笑语中圆满落幕！今年伊布拉欣中学华文部特别为中一中二的学生设计了不同的活动，希望每位学生都能体会华族传统文化之美。中一的学生在导师的带领下了解了传统宫灯文化，还亲手制作了精美的宫灯；中二的学生除了更深入地认识端午节的由来和传统习俗以外，还参加了龙舟模型和泥塑粽子制作活动。今年华文部也特别为普通工艺班的学生安排了传统游戏站，让学生们体验投壶和踢毽子等中国传统游戏。</p>
-<p>2. 华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场。2022年，因疫情状况不明，AI学生在课室里，体验了一场线上舞台剧。通过线上线下的互动活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
+<p>1. 学习华文不但能让学生培养语言技能，也能让学生传承文化。为了让学生体验华族文化，我校每年都让学生参与<strong>农历新年活动</strong>，以及年度<strong>母语双周活动</strong>。我校也曾主办<strong>《唱出欣声》</strong>歌唱比赛，让学生有机会沉浸在华文流行文化之中。</p>
+<p>华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场(。2020年，在家中学习的时候，AI学生也很荣欣和本地作家兼大学导师，进行了一场线上座谈会。通过这些活动，学生能亲眼见证，社会素材如何成为专业创作灵感的来源。</p>
+<p>华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华语剧场。2020年，居家学习（HBL）期间，AI学生也很荣幸和本地作家兼大学讲师，进行了一场<strong>线上座谈会</strong>。通过这些活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
+<p>2. 我校每年也举办<strong>中国浸濡活动</strong>，带领获选的学生到中国去，沉浸在华文华语环境。学生有机会和中国学生交流，也有机会一览中国历史古迹，一睹中国当下的风貌，从中一探中国未来的发展趋势。说不定，我们AI 学生将来也需要到中国公干，或和中国同事紧密合作。</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Experiencing Chinese Culture</label>
