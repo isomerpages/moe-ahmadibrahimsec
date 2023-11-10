@@ -7,27 +7,27 @@ third_nav_title: Performing Arts
 ---
 ## Dance Ensemble
 ### About Us
-Twirl and swirl, our bodies will whirl! Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
+Through the exploration of dance as an art form, we aim to develop each individual into confident performers, capable of expressing themselves through elegant dance movements.
 
-<blockquote>
-<p><em>Dance has allowed me to blossom into a fully developed individual by teaching me new skills and providing me with experiences I never would have imagined. I learnt how to cooperate and tolerate people, how to lead, learning to think on my feet and discipline. Discipline is also a key factor in my time with dance as I have to mind how I act and when as I have to be disciplined for the dance instructors to be able to teach properly and adequately. Quick thinking is something I picked up over the years in dance, when our dance instructor relays a piece of information to us and we have to think quickly. All in all, dance has lead me a long way, and I owe the person I am today to dance.</em></p>
-
-<p style="text-align: right;"><strong>- Avita Tang Engwei, 3E2</strong></p>
-	
-</blockquote>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Activities</label>
 <div>
 <p><em>“Great dancers are not great because of their technique, they are great because of their passion.”</em></p>
 <p><strong>- Martha Graham</strong></p>
-<p>What is dance? Or rather, why dance?  </p>
-<p>It has been said dance is the mother of the arts, for it’s the oldest of the art which reflects man’s age old need to communicate different emotions such as joy, grief, excitement, and many others. Dance simply started as man’s own life for almost all occasions, in whatever aspects, such as birth, death, healing of the sick, asking for forgiveness, war, marriage – were celebrated by dancing.</p>
-<p>So AI dancers dance to express ourselves when words are insufficient. We dance to help us engrave those cherished moments. We dance to give tribute to the heroes of yesterday. Because when we dance, we can remember them a little better, feel the butterflies once again and return to the purest moments of our lives when time of no matter.</p>
+<p>In the rhythmic heart of Ahmad Ibrahim Secondary School, Dance Ensemble has been a vibrant and energetic presence. With each step, twirl and beat drop, our talented dancers have brought the magic of dance to our school community.
+
+This year, the Dance Ensemble performed in the annual Achievement Day and cultural events. Our dance routines were nothing short of mesmerizing, and the dedication and passion of our dancers shone brightly on stage.
+
+Behind every spectacular performance lay hours of hard work and dedication. Our dancers pushed their limits and honed their techniques, all under the guidance of our talented instructors.
+
+Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from diverse backgrounds come together in the spirit of dance. We strongly believe in the sense of belonging and friendship, where we support each other both on and off the dance floor.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
 <div>
-<p>- SYF Arts Presentation 2019: Distinction<br>- Recognition of Participation at The Royal Dance Off Youth League Festival 2018<br>- Certification of Accomplishment in the 2017 Singapore Youth Festival Arts Presentation</p>
+<p>- SYF Arts Presentation 2019: Distinction<br>
+- Recognition of Participation at The Royal Dance Off Youth League Festival 2018<br>
+- Certification of Accomplishment in the 2017 Singapore Youth Festival Arts Presentation</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Participation</label>
