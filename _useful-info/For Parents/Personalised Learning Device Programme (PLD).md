@@ -36,11 +36,11 @@ Alternatively, you can view the <a href="https://drive.google.com/file/d/12s-gpX
 <table style="width: 785px; height: 523px;" class="ive_eobj_center iveo_table ives_tab_zen">
 <tbody>
 <tr>
-<td style="width: 484px;"><font size="4"><b>Section 1 </b> - <a href="https://youtu.be/FuV9qJ2uSJ0&quot;" target="_blank">Info on NDLP and PLD Initiative</a></font><br><br><iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/FuV9qJ2uSJ0?wmode=transparent" height="360" width="480"></iframe><br>
+<td style="width: 484px;"><font size="4"><b>Section 1 </b> - <a href="https://youtu.be/FuV9qJ2uSJ0" target="_blank">Info on NDLP and PLD Initiative</a></font><br><br><iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/FuV9qJ2uSJ0?wmode=transparent" height="360" width="480"></iframe><br>
 </td>
 </tr>
 <tr>
-<td><font size="4"><b>Section 2</b> - <a href="https://youtu.be/4HWe5rmO7LI&quot;" target="_blank">Supporting Students in Safe &amp; Effective Use of PLDs</a></font><br><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Baf9R2yAQlA?wmode=transparent" height="360" width="480"></iframe><br>
+<td><font size="4"><b>Section 2</b> - <a href="https://youtu.be/4HWe5rmO7LI" target="_blank">Supporting Students in Safe &amp; Effective Use of PLDs</a></font><br><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Baf9R2yAQlA?wmode=transparent" height="360" width="480"></iframe><br>
 </td>
 </tr>
 <tr>
