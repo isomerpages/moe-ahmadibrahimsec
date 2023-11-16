@@ -69,7 +69,7 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 *   [help123.sg](https://www.help123.sg/)
 
 # **DMA Information**
-<h5> <strong>Fill up the form below to change your child's/ward's after school DMA option</strong></h5>
+<h5><strong>Fill up the form below to change your child's/ward's after school DMA option</strong></h5>
 
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 
@@ -84,15 +84,15 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 <b>For All Options</b>
 
 * [[All Options] Parent Account Password Reset](https://youtu.be/IUc-x-_wUdU?si=3mcrBnFwnudls5hT)
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent" height="360" width="480"></iframe><br>
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent" height="360" width="480"></iframe>
 
 <b>For Option A</b>
 
 * [[Option A] Setting Rules to Restrict Usage](https://youtu.be/qaxcXPA9obs?si=7jSvnSQUY9pf8XKM)
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent" height="360" width="480"></iframe><br>
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent" height="360" width="480"></iframe>
 
 * [[Option A] Overriding School Sleep Hours](https://youtu.be/Pau7YjjgmPY)
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Pau7YjjgmPY?wmode=transparent" height="360" width="480"></iframe><br>
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Pau7YjjgmPY?wmode=transparent" height="360" width="480"></iframe>
 
 # **Service Centre Information**<br>
 ![](/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg)
