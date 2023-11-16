@@ -17,3 +17,12 @@ variant: markdown
 
 <h4><strong>Additional Useful Guides</strong></h4>
 
+<b>For all options</b>
+
+* How to reset Parent's DMA account password
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IUc-x-_wUdU?si=pkMiNyVuOxuKXGkf" height="315" width="560"></iframe>
+
+<b>For Option A</b>
+
+* How to reset DMA account password
+
