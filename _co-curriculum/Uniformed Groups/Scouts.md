@@ -80,6 +80,25 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <li>Standard First Aid Course + CPR AED Certification Course</li>
 <li>01 Raffles Scout Group Annual Show</li>
 <li>SPCA Free Pet Health Screening</li>
+<li>Job Week</li>
+<li>AISS Achievement Day Parade Segment</li>
+<li>One Star Kayaking Certification Course</li>
+<li>Beatty Beaver Scout Group 70th Anniversary Campfire</li>
+<li>Collector Proficiency Badge Course</li>
+<li>Istana Open House (National Day)</li>
+<li>AISS National Day Celebration Parade Segment</li>
+<li>National Day Parade Segment</li>
+<li>2006 Southern Cross Scout Troop 65th Anniversary Campfire</li>
+<li>Unit Training Camp</li>
+<li>AISS Scouts Honouring Session</li>
+<li>Jamboree On The Air - Jamboree On The Internet</li>
+<li>North Area Akela Award Ceremony</li>
+<li>Learning Journey to Airbus</li>
+<li>Commercial Flight Simulation Experience</li>
+<li>National Cub Scout Gang Show Finale</li>
+<li>Istana Open House (Deepavali)</li>
+<li>Chief Scout, Mdm Halimah Yacob, Farewell</li>
+<li>North Area Camporee to Malacca, Malaysia</li>
 </ul>
 </div>
 </li>
@@ -90,15 +109,15 @@ Each year, we organise two camps, one in March and the other in June. Once every
 </li>
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday</strong><br>3.30 to 6.00 pm</p>
-<p><strong>Friday</strong><br>2.30 to 5.30 pm</p>
+<p><strong>Wednesday</strong><br>3.30 pm to 6.00 pm</p>
+<p><strong>Friday</strong><br>2.30 pm to 5.30 pm</p>
 </div>
 </li>
 <li><input type="checkbox" id="accordion7"> <label for="accordion7">Student Leaders</label>
 <div>
 	<b>Senior Patrol Leader</b><br>
 <ul>
-<li>3N2 Patrick Ng Zhan Peng</li>
+<li>3-Intergrity Cheng Chung Yau</li>
 <li>3E2 Darren Lim Jieming</li>
 </ul>
 <b>Patrol Leader / Secretary</b><br>
