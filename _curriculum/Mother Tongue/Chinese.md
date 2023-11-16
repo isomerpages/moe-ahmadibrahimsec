@@ -94,7 +94,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong>2023</strong></p>
 </td>
 <td width="87">
-<p>Upper Sec高年级组</p>
+<p>Upper Sec</p>
+<p>高年级组</p>
 </td>
 <td width="126">
 <p>Special Mention Award</p>
@@ -124,7 +125,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </tr>
 <tr>
 <td width="87">
-<p>Lower Sec低年级组</p>
+<p>Lower Sec</p>
+<p>低年级组</p>
 </td>
 <td width="126">
 <p>Accomplishment Award</p>
@@ -159,7 +161,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong>2022</strong></p>
 </td>
 <td width="87">
-<p>Upper Sec高年级组</p>
+<p>Upper Sec</p>
+<p>高年级组</p>
 </td>
 <td width="126">
 <p>Accomplishment Award + Best Theme Award</p>
@@ -193,7 +196,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong>2020</strong></p>
 </td>
 <td width="87">
-<p>Upper Sec高年级组</p>
+<p>Upper Sec</p>
+<p>高年级组</p>
 </td>
 <td width="126">
 <p>Commendation Award</p>
@@ -223,7 +227,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </tr>
 <tr>
 <td width="87">
-<p>Lower Sec低年级组</p>
+<p>Lower Sec</p>
+<p>低年级组</p>
 </td>
 <td width="126">
 <p>Accomplishment Award</p>
@@ -509,31 +514,6 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <iframe src="https://www.youtube.com/embed/90RLT9ndb_E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <p><strong>华文音乐欣赏</strong></p>
 <p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
-</div>
-</li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Appreciating Chinese through Professional Lenses</label>
-<div>
-<p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong></p>
-<img src="/images/Pic%201.jpg">
-<img style="width: 40%;" src="/images/Pic%203.jpg" align="right">
-<p>Our Secondary 3 Express students were immersed in the traditional art form of Chinese culture-Cross Talk. A constant ripple of laughter and applause from the audience punctuated the performance, which featured various issues from the everyday lives of Singaporeans.&nbsp;</p>
-<p>Rich in puns and allusions, crosstalk is delivered in a rapid bantering style, presenting societal trends in a light-hearted manner. We hope that this alternative form of language expression will bring the language alive and promote students’ appreciation of the Chinese culture and the arts!</p>
-<img style="width: 40%;" src="/images/Pic%202.jpg" align="left">
-<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
-<p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan</strong></p>
-<p>“云端连线，坦抒己见”写作对话会</p>
-<p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
-<p>During the circle breaker, while doing HBL, students had opportunities to take part in the exciting online activities. Our Chinese Language Department invited Ms Lin Rongchan, local writer and also lecturer at NIE, to have a live conversation with us on April 24. Focusing on her new Chinese short story, "Where are you going?" Ms Lin shared with us her source of inspiration and the writing journey. The characters in the story resonated with many of our AI students, and we were inspired to pay closer attention to people in their lives. All of us were energized by the interaction and definitely enjoyed this unique HBL experience!</p>
-</div>
-</li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Immersing in a Chinese Environment</label>
-<div>
-<p>The Singaporean students listened intently. It was the first time they listened to a music lesson being conducted in Chinese, and for most of them, a first time learning about Chinese Opera. They were amazed by the teacher’s humorous way of teaching and the seriousness of their Chinese buddies who enthusiastically volunteered to demonstrate what was being taught.&nbsp;</p>
-<p>Influenced by their enthusiasm, a few AI students stepped out of their comfort zone and tried the opera moves. This is part of their experience during the 7 days 6 nights Overseas Immersion Programme.</p>
-<p>Besides having school immersion, the students also got to see the past, present and future of China through visiting the historical landmarks such as the Qianling Mausoleum and Terra Cotta Warriors and Horses, and also learned about the uprising of China economic market with company visits to Xi’an Shaangu Power and FreshHema Supermarket.</p>
-<p>AI students gained valuable insights and these experience allowed them to have a deeper appreciation of the things that they may take for granted in Singapore.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxBDMEP2wAyNcMWgNAhtxdk_p34b-KiAnJ01isE2cHln9y1F8J7msIqWiHYR5xYdBZQHmHWwpZMF0A/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p>2019年，30名伊布拉欣中学的学生在5位老师的带领下前往西安，进行了为期一个星期的文化浸濡之旅。许多学生有了他们“第一次”的尝试与体验，例如第一次乘搭高铁、第一次以华语上音乐课和第一次尝试表演京剧。除了在学校交流中认识并结交当地朋友外，我校学生也有机会参观秦始皇兵马俑博物馆、乾陵等景点，一览中国历史古迹；同时也通过参观“陕鼓动力”公司和“盒马鲜生”超市一睹中国当下的风貌，从中一探中国未来的发展趋势。学生能在华文华语环境中进行不同的活动，相信这些体验都让他们获益良多。</p>
 </div>
 </li>
 </ul>
