@@ -74,6 +74,12 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <li>Diamond Jubilee Challenge</li>
 <li>AISS Total Defence Day Celebration</li>
 <li>North Area Founder’s Day Celebration</li>
+<li>North Area Scout Leadership Training Course</li>
+<li>CPIB Anti-Corruption Badge Course</li>
+<li>Unit Community Service</li>
+<li>Standard First Aid Course + CPR AED Certification Course</li>
+<li>01 Raffles Scout Group Annual Show</li>
+<li>SPCA Free Pet Health Screening</li>
 </ul>
 </div>
 </li>
