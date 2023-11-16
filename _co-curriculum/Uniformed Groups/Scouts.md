@@ -3,11 +3,12 @@ title: Scouts
 permalink: /co-curriculum/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Scouts
 <img align="left" style="width:20%;margin-right:15px;" src="/images/scout%20logo.jpg">
 
-Ahmad Ibrahim Warriors Scout Group has been active since 1967. We envision each Scout to be a gentleman clean in thought, word and deed, who strives to be a student leader and who is a cut above the rest. As individual Scouts, we work towards the Chief Commissioner’s Award which is conferred to the most outstanding and distinctive Scouts in recognition of their exemplary performance, dedication as well as services at the secondary school level. As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for fifteen consecutive years. The Frank Cooper Sands Award is an award which every Scout unit in Singapore strives to achieve excellence in.
+Ahmad Ibrahim Warriors Scout Group has been active since 1967. We envision each Scout to be a gentleman clean in thought, word and deed, who strives to be a student leader and who is a cut above the rest. As individual Scouts, we work towards the Chief Commissioner’s Award which is conferred to the most outstanding and distinctive Scouts in recognition of their exemplary performance, dedication as well as services at the secondary school level. As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for sixteen consecutive years. The Frank Cooper Sands Award is an award which every Scout unit in Singapore strives to achieve excellence in.
 
 <br clear="left">
 
@@ -15,14 +16,14 @@ In Scouts CCA, we conduct training twice a week where Scouts experience many exc
 
 We organise inter-unit and inter-patrol competitions like Scout Lore Quest and cooking challenge to hone our Scouting knowledge and skills. Similarly, we also participate in courses, competitions and events like the Scout Leadership Training Course, Patrol Pioneering Challenge and World Scout Day Celebration organised by the North Area of the Singapore Scout Association. Furthermore, we also gather around campfires with Scouts from other units to celebrate achievements together and to forge stronger camaraderie. 
 
-To do our part for society, we organise and participate in service-learning activities. We also raise funds during the annual Job Week to support Scout programmes and activities. In Job Week, Scouts take to the homes of residents all over Singapore to do jobs like cleaning, gardening, and tutoring, so as to learn the dignity of labour, value of honest work and belief in helping others. As a result, Scouts can be developed into self-reliant, confident, responsible, and active citizens.  
+To do our part for society, we organise and participate in service-learning activities. We also raise funds during the annual Job Week to support Scout programmes and activities. In Job Week, Scouts take to the homes of residents all over Singapore to do jobs like cleaning, gardening, and tutoring, so as to learn the dignity of labour, value of honest work and belief in helping others. As a result, Scouts can be developed into self-reliant, confident, responsible, and active citizens. 
 
-Each year, we organise two camps, one in March and the other in June. Once every two years at year end, we co-organise a combined camp with the Girl Guides and embark on an overseas camping trip to meet Scouts from other countries. This is to allow Scouts to make new friends and learn new knowledge and skills from our counterparts. 
+Each year, we organise two camps, one in March and the other in June. Once every two years at year end, we co-organise a combined camp with the Girl Guides and embark on an overseas camping trip to meet Scouts from other countries. This is to allow Scouts to make new friends and learn new knowledge and skills from our counterparts.
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">Vision &amp; Mission</label>
 <div>
 	<p><strong>Vision</strong><br>Each Scout a gentleman clean in thought, word and deed, who strives to be a student leader who is a cut above the rest.</p>
-<p><strong>Mission</strong><br>To develop in young gentlemen courage, resilience and a sense of brotherhood</p>
+<p><strong>Mission</strong><br>To develop in young gentlemen courage, resilience, and a sense of brotherhood.</p>
 </div>
 </li>
 <li><input type="checkbox" id="accordion2"> <label for="accordion2">Activities</label>
