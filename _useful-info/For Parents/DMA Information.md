@@ -19,10 +19,10 @@ variant: markdown
 
 <b>For All Options</b>
 
-<li>How to reset Parent's DMA account password</li>
+* How to reset Parent's DMA account password
 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent" height="360" width="480"></iframe><br>
 
 <b>For Option A</b>
 
-<li>How to reset Parent's DMA account password</li>
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent" height="360" width="480"></iframe><br>
+* [[Option A] Setting Rules to Restrict Usage](https://youtu.be/qaxcXPA9obs?si=7jSvnSQUY9pf8XKM)
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent" height="360" width="480"></iframe><br>
