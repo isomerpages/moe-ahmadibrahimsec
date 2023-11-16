@@ -104,7 +104,7 @@ Each year, we organise two camps, one in March and the other in June. Once every
 </li>
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Gallery</label>
 <div>
-*Updating in Progress*
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6xEcCVqO3_J4M0W2Y2xA5nSMO-9TZAySfQH6rguENUFQ42mplu9E02TxMEFbVCavbtqStEhdb3hYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </li>
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Training Schedule</label>
