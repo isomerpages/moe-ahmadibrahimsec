@@ -7,8 +7,7 @@ third_nav_title: For Parents
 ---
 # **School IT Support for Personal Learning Device (PLDs)**<br>
 
-Located at&nbsp;IT&nbsp;Office&nbsp;(Level 2, Outside Staff Room 1 near MeExpression)&nbsp;is the first point of contact for support of the PLDs.&nbsp;
-
+Located at&nbsp;IT&nbsp;Office&nbsp;(Level 2, Outside Staff Room 1 near MeExpression)&nbsp;is the first point of contact for support of the PLDs
 ### Operating Hours
 
 **During School Term**
@@ -22,8 +21,6 @@ Operating Hours: 7.00 am to 3.30 pm
 Operating Days: Mondays to Fridays
 
 Operating Hours: 9.00 am to 12.00 pm
-
-
 # **Lenovo Service Centre (For Hardware Issues)**<br>
 ![](/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg)
 
