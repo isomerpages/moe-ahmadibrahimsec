@@ -3,11 +3,12 @@ title: Scouts
 permalink: /co-curriculum/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Scouts
 <img align="left" style="width:20%;margin-right:15px;" src="/images/scout%20logo.jpg">
 
-Ahmad Ibrahim Warriors Scout Group has been active since 1967. We envision each Scout to be a gentleman clean in thought, word and deed, who strives to be a student leader and who is a cut above the rest. As individual Scouts, we work towards the Chief Commissioner’s Award which is conferred to the most outstanding and distinctive Scouts in recognition of their exemplary performance, dedication as well as services at the secondary school level. As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for fifteen consecutive years. The Frank Cooper Sands Award is an award which every Scout unit in Singapore strives to achieve excellence in.
+Ahmad Ibrahim Warriors Scout Group has been active since 1967. We envision each Scout to be a gentleman clean in thought, word and deed, who strives to be a student leader and who is a cut above the rest. As individual Scouts, we work towards the Chief Commissioner’s Award which is conferred to the most outstanding and distinctive Scouts in recognition of their exemplary performance, dedication as well as services at the secondary school level. As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for sixteen consecutive years. The Frank Cooper Sands Award is an award which every Scout unit in Singapore strives to achieve excellence in.
 
 <br clear="left">
 
@@ -15,14 +16,14 @@ In Scouts CCA, we conduct training twice a week where Scouts experience many exc
 
 We organise inter-unit and inter-patrol competitions like Scout Lore Quest and cooking challenge to hone our Scouting knowledge and skills. Similarly, we also participate in courses, competitions and events like the Scout Leadership Training Course, Patrol Pioneering Challenge and World Scout Day Celebration organised by the North Area of the Singapore Scout Association. Furthermore, we also gather around campfires with Scouts from other units to celebrate achievements together and to forge stronger camaraderie. 
 
-To do our part for society, we organise and participate in service-learning activities. We also raise funds during the annual Job Week to support Scout programmes and activities. In Job Week, Scouts take to the homes of residents all over Singapore to do jobs like cleaning, gardening, and tutoring, so as to learn the dignity of labour, value of honest work and belief in helping others. As a result, Scouts can be developed into self-reliant, confident, responsible, and active citizens.  
+To do our part for society, we organise and participate in service-learning activities. We also raise funds during the annual Job Week to support Scout programmes and activities. In Job Week, Scouts take to the homes of residents all over Singapore to do jobs like cleaning, gardening, and tutoring, so as to learn the dignity of labour, value of honest work and belief in helping others. As a result, Scouts can be developed into self-reliant, confident, responsible, and active citizens. 
 
-Each year, we organise two camps, one in March and the other in June. Once every two years at year end, we co-organise a combined camp with the Girl Guides and embark on an overseas camping trip to meet Scouts from other countries. This is to allow Scouts to make new friends and learn new knowledge and skills from our counterparts. 
+Each year, we organise two camps, one in March and the other in June. Once every two years at year end, we co-organise a combined camp with the Girl Guides and embark on an overseas camping trip to meet Scouts from other countries. This is to allow Scouts to make new friends and learn new knowledge and skills from our counterparts.
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">Vision &amp; Mission</label>
 <div>
 	<p><strong>Vision</strong><br>Each Scout a gentleman clean in thought, word and deed, who strives to be a student leader who is a cut above the rest.</p>
-<p><strong>Mission</strong><br>To develop in young gentlemen courage, resilience and a sense of brotherhood</p>
+<p><strong>Mission</strong><br>To develop in young gentlemen courage, resilience, and a sense of brotherhood.</p>
 </div>
 </li>
 <li><input type="checkbox" id="accordion2"> <label for="accordion2">Activities</label>
@@ -55,7 +56,11 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire, to putting small pieces of chicken to roast over a self-made cooking pit, this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </div></li><li><input type="checkbox" id="accordion3"> <label for="accordion3">Achievements</label>
 <div>
-- Frank Cooper Sands Award - Gold<br> - Individual Award: Chief Commissioner’s Award
+<ul>
+	<li>Unit Award: Frank Cooper Sands (Gold with Honours Pennant) Award</li>
+	<li>Individual Award: Chief Commissioner’s Award</li>
+	<li>North Area Scout Lore Quest<br>- Highest Team Award: Silver<br>- Highest Individual Award: Silver</li>
+	</ul>
 </div>
 </li>
 <li><input type="checkbox" id="accordion4"> <label for="accordion4">Participation</label>
@@ -63,83 +68,87 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <ul>
 <li>AISS Weekly Morning Assembly</li>
 <li>AISS CCA Carnival</li>
-<li>Unit Community Service</li>
-<li>AISS Total Defence Day Commemoration Parade Segment</li>
 <li>Diamond Jubilee Donation Drive</li>
-<li>North Area World Scout Day Celebration&nbsp;</li>
+<li>Shooting for Masters-At-Arms</li>
+<li>AISS Total Defence Day Commemoration Parade Segment</li>
+<li>Diamond Jubilee Challenge</li>
+<li>AISS Total Defence Day Celebration</li>
+<li>North Area Founder’s Day Celebration</li>
 <li>North Area Scout Leadership Training Course</li>
-<li>One Star Kayaking Certification Course</li>
-<li>Pilot Intake for Mentally Lit Programme</li>
-<li>North Area Kayak Clean-Up and Waterways Watch Society Talk</li>
-<li>Unit Training Camp</li>
-<li>Memorandum of Understanding Between The Singapore Scout Association and The Corrupt Practices Investigation Bureau and Launch of CPIB Programme&nbsp;</li>
-<li>North Area Air Navigator Course</li>
-<li>North Area National Day Video</li>
-<li>AISS National Day Celebration Parade Segment</li>
-<li>AISS Achievement Day Parade Segment</li>
-<li>North Area Scout Lore Quest<br>- Highest Team Award: Silver<br>- Highest Individual Award: Gold&nbsp;</li>
-<li>Job Week Launch</li>
+<li>CPIB Anti-Corruption Badge Course</li>
+<li>Unit Community Service</li>
+<li>Standard First Aid Course + CPR AED Certification Course</li>
+<li>01 Raffles Scout Group Annual Show</li>
+<li>SPCA Free Pet Health Screening</li>
 <li>Job Week</li>
-<li>AISS Scouts Honouring Session&nbsp;</li>
+<li>AISS Achievement Day Parade Segment</li>
+<li>One Star Kayaking Certification Course</li>
+<li>Beatty Beaver Scout Group 70th Anniversary Campfire</li>
+<li>Collector Proficiency Badge Course</li>
+<li>Istana Open House (National Day)</li>
+<li>AISS National Day Celebration Parade Segment</li>
+<li>National Day Parade Segment</li>
+<li>2006 Southern Cross Scout Troop 65th Anniversary Campfire</li>
+<li>Unit Training Camp</li>
+<li>AISS Scouts Honouring Session</li>
 <li>Jamboree On The Air - Jamboree On The Internet</li>
-<li>Istana Open House (Deepavali)</li>
 <li>North Area Akela Award Ceremony</li>
-<li>Chief Commissioner’s Award Ceremony</li>
-<li>North Area Campfire</li>
-<li>North Area Patrol Pioneering Challenge</li>
-<li>North Area End-Of-Year Camp - Cub Rendezvous</li>
-<li>Rover Rendezvous x Rigel</li>
-<li>SJBS North District Campfire Night</li>
+<li>Learning Journey to Airbus</li>
+<li>Commercial Flight Simulation Experience</li>
+<li>National Cub Scout Gang Show Finale</li>
+<li>Istana Open House (Deepavali)</li>
+<li>Chief Scout, Mdm Halimah Yacob, Farewell</li>
+<li>North Area Camporee to Malacca, Malaysia</li>
 </ul>
 </div>
 </li>
 <li><input type="checkbox" id="accordion5"> <label for="accordion5">Gallery</label>
 <div>
-*Updating in Progress*
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6xEcCVqO3_J4M0W2Y2xA5nSMO-9TZAySfQH6rguENUFQ42mplu9E02TxMEFbVCavbtqStEhdb3hYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </li>
 <li><input type="checkbox" id="accordion6"> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday</strong><br>3.30 to 6.00 pm</p>
-<p><strong>Friday</strong><br>2.30 to 5.30 pm</p>
+<p><strong>Wednesday</strong><br>3.30 pm to 6.00 pm</p>
+<p><strong>Friday</strong><br>2.30 pm to 5.30 pm</p>
 </div>
 </li>
 <li><input type="checkbox" id="accordion7"> <label for="accordion7">Student Leaders</label>
 <div>
 	<b>Senior Patrol Leader</b><br>
 <ul>
-<li>3N2 Patrick Ng Zhan Peng</li>
-<li>3E2 Darren Lim Jieming</li>
+<li>3-Intergrity Cheng Chung Yau</li>
+<li>3-Excellence Wong Kai Hong</li>
 </ul>
 <b>Patrol Leader / Secretary</b><br>
 <ul>
-<li>3E2 Dominic Cheong Wei Zheng</li>
-<li>3N1 Cendric Ling Jun Xuan</li>
+<li>3-Integrity Goh Kar Ying</li>
 </ul>
 <b>Patrol Leader / Quartermaster</b><br>
 <ul>
-<li>3E3 Zheng Cai Feng</li>
-<li>3E3 Nikkhil Dinesh</li>
+<li>3-Resilience Muhammad Danish Bin Andy Mirza</li>
+<li>3-Resilience Hah Kai Hao</li>
+</ul>
+<b>Assistant Patrol Leader / Secretary</b><br>
+<ul>
+<li>2-E3 Afable Grey Anthony Banzuela</li>
 </ul>
 <b>Assistant Patrol Leader</b><br>
 <ul>
-<li>3N2 Jayden Wong Ting Jun</li>
-<li>3T1 Kum Che Yuen, Carvell</li>
-<li>3T2 ‘Afi Danii Bin Mohd Nordin</li>
-<li>3N1 Jayakumar Sreyas</li>
-<li>2E4 Cheng Chung Yau</li>
-<li>2N2 Jared Reyes Castillo</li>
-<li>2E3 Chai Song Mi</li>
-<li>2E4 Goh Kar Ying</li>
-<li>2E2 Wong Kai Hong</li>
-</ul>
+<li>3-Resilience Chai Song Mi</li>
+<li>3-Care Jared Reyes Castillo</li>
+<li>2-E1 Liau Kang Jie</li>
+<li>2-E3 Koh Jia Wei</li>
+<li>2-N1 Aqeel Rashaad Khan</li>
+<li>2-N1 Darwisyh Arfan Bin Abdul Jalil</li>
+<li>2-N1 Neo Xuan Ming</li>
 
-</div>
+</ul></div>
 </li>
 <li><input type="checkbox" id="accordion8"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Ms Tania Chia Mei Lin (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:chia_mei_lin_tania@moe.edu.sg">chia_mei_lin_tania@moe.edu.sg</a></strong></p>
-	<p>Mr Mohamed Fauzi Bin Husin<br>Ms Ng Hui Wen<br>Ms Ang Xin Ru, Ruby<br>Mr Enzo Charles Victor Buttazzoni</p>
+	<p>Ms Ng Hui Wen<br>Ms Ang Xin Ru, Ruby<br>Mr Enzo Charles Victor Buttazzoni<br>Mr Mohamed Fauzi Bin Husin</p>
 </div>
 </li>
 </ul>
