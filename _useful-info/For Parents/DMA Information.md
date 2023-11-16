@@ -26,3 +26,6 @@ variant: markdown
 
 * [[Option A] Setting Rules to Restrict Usage](https://youtu.be/qaxcXPA9obs?si=7jSvnSQUY9pf8XKM)
 <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent" height="360" width="480"></iframe><br>
+
+* [[Option A] Overriding School Sleep Hours](https://youtu.be/Pau7YjjgmPY)
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent" height="360" width="480"></iframe><br>
