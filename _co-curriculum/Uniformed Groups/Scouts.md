@@ -118,37 +118,37 @@ Each year, we organise two camps, one in March and the other in June. Once every
 	<b>Senior Patrol Leader</b><br>
 <ul>
 <li>3-Intergrity Cheng Chung Yau</li>
-<li>3E2 Darren Lim Jieming</li>
+<li>3-Excellence Wong Kai Hong</li>
 </ul>
 <b>Patrol Leader / Secretary</b><br>
 <ul>
-<li>3E2 Dominic Cheong Wei Zheng</li>
-<li>3N1 Cendric Ling Jun Xuan</li>
+<li>3-Integrity Goh Kar Ying</li>
 </ul>
 <b>Patrol Leader / Quartermaster</b><br>
 <ul>
-<li>3E3 Zheng Cai Feng</li>
-<li>3E3 Nikkhil Dinesh</li>
+<li>3-Resilience Muhammad Danish Bin Andy Mirza</li>
+<li>3-Resilience Hah Kai Hao</li>
+</ul>
+<b>Assistant Patrol Leader / Secretary</b><br>
+<ul>
+<li>2-E3 Afable Grey Anthony Banzuela</li>
 </ul>
 <b>Assistant Patrol Leader</b><br>
 <ul>
-<li>3N2 Jayden Wong Ting Jun</li>
-<li>3T1 Kum Che Yuen, Carvell</li>
-<li>3T2 ‘Afi Danii Bin Mohd Nordin</li>
-<li>3N1 Jayakumar Sreyas</li>
-<li>2E4 Cheng Chung Yau</li>
-<li>2N2 Jared Reyes Castillo</li>
-<li>2E3 Chai Song Mi</li>
-<li>2E4 Goh Kar Ying</li>
-<li>2E2 Wong Kai Hong</li>
-</ul>
+<li>3-Resilience Chai Song Mi</li>
+<li>3-Care Jared Reyes Castillo</li>
+<li>2-E1 Liau Kang Jie</li>
+<li>2-E3 Koh Jia Wei</li>
+<li>2-N1 Aqeel Rashaad Khan</li>
+<li>2-N1 Darwisyh Arfan Bin Abdul Jalil</li>
+<li>2-N1 Neo Xuan Ming</li>
 
-</div>
+</ul></div>
 </li>
 <li><input type="checkbox" id="accordion8"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Ms Tania Chia Mei Lin (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:chia_mei_lin_tania@moe.edu.sg">chia_mei_lin_tania@moe.edu.sg</a></strong></p>
-	<p>Mr Mohamed Fauzi Bin Husin<br>Ms Ng Hui Wen<br>Ms Ang Xin Ru, Ruby<br>Mr Enzo Charles Victor Buttazzoni</p>
+	<p>Ms Ng Hui Wen<br>Ms Ang Xin Ru, Ruby<br>Mr Enzo Charles Victor Buttazzoni<br>Mr Mohamed Fauzi Bin Husin</p>
 </div>
 </li>
 </ul>
