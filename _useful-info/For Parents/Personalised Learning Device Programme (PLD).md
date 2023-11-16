@@ -44,11 +44,11 @@ Alternatively, you can view the <a href="https://drive.google.com/file/d/12s-gpX
 </td>
 </tr>
 <tr>
-<td><font size="4"><b><br>Section 3</b> - <a href="https://youtu.be/v8U_6KYINU8;" target="_blank">Device &amp; Funding Information</a></font><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/v8U_6KYINU8?wmode=transparent" height="360" width="480"></iframe><br><br>
+<td><font size="4"><b><br>Section 3</b> - <a href="https://youtu.be/v8U_6KYINU8" target="_blank">Device &amp; Funding Information</a></font><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/v8U_6KYINU8?wmode=transparent" height="360" width="480"></iframe><br><br>
 </td>
 </tr>
 <tr>
-<td><b>Section 4</b><font size="4">- Action by Parents &amp; Guardian</font><br><br><font size="4"></font><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/uKR5DfvwNLk?wmode=transparent" height="360" width="480"></iframe><br>
+<td><b>Section 4</b><font size="4"> - <a href="https://youtu.be/QdfUdyzlE1s" target="_blank">Action by Parents &amp; Guardians</a></font><br><br><font size="4"></font><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/QdfUdyzlE1s?wmode=transparent" height="360" width="480"></iframe><br>
 </td>
 </tr>
 </tbody>
