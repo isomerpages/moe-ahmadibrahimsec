@@ -31,7 +31,7 @@ Permanent Residents/International Students, please submit the hardcopy letter to
 
 # **PDLP Information for Parents**<br>
 This is a video of the presentation on PLD briefing for Parents.<br>
-Alternatively, you can view the <a href="https://drive.google.com/file/d/12s-gpXIkL6Y8yBPUK7e79ihU2tPgLqaw/view?usp=share_link" target="_blank">slides here</a>.
+Alternatively, you can view the <a href="https://drive.google.com/drive/folders/10NvmL1pK8RW0I7IPAI1-hg-VUquGkabz?usp=sharing" target="_blank">slides here</a>.
 <br>
 <table style="width: 785px; height: 523px;" class="ive_eobj_center iveo_table ives_tab_zen">
 <tbody>
