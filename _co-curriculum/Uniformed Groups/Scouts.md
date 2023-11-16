@@ -56,7 +56,11 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire, to putting small pieces of chicken to roast over a self-made cooking pit, this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </div></li><li><input type="checkbox" id="accordion3"> <label for="accordion3">Achievements</label>
 <div>
-- Frank Cooper Sands Award - Gold<br> - Individual Award: Chief Commissioner’s Award
+<ul>
+	<li>Unit Award: Frank Cooper Sands (Gold with Honours Pennant) Award</li>
+	<li>Individual Award: Chief Commissioner’s Award</li>
+	<li>North Area Scout Lore Quest<br>- Highest Team Award: Silver<br>- Highest Individual Award: Silver</li>
+	</ul>
 </div>
 </li>
 <li><input type="checkbox" id="accordion4"> <label for="accordion4">Participation</label>
@@ -64,33 +68,12 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <ul>
 <li>AISS Weekly Morning Assembly</li>
 <li>AISS CCA Carnival</li>
-<li>Unit Community Service</li>
-<li>AISS Total Defence Day Commemoration Parade Segment</li>
 <li>Diamond Jubilee Donation Drive</li>
-<li>North Area World Scout Day Celebration&nbsp;</li>
-<li>North Area Scout Leadership Training Course</li>
-<li>One Star Kayaking Certification Course</li>
-<li>Pilot Intake for Mentally Lit Programme</li>
-<li>North Area Kayak Clean-Up and Waterways Watch Society Talk</li>
-<li>Unit Training Camp</li>
-<li>Memorandum of Understanding Between The Singapore Scout Association and The Corrupt Practices Investigation Bureau and Launch of CPIB Programme&nbsp;</li>
-<li>North Area Air Navigator Course</li>
-<li>North Area National Day Video</li>
-<li>AISS National Day Celebration Parade Segment</li>
-<li>AISS Achievement Day Parade Segment</li>
-<li>North Area Scout Lore Quest<br>- Highest Team Award: Silver<br>- Highest Individual Award: Gold&nbsp;</li>
-<li>Job Week Launch</li>
-<li>Job Week</li>
-<li>AISS Scouts Honouring Session&nbsp;</li>
-<li>Jamboree On The Air - Jamboree On The Internet</li>
-<li>Istana Open House (Deepavali)</li>
-<li>North Area Akela Award Ceremony</li>
-<li>Chief Commissioner’s Award Ceremony</li>
-<li>North Area Campfire</li>
-<li>North Area Patrol Pioneering Challenge</li>
-<li>North Area End-Of-Year Camp - Cub Rendezvous</li>
-<li>Rover Rendezvous x Rigel</li>
-<li>SJBS North District Campfire Night</li>
+<li>Shooting for Masters-At-Arms</li>
+<li>AISS Total Defence Day Commemoration Parade Segment</li>
+<li>Diamond Jubilee Challenge</li>
+<li>AISS Total Defence Day Celebration</li>
+<li>North Area Founder’s Day Celebration</li>
 </ul>
 </div>
 </li>
