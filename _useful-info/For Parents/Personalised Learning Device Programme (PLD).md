@@ -68,18 +68,18 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 *   [sure.nlb.gov.sg](https://sure.nlb.gov.sg/)
 *   [help123.sg](https://www.help123.sg/)
 
-# **DMA Information**<br>
-<h4> <strong>Fill up the form below to change your child's/ward's after school DMA option</strong></h4>
+# **DMA Information**
+<h5> <strong>Fill up the form below to change your child's/ward's after school DMA option</strong></h5>
 
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 
-<h4><strong>Option Quick Guides &amp; Information</strong></h4>
+<h5><strong>Option Quick Guides &amp; Information</strong></h5>
 
 * [Default Option](/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Default_Option.pdf)
 * [Option A](/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_A___compressed.pdf)
 * [Option B](/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_B___compressed.pdf)
 
-<h4><strong>Additional Useful Guides</strong></h4>
+<h5><strong>Additional Useful Guides</strong></h5>
 
 <b>For All Options</b>
 
