@@ -19,9 +19,9 @@ variant: markdown
 
 <b>For All Options</b>
 
-* How to reset Parent's DMA account password
+How to reset Parent's DMA account password
 
 <br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent" height="360" width="480"></iframe><br>
 <b>For Option A</b>
 
-* How to reset DMA account password
+How to reset DMA account password
