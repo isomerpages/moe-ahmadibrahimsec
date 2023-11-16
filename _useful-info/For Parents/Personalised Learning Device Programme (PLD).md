@@ -44,7 +44,7 @@ Alternatively, you can view the <a href="https://drive.google.com/file/d/12s-gpX
 </td>
 </tr>
 <tr>
-<td><font size="4"><b><br>Section 3</b> - Device &amp; Funding Information<br></font><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/hjn5_yOc5QI?wmode=transparent" height="360" width="480"></iframe><br><br>
+<td><font size="4"><b><br>Section 3</b> - <a href="https://youtu.be/v8U_6KYINU8;" target="_blank">Device &amp; Funding Information</a></font><br><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/v8U_6KYINU8?wmode=transparent" height="360" width="480"></iframe><br><br>
 </td>
 </tr>
 <tr>
