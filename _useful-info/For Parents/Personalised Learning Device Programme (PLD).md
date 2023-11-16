@@ -60,8 +60,8 @@ Subsidies are available to students who require financial assistance. Singapore 
 Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your child qualifies for a subsidy, please submit Annex D “Application for Subsidy for PLD”.
 
 # **Cyberwellness Resources for Parents**<br>
-*   [Parent Handbook (I) on Learning with a PLD](https://drive.google.com/file/d/1L5SpJIQo_ZWZrxjJK1vMtL9in7KXtqxm/view?usp=share_link)
-*   [Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/13C3U3ySji5W9-j9fSsKggEqEkQuG6wbQ/view?usp=share_link)
+*   [Parent Handbook (I) on Learning with a PLD](/files/PLD/IP2___Parent_Handbook__I__on_Learning_with_a_PLD_2023.pdf)
+*   [Parent Handbook (II) on Learning with a PLD](/files/PLD/IP3___Parent_Handbook__II__on_Learning_with_a_PLD_2023.pdf)
 *   [go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness)
 *   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
 *   [go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
