@@ -69,14 +69,30 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 *   [help123.sg](https://www.help123.sg/)
 
 # **DMA Information**<br>
-*   [In-depth DMA Information for Parents](https://drive.google.com/file/d/1azH-ggesSi9RcYhDmhPOzTCgRdhAl2Ci/view?usp=share_link)**
+<h4> <strong>Fill up the form below to change your child's/ward's after school DMA option</strong></h4>
+
 *   [Change Of After-School DMA Parent Options (for Parents/Guardians)](https://form.gov.sg/6143ec0c70054d0012da2b0f)
 
-**Option Quick Guide &amp; Information**  
+<h4><strong>Option Quick Guides &amp; Information</strong></h4>
 
-* [Default Option](/files/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf)<br>
-* [Option A](/files/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf)
-* [Option B](/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
+* [Default Option](/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Default_Option.pdf)
+* [Option A](/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_A___compressed.pdf)
+* [Option B](/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_B___compressed.pdf)
+
+<h4><strong>Additional Useful Guides</strong></h4>
+
+<b>For All Options</b>
+
+* [[All Options] Parent Account Password Reset](https://youtu.be/IUc-x-_wUdU?si=3mcrBnFwnudls5hT)
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent" height="360" width="480"></iframe><br>
+
+<b>For Option A</b>
+
+* [[Option A] Setting Rules to Restrict Usage](https://youtu.be/qaxcXPA9obs?si=7jSvnSQUY9pf8XKM)
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent" height="360" width="480"></iframe><br>
+
+* [[Option A] Overriding School Sleep Hours](https://youtu.be/Pau7YjjgmPY)
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Pau7YjjgmPY?wmode=transparent" height="360" width="480"></iframe><br>
 
 # **Service Centre Information**<br>
 ![](/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg)
