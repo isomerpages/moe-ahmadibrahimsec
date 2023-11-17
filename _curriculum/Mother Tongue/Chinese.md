@@ -526,4 +526,24 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
 </div>
 </li>
+
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">Appreciating Chinese through Professional Lenses</label>
+<div>
+<p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong></p>
+<img src="/images/Pic%201.jpg"><br>
+<img style="width: 40%;" src="/images/Pic%203.jpg" align="right">
+<p>Our Secondary 3 Express students were immersed in the traditional art form of Chinese culture-Cross Talk. A constant ripple of laughter and applause from the audience punctuated the performance, which featured various issues from the everyday lives of Singaporeans.&nbsp;</p>
+<p>Rich in puns and allusions, crosstalk is delivered in a rapid bantering style, presenting societal trends in a light-hearted manner. We hope that this alternative form of language expression will bring the language alive and promote students’ appreciation of the Chinese culture and the arts!</p>
+<img style="width: 40%;" src="/images/Pic%202.jpg" align="left">
+<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
+<br>
+<br>
+<br>
+<p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan</strong></p>
+<p>“云端连线，坦抒己见”写作对话会</p>
+<p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
+<p>During the circle breaker, while doing HBL, students had opportunities to take part in the exciting online activities. Our Chinese Language Department invited Ms Lin Rongchan, local writer and also lecturer at NIE, to have a live conversation with us on April 24. Focusing on her new Chinese short story, "Where are you going?" Ms Lin shared with us her source of inspiration and the writing journey. The characters in the story resonated with many of our AI students, and we were inspired to pay closer attention to people in their lives. All of us were energized by the interaction and definitely enjoyed this unique HBL experience!</p>
+</div>
+</li>
+
 </ul>
