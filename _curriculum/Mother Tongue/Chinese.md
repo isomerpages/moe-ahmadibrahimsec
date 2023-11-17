@@ -517,7 +517,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p>今年最受欢迎的节目就是魔术表演《变伞》，魔术师用自己精湛的技艺将一把把伞从手中变出来，使观众各个都惊叹欢呼！</p>
 <p>Finally, with the crashing of cymbals and roar of drums, the celebration reached its climax as the lion dance troupe made their way into the school hall. Up on stage, our school leaders received the well wishes given by the troupe and this drew the New Year celebration to a close.</p>
 <p>最后，年年受欢迎的舞狮队伍进一步将庆祝活动推向了最高潮，也让新年庆祝活动在锣鼓声中划上了圆满的句号。</p>
-<img style="width: 65%;" src="/images/cl7.jpg">
+<img style="width: 100%;" src="/images/cl7.jpg">
 <p><strong>Chinese Song Appreciation</strong></p>
 <p>Music is to the soul what words are to the mind. Fueled by the aim of sharing the love of the Chinese language through alternative mediums, the Secondary 2 Chinese students came together for a joyous session of singing and song appreciation during the Mother Tongue Fortnight. Teachers kick-started the event and took the audience’s breath away by performing popular songs by singers JJ Lin and A-mei. Enthusiastic representatives from each class sang to their hearts’ content and were rewarded by thunderous applause from the audience. What a feast for the ears it was! We hope that the students and teachers have enjoyed themselves at this event and continue to find joy in learning the Chinese language as they immerse themselves in Chinese songs.</p>
 <p><iframe src="https://www.youtube.com/embed/y3lRk2hUk3I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br>
