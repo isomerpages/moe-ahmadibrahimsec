@@ -263,7 +263,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <p><strong>2019&nbsp;</strong></p>
 </td>
 <td width="87">
-<p>Upper Sec高年级组</p>
+<p>Upper Sec</p>
+<p>高年级组</p>
 </td>
 <td width="126">
 <p>Distinction</p>
@@ -294,7 +295,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 </tr>
 <tr>
 <td width="87">
-<p>Lower Sec低年级组</p>
+<p>Lower Sec</p>
+<p>低年级组</p>
 </td>
 <td width="126">
 <p>Accomplishment award</p>
@@ -358,7 +360,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 <tr>
 <td width="87">
-<p>Lower Sec低年级组</p>
+<p>Lower Sec</p>
+<p>低年级组</p>
 </td>
 <td width="126">
 <p>GOLD Award (Individual)</p>
@@ -377,7 +380,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 <tr>
 <td width="87">
-<p>Lower Sec低年级组</p>
+<p>Lower Sec</p>
+<p>低年级组</p>
 </td>
 <td width="126">
 <p>SILVER Award (Team)</p>
@@ -402,7 +406,8 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 
 <tr>
 <td width="87">
-<p>Upper Sec高年级组</p>
+<p>Upper Sec</p>
+<p>高年级组</p>
 </td>
 <td width="126">
 <p>BRONZE Award (Team)</p>
