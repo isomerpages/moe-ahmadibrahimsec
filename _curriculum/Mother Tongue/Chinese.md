@@ -541,6 +541,7 @@ Talents need opportunities to shine. Every year, selected students in Sec 2 and 
 <br>
 <br>
 <br>
+<br>
 <p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan</strong></p>
 <p>“云端连线，坦抒己见”写作对话会</p>
 <p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
