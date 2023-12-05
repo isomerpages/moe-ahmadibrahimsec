@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /useful-info/school-canteen/
 description: ""
+variant: markdown
 ---
 <h3>School Stalls</h3>
 
@@ -14,7 +15,7 @@ There are currently 5 food stalls and 1 drink/snack stall at our school.
 <th style="width:40%">Detail Requirement</th>
 </tr>
 <tr>
-	<td></td>
-<td><br></td>
+<td>Malay (Halal) Rice Stall</td>
+<td>20 Dec 2023<br></td>
 <td></td>
 </tr></tbody></table>
