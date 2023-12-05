@@ -1,8 +1,8 @@
 ---
-title: School Canteen Advertisement 01
-permalink: /school-canteen-advertisement-01/
-description: ""
+title: School Canteen Advertisement (Stall 3)
+permalink: /school-canteen-advertisement-stall-3/
 variant: markdown
+description: ""
 ---
 <p>Ahmad Ibrahim Secondary School is inviting applicants to operate a “Malay (Halal) Rice Stall” stall from <strong>Jan 2024</strong>. Menu may include varieties such as nasi padang, nasi briyani, nasi lemak, porridge etc.</p>
 

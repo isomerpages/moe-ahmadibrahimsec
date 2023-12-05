@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /useful-info/school-canteen/
 description: ""
+variant: markdown
 ---
 <h3>School Stalls</h3>
 
@@ -14,7 +15,7 @@ There are currently 5 food stalls and 1 drink/snack stall at our school.
 <th style="width:40%">Detail Requirement</th>
 </tr>
 <tr>
-	<td></td>
-<td><br></td>
-<td></td>
+<td>Malay (Halal)<br>Rice Stall</td>
+<td>20 Dec 2023<br></td>
+<td><a href="https://www.ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement-stall-3/">Click here</a></td>
 </tr></tbody></table>
