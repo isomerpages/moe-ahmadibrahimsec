@@ -33,13 +33,13 @@ sections:
       alt: AI 60th Anniversary Homecoming
       image: /images/Mainpage/ai-homecoming-2023.png
   - infopic:
-      title: Meet Ms Tan Ke-Xin
+      title: Meet Mr Goh Soon Hoe
       subtitle: Principal of AISS
       description: Welcome dear parents and visitors! It gives me great pleasure to
         introduce you to our AI Family...
       button: Read More
       alt: Image alt text
-      image: /images/principal3.png
+      image: /images/rsz_1rsz_principal.png
       url: /about-us/principals-message
   - infopic:
       title: Outdoor Learning Experience (OLE)
