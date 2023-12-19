@@ -3,6 +3,7 @@ title: Our Key Personnel
 permalink: /about-us/our-people/our-key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h3>School Leaders</h3>
 <table>
@@ -12,7 +13,7 @@ third_nav_title: Our People
 <th>Designation</th>
 </tr>
 <tr>
-<td>Ms Tan Ke-Xin</td>
+<td>Mr Goh Soon Hoe</td>
 <td>Principal</td>
 </tr>
 <tr>
@@ -61,16 +62,12 @@ third_nav_title: Our People
     <td class="tg-cly1">Head of Department / English Language</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ms Carol Ann Martin</td>
+    <td class="tg-cly1">Ms Andrea Lee Shu Qi</td>
     <td class="tg-cly1">Head of Department / Humanities</td>
   </tr>
   <tr>
     <td class="tg-cly1">Mr Tee Hong Heng</td>
     <td class="tg-cly1">Head of Department / Information Communication Technology</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Azlin Bte Abdul Majid</td>
-    <td class="tg-cly1">Head of Department / Information &amp; Knowledge Management</td>
   </tr>
   <tr>
     <td class="tg-cly1">Ms Liang Peiyun</td>
@@ -88,6 +85,10 @@ third_nav_title: Our People
     <td class="tg-cly1">Mdm Chew Jia Zhen Geraldine</td>
     <td class="tg-cly1">Head of Department / Science</td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Mr Dennis Lin</td>
+    <td class="tg-cly1">Head of Department / Student Management</td>
+  </tr>
   <tr>
     <td class="tg-cly1">Mdm Tay Mui Khim<br></td>
     <td class="tg-cly1">Year Head Upper Sec</td>
@@ -102,6 +103,10 @@ third_nav_title: Our People
   </tr>
   <tr>
     <td class="tg-cly1">Ms Siti Salmiah Bte Amin</td>
+    <td class="tg-cly1">Assistant Year Head</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mr Mohamed Imran</td>
     <td class="tg-cly1">Assistant Year Head</td>
   </tr>
   <tr>
