@@ -39,7 +39,7 @@ sections:
         introduce you to our AI Family...
       button: Read More
       alt: Image alt text
-      image: /images/rsz_1rsz_principal.png
+      image: /images/mr_goh_resized.jpeg
       url: /about-us/principals-message
   - infopic:
       title: Outdoor Learning Experience (OLE)
