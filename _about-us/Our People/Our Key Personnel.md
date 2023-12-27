@@ -49,6 +49,10 @@ variant: markdown
     <td class="tg-agoc">Mdm Au Yee Kuan</td>
     <td class="tg-agoc">School Staff Developer</td>
   </tr>
+	 <tr>
+    <td class="tg-agoc">Mr Teo Chai Hong Joseph</td>
+    <td class="tg-agoc">Head of Department / Aesthetic and Craft</td>
+  </tr>
   <tr>
     <td class="tg-agoc">Mr M Siva Balan</td>
     <td class="tg-agoc">Head of Department / Character &amp; Citizenship Education</td>
@@ -128,6 +132,10 @@ variant: markdown
   <tr>
     <td class="tg-cly1">Mr Kang Yong Heng</td>
     <td class="tg-cly1">Subject Head / Design &amp; Technology</td>
+  </tr>
+	  <tr>
+    <td class="tg-cly1">Ms Chow Pei Yan</td>
+    <td class="tg-cly1">Subject Head / Music</td>
   </tr>
   <tr>
     <td class="tg-cly1">Ms Tsang Wing Han</td>
