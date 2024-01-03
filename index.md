@@ -13,26 +13,6 @@ sections:
       subtitle: Latest News and Highlights
       button: View more
   - infopic:
-      title: AI E-Open House 2023
-      subtitle: 11 November 2023
-      id: infopic
-      description: Interested to know more about our school? Come join our E-Open
-        House on 11 or 18 November 2023 over Zoom from 9.30 to 11.00 am.
-      button: Read More
-      url: /useful-info/e-openhouse/
-      image: /images/Mainpage/eopen house-compressed-v1.jpg
-      alt: Image alt text
-  - infopic:
-      title: AI 60th Anniversary Homecoming
-      subtitle: 18 November 2023
-      id: infopic
-      description: Dear Alumni, come join us for Homecoming! Register before 6
-        November 2023. Go to our IG and FB page for more details!
-      button: Register here
-      url: https://go.gov.sg/ai60homecoming
-      alt: AI 60th Anniversary Homecoming
-      image: /images/Mainpage/ai-homecoming-2023.png
-  - infopic:
       title: Meet Mr Goh Soon Hoe
       subtitle: Principal of AISS
       description: Welcome dear parents and visitors! It gives me great pleasure to
