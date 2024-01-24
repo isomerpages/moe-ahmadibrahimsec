@@ -54,7 +54,7 @@ At AHMAD IBRAHIM Secondary School, the following Sexuality Education lessons wil
 |  | Do I or Don’t I<br>Lesson 2B<br>(60 mins) | This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. <br><br>This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  | •	recognise the importance of self-respect and respect for others in relating to members of the opposite sex <br><br>•	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 7 |
 |
 
-<center><b>SECONDARY 3</b></center>
+<center><b><h5>SECONDARY 3</h5></b></center>
 
 | Unit | Lesson Title / Duration | Lesson Overview | Lesson Objectives<br>At the end of the lesson, students will be able to: | Time Period<br>(e.g. Term 1 Week 2) |
 |:---:|:---:|---|---|:---:|
