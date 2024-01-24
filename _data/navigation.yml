@@ -1,0 +1,27 @@
+logo: /images/logo (2).png
+links:
+  - title: About Us
+    collection: about-us
+  - title: AISS Experience
+    url: /curriculum/our-curriculum/
+    sublinks:
+      - title: Get to know the AI Experience
+        url: https://www.youtube.com/watch?v=6EQ0Sv8bbcc
+      - title: Our Curriculum
+        url: /curriculum/our-curriculum/
+      - title: Our Co-Curriculum
+        url: /our-co-curriculum/co-curriculum/
+      - title: Outdoor Learning (OLE)
+        url: /signature-programmes/outdoor-learning-experience-ole/
+      - title: Applied Learning (ALP)
+        url: /signature-programmes/applied-learning-programme-alp/
+      - title: Enhanced Music (EMP)
+        url: /signature-programmes/enhanced-music-programme-emp/
+  - title: Useful Information
+    collection: useful-info
+  - title: Admissions
+    collection: admissions
+  - title: Ordinary Miracles
+    url: /ordinary-miracles/
+  - title: Contact Us
+    url: /contact-us/

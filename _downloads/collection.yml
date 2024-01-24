@@ -1,0 +1,4 @@
+collections:
+  downloads:
+    output: true
+    order: []

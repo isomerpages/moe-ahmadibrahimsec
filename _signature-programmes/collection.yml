@@ -1,0 +1,7 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Outdoor Learning Experience (OLE).md
+      - Applied Learning Programme (ALP).md
+      - Enhance Music Programme (EMP).md

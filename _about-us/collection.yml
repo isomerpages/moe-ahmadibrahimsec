@@ -1,0 +1,31 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our School.md
+      - Our People/.keep
+      - Our People/Our Key Personnel.md
+      - Our People/Our Form Teachers.md
+      - Our Identity.md
+      - Our History/.keep
+      - Our History/Our Heritage.md
+      - Our History/Encik Ahmad Ibrahim.md
+      - Our History/Key Milestones.md
+      - Our History/Past Principals.md
+      - Our Achievements/.keep
+      - Our Achievements/O Level Results.md
+      - Our Achievements/N Level Results.md
+      - Our Achievements/Outstanding Achievements.md
+      - Our Achievements/School & Student Achievements.md
+      - Our Achievements/Honours Roll.md
+      - Our Partners/.keep
+      - Our Partners/Parents Support Group (PSG).md
+      - Our Partners/AEP.md
+      - Our Partners/ECG.md
+      - Our Partners/External Organisations.md
+      - Our Alumni/.keep
+      - Our Alumni/Alumni.md
+      - Our Alumni/Alumni Gallery.md
+      - Our Alumni/Alumni Featured Interviews.md
+      - Our Alumni/Alumni Achievements.md
