@@ -38,6 +38,16 @@ At AHMAD IBRAHIM Secondary School, the following Sexuality Education lessons wil
 
 <center><b><h5>SECONDARY 1</h5></b></center>
 
+
+
+
+| Unit | Lesson Title /<br>Duration | Lesson<br>Overview | Lesson Objectives<br>At the end of the lesson,<br>students will be able to: | Column 3 |
+| -------- | -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     | Text     |
+
+
+
+
 | Unit | Lesson Title / Duration | Lesson Overview | Lesson Objectives<br>At the end of the lesson, students will be able to: | Time Period<br>(e.g. Term 1 Week 2) |
 |:---:|:---:|---|---|:---:|
 | Respectful Relationships &amp; Safety | Steady or Not<br>Lesson 1<br>(60 mins) | This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. | - recognize the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>- recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>- recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>- understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 2 |
