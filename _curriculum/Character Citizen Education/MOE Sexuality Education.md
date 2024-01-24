@@ -34,9 +34,9 @@ variant: markdown
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
 #### 2023 Sexuality Education Lessons in CCE 2021
-At Ahmad Ibrahim Secondary School, the following Sexuality Education lessons will be taught in 2023:
+At AHMAD IBRAHIM Secondary School, the following Sexuality Education lessons will be taught in <u>**2024**</u>:
 
-<center><b>SECONDARY 1</b></center>
+<center><b><h5>SECONDARY 1</h5></b></center>
 
 | Unit | Lesson Title / Duration | Lesson Overview | Lesson Objectives<br>At the end of the lesson, students will be able to: | Time Period<br>(e.g. Term 1 Week 2) |
 |:---:|:---:|---|---|:---:|
