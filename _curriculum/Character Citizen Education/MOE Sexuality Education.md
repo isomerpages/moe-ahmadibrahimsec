@@ -13,13 +13,13 @@ variant: markdown
 (b)	Guide students to make wise, informed and responsible decisions on sexuality matters.  <br><br>
 (c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </ul>
 
-3\.  The Key Messages of Sexuality Education are: <br>
-(a) Love and respect yourself as you love and respect others;  <br>
-(b) Build positive relationships based on love and respect (which are the foundation for strong families);  <br>
-(c) Make responsible decisions for yourself, your family and society; and  <br>
-(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+3\.  The **Key Messages** of Sexuality Education are: <br><ul>
+(a)	Love and respect yourself as you love and respect others; <br><br>
+(b)	Build positive relationships based on love and respect (which are the foundation for strong families);  <br><br>
+(c)	Make responsible decisions for yourself, your family and society; and  <br><br>
+(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</ul>
 
- You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+ You may click  for more information on MOE Sexuality Education.
  
 #### Overview Of Ahmad Ibrahim Secondary School’s Sexuality Education Programme For 2023
 1\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
