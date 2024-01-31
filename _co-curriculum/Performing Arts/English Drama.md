@@ -3,6 +3,7 @@ title: English Drama
 permalink: /co-curriculum/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## English Drama
 ### About Us
@@ -58,6 +59,6 @@ English Drama has been driven by its passion-filled members, passing down a zest
 <li><input type="checkbox" id="accordion7"><label for="accordion7">Teachers In Charge</label>
 <div>
 <p><strong>Ms Agnes Lim Siew Mei (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:agnes_lim_siew_mei@moe.edu.sg">agnes_lim_siew_mei@moe.edu.sg</a></strong></p>
-<p>Ms Ng U-Ning Ruth<br>Mrs Nirmala d/o K Peryiah<br>Mdm Song Weina</p>
+<p>Ms Ng U-Ning Ruth<br>Mrs Nirmala d/o K Peryiah</p>
 </div>
 </li></ul>
