@@ -21,6 +21,46 @@ variant: markdown
 <div>
 <div>
 <p><strong><u>National Shooting Championships</u></strong></p>
+<p><u><strong>2022<br></strong></u>
+<strong>B Girls Rifle<br></strong>
+</p><ul>
+<li>N.A</li>
+</ul>
+<strong>B Girls Pistol<br></strong>National: 3rd
+<ul>
+<li>Tan Yi Jin</li>
+<li>Chew Yee Sin</li>
+<li>Ho Yi Xuan, Chloe</li>
+<li>Aragon Janna Francheska Cabillo</li>
+</ul>
+<strong>B Boys Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>B Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Girls Rifle<br></strong>National: 4th
+<ul>
+<li>Tan Wee Xuan Wichelle</li>
+<li>Oh Kwee Teng Joey</li>
+<li>Ong Jia Yee Erinna</li>
+<li>Qusyairah Binte Eddy Amin</li>
+</ul>
+<strong>C Girls Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>	
+
 <p><u><strong>2021<br></strong></u>
 <strong>B Girls Rifle<br></strong>National: 4th
 </p><ul>
