@@ -33,7 +33,7 @@ variant: markdown
 <ul>
 <li>Singapore Youth Festival 2017: Certificate of Distinction</li>
 <li>Singapore Youth Festival 2019: Certificate of Distinction</li>
-<li>*   Singapore Youth Festival 2021</li>	
+<li>Singapore Youth Festival 2023: Certificate of Accomplishment</li>	
 </ul>
 <p><strong>Recent Activities</strong></p>
 <ul>
