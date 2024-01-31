@@ -21,6 +21,76 @@ variant: markdown
 <div>
 <div>
 <p><strong><u>National Shooting Championships</u></strong></p>
+<p><u><strong>2023<br></strong></u>
+<strong>B Girls Rifle<br></strong>National: Champion
+</p><ul>
+<li>Tan Wee Xuan, Wichelle</li>
+<li>Gao Xinyue</li>
+<li>Ong Jia Yee (Wang Jiayi)</li>
+<li>Erinna Qusyairah Binte Eddy Amin</li>
+<li>Oh Hwee Teng Joey</li>
+<li>Nyla Batrisyia Evbuomwan</li>
+</ul><br>Air Rifle Women Rank 4
+<ul>
+<li>Oh Hwee Teng Joey</li>
+</ul>
+<br>Air Rifle Women Rank 6
+<ul>
+<li>Tan Wee Xuan, Wichelle</li>
+</ul>
+<br>Air Rifle Women Rank 7
+<ul>
+<li>Gao Xinyue</li>
+</ul>
+<br>Air Rifle Women Rank 10
+<ul>
+<li>Erinna Qusyairah Binte Eddy Amin</li>
+</ul>
+<strong>B Girls Pistol<br></strong>National: Champion
+<ul>
+<li>Lin Yuxuan</li>
+<li>Chew Yee Sin</li>
+<li>Liu Ho Man Meagan</li>
+<li>Michelle Khoo Xin Yu</li>
+<li>Toh Jin Yi Jamie</li>
+</ul>
+<br>Air Pistol Women Champion
+<ul>
+<li>Chew Yee Sin</li>
+</ul>
+<br>Air Pistol Women Rank 4
+<ul>
+<li>Tan Yi Jin</li>
+</ul>
+<br>Air Pistol Women Rank 5
+<ul>
+<li>Lin Yuxuan</li>
+</ul>
+<strong>B Boys Rifle<br></strong>Air Rifle Men Rank 15
+<ul>
+<li>Toh Jin An, Brandon</li>
+</ul>
+<strong>B Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Girls Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Girls Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>	
+	
 <p><u><strong>2022<br></strong></u>
 <strong>B Girls Rifle<br></strong>
 </p><ul>
