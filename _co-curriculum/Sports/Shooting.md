@@ -21,7 +21,7 @@ variant: markdown
 <div>
 <div>
 <p><strong><u>National Shooting Championships</u></strong></p>
-<p><strong>2020<br></strong>
+	<p><u><strong>2020<br></strong></u>
 <strong>B Girls Rifle<br></strong>
 </p><ul>
 <li>N.A</li>
@@ -55,7 +55,8 @@ variant: markdown
 <li>N.A</li>
 </ul>	
 
-<p><strong>2019<br></strong><strong>B Girls<br></strong>Individual: Elisabeth Anne Lawrence, 3rd Placing<br>Team: 2nd Placing</p>
+<p><u><strong>2019<br></strong></u>
+<strong>B Girls<br></strong>Individual: Elisabeth Anne Lawrence, 3rd Placing<br>Team: 2nd Placing</p>
 <ul>
 <li>Nur Sara Insyira</li>
 <li>Emma Jane Pragasam</li>
@@ -82,7 +83,9 @@ variant: markdown
 <li>Chong Siew Fen</li>
 <li>Aragon Janna Francheska Cabillo</li>
 </ul>
-<p><strong>2018<br></strong>- Individual 1st for 'B' Div Air Pistol Men :&nbsp;Bryon Lim Guan Jie<br>- Team 3rd for 'C' Div Air Rifle Women<br>- Team 3rd for 'B' Div Air Rifle Men<br>- Team 4th for 'B' Div Air Pistol Men</p>
+
+<p><u><strong>2018<br></strong></u>
+- Individual 1st for 'B' Div Air Pistol Men :&nbsp;Bryon Lim Guan Jie<br>- Team 3rd for 'C' Div Air Rifle Women<br>- Team 3rd for 'B' Div Air Rifle Men<br>- Team 4th for 'B' Div Air Pistol Men</p>
 <p><strong>2017<br></strong>- Individual 1st for ‘C’ Div Air Pistol Women: Choong Yuki <br>- Individual 1st for ‘B’ Div Air Rifle Women : Lee Kelli-Ann <br>- Individual 4th for 'B' Div Air Pistol Men : Bryon Lim Guan Jie</p>
 </div>
 <div>
