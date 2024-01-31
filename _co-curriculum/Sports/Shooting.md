@@ -21,7 +21,44 @@ variant: markdown
 <div>
 <div>
 <p><strong><u>National Shooting Championships</u></strong></p>
-	<p><u><strong>2020<br></strong></u>
+<p><u><strong>2021<br></strong></u>
+<strong>B Girls Rifle<br></strong>National: 4th
+</p><ul>
+<li>Nur Sara Insyira</li>
+<li>Wong Yu Xuan</li>
+<li>Pang Xin Tong</li>
+<li>Chong Xue Min</li>
+</ul>
+<strong>B Girls Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>B Boys Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>B Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Girls Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Girls Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>	
+
+<p><u><strong>2020<br></strong></u>
 <strong>B Girls Rifle<br></strong>
 </p><ul>
 <li>N.A</li>
