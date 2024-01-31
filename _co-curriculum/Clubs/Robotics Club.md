@@ -3,6 +3,7 @@ title: Robotics Club
 permalink: /co-curriculum/clubs/ai-robotics-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 ## Robotics Club
 ### About Us
@@ -64,6 +65,6 @@ third_nav_title: Clubs
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Teachers In Charge</label>
 <div>
 <p><strong>Mr Yeu Chee Wee Thomas (OIC)</strong><br><strong>Contact:&nbsp;<a href="mailto:yeu_chee_wee_thomas@moe.edu.sg" target="">yeu_chee_wee_thomas@moe.edu.sg</a></strong></p>
-<p>Miss Seah Yen Sin</p>
+<p>Ms Seah Yen Sin</p>
 </div>
 </li></ul>
