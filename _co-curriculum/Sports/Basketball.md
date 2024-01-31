@@ -13,8 +13,8 @@ variant: markdown
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
 <div>
 <p><strong>NSG Basketball Championships (North Zone)</strong></p>
-<p><u><strong>2020<br></strong></u>B Boys: 2nd Round&nbsp;<br>C Boys: 2nd Round</p>
-<p>B Girls: 1st Round <br>C Girls: 1st Round</p>
+<p><u><strong>2020<br></strong></u>B Boys: Did not finish<br>C Boys: N.A</p>
+<p>B Girls: Zone - 2nd round (DNF) <br>C Girls: N.A</p>
 <p><u><strong>2019<br></strong></u>B Boys: 2nd Round&nbsp;<br>C Boys: 2nd Round</p>
 <p>B Girls: 1st Round <br>C Girls: 1st Round</p>
 <p><u><strong>2018<br></strong></u>B Boys: 2nd Round&nbsp;<br>C Boys: 1st Round</p>
