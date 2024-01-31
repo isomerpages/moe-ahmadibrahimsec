@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /co-curriculum/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Concert Band
 
@@ -165,7 +166,7 @@ third_nav_title: Performing Arts
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Miss Lui Ying Jie (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:lui_ying_jie@moe.edu.sg" target="">lee_jia_ling_a@moe.edu.sg</a></strong></p>
+<p><strong>Miss Chow Pei Yan (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:chow_pei_yan@moe.edu.sg" target="">chow_pei_yan@moe.edu.sg</a></strong></p>
 <p>Ms Carita Chew Meng  <br>Ms Chew Hui Leng Faith<br>
 Mdm Kanthiri Alasa</p>
 </div>
