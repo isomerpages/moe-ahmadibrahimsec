@@ -40,6 +40,14 @@ variant: markdown
 </td>
 <td width="132">
 <p><strong>2019</strong></p>
+</td><td width="132">
+<p><strong>2020</strong></p>
+</td><td width="132">
+<p><strong>2021</strong></p>
+</td><td width="132">
+<p><strong>2022</strong></p>
+</td><td width="132">
+<p><strong>2023</strong></p>
 </td>
 </tr>
 <tr>
@@ -49,6 +57,22 @@ variant: markdown
 <td width="132">
 <p>GOLD</p>
 </td>
+<td width="132">
+<p>GOLD</p>
+</td>
+
+<td width="132">
+<p>GOLD</p>
+</td>
+
+<td width="132">
+<p>Suspended</p>
+</td>
+
+<td width="132">
+<p>GOLD</p>
+</td>
+
 <td width="132">
 <p>GOLD</p>
 </td>
