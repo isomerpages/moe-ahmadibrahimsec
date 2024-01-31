@@ -32,6 +32,8 @@ English Drama has been driven by its passion-filled members, passing down a zest
 <li><input type="checkbox" id="accordion3"> <label for="accordion3">Achievements</label>
 <div>
 <ul>
+<li>International Science Drama Competition (Open Category) 2022 - 3rd place in Singapore Finals</li>
+<li>Singapore Youth Festival Arts Presentation 2021 - Certificate of Distinction</li>
 <li>Singapore Youth Festival Arts Presentation 2019 - Certificate of Distinction</li>
 <li>Singapore Youth Festival Arts Presentation 2017 - Certificate of Distinction</li>
 <li>Combined Performing Arts Concert 2016</li>
