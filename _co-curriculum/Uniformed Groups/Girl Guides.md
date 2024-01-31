@@ -80,7 +80,7 @@ variant: markdown
 </tbody>
 </table>
 <div><br>
-<h4><strong>Badge Winners</strong></h4>
+<!-- <h4><strong>Badge Winners</strong></h4>
 </div>
 <div>
 <div>
@@ -155,8 +155,9 @@ variant: markdown
 </div>
 </div>
 </div>
-</li>
-<li><input type="checkbox" id="accordion4"> <label for="accordion4">Participation</label>
+</li> -->
+
+</div></div></li><li><input type="checkbox" id="accordion4"> <label for="accordion4">Participation</label>
 <div>
 <p>CCA Carnival<br>Achievement Day Parade<br>School National Day Parade<br>National Day Parade Contingent&nbsp;<br>Thinking Day<br>Vietnam Cultural Immersion trip<br>Sree Narayana Mission Home Service Learning<br>North Division Outdoor Challenge<br>Public Cookie Sale<br>Girls got talent competition</p>
 </div>
