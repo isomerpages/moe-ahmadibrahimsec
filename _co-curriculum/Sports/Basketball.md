@@ -3,6 +3,7 @@ title: Basketball
 permalink: /co-curriculum/sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## Basketball
 ### About Us
@@ -39,7 +40,7 @@ third_nav_title: Sports
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mdm Tay Liling (OIC)<br>Contact:&nbsp;<a href="mailto:tay_liling@moe.edu.sg" target="">tay_liling@moe.edu.sg</a></strong></p>
-<p>Ms Theresa Ong Hwee Fang<br>Mr Zhang Xinwen
+<p>Mr Daniel Chan Chong Weng<br>Ms Theresa Ong Hwee Fang<br>Mr Zhang Xinwen
 </p>
 </div>
 </li>
