@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /co-curriculum/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Girl Guides
 
@@ -157,7 +158,7 @@ third_nav_title: Uniformed Groups
 <li><input type="checkbox" id="accordion8"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mdm Santhi D/O Mutrawipillai Sanmugum&nbsp;</strong><strong>(OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:santhi_mutrawipillai_sanmu@moe.edu.sg">santhi_mutrawipillai_sanmu@moe.edu.sg</a></strong></p>
-<p>Ms Amelia Y Dizon<br>Ms Noor Azizah Bte Ibrahim<br>Ms Zhang Yaqi
+<p>Mdm Azlin Bte Abdul Majid<br>Ms Noor Azizah Bte Ibrahim<br>Ms Zhang Yaqi
 </p>
 </div>
 </li>
