@@ -21,6 +21,40 @@ variant: markdown
 <div>
 <div>
 <p><strong><u>National Shooting Championships</u></strong></p>
+<p><strong>2020<br></strong>
+<strong>B Girls Rifle<br></strong>
+</p><ul>
+<li>N.A</li>
+</ul>
+<strong>B Girls Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>B Boys Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>B Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Girls Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Girls Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Rifle<br></strong>
+<ul>
+<li>N.A</li>
+</ul>
+<strong>C Boys Pistol<br></strong>
+<ul>
+<li>N.A</li>
+</ul>	
+
 <p><strong>2019<br></strong><strong>B Girls<br></strong>Individual: Elisabeth Anne Lawrence, 3rd Placing<br>Team: 2nd Placing</p>
 <ul>
 <li>Nur Sara Insyira</li>
