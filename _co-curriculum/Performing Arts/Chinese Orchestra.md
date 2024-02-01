@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /co-curriculum/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Chinese Orchestra
 ### About Us
@@ -35,7 +36,9 @@ third_nav_title: Performing Arts
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
 <div>
 <ul>
-<li>2019 Singapore Youth Festival –&nbsp;Certificate of Accomplishment</li>
+<li>2023 Singapore Youth Festival – Certificate of Distinction</li>
+<li>2021 Singapore Youth Festival – Certificate of Distinction &amp; Certificate of Accomplishment</li>
+<li>2019 Singapore Youth Festival – Certificate of Accomplishment</li>
 <li>2017 Singapore Youth Festival – Certificate of Accomplishment</li>
 <li>2015 Singapore Youth Festival – Certificate of Distinction</li>
 <li>2013 Singapore Youth Festival – Certificate of Distinction</li>
@@ -68,7 +71,8 @@ third_nav_title: Performing Arts
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mdm Phua Eng Sze (OIC)<br></strong><strong>Contact:&nbsp;</strong><a href="mailto:phua_eng_sze@moe.edu.sg" target="">phua_eng_sze@moe.edu.sg</a></p>
-<p>Ms Wang Xuejuan<br>Ms Ho Jie Min, Melody</p>
+	<p><strong>Ms Wang Xuejuan (2IC)<br></strong><strong>Contact: </strong><a href="mailto:wang_xuejuan@moe.edu.sg" target="">wang_xuejuan@moe.edu.sg</a></p>
+<p>Ms Ho Jie Min, Melody<br>Mdm Song Weina</p>
 </div>
 </li>
 </ul>

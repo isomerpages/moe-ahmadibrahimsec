@@ -3,6 +3,7 @@ title: English Drama
 permalink: /co-curriculum/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## English Drama
 ### About Us
@@ -31,6 +32,9 @@ English Drama has been driven by its passion-filled members, passing down a zest
 <li><input type="checkbox" id="accordion3"> <label for="accordion3">Achievements</label>
 <div>
 <ul>
+<li>Singapore Youth Festival Arts Presentation 2023 - Certificate of Distinction</li>
+<li>International Science Drama Competition (Open Category) 2022 - 3rd place in Singapore Finals</li>
+<li>Singapore Youth Festival Arts Presentation 2021 - Certificate of Distinction</li>
 <li>Singapore Youth Festival Arts Presentation 2019 - Certificate of Distinction</li>
 <li>Singapore Youth Festival Arts Presentation 2017 - Certificate of Distinction</li>
 <li>Combined Performing Arts Concert 2016</li>
@@ -58,6 +62,7 @@ English Drama has been driven by its passion-filled members, passing down a zest
 <li><input type="checkbox" id="accordion7"><label for="accordion7">Teachers In Charge</label>
 <div>
 <p><strong>Ms Agnes Lim Siew Mei (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:agnes_lim_siew_mei@moe.edu.sg">agnes_lim_siew_mei@moe.edu.sg</a></strong></p>
-<p>Ms Ng U-Ning Ruth<br>Mrs Nirmala d/o K Peryiah<br>Mdm Song Weina</p>
+<p><strong>Mrs Nirmala d/o K Peryiah (2IC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:nirmala_k_periyiah@moe.edu.sg">nirmala_k_periyiah@moe.edu.sg</a></strong></p>
+<p>Ms Ng U-Ning Ruth</p>
 </div>
 </li></ul>

@@ -3,6 +3,7 @@ title: St John Brigade Singapore
 permalink: /co-curriculum/uniformed-groups/st-john-brigade-singapore/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## St John Brigade Singapore
 

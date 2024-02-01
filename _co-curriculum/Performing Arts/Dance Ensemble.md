@@ -47,7 +47,7 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 <p>- 2015 - Certificate of Distinction</p>
 <p>- 2017 - Certificate of Achievement</p>
 <p>- 2019 - Certificate of Distinction</p>
-<p>- 2021 - Certificate of Accomplishment</p>
+<p>- 2022 - Certificate of Accomplishment x 2</p>
 <p>- 2023 - Certificate of Accomplishment</p><br>
 <ul style="list-style-type:disc;"><li>Recognition of Participation at The Royal Dance Off Youth League Festival 2018</li></ul>
 
@@ -89,7 +89,7 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teacher In Charge</label>
 <div>
-<p><strong>Mdm Fitrah Bte Jamri<br></strong><strong>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" target="">fitrah_jamri@moe.edu.sg</a></strong></p>
+<p><strong>Mdm Fitrah Bte Jamri<br></strong><strong>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" target="">fitrah_jamri@moe.edu.sg</a></strong><br>Mdm Amelia Y Dizon<br>Mdm Siti Fatima Binte Azmi<br>Ms Yamuna Rani D/O Rajagopal</p>
 </div>
 </li>
 </ul>

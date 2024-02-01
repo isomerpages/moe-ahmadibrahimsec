@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /co-curriculum/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Girl Guides
 
@@ -39,6 +40,14 @@ third_nav_title: Uniformed Groups
 </td>
 <td width="132">
 <p><strong>2019</strong></p>
+</td><td width="132">
+<p><strong>2020</strong></p>
+</td><td width="132">
+<p><strong>2021</strong></p>
+</td><td width="132">
+<p><strong>2022</strong></p>
+</td><td width="132">
+<p><strong>2023</strong></p>
 </td>
 </tr>
 <tr>
@@ -51,11 +60,27 @@ third_nav_title: Uniformed Groups
 <td width="132">
 <p>GOLD</p>
 </td>
+
+<td width="132">
+<p>GOLD</p>
+</td>
+
+<td width="132">
+<p>Suspended</p>
+</td>
+
+<td width="132">
+<p>GOLD</p>
+</td>
+
+<td width="132">
+<p>GOLD</p>
+</td>
 </tr>
 </tbody>
 </table>
 <div><br>
-<h4><strong>Badge Winners</strong></h4>
+<!-- <h4><strong>Badge Winners</strong></h4>
 </div>
 <div>
 <div>
@@ -130,8 +155,9 @@ third_nav_title: Uniformed Groups
 </div>
 </div>
 </div>
-</li>
-<li><input type="checkbox" id="accordion4"> <label for="accordion4">Participation</label>
+</li> -->
+
+</div></div></li><li><input type="checkbox" id="accordion4"> <label for="accordion4">Participation</label>
 <div>
 <p>CCA Carnival<br>Achievement Day Parade<br>School National Day Parade<br>National Day Parade Contingent&nbsp;<br>Thinking Day<br>Vietnam Cultural Immersion trip<br>Sree Narayana Mission Home Service Learning<br>North Division Outdoor Challenge<br>Public Cookie Sale<br>Girls got talent competition</p>
 </div>
@@ -157,7 +183,7 @@ third_nav_title: Uniformed Groups
 <li><input type="checkbox" id="accordion8"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mdm Santhi D/O Mutrawipillai Sanmugum&nbsp;</strong><strong>(OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:santhi_mutrawipillai_sanmu@moe.edu.sg">santhi_mutrawipillai_sanmu@moe.edu.sg</a></strong></p>
-<p>Ms Amelia Y Dizon<br>Ms Noor Azizah Bte Ibrahim<br>Ms Zhang Yaqi
+<p>Mdm Azlin Bte Abdul Majid<br>Ms Noor Azizah Bte Ibrahim<br>Ms Zhang Yaqi
 </p>
 </div>
 </li>

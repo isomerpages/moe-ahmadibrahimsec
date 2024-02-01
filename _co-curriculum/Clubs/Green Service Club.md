@@ -3,6 +3,7 @@ title: Green Service Club
 permalink: /co-curriculum/clubs/green-service-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 ## Green Service Club
 ### About Us
