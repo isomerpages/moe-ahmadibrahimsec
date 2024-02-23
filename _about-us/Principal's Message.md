@@ -42,5 +42,6 @@ growth.</p>
 <br>
 </p>
 <p>With Integrity and Compassion,</p>
-<p>Mr Goh Soon Hoe,</p>
+<p><strong>Mr Goh Soon Hoe</strong>
+</p>
 <p>Principal, Ahmad Ibrahim Secondary</p>
