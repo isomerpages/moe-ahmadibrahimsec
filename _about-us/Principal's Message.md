@@ -4,9 +4,6 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Mr Goh Soon Hoe" src="/images/mr_goh_resized.jpeg">
-</div>
 <p>Dear students, parents, and partners,</p>
 <p>Welcome and thank you for your interest in Ahmad Ibrahim Secondary, we
 are a school where we are committed in nurturing our students to be gentlemen
