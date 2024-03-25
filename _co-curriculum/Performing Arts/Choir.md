@@ -66,24 +66,25 @@ variant: markdown
 </li>
 <li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
 <div>
-<p><strong>President:</strong></p>
-<p>Stefanie Chia Yu Xuen (3E2)</p>
-<p><strong>Vice-President:</strong></p>
-<p>Ong Jun Xi, Brayden (3E3)</p>
+<p><strong>Chairperson:</strong></p>
+<p>Koh Ching Voon (S3-Excellence)</p>
+<p><strong>Vice-Chairperson:</strong></p>
+<p>Guee Shao Han (S3-Excellence)</p>
 <p><strong>Student Conductor:</strong></p>
-<p>Ng Xian En, Jaden</p>
+<p>Jaison Liana Elezabath (S3-Service)</p>
 <p><strong>Secretary:</strong></p>
-<p>Klenn Teo Yuan Jun Kai (3E4)</p>
+<p>Ng Xin Yu, Isabelle (S3-Excellence)</p>
 <p><strong>Librarian:</strong></p>
-<p>Dong Hanrui (3E3)</p>
+<p>Tan Yu Lin (S3-Steadfastness)</p>
 <p><strong>Soprano Section Leaders:</strong></p>
-<p>Jeanie Khoo Jia Yi (3E4)</p>
-<p>Soo Yin Wei (2E2)</p>
+<p>Yeo Yun Xi Desiree (S3-Service)</p>
+<p>Putri Anggerik Lestari Binte Maslan (S3-Service)</p>
 <p><strong>Alto Section Leaders:</strong></p>
-<p>Liu Zinuo (3E2)</p>
-<p>Chloe Lim Si Xuan (2E2)</p>
+<p>Long Yi Lin (S2-Steadfastness)</p>
+<p>Kellen Tan Xuan Ting (S2-Service)</p>
 <p><strong>Tenor and bass section leader:</strong></p>
-<p>Tan Xing Wei (3E2)</p>
+<p>Kum Yu Fung Joel (S2-Service)</p>
+<p>Kaydon Kan Yongxuan (S2-Excellence)</p>
 
 </div>
 </li>
