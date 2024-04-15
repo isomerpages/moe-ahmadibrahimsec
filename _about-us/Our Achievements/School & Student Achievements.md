@@ -421,22 +421,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Divakaran Manushri 4E4</p>
+<p>Divakaran Manushri (4E4)</p>
 </li>
 <li>
-<p>Alicia Chian See En 4E4</p>
+<p>Alicia Chian See En (4E4)</p>
 </li>
 <li>
-<p>Koe Yun Ji 4E2</p>
+<p>Koe Yun Ji (4E2)</p>
 </li>
 <li>
-<p>Fu Kailin 4E4</p>
+<p>Fu Kailin (4E4)</p>
 </li>
 <li>
-<p>Jessica Long Mei Yun 4E4&nbsp;</p>
+<p>Jessica Long Mei Yun (4E4)</p>
 </li>
 <li>
-<p>Nawal Bte Mohamad Mustafah 4E4&nbsp;</p>
+<p>Nawal Bte Mohamad Mustafah (4E4)</p>
 </li>
 </ul>
 </td>
