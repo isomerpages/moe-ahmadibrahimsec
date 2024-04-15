@@ -886,7 +886,7 @@ Normal Technical</p>
 <p>2015</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semcorp Go Green Fund</p>
+<p>Sembcorp Go Green Fund</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Green Winner</p>
