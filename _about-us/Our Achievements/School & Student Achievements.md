@@ -820,8 +820,12 @@ Kwan Pin (3E3), Cheong Qi Yun (3E4), Chua Weng Yan (3E4)</p>
 <p>NUS Geographical Challenge 2016</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Excellent Performance at the Preliminary Round (Individual Component)
 and Received Invitation to the 2017 Geography Talent Development Programme</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Kwang Meng (4E3)</p>
@@ -835,7 +839,11 @@ and Received Invitation to the 2017 Geography Talent Development Programme</p>
 <p>NJC Secondary Mathematics Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Honourable Mention</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -862,7 +870,11 @@ and Received Invitation to the 2017 Geography Talent Development Programme</p>
 <p>Elementz Science Research Conference &amp; Exhibition at Anderson JC</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Silver Award &amp;&nbsp;Certificate of Commendation</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver Award</strong>
@@ -909,7 +921,11 @@ and Received Invitation to the 2017 Geography Talent Development Programme</p>
 <p>Malay Scrabble Competition</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Second Prize in North Zone; Consolation in National</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -963,9 +979,13 @@ and Received Invitation to the 2017 Geography Talent Development Programme</p>
 <p>MOE SYF Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Student’s artwork ‘War Torn’ is selected for the on-site exhibition (Category
 B) at the Arts House and would also be displayed at the lobby of the MOE
 Building, Buona Vista from 16 July 2016 for a period of one year</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Li Shan Tiffany&nbsp;
@@ -980,7 +1000,11 @@ Building, Buona Vista from 16 July 2016 for a period of one year</p>
 <p>SEC 3R Award</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Bronze Award</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -994,8 +1018,12 @@ Building, Buona Vista from 16 July 2016 for a period of one year</p>
 <p>All Singapore Mathematics Competition for Normal Course Students</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Individual: Upper Secondary Normal Technical &amp; Individual: Lower Secondary
 Normal Technical</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -1013,7 +1041,11 @@ Normal Technical</p>
 <p>Sembcorp Go Green Fund</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Green Winner</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1027,7 +1059,11 @@ Normal Technical</p>
 <p>SEC-StarHub School Green Awards (SGA)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Palm Award</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1041,7 +1077,11 @@ Normal Technical</p>
 <p>Singapore Mathematics Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Bronze</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -1059,7 +1099,11 @@ Normal Technical</p>
 <p>Australian Mathematics Competition</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Credit</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
