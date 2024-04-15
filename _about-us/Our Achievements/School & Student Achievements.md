@@ -984,7 +984,11 @@ Normal Technical</p>
 <p>Bronze</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mateen Shamyl B Mohamed (2E2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -998,7 +1002,11 @@ Normal Technical</p>
 <p>Credit</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mateen Shamyl B Mohamed (2E2)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
