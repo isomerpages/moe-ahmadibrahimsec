@@ -445,10 +445,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2019</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Create Your Own Newspaper</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -474,6 +474,34 @@ variant: tiptap
 </li>
 <li>
 <p>Liu Yiwan (2E4)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>First Prize for Upper Sec</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chew Siew Rong (3E3)</p>
+</li>
+<li>
+<p>Desmond Ng Zi Jun (3E1)</p>
+</li>
+<li>
+<p>Tay Yi Bing Clarise (3E4)</p>
+</li>
+<li>
+<p>Weng Chenxi (3E4)</p>
+</li>
+<li>
+<p>Tan Qing Wen (3E4)</p>
 </li>
 </ul>
 </td>
