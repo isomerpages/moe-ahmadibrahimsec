@@ -141,6 +141,96 @@ variant: tiptap
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Create Your Own Newspaper</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Prize for Upper Sec &amp; Best Theme Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Toh Shi Ying 3E1</p>
+</li>
+<li>
+<p>Lim Ziyan 3E2</p>
+</li>
+<li>
+<p>Seah Jia Xuan Rachel 3E4</p>
+</li>
+<li>
+<p>Jiang Yingrui 3E3</p>
+</li>
+<li>
+<p>Michelle Khoo Xin Yu 3E3</p>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award (Individual)</p>
+<p>Special</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheng Xin Yu 1E2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (Individual)</p>
+<p>Special</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Amie 1E2</p>
+</li>
+<li>
+<p>Chew Xin Ru Caris 3E1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Wang Xiao Yu 1E4</p>
+</li>
+<li>
+<p>Koh Ching Voon 1E3</p>
+</li>
+<li>
+<p>Lim Chen Xun 1E3</p>
+</li>
+<li>
+<p>Xie Kai'en Denise 1E3</p>
+</li>
+<li>
+<p>Joellyn Yap Yanxi 1E2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>C. B. Paul Science Quiz 2022</p>
 </td>
 <td rowspan="1" colspan="1">
