@@ -71,6 +71,12 @@ variant: tiptap
 <li>
 <p>Zhang Tingrui, Terry 3RE</p>
 </li>
+<li>
+<p>Ong Xiang Rou 3CA</p>
+</li>
+<li>
+<p>Pang Xinyu 3SE</p>
+</li>
 </ul>
 </td>
 </tr>
