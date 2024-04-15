@@ -33,7 +33,7 @@ variant: tiptap
 <p>Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold Award (Individual) Special</p>
+<p>Gold Award (Individual)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -171,7 +171,7 @@ variant: tiptap
 <p>Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award (Individual) Special</p>
+<p>Silver Award (Individual)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -183,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze Award (Individual) Special</p>
+<p>Bronze Award (Individual)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
