@@ -118,19 +118,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Soo Yin Wei(3ST)</p>
+<p>Soo Yin Wei 3ST</p>
 </li>
 <li>
-<p>ANG EN XIN,ALYSSA (3RE)</p>
+<p>Ang En Xin,Alyssa 3RE</p>
 </li>
 <li>
-<p>CHIA MIN JUN (3ST)</p>
+<p>Chia Min Jun 3ST</p>
 </li>
 <li>
-<p>CHONG NING XIN(3ST)</p>
+<p>Chong Ning Xin 3ST</p>
 </li>
 <li>
-<p>NEW YU XUAN (3EX)</p>
+<p>New Yu Xuan 3EX</p>
 <p></p>
 </li>
 </ul>
