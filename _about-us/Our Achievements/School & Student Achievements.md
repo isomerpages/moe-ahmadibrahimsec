@@ -38,7 +38,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Linus Tan 2T1</p>
+<p>Linus Tan (2T1)</p>
 </li>
 </ul>
 </td>
@@ -50,13 +50,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Hung De Han 2T1</p>
+<p>Hung De Han( 2T1)</p>
 </li>
 <li>
-<p>Tang Jia Jun 2T1</p>
+<p>Tang Jia Jun (2T1)</p>
 </li>
 <li>
-<p>Heng Wei En 2T1</p>
+<p>Heng Wei En (2T1)</p>
 </li>
 </ul>
 </td>
@@ -68,13 +68,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Zhang Tingrui, Terry 3RE</p>
+<p>Zhang Tingrui, Terry (3RE)</p>
 </li>
 <li>
-<p>Ong Xiang Rou 3CA</p>
+<p>Ong Xiang Rou (3CA)</p>
 </li>
 <li>
-<p>Pang Xinyu 3SE</p>
+<p>Pang Xinyu (3SE)</p>
 </li>
 </ul>
 </td>
@@ -92,19 +92,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Wong Wan Yan (Huang Wanyan) 2E1</p>
+<p>Wong Wan Yan (Huang Wanyan) (2E1)</p>
 </li>
 <li>
-<p>Joellyn Yap Yanxi 2E2</p>
+<p>Joellyn Yap Yanxi (2E2)</p>
 </li>
 <li>
-<p>Lai Rou Ying 2E3</p>
+<p>Lai Rou Ying (2E3)</p>
 </li>
 <li>
-<p>Koh Ching Voon 2E3</p>
+<p>Koh Ching Voon (2E3)</p>
 </li>
 <li>
-<p>Wang Xiaoyu 2E4</p>
+<p>Wang Xiaoyu (2E4)</p>
 <p></p>
 </li>
 </ul>
@@ -117,19 +117,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Soo Yin Wei 3ST</p>
+<p>Soo Yin Wei (3ST)</p>
 </li>
 <li>
-<p>Ang En Xin,Alyssa 3RE</p>
+<p>Ang En Xin,Alyssa (3RE)</p>
 </li>
 <li>
-<p>Chia Min Jun 3ST</p>
+<p>Chia Min Jun (3ST)</p>
 </li>
 <li>
-<p>Chong Ning Xin 3ST</p>
+<p>Chong Ning Xin (3ST)</p>
 </li>
 <li>
-<p>New Yu Xuan 3EX</p>
+<p>New Yu Xuan (3EX)</p>
 <p></p>
 </li>
 </ul>
@@ -148,19 +148,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Toh Shi Ying 3E1</p>
+<p>Toh Shi Ying (3E1)</p>
 </li>
 <li>
-<p>Lim Ziyan 3E2</p>
+<p>Lim Ziyan (3E2)</p>
 </li>
 <li>
-<p>Seah Jia Xuan Rachel 3E4</p>
+<p>Seah Jia Xuan Rachel (3E4)</p>
 </li>
 <li>
-<p>Jiang Yingrui 3E3</p>
+<p>Jiang Yingrui (3E3)</p>
 </li>
 <li>
-<p>Michelle Khoo Xin Yu 3E3</p>
+<p>Michelle Khoo Xin Yu (3E3)</p>
 <p></p>
 </li>
 </ul>
@@ -179,7 +179,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Cheng Xin Yu 1E2</p>
+<p>Cheng Xin Yu (1E2)</p>
 </li>
 </ul>
 </td>
@@ -191,10 +191,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Lim Amie 1E2</p>
+<p>Lim Amie (1E2)</p>
 </li>
 <li>
-<p>Chew Xin Ru Caris 3E1</p>
+<p>Chew Xin Ru Caris (3E1)</p>
 </li>
 </ul>
 </td>
@@ -206,7 +206,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Wang Xiao Yu 1E4</p>
+<p>Wang Xiao Yu (1E4)</p>
 </li>
 <li>
 <p>Koh Ching Voon (1E3)</p>
