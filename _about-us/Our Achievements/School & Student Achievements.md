@@ -376,7 +376,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>2019&nbsp;</p>
+<p>2019</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>C. B. Paul Science Quiz</p>
@@ -446,7 +446,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018&nbsp;</p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Green Awards&nbsp;</p>
@@ -464,7 +464,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018&nbsp;</p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19th International Elementz Science Research Conference and Exhibition</p>
@@ -526,7 +526,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018&nbsp;</p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chong Pang's Next Top Speaker</p>
@@ -548,7 +548,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018&nbsp;</p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unseen Poetry Debate at National Schools Literature Festival</p>
@@ -579,7 +579,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018&nbsp;</p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Newspaper Editorial Competition&nbsp;</p>
@@ -605,7 +605,7 @@ Kwan Pin (3E3), Cheong Qi Yun (3E4), Chua Weng Yan (3E4)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018&nbsp;</p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEC-StarHub School Green Awards (SGA)</p>
@@ -623,7 +623,7 @@ Kwan Pin (3E3), Cheong Qi Yun (3E4), Chua Weng Yan (3E4)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018&nbsp;</p>
+<p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language Journalism Camp</p>
