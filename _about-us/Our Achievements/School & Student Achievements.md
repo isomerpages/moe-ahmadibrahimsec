@@ -289,37 +289,101 @@ variant: tiptap
 <p>Create Your Own Newspaper</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Third Prize for Upper Sec</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Enyu 3E2</p>
+</li>
+<li>
+<p>Weng Siying 3E1</p>
+</li>
+<li>
+<p>Seah Jun De 3E2</p>
+</li>
+<li>
+<p>Lim Zhi Qi 3E2</p>
+</li>
+<li>
+<p>Lim Swee Hong 3E1</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2019&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>C. B. Paul Science Quiz</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ang Tien Wen, 4E4, Silver Award</p>
-</li>
-<li>
-<p>Tan Hong Zhang, 4E4, Broze Award</p>
-</li>
-<li>
-<p>Austin Q Hilario, 4E4, Merit Award</p>
-</li>
-<li>
-<p>Caleb Steven, 4E4, Participation Award</p>
+<p>Silver Award</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ang Tien Wen 4E4</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze Award</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Hong Zhang 4E4</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Merit Award</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Austin Q Hilario 4E4</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Participation Award</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Caleb Steven 4E4</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -332,7 +396,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Yellow Flame Award</p>
+<p>Yellow Flame Award</p>
 </li>
 </ul>
 </td>
