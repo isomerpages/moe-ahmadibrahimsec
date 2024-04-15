@@ -534,7 +534,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Bronze award</p>
+<p>Bronze award</p>
 </li>
 </ul>
 </td>
