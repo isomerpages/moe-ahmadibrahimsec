@@ -26,6 +26,55 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award (Individual)</p>
+<p>Special</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Linus Tan 2T1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver Award (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Hung De Han 2T1</p>
+</li>
+<li>
+<p>Tang Jia Jun 2T1</p>
+</li>
+<li>
+<p>Heng Wei En 2T1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze Award (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhang Tingrui, Terry 3RE</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
