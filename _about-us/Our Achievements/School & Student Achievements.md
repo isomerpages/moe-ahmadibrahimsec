@@ -596,7 +596,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Finalist</p>
+<p>Finalist</p>
 </li>
 </ul>
 </td>
@@ -618,7 +618,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Winner</p>
+<p>Winner</p>
 </li>
 </ul>
 </td>
