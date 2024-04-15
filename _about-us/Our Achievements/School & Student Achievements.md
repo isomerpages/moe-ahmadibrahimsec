@@ -446,6 +446,40 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Create Your Own Newspaper</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Second Prize for Lower Sec</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Kelly Soh Shi Ya (2E1)</p>
+</li>
+<li>
+<p>Oh Sing Ee, Jenna (2E2)</p>
+</li>
+<li>
+<p>Tew Xin Yi (2E2)</p>
+</li>
+<li>
+<p>Loh Hong Xuan (2E3)</p>
+</li>
+<li>
+<p>Liu Yiwan (2E4)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
