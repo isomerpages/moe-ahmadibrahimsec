@@ -646,7 +646,8 @@ Kwan Pin (3E3), Cheong Qi Yun (3E4), Chua Weng Yan (3E4)</p>
 <p>First Prize &amp;&nbsp;Second Prize</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Prize:</p>
+<p><strong>First Prize</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Abbinesh (2E1)</p>
@@ -661,10 +662,13 @@ Kwan Pin (3E3), Cheong Qi Yun (3E4), Chua Weng Yan (3E4)</p>
 <p>Jazlin Rose (2E4)</p>
 </li>
 <li>
-<p>Helena Catherin (2E4)</p>
+<p>Helena Catherin (2E4)
+<br>
+</p>
 </li>
 </ul>
-<p>Second Prize:</p>
+<p><strong>Second Prize</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Kavya (2E2)</p>
@@ -737,7 +741,8 @@ and Received Invitation to the 2017 Geography Talent Development Programme</p>
 <p>Silver Award &amp;&nbsp;Certificate of Commendation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award:</p>
+<p><strong>Silver Award</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Khuyagbaatar&nbsp;Urangua (4E4)</p>
@@ -749,10 +754,13 @@ and Received Invitation to the 2017 Geography Talent Development Programme</p>
 <p>Leong Jia Ying (4E4)</p>
 </li>
 <li>
-<p>Wong Zheng Long (4E4)</p>
+<p>Wong Zheng Long (4E4)
+<br>
+</p>
 </li>
 </ul>
-<p>Certificate of Commendation</p>
+<p><strong>Certificate of Commendation</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Khit Sue Zhen (4E2)</p>
