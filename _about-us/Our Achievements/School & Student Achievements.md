@@ -505,16 +505,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Sarah Tan Xin Hui 4E3</p>
+<p>Sarah Tan Xin Hui (4E3)</p>
 </li>
 <li>
-<p>Sarefina Sindhu Victor 4E3</p>
+<p>Sarefina Sindhu Victor (4E3)</p>
 </li>
 <li>
-<p>Yong Yi Xuan, Serena 4E3</p>
+<p>Yong Yi Xuan, Serena (4E3)</p>
 </li>
 <li>
-<p>Tay Chi Rou 4E3</p>
+<p>Tay Chi Rou (4E3)</p>
 </li>
 </ul>
 </td>
@@ -625,14 +625,14 @@ Kwan Pin (3E3), Cheong Qi Yun (3E4), Chua Weng Yan (3E4)</p>
 <p>North West Outstanding All-Rounder Student Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;Jessica Long (4E4)</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jessica Long (4E4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
