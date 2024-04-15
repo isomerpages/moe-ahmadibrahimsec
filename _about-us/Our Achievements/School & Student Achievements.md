@@ -209,16 +209,16 @@ variant: tiptap
 <p>Wang Xiao Yu 1E4</p>
 </li>
 <li>
-<p>Koh Ching Voon 1E3</p>
+<p>Koh Ching Voon (1E3)</p>
 </li>
 <li>
-<p>Lim Chen Xun 1E3</p>
+<p>Lim Chen Xun (1E3)</p>
 </li>
 <li>
-<p>Xie Kai'en Denise 1E3</p>
+<p>Xie Kai'en Denise (1E3)</p>
 </li>
 <li>
-<p>Joellyn Yap Yanxi 1E2</p>
+<p>Joellyn Yap Yanxi (1E2)</p>
 </li>
 </ul>
 </td>
@@ -243,12 +243,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Shaun Lim Yu Xin 4E1</p>
+<p>Shaun Lim Yu Xin (4E1)</p>
 </li>
 <li>
-<p>Miguel Louis Lacson Malelang 4E1
-<br>Mohamed Haiqeal Bin Mohamed Ali 4E1
-<br>Seow Pei Yang, Regina 4E1</p>
+<p>Miguel Louis Lacson Malelang (4E1)
+<br>Mohamed Haiqeal Bin Mohamed Ali (4E1)
+<br>Seow Pei Yang, Regina (4E1)</p>
 </li>
 </ul>
 </td>
@@ -273,10 +273,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Shreya S Nair 3E1</p>
+<p>Shreya S Nair (3E1)</p>
 </li>
 <li>
-<p>Mohamed Manaseer Masroora 2E3</p>
+<p>Mohamed Manaseer Masroora (2E3)</p>
 </li>
 </ul>
 </td>
@@ -298,19 +298,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Lim Enyu 3E2</p>
+<p>Lim Enyu (3E2)</p>
 </li>
 <li>
-<p>Weng Siying 3E1</p>
+<p>Weng Siying (3E1)</p>
 </li>
 <li>
-<p>Seah Jun De 3E2</p>
+<p>Seah Jun De (3E2)</p>
 </li>
 <li>
-<p>Lim Zhi Qi 3E2</p>
+<p>Lim Zhi Qi (3E2)</p>
 </li>
 <li>
-<p>Lim Swee Hong 3E1</p>
+<p>Lim Swee Hong (3E1)</p>
 </li>
 </ul>
 <p></p>
@@ -333,7 +333,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ang Tien Wen 4E4</p>
+<p>Ang Tien Wen (4E4)</p>
 </li>
 </ul>
 </td>
@@ -349,7 +349,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Tan Hong Zhang 4E4</p>
+<p>Tan Hong Zhang (4E4)</p>
 </li>
 </ul>
 </td>
@@ -365,7 +365,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Austin Q Hilario 4E4</p>
+<p>Austin Q Hilario (4E4)</p>
 </li>
 </ul>
 </td>
@@ -381,7 +381,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Caleb Steven 4E4</p>
+<p>Caleb Steven (4E4)</p>
 </li>
 </ul>
 </td>
