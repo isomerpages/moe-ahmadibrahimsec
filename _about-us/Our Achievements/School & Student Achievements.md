@@ -763,7 +763,11 @@ Kwan Pin (3E3), Cheong Qi Yun (3E4), Chua Weng Yan (3E4)</p>
 <p>Tamil Language Council: Tamil Short Film Competition</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>First Prize &amp;&nbsp;Second Prize</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>First Prize</strong>
