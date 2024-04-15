@@ -807,13 +807,15 @@ and Received Invitation to the 2017 Geography Talent Development Programme</p>
 <p>2015 Awardee &amp;&nbsp;2016 Awardee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2015</p>
+<p><strong>2015</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Toh Hengyi Lucas (3E4)&nbsp;</p>
 </li>
 </ul>
-<p>2016</p>
+<p><strong>2016</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Garrepally Tejas (3E5)</p>
