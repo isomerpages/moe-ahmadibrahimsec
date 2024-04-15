@@ -81,6 +81,62 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Create Your Own Newspaper</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Prize for Lower Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Wong Wan Yan (Huang Wanyan) 2E1</p>
+</li>
+<li>
+<p>Joellyn Yap Yanxi 2E2</p>
+</li>
+<li>
+<p>Lai Rou Ying 2E3</p>
+</li>
+<li>
+<p>Koh Ching Voon 2E3</p>
+</li>
+<li>
+<p>Wang Xiaoyu 2E4</p>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Mention Award for Upper Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Soo Yin Wei(3ST)</p>
+</li>
+<li>
+<p>ANG EN XIN,ALYSSA (3RE)</p>
+</li>
+<li>
+<p>CHIA MIN JUN (3ST)</p>
+</li>
+<li>
+<p>CHONG NING XIN(3ST)</p>
+</li>
+<li>
+<p>NEW YU XUAN (3EX)</p>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
