@@ -105,7 +105,6 @@ variant: tiptap
 </li>
 <li>
 <p>Wang Xiaoyu (2E4)</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -130,7 +129,6 @@ variant: tiptap
 </li>
 <li>
 <p>New Yu Xuan (3EX)</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -161,7 +159,6 @@ variant: tiptap
 </li>
 <li>
 <p>Michelle Khoo Xin Yu (3E3)</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -313,7 +310,6 @@ variant: tiptap
 <p>Lim Swee Hong (3E1)</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -346,7 +342,6 @@ variant: tiptap
 </li>
 <li>
 <p>Lim Swee Hong (2E3)</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -381,7 +376,6 @@ variant: tiptap
 </li>
 <li>
 <p>Liu Yiwan (3E1)</p>
-<p></p>
 </li>
 </ul>
 </td>
