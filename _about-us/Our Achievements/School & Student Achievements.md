@@ -870,11 +870,10 @@ Building, Buona Vista from 16 July 2016 for a period of one year</p>
 <p>All Singapore Mathematics Competition for Normal Course Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Individual:Upper Secondary Normal Technical &amp;Individual:Lower Secondary
+<p>Individual: Upper Secondary Normal Technical &amp; Individual: Lower Secondary
 Normal Technical</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nur Atiqah Afza Bte Hadel (2T1), 13th position</p>
