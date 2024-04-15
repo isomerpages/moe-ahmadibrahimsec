@@ -331,7 +331,24 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Enyu (2E1)</p>
+</li>
+<li>
+<p>Weng Siying (2E3)</p>
+</li>
+<li>
+<p>Seah Jun De (2E2)</p>
+</li>
+<li>
+<p>Lim Zhi Qi (2E1)</p>
+</li>
+<li>
+<p>Lim Swee Hong (2E3)</p>
 <p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -342,10 +359,31 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Third Prize for Upper Sec</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Kelly Soh Shi Ya (3E4)</p>
+</li>
+<li>
+<p>Oh Sing Ee, Jenna (3E1)</p>
+</li>
+<li>
+<p>Tew Xin Yi (3E4)</p>
+</li>
+<li>
+<p>Loh Hong Xuan (3E2)</p>
+</li>
+<li>
+<p>Liu Yiwan (3E1)</p>
 <p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
