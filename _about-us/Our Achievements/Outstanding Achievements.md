@@ -8,28 +8,28 @@ variant: tiptap
 <h4><strong>2022</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>PHUA YONG LE, 4E1</strong>
+<p><strong>Phua Yong Le, 4E1</strong> 
 <br>Looi Im Hock Shield
 <br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>WOO YI FONG, 4N2</strong>
+<p><strong>Woo Yi Fong, 4N2</strong> 
 <br>Chew Eu Hock Shield
 <br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>MUHAMMAD HILMI BIN MOHAMAD NOOR, 4T1</strong>
+<p><strong>Muhammad Hilmi Bin Mohamad Noor, 4T1</strong> 
 <br>Molly Tan Shield
 <br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>NG WEI QIANG PERRY, 5N1</strong>
+<p><strong>Ng Wei Qiang Perry, 5N1</strong> 
 <br>Tan Ching Siew Shield</p>
 </li>
 </ul>
