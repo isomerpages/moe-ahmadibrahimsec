@@ -106,10 +106,10 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Fatin Nurdiyanah Bte Salleh</strong> 
-<br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Christy Oh Jia Qin</strong> 
 <br>(Molly Tan Shield Award)
@@ -188,10 +188,10 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Muhammad Akif Elfi B Zulkifli</strong> 
-<br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Muhammad Akif Elfi B Zulkifli</strong> 
 <br>(Molly Tan Shield Award)
