@@ -8,46 +8,64 @@ variant: tiptap
 <h4><strong>2019</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>JOHN KENNETH LAYBA AGPAOA (Looi Im Hock Shield)</p>
+<p>JOHN KENNETH LAYBA AGPAOA
+<br>Looi Im Hock Shield
+<br>
+</p>
 </li>
 <li>
-<p>ERNI FAIZAH BTE ISKANDAR (Lee Kuan Yew All Round Excellence Award (Express)
-Nominee)</p>
+<p>ERNI FAIZAH BTE ISKANDAR
+<br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
+<br>
+</p>
 </li>
 <li>
-<p>HOE JOTHAM (Chew Eu Hock Shield)</p>
+<p>HOE JOTHAM
+<br>Chew Eu Hock Shield
+<br>
+</p>
 </li>
 <li>
-<p>LUTFIL HADI RAFLI B NIZAM (Lee Kuan Yew All Round Excellence Award (Normal
-Academic) Nominee)</p>
+<p>LUTFIL HADI RAFLI B NIZAM
+<br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
+<br>
+</p>
 </li>
 <li>
-<p>JESRIN ANG LI CHING</p>
+<p>JESRIN ANG LI CHING
+<br>Molly Tan Shield
+<br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
+<br>
+</p>
+</li>
+<li>
+<p></p>
+<p></p>
 </li>
 </ul>
 <hr>
 <h4><strong>2018</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jessica Long
-<br>(North West CDC Outstanding All-Rounder Student Award)
+<p><strong>Jessica Long</strong>
+<br>North West CDC Outstanding All-Rounder Student Award
 <br>
 </p>
 </li>
 <li>
-<p>Ong Jia Yee
+<p><strong>Ong Jia Yee</strong>
 <br>(Lee Kuan Yew All Round Excellence Award (Express))
 <br>
 </p>
 </li>
 <li>
-<p>Crystal Lim Pin Yi
+<p><strong>Crystal Lim Pin Yi</strong>
 <br>(Lee Kuan Yew All Round Excellence Award (Normal Academic))
 <br>
 </p>
 </li>
 <li>
-<p>Sebastian See Kian Poh
+<p><strong>Sebastian See Kian Poh</strong>
 <br>(Lee Kuan Yew All Round Excellence Award (Normal Technical))</p>
 </li>
 </ul>
@@ -55,19 +73,19 @@ Academic) Nominee)</p>
 <h4><strong>2016</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Peng Jingying
+<p><strong>Peng Jingying</strong>
 <br>(North West CDC Outstanding All Rounder Student Award)
 <br>
 </p>
 </li>
 <li>
-<p>Peng Jingqing
+<p><strong>Peng Jingqing</strong>
 <br>(North West CDC Outstanding All Rounder Student Award)
 <br>
 </p>
 </li>
 <li>
-<p>Wang Zhen Yan, Charlene
+<p><strong>Wang Zhen Yan, Charlene</strong>
 <br>(North West CDC Outstanding All Rounder Student Award)</p>
 </li>
 </ul>
@@ -75,44 +93,44 @@ Academic) Nominee)</p>
 <h4><strong>2015</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kum Kah Leng, Phyllis
+<p><strong>Kum Kah Leng, Phyllis</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)
 <br>
 </p>
 </li>
 <li>
-<p>Charmaine Por
+<p><strong>Charmaine Por</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)
 <br>
 </p>
 </li>
 <li>
-<p>Fatin Nurdiyanah Bte Salleh
+<p><strong>Fatin Nurdiyanah Bte Salleh</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
 <h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Christy Oh Jia Qin
+<p><strong>Christy Oh Jia Qin</strong>
 <br>(Molly Tan Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Tay Hao Wei, Jazper
+<p><strong>Tay Hao Wei, Jazper</strong>
 <br>(Chew Eu Hock Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Lim Fuo En
+<p><strong>Lim Fuo En</strong>
 <br>(Looi Im Hock Shield)
 <br>
 </p>
 </li>
 <li>
-<p>Teoh Jun Hao
+<p><strong>Teoh Jun Hao</strong>
 <br>(Tan Ching Siew Shield)</p>
 </li>
 </ul>
@@ -120,38 +138,38 @@ Academic) Nominee)</p>
 <h4><strong>2014</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Leck Boon Kong
+<p><strong>Leck Boon Kong</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)
 <br>
 </p>
 </li>
 <li>
-<p>Muzhafar B Sonny
+<p><strong>Muzhafar B Sonny</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
 <h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teoh Ru Yu
+<p><strong>Teoh Ru Yu</strong>
 <br>(Molly Tan Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Toh Jia Xuan
+<p><strong>Toh Jia Xuan</strong>
 <br>(Chew Eu Hock Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Ang Pei Ern
+<p><strong>Ang Pei Ern</strong>
 <br>(Looi Im Hock Shield)
 <br>
 </p>
 </li>
 <li>
-<p>Siti Sakinah Binte Zainal
+<p><strong>Siti Sakinah Binte Zainal</strong>
 <br>(Tan Ching Siew Shield)</p>
 </li>
 </ul>
@@ -159,50 +177,50 @@ Academic) Nominee)</p>
 <h4><strong>2013</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wong Ye Qi Daryll
+<p><strong>Wong Ye Qi Daryll</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)
 <br>
 </p>
 </li>
 <li>
-<p>Chan Chin Woon, Sebastian
+<p><strong>Chan Chin Woon, Sebastian</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)
 <br>
 </p>
 </li>
 <li>
-<p>Muhammad Akif Elfi B Zulkifli
+<p><strong>Muhammad Akif Elfi B Zulkifli</strong>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
 <h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Muhammad Akif Elfi B Zulkifli
+<p><strong>Muhammad Akif Elfi B Zulkifli</strong>
 <br>(Molly Tan Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Tay Kai Lin Sherilyn
+<p><strong>Tay Kai Lin Sherilyn</strong>
 <br>(Chew Eu Hock Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Ng Ming Sheng
+<p><strong>Ng Ming Sheng</strong>
 <br>(Looi Im Hock Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Wong Ye Qi Daryll
+<p><strong>Wong Ye Qi Daryll</strong>
 <br>(Looi Im Hock Shield Award)
 <br>
 </p>
 </li>
 <li>
-<p>Keshika D/O Ravichandran
+<p><strong>Keshika D/O Ravichandran</strong>
 <br>(Tan Ching Siew Shield Award)</p>
 </li>
 </ul>
