@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
-<h4>2019<br><strong>AI Student Excellence Award</strong></h4>
+<h4><strong>2019</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>JOHN KENNETH LAYBA AGPAOA (Looi Im Hock Shield)</p>
@@ -26,24 +26,33 @@ Academic) Nominee)</p>
 </li>
 </ul>
 <hr>
-<h4>2018<br><strong>AI Student Excellence Award</strong></h4>
+<h4><strong>2018</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jessica Long (North West CDC Outstanding All-Rounder Student Award)</p>
+<p>Jessica Long
+<br>(North West CDC Outstanding All-Rounder Student Award)
+<br>
+</p>
 </li>
 <li>
-<p>Ong Jia Yee (Lee Kuan Yew All Round Excellence Award (Express))</p>
+<p>Ong Jia Yee
+<br>(Lee Kuan Yew All Round Excellence Award (Express))
+<br>
+</p>
 </li>
 <li>
-<p>Crystal Lim Pin Yi (Lee Kuan Yew All Round Excellence Award (Normal Academic))</p>
+<p>Crystal Lim Pin Yi
+<br>(Lee Kuan Yew All Round Excellence Award (Normal Academic))
+<br>
+</p>
 </li>
 <li>
-<p>Sebastian See Kian Poh (Lee Kuan Yew All Round Excellence Award (Normal
-Technical))</p>
+<p>Sebastian See Kian Poh
+<br>(Lee Kuan Yew All Round Excellence Award (Normal Technical))</p>
 </li>
 </ul>
 <hr>
-<h4>2016<br><strong>AI Student Excellence Award</strong></h4>
+<h4><strong>2016</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Peng Jingying
@@ -63,7 +72,7 @@ Technical))</p>
 </li>
 </ul>
 <hr>
-<h4>2015<br><strong>AI Student Excellence Award</strong></h4>
+<h4><strong>2015</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Kum Kah Leng, Phyllis
@@ -82,7 +91,7 @@ Technical))</p>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
-<h4><strong>AI Shield Award</strong></h4>
+<h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Christy Oh Jia Qin
@@ -108,7 +117,7 @@ Technical))</p>
 </li>
 </ul>
 <hr>
-<h4>2014<br><strong>AI Student Excellence Award</strong></h4>
+<h4><strong>2014</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Leck Boon Kong
@@ -121,7 +130,7 @@ Technical))</p>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
-<h4><strong>AI Shield Award</strong></h4>
+<h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Teoh Ru Yu
@@ -147,7 +156,7 @@ Technical))</p>
 </li>
 </ul>
 <hr>
-<h4>2013<br><strong>AI Student Excellence Award</strong></h4>
+<h4><strong>2013</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Wong Ye Qi Daryll
@@ -166,7 +175,7 @@ Technical))</p>
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
-<h4><strong>AI Shield Award</strong></h4>
+<h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Muhammad Akif Elfi B Zulkifli
