@@ -144,10 +144,10 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Muzhafar B Sonny</strong> 
-<br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Teoh Ru Yu</strong> 
 <br>(Molly Tan Shield Award)
