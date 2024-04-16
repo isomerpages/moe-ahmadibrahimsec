@@ -8,33 +8,33 @@ variant: tiptap
 <h4><strong>2023</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>HWANG ZE YUAN DERICK, 4E1</strong>
+<p><strong>HWANG ZE YUAN DERICK, 4E1</strong> 
 <br>Looi Im Hock Shield
 <br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>NAINA MOHAMED NOORUL MARLIYA, 4N1</strong>
+<p><strong>NAINA MOHAMED NOORUL MARLIYA, 4N1</strong> 
 <br>Chew Eu Hock Shield
 <br>
 </p>
 </li>
 <li>
-<p><strong>WONG XIN LE, 4N1</strong>
+<p><strong>WONG XIN LE, 4N1</strong> 
 <br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>ADLIN ILYANA BINTE AZMAN, 4T1</strong>
+<p><strong>ADLIN ILYANA BINTE AZMAN, 4T1</strong> 
 <br>Molly Tan Shield
 <br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>RICO HTOO MYINT MYAT, 5N1</strong>
+<p><strong>RICO HTOO MYINT MYAT, 5N1</strong> 
 <br>Tan Ching Siew Shield</p>
 </li>
 </ul>
