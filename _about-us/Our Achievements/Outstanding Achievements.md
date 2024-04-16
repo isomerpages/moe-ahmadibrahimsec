@@ -8,25 +8,35 @@ variant: tiptap
 <h4><strong>2021</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Hiap Xin Yi Darleene</strong> 
+<p><strong>Tew Xin Yi, 4E4 </strong>
 <br>Looi Im Hock Shield
-<br>Lee Kuan Yew All Round Excellence Award (Express) Nominee</p>
+<br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
+<br>
+</p>
 </li>
 <li>
-<p><strong>Kumar Shubhanshu</strong> 
-<br>Chew Eu Hock Shield</p>
+<p><strong>Darren Sim Zhe Zheng, 4N2</strong>
+<br>Chew Eu Hock Shield
+<br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
+<br>
+</p>
 </li>
 <li>
-<p><strong>Tang Yu Jing</strong> 
-<br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee</p>
-</li>
-<li>
-<p><strong>Muhammad Irfan Bin Husin</strong> 
+<p><strong>Lim Jun Qi Cliff, 4T1</strong>
 <br>Molly Tan Shield
-<br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee</p>
+<br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
+<br>
+</p>
 </li>
 <li>
-<p><strong>Lin Mingqian</strong> 
+<p><strong>Toh Bo Sheng, 4T1</strong>
+<br>AI Flame Award
+<br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
+<br>
+</p>
+</li>
+<li>
+<p><strong>Tan Yu Hong Edwin, 5N1</strong>
 <br>Tan Ching Siew Shield</p>
 </li>
 </ul>
