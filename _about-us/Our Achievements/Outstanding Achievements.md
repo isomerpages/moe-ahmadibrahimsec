@@ -8,38 +8,38 @@ variant: tiptap
 <h4><strong>2019</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>John Kenneth Layba Agpaoa</strong>
+<p><strong>John Kenneth Layba Agpaoa</strong> 
 <br>Looi Im Hock Shield
 <br>
 </p>
 </li>
 <li>
-<p><strong>Erni Faizah Bte Iskandar</strong>
+<p><strong>Erni Faizah Bte Iskandar</strong> 
 <br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>Hoe Jotham</strong>
+<p><strong>Hoe Jotham</strong> 
 <br>Chew Eu Hock Shield
 <br>
 </p>
 </li>
 <li>
-<p><strong>Lutfil Hadi Rafli B Nizam</strong>
+<p><strong>Lutfil Hadi Rafli B Nizam</strong> 
 <br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>Jesrin Ang Li Ching</strong>
+<p><strong>Jesrin Ang Li Ching</strong> 
 <br>Molly Tan Shield
 <br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>Ajendra S/O Vengopal</strong>
+<p><strong>Ajendra S/O Vengopal</strong> 
 <br>Tan Ching Siew Shield</p>
 </li>
 </ul>
@@ -109,7 +109,6 @@ variant: tiptap
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
-<h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Christy Oh Jia Qin</strong> 
@@ -148,7 +147,6 @@ variant: tiptap
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
-<h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Teoh Ru Yu</strong> 
@@ -193,7 +191,6 @@ variant: tiptap
 <br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
-<h4>AI Shield Award</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Muhammad Akif Elfi B Zulkifli</strong> 
