@@ -46,14 +46,20 @@ Technical))</p>
 <h4>2016<br><strong>AI Student Excellence Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Peng Jingying (North West CDC Outstanding All Rounder Student Award)</p>
+<p>Peng Jingying
+<br>(North West CDC Outstanding All Rounder Student Award)
+<br>
+</p>
 </li>
 <li>
-<p>Peng Jingqing (North West CDC Outstanding All Rounder Student Award)</p>
+<p>Peng Jingqing
+<br>(North West CDC Outstanding All Rounder Student Award)
+<br>
+</p>
 </li>
 <li>
-<p>Wang Zhen Yan, Charlene (North West CDC Outstanding All Rounder Student
-Award)</p>
+<p>Wang Zhen Yan, Charlene
+<br>(North West CDC Outstanding All Rounder Student Award)</p>
 </li>
 </ul>
 <hr>
