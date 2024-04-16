@@ -8,38 +8,38 @@ variant: tiptap
 <h4><strong>2019</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>John Kenneth Layba Agpaoa
+<p><strong>John Kenneth Layba Agpaoa</strong>
 <br>Looi Im Hock Shield
 <br>
 </p>
 </li>
 <li>
-<p>Erni Faizah Bte Iskandar
+<p><strong>Erni Faizah Bte Iskandar</strong>
 <br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
 <br>
 </p>
 </li>
 <li>
-<p>Hoe Jotham
+<p><strong>Hoe Jotham</strong>
 <br>Chew Eu Hock Shield
 <br>
 </p>
 </li>
 <li>
-<p>Lutfil Hadi Rafli B Nizam
+<p><strong>Lutfil Hadi Rafli B Nizam</strong>
 <br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
 <br>
 </p>
 </li>
 <li>
-<p>Jesrin Ang Li Ching
+<p><strong>Jesrin Ang Li Ching</strong>
 <br>Molly Tan Shield
 <br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
 <br>
 </p>
 </li>
 <li>
-<p>Ajendra S/O Vengopal
+<p><strong>Ajendra S/O Vengopal</strong>
 <br>Tan Ching Siew Shield</p>
 </li>
 </ul>
