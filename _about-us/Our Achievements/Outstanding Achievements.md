@@ -5,36 +5,62 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h4><strong>2021</strong><br>AI Student Excellence Award</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Hiap Xin Yi Darleene</strong> 
+<br>Looi Im Hock Shield
+<br>Lee Kuan Yew All Round Excellence Award (Express) Nominee</p>
+</li>
+<li>
+<p><strong>Kumar Shubhanshu</strong> 
+<br>Chew Eu Hock Shield</p>
+</li>
+<li>
+<p><strong>Tang Yu Jing</strong> 
+<br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee</p>
+</li>
+<li>
+<p><strong>Muhammad Irfan Bin Husin</strong> 
+<br>Molly Tan Shield
+<br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee</p>
+</li>
+<li>
+<p><strong>Lin Mingqian</strong> 
+<br>Tan Ching Siew Shield</p>
+</li>
+</ul>
+<hr>
 <h4><strong>2020</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Hiap Xin Yi Darleene</strong>
+<p><strong>Hiap Xin Yi Darleene</strong> 
 <br>Looi Im Hock Shield
 <br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>Kumar Shubhanshu</strong>
+<p><strong>Kumar Shubhanshu</strong> 
 <br>Chew Eu Hock Shield
 <br>
 </p>
 </li>
 <li>
-<p><strong>Tang Yu Jing</strong>
+<p><strong>Tang Yu Jing</strong> 
 <br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>Muhammad Irfan Bin Husin</strong>
+<p><strong>Muhammad Irfan Bin Husin</strong> 
 <br>Molly Tan Shield
 <br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>Lin Mingqian</strong>
+<p><strong>Lin Mingqian</strong> 
 <br>Tan Ching Siew Shield</p>
 </li>
 </ul>
