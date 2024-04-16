@@ -60,28 +60,45 @@ Award)</p>
 <h4>2015<br><strong>AI Student Excellence Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kum Kah Leng, Phyllis (Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<p>Kum Kah Leng, Phyllis
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
 <li>
-<p>Charmaine Por (Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<p>Charmaine Por
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
 <li>
-<p>Fatin Nurdiyanah Bte Salleh (Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<p>Fatin Nurdiyanah Bte Salleh
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
 <h4><strong>AI Shield Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Christy Oh Jia Qin (Molly Tan Shield Award)</p>
+<p>Christy Oh Jia Qin
+<br>(Molly Tan Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Tay Hao Wei, Jazper (Chew Eu Hock Shield Award)</p>
+<p>Tay Hao Wei, Jazper
+<br>(Chew Eu Hock Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Lim Fuo En (Looi Im Hock Shield)</p>
+<p>Lim Fuo En
+<br>(Looi Im Hock Shield)
+<br>
+</p>
 </li>
 <li>
-<p>Teoh Jun Hao (Tan Ching Siew Shield)</p>
+<p>Teoh Jun Hao
+<br>(Tan Ching Siew Shield)</p>
 </li>
 </ul>
 <hr>
