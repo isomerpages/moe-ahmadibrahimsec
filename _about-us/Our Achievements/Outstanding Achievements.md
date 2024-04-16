@@ -8,14 +8,14 @@ variant: tiptap
 <h4><strong>2023</strong><br>AI Student Excellence Award</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>HWANG ZE YUAN DERICK, 4E1</strong> 
+<p><strong>Hwang Ze Yuan Derick, 4E1</strong> 
 <br>Looi Im Hock Shield
 <br>Lee Kuan Yew All Round Excellence Award (Express) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>NAINA MOHAMED NOORUL MARLIYA, 4N1</strong> 
+<p><strong>Naina Mohamed Noorul Marliya, 4N1</strong> 
 <br>Chew Eu Hock Shield
 <br>
 </p>
