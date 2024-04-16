@@ -11,7 +11,18 @@ variant: tiptap
 <p>JOHN KENNETH LAYBA AGPAOA (Looi Im Hock Shield)</p>
 </li>
 <li>
-<p></p>
+<p>ERNI FAIZAH BTE ISKANDAR (Lee Kuan Yew All Round Excellence Award (Express)
+Nominee)</p>
+</li>
+<li>
+<p>HOE JOTHAM (Chew Eu Hock Shield)</p>
+</li>
+<li>
+<p>LUTFIL HADI RAFLI B NIZAM (Lee Kuan Yew All Round Excellence Award (Normal
+Academic) Nominee)</p>
+</li>
+<li>
+<p>JESRIN ANG LI CHING</p>
 </li>
 </ul>
 <hr>
@@ -77,57 +88,90 @@ Award)</p>
 <h4>2014<br><strong>AI Student Excellence Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Leck Boon Kong (Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<p>Leck Boon Kong
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
 <li>
-<p>Muzhafar B Sonny (Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<p>Muzhafar B Sonny
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
 <h4><strong>AI Shield Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teoh Ru Yu (Molly Tan Shield Award)</p>
+<p>Teoh Ru Yu
+<br>(Molly Tan Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Toh Jia Xuan (Chew Eu Hock Shield Award)</p>
+<p>Toh Jia Xuan
+<br>(Chew Eu Hock Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Ang Pei Ern (Looi Im Hock Shield)</p>
+<p>Ang Pei Ern
+<br>(Looi Im Hock Shield)
+<br>
+</p>
 </li>
 <li>
-<p>Siti Sakinah Binte Zainal (Tan Ching Siew Shield)</p>
+<p>Siti Sakinah Binte Zainal
+<br>(Tan Ching Siew Shield)</p>
 </li>
 </ul>
 <hr>
 <h4>2013<br><strong>AI Student Excellence Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wong Ye Qi Daryll (Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<p>Wong Ye Qi Daryll
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
 <li>
-<p>Chan Chin Woon, Sebastian (Lee Kuan Yew All Round Excellence Award Nominee)</p>
+<p>Chan Chin Woon, Sebastian
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)
+<br>
+</p>
 </li>
 <li>
-<p>Muhammad Akif Elfi B Zulkifli (Lee Kuan Yew All Round Excellence Award
-Nominee)</p>
+<p>Muhammad Akif Elfi B Zulkifli
+<br>(Lee Kuan Yew All Round Excellence Award Nominee)</p>
 </li>
 </ul>
 <h4><strong>AI Shield Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Muhammad Akif Elfi B Zulkifli (Molly Tan Shield Award)</p>
+<p>Muhammad Akif Elfi B Zulkifli
+<br>(Molly Tan Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Tay Kai Lin Sherilyn (Chew Eu Hock Shield Award)</p>
+<p>Tay Kai Lin Sherilyn
+<br>(Chew Eu Hock Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Ng Ming Sheng (Looi Im Hock Shield Award)</p>
+<p>Ng Ming Sheng
+<br>(Looi Im Hock Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Wong Ye Qi Daryll (Looi Im Hock Shield Award)</p>
+<p>Wong Ye Qi Daryll
+<br>(Looi Im Hock Shield Award)
+<br>
+</p>
 </li>
 <li>
-<p>Keshika D/O Ravichandran (Tan Ching Siew Shield Award)</p>
+<p>Keshika D/O Ravichandran
+<br>(Tan Ching Siew Shield Award)</p>
 </li>
 </ul>
 <p></p>
