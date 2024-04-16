@@ -21,20 +21,20 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>WONG XIN LE, 4N1</strong> 
+<p><strong>Wong Xin Le, 4N1</strong> 
 <br>Lee Kuan Yew All Round Excellence Award (Normal Academic) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>ADLIN ILYANA BINTE AZMAN, 4T1</strong> 
+<p><strong>Adlin Ilyana Binte Azman, 4T1</strong> 
 <br>Molly Tan Shield
 <br>Lee Kuan Yew All Round Excellence Award (Normal Technical) Nominee
 <br>
 </p>
 </li>
 <li>
-<p><strong>RICO HTOO MYINT MYAT, 5N1</strong> 
+<p><strong>Rico Htoo Myint Myat, 5N1</strong> 
 <br>Tan Ching Siew Shield</p>
 </li>
 </ul>
