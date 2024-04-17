@@ -45,7 +45,7 @@ Other key programmes include the Air-Rifle experiential shooting experiences for
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
 <div>
 <p><strong>Wednesday<br></strong>3.30 - 5.30 PM</p>
-<p><strong>Friday<br></strong>2.30 - 5.30 PM</p>
+<p><strong>Friday<br></strong>2.30 - 5.30 PM (No Training for Friday, 19 April 2024)</p>
 <p>(Training sessions by HQ will be updated once details are released)</p>
 </div>
 </li>
