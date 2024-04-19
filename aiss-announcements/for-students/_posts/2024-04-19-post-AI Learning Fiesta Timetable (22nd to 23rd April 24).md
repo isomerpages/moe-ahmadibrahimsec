@@ -7,15 +7,23 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>Timetable for 16th to 20th Oct</strong></h3>
-
-* [Sec 1](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%201%20-%20wk6_classes%20tt_11oct.pdf)
-* [Sec 2](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%202%20-%20wk6_classes%20tt_11oct.pdf)
-* [Sec 3](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%203%20-%20wk6_classes%20tt_11oct.pdf)
-
-
-<h3><strong>Timetable for 23rd to 26th Oct</strong></h3>
-
-* [Sec 1](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%201%20-%20t4w7_class%20timetables_12%20oct.pdf)
-* [Sec 2](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%202%20-%20t4w7_class%20timetables_12%20oct.pdf)
-* [Sec 3](/files/Timetable/2023/Semester%202%20Learning%20Fiesta/sec%203%20-%20t4w7_class%20timetables_12%20oct.pdf)
+<h3><strong>Timetable for 22nd to 23rd April</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/S1class_timetables_Learning_Fiesta_22___23_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/S2class_timetables_Learning_Fiesta_22___23_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/S3class_timetables_Learning_Fiesta_22__23_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/S4_5class_timetables_Learning_fiesta_22__23_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
+</li>
+</ul>
+<p></p>
