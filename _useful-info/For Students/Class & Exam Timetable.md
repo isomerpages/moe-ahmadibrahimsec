@@ -10,19 +10,19 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 1</strong> 
+<p><strong>Sec 1</strong>
 </p>
 </li>
 <li>
-<p><strong>Sec 2</strong> 
+<p><strong>Sec 2</strong>
 </p>
 </li>
 <li>
-<p><strong>Sec 3</strong> 
+<p><strong>Sec 3</strong>
 </p>
 </li>
 <li>
-<p><strong>Sec 4 &amp; 5</strong> 
+<p><strong>Sec 4 &amp; 5</strong>
 </p>
 </li>
 </ul>
