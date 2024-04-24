@@ -44,8 +44,8 @@ variant: markdown
 </li>
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
 <div>
-<strong>Wednesday<br></strong>3.45 pm - 6.15 pm<br>
-<strong>Friday<br></strong>2.30 pm - 6.00 pm<br>
+<strong>Wednesday<br></strong>3.45 pm - 6.15 pm (E-CCA on Wednesday, 8 May)<br>
+<strong>Friday<br></strong>2.30 pm - 6.00 pm (No Training on Friday, 26 April &amp; 24 May)<br><br>
 (Training sessions by HQ will be updated once details are released)
 </div>
 </li>
