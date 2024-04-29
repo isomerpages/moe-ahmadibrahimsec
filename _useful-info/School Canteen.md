@@ -15,7 +15,7 @@ There are currently 5 food stalls and 1 drink/snack stall at our school.
 <th style="width:40%">Detail Requirement</th>
 </tr>
 <tr>
-<td>Malay (Halal)<br>Rice Stall</td>
-<td>31 Jan 2024<br></td>
+<td>Chinese Noodles Stall</td>
+<td>31 May 2024<br></td>
 <td><a href="https://www.ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement-stall-3/">Click here</a></td>
 </tr></tbody></table>
