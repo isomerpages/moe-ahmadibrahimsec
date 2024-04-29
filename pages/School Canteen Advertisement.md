@@ -1,10 +1,10 @@
 ---
-title: School Canteen Advertisement (Stall 3)
-permalink: /school-canteen-advertisement-stall-3/
+title: School Canteen Advertisement
+permalink: /school-canteen-advertisement/
 variant: markdown
 description: ""
 ---
-<p>Ahmad Ibrahim Secondary School is inviting applicants to operate a “Malay (Halal) Rice Stall” stall from <strong>Feb 2024</strong>. Menu may include varieties such as nasi padang, nasi briyani, nasi lemak, porridge etc.</p>
+<p>Ahmad Ibrahim Secondary School is inviting applicants to operate a "Chinese Noodles” stall from <strong>July 2024</strong>. Menu may include varieties such as wanton noodle, fish soup noodle, ban mian, hor fun, laksa, tom yum noodles, etc.</p>
 
 <u><strong>Background:</strong></u><br>
 <p>We are a single session secondary school with student enrolment of about 1140 and staff strength of 130. There are currently 5 food stalls and 1 drink/snack stall at our school. One of the food stalls is selling halal noodles.</p>
@@ -17,8 +17,8 @@ Applicants should meet the following criteria:
 4. Applicant must be in personal attendance at the stall during operating hours.
 5. Both applicant &amp; stall assistant(s) must have passed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency).
 6. Successful applicant will need to apply for an individual Food Stall Licence from the Singapore Food Agency (SFA ).
-7. Food must be halal.
-8. Applicants with experience in running a school canteen stall or catering experience is preferred;
+7. Applicants with experience in running a school canteen stall or catering experience is preferred;
+8. Applicants must be in personal attendance at the stall during operating hours
 9. Applicants who adopt green practices are also preferred
 
 <u><strong>Application Procedure</strong></u><br>
@@ -31,12 +31,12 @@ Interested applicants must submit the following documents:
 * Photocopy of the Identification Card (front &amp; back).
 * Records of past catering/canteen experiences, if any.
 
-Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a>  by <strong>31 Jan 2024, 6.00 pm</strong>. We regret that late applications will not be accepted.
+Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a>  by <strong>31 May 2024, 6.00 pm</strong>. We regret that late applications will not be accepted.
 
 <u><strong>Interview and Food Tasting</strong></u><br>
 * Only shortlisted applicants will be invited for an interview and are required to provide food sampling.
-* Successful applicant will be expected to commence operation of the stall from <strong>Feb 2024</strong>.
-* Closing date for Application: <strong>31 Jan 2024, 6.00 pm</strong>.
+* Successful applicant will be expected to commence operation of the stall from <strong>July 2024</strong>.
+* Closing date for Application: <strong>31 May 2024, 6.00 pm</strong>.
 * Please contact the school at <strong>6758 5384</strong> for any clarifications.
 
 [&lt;- Back to School Canteen](https://www.ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
