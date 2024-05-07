@@ -17,7 +17,7 @@ available to develop the area of talent.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent which they are selected for Year 1 - 4.</p>
 <p>
-<br><strong><u>Talent Areas</u></strong>
+<br><strong><u>Talent Areas</u></strong> 
 <br>At Ahmad Ibrahim Secondary School, we aim to nurture our students into
 young ladies and gentlemen with the courage to lead and serve through a
 wide range of school experiences.</p>
@@ -35,7 +35,12 @@ leadership capabilities.</p>
 <p>Primary 6 students who are interested in joining Ahmad Ibrahim Secondary
 School are encouraged to apply through the following DSA talent areas.</p>
 <p></p>
-<table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -89,7 +94,184 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </table>
 <p><em><br>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em>
 </p>
+<hr>
+<h3><strong>Application Procedures</strong></h3>
+<h4>Step 1: Submission of application form through DSA - Sec Portal</h4>
+<p>Application for DSA-Sec can be submitted through online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11
+am to 3 June 2024, 3 pm. For more details, please refer to MOE website
+- <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>For applicants studying in MOE mainstream primary schools: Only one parent's
+SingPass is needed to log in. If parent / guardian is unable to apply online,
+you can approach the child's primary school for assistance. Click <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access the application page.</p>
+<p>For applicants NOT studying in MOE mainstream primary schools, please
+obtain a Registration Number (RGxxxxxxx) online before applying through
+the DSA-Sec Portal.</p>
+<p>For more information, you can refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
 <p></p>
+<h4>Step 2: Attending Auditions/Trials/Tests and Interview Sessions</h4>
+<p>Shortlisted applicants will be notified by 5 July 2024 to attend the selection
+trial.</p>
+<p>In the event that you are unable to attend the session on the given date,
+please call us at 6758 5384 in advance to make a new appointment. The dates
+available are:</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dates for Interview/Trials:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 17 July 2024 to 31 July 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 2.30 pm to 5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- School Uniform</p>
+<p>- PE Attire&nbsp;<em>(For Shooting and Track &amp; Field)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please have your instrument and score ready.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Step 3: Outcome of Selection</h4>
+<p>You will be notified of the outcome by&nbsp;<strong>9 September 2024</strong>,
+informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>,
+put on&nbsp;<strong>Wait List</strong>, or&nbsp;<strong>Rejected</strong>.
+The decision of the Selection Panel is final.
+<br>
+<br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will
+receive notification on the School Preference Submission in&nbsp;<strong>October 2024</strong>.
+<br>
+<br>Lastly, the DSA results will be released with the PSLE results.</p>
+<p></p>
+<h4>Selection Criteria</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA Talent Areas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Criteria</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Critical Social Inquiry and Media Literacy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keen interest in:</p>
+<p></p>
+<p>- exploring issues in society that affect people in Singapore and the
+world;</p>
+<p></p>
+<p>- learning how to use the media purposefully, to generate an awareness
+of societal issues and advocate for change, to make a difference in the
+lives of others.</p>
+<p></p>
+<p>Student’s aptitude in leading inquiry and advocacy projects related to
+the ALP.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Minimum of Grade 4 ABRSM or equivalent in music (practical and theory)</p>
+<p></p>
+<p>- Keen interest in music</p>
+<p></p>
+<p><em>(The music session includes playing two own-choice music pieces, a written test and an interview)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shooting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>- Students' potential to excel and contribute to the school's Sports &amp;
+Games</p>
+<p></p>
+<p>- Physically fit, have good level of sports skills, show leadership qualities,
+and have good character traits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Youth Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Possess positive attitude, good character and have demonstrated leadership
+capabilities</p>
+<p></p>
+<p><em>(The interview will assess applicants’ communication skills, leadership qualities and beliefs)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3><strong>Contact Us</strong></h3>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong>
 </p>
