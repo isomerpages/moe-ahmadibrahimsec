@@ -17,7 +17,7 @@ available to develop the area of talent.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent which they are selected for Year 1 - 4.</p>
 <p>
-<br><strong><u>Talent Areas</u></strong>
+<br><strong><u>Talent Areas</u></strong> 
 <br>At Ahmad Ibrahim Secondary School, we aim to nurture our students into
 young ladies and gentlemen with the courage to lead and serve through a
 wide range of school experiences.</p>
@@ -35,7 +35,12 @@ leadership capabilities.</p>
 <p>Primary 6 students who are interested in joining Ahmad Ibrahim Secondary
 School are encouraged to apply through the following DSA talent areas.</p>
 <p></p>
-<table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -89,6 +94,24 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </table>
 <p><em><br>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em>
 </p>
+<p></p>
+<h3><strong>Application Procedures</strong></h3>
+<h4>Step 1: Submission of application form through DSA - Sec Portal </h4>
+<p>Application for DSA-Sec can be submitted through online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11
+am to 3 June 2024, 3 pm. For more details, please refer to MOE website
+- <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>For applicants studying in MOE mainstream primary schools: Only one parent's
+SingPass is needed to log in. If parent / guardian is unable to apply online,
+you can approach the child's primary school for assistance. Click here
+to access the application page.</p>
+<p>For applicants NOT studying in MOE mainstream primary schools, please
+obtain a Registration Number (RGxxxxxxx) online before applying through
+the DSA-Sec Portal.</p>
+<p>For more information, you can refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+<p></p>
 <p></p>
 <h3><strong>Contact Us</strong></h3>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong>
