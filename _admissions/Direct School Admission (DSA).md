@@ -96,7 +96,7 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </p>
 <p></p>
 <h3><strong>Application Procedures</strong></h3>
-<h4>Step 1: Submission of application form through DSA - Sec Portal </h4>
+<h4>Step 1: Submission of application form through DSA - Sec Portal</h4>
 <p>Application for DSA-Sec can be submitted through online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11
 am to 3 June 2024, 3 pm. For more details, please refer to MOE website
@@ -112,7 +112,100 @@ the DSA-Sec Portal.</p>
 <p>For more information, you can refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 <p></p>
+<h4>Step 2: Attending Auditions/Trials/Tests and Interview Sessions</h4>
+<p>Shortlisted applicants will be notified by 5 July 2024 to attend the selection
+trial.</p>
+<p>In the event that you are unable to attend the session on the given date,
+please call us at 6758 5384 in advance to make a new appointment. The dates
+available are:</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dates for Interview/Trials:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 17 July 2024 to 31 July 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 2.30 pm to 5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- School Uniform</p>
+<p>- PE Attire&nbsp;<em>(For Shooting and Track &amp; Field)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please have your instrument and score ready.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Step 3: Outcome of Selection</h4>
+<p>You will be notified of the outcome by&nbsp;<strong>9 September 2024</strong>,
+informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>,
+put on&nbsp;<strong>Wait List</strong>, or&nbsp;<strong>Rejected</strong>.
+The decision of the Selection Panel is final.
+<br>
+<br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will
+receive notification on the School Preference Submission in&nbsp;<strong>October 2024</strong>.
+<br>
+<br>Lastly, the DSA results will be released with the PSLE results.</p>
+<p></p>
+<h4>Selection Criteria</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Contact Us</strong></h3>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong>
 </p>
