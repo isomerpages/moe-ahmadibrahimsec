@@ -27,7 +27,7 @@ the Contents are owned by, licensed to or controlled by Ahmad Ibrahim Secondary
 School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>4. Click here to review this Web Site <a href="https://www.ahmadibrahimsec.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
+<p>4. Click here to review this Web Site <a href="ahmadibrahimsec.moe.edu.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
 <p>5. Except as otherwise provided, the Contents of this Web Site shall not
