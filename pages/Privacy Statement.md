@@ -33,3 +33,15 @@ of personal data are secured with appropriate security technologies.</p>
 protection and privacy practices may differ from ours. We are not responsible
 for the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
+<p></p>
+<p>7.&nbsp; Please email us at <a href="mailto:aiss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aiss@moe.edu.sg</a> if you:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>have any enquiries or feedback on our data protection policies and procedures</p>
+</li>
+<li>
+<p>need more information on or access to data which you have provided directly
+to us in the past.</p>
+</li>
+</ul>
+<p></p>
