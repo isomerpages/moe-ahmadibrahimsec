@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>AHMAD IBRAHIM SECONDARY SCHOOL PRIVACY STATEMENT</strong></h4>
-<p>1.&nbsp; This is a Ahmad Ibrahim Secondary School website. Thank you for
+<p>1.&nbsp; This is Ahmad Ibrahim Secondary School website. Thank you for
 examining our privacy statement.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 <p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
