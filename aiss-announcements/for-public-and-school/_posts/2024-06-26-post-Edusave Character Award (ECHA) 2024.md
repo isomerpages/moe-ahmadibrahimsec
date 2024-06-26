@@ -1,8 +1,10 @@
 ---
-title: Edusave Character Award (ECHA)
-permalink: /useful-info/for-parents/permalink/
+title: Edusave Character Award (ECHA) 2024
+permalink: /edusave-character-award-echa-2024/
+date: 2024-06-26
+layout: post
 description: ""
-third_nav_title: For Parents
+image: ""
 variant: tiptap
 ---
 <h3>EDUSAVE CHARACTER AWARD (ECHA) 2024</h3>
