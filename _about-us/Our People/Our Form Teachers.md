@@ -508,9 +508,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Phua Eng Sze
-<br><a href="mailto: phua_eng_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_eng_sze@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tsang Wing Han
