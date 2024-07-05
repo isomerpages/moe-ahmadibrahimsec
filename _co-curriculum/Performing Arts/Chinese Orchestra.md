@@ -70,8 +70,7 @@ variant: markdown
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Mdm Phua Eng Sze (OIC)<br></strong><strong>Contact:&nbsp;</strong><a href="mailto:phua_eng_sze@moe.edu.sg" target="">phua_eng_sze@moe.edu.sg</a></p>
-	<p><strong>Ms Wang Xuejuan (2IC)<br></strong><strong>Contact: </strong><a href="mailto:wang_xuejuan@moe.edu.sg" target="">wang_xuejuan@moe.edu.sg</a></p>
+<p><strong>Ms Wang Xuejuan (OIC)<br></strong><strong>Contact: </strong><a href="mailto:wang_xuejuan@moe.edu.sg" target="">wang_xuejuan@moe.edu.sg</a></p>
 <p>Ms Ho Jie Min, Melody<br>Mdm Song Weina</p>
 </div>
 </li>

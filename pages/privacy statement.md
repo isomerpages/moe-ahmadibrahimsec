@@ -1,7 +1,7 @@
 ---
-title: Privacy Statement
-permalink: /useful-info/privacy-statement/
-variant: markdown
+title: privacy statement
+permalink: /privacy-statement/
+variant: tiptap
 description: ""
 ---
 <h4><strong>AHMAD IBRAHIM SECONDARY SCHOOL PRIVACY STATEMENT</strong></h4>
