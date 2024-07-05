@@ -315,7 +315,7 @@ variant: markdown
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Mr Luo Zhengyang (OIC)<br></strong><strong>Contact:&nbsp;</strong><strong><a href="mailto:luo_zhengyang@moe.edu.sg" target="">luo_zhengyang@moe.edu.sg</a></strong></p>
-<p>Mdm Jiang Nan<br>Mr Mohamed Fauzi Bin Husin<br>Mr Tan Boon Seng</p>
+<p>Mr Mohamed Fauzi Bin Husin<br>Mr Tan Boon Seng</p>
 </div>
 </li>
 </ul>
