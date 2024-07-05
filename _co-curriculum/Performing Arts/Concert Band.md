@@ -167,7 +167,7 @@ variant: markdown
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Miss Chow Pei Yan (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:chow_pei_yan@moe.edu.sg" target="">chow_pei_yan@moe.edu.sg</a></strong></p>
-<p>Ms Carita Chew Meng  <br>Ms Chew Hui Leng Faith<br>
+<p>Ms Chew Hui Leng Faith<br>
 Mdm Kanthiri Alasa</p>
 </div>
 </li>
