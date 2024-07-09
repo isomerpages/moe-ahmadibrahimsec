@@ -10,24 +10,25 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 1</strong> 
+<p><strong>Sec 1</strong>
 <br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S1_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
 <br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S1_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 <li>
-<p><strong>Sec 2</strong> 
+<p><strong>Sec 2</strong>
 <br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S2_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
-<br>-&nbsp;</p>
+<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S2_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
+</p>
 </li>
 <li>
-<p><strong>Sec 3</strong> 
-<br>-&nbsp;<a href="/files/Timetable/2024/S3_Class_Odd.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
+<p><strong>Sec 3</strong>
+<br>-&nbsp;
 <br>-&nbsp;<a href="/files/Timetable/2024/S3_Class_Even.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 <li>
-<p><strong>Sec 4 &amp; 5</strong> 
+<p><strong>Sec 4 &amp; 5</strong>
 <br>-&nbsp;<a href="/files/Timetable/2024/S4_5_Class_Odd.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
 <br>-&nbsp;<a href="/files/Timetable/2024/S4_5_Class_Even.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
 </p>
