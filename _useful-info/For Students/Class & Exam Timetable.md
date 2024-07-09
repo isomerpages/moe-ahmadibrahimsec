@@ -6,7 +6,7 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>Class Timetable</strong></h4>
-<p><em>*Timetable updated on 26th June 2024</em>
+<p><em>*Timetable updated on 9th July 2024</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
