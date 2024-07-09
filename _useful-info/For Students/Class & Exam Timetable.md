@@ -23,14 +23,14 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Sec 3</strong>
-<br>-&nbsp;
-<br>-&nbsp;<a href="/files/Timetable/2024/S3_Class_Even.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
+<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S3_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a> 
+<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S3_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 <li>
 <p><strong>Sec 4 &amp; 5</strong>
-<br>-&nbsp;<a href="/files/Timetable/2024/S4_5_Class_Odd.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
-<br>-&nbsp;<a href="/files/Timetable/2024/S4_5_Class_Even.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
+<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S4_5_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
+<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S4_5_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
