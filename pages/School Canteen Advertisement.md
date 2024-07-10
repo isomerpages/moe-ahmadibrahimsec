@@ -31,12 +31,11 @@ Interested applicants must submit the following documents:
 * Photocopy of the Identification Card (front &amp; back).
 * Records of past catering/canteen experiences, if any.
 
-Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a>  by <strong>31 May 2024, 6.00 pm</strong>. We regret that late applications will not be accepted.
+Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a>. We regret that late applications will not be accepted.
 
 <u><strong>Interview and Food Tasting</strong></u><br>
 * Only shortlisted applicants will be invited for an interview and are required to provide food sampling.
 * Successful applicant will be expected to commence operation of the stall from <strong>July 2024</strong>.
-* Closing date for Application: <strong>31 May 2024, 6.00 pm</strong>.
 * Please contact the school at <strong>6758 5384</strong> for any clarifications.
 
 [&lt;- Back to School Canteen](https://www.ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
