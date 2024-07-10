@@ -7,11 +7,21 @@ description: ""
 image: ""
 variant: tiptap
 ---
-**Click the links below to view the timetable:**
-
-* [4 Express & 5 Normal Academic](/files/Documents/Exam/Prelim/4e5n%20prelim%20(7th%20july).pdf) 
-* [4 Normal Academic](/files/Documents/Exam/Prelim/2023%20prelims%20timetable%20(4na).pdf)
-* [4 Normal Technical](/files/Documents/Exam/Prelim/2023%20prelims%20timetable%20(4nt).pdf)
-
-
-*(Updated on 11 July 2023)*
+<p><strong>Click the links below to view the timetable:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_Sec_4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Express &amp; 5 Normal Academic</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal Academic</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal Technical</a>
+</p>
+</li>
+</ul>
+<p><em>(Updated on 10 July 2024)</em>
+</p>
