@@ -34,6 +34,24 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
+<h4><strong>O &amp; N Level Preliminary Examinations Timetables</strong></h4>
+<p><em>*Timetable updated on 10th July 2024</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_Sec_4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">4 EXP &amp; 5 NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NT</a>
+</p>
+</li>
+</ul>
 <h4><strong>Exam Timetable</strong></h4>
 <p><em>*Timetable will be updated soon</em>
 </p>
