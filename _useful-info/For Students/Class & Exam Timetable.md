@@ -36,19 +36,19 @@ variant: tiptap
 </ul>
 <p></p>
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
-<p><em>*Timetable updated on 10th July 2024</em>
+<p><em>*Timetable updated on 22nd July 2024</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_Sec_4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Express &amp; 5 Normal Academic</a>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AISS_2024_Prelims_4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Express &amp; 5 Normal Academic</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal Academic</a>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AISS_2024_Prelims_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal Academic</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2024 Prelim Sem 2/AHMAD_IBRAHIM_SECONDARY_SCHOOL___Prelim_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal Technical</a>
+<p><a href="/files/Timetable/2024 Prelim Sem 2/AISS_2024_Prelims_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal Technical</a>
 </p>
 </li>
 </ul>
