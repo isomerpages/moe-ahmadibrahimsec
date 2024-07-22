@@ -26,5 +26,5 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><em>(Updated on 10 July 2024)</em>
+<p><em>(Updated on 22 July 2024)</em>
 </p>
