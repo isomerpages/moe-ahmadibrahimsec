@@ -89,7 +89,7 @@ Yet, the most commendable aspect of AIDE lies in its inclusivity. Dancers from d
 
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teacher In Charge</label>
 <div>
-<p><strong>Mdm Fitrah Bte Jamri<br></strong><strong>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" target="">fitrah_jamri@moe.edu.sg</a></strong><br>Mdm Amelia Y Dizon<br>Ms Yamuna Rani D/O Rajagopal</p>
+<p><strong>Mdm Fitrah Bte Jamri<br></strong><strong>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" target="">fitrah_jamri@moe.edu.sg</a></strong><br>Mdm Amelia Y Dizon<br>Ms Ang Xin Ru Ruby<br>Ms Yamuna Rani D/O Rajagopal</p>
 </div>
 </li>
 </ul>
