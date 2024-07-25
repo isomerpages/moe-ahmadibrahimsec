@@ -148,7 +148,7 @@ Each year, we organise two camps, one in March and the other in June. Once every
 <li><input type="checkbox" id="accordion8"> <label for="accordion8">Teachers In Charge</label>
 <div>
 <p><strong>Ms Tania Chia Mei Lin (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:chia_mei_lin_tania@moe.edu.sg">chia_mei_lin_tania@moe.edu.sg</a></strong></p>
-	<p>Ms Ng Hui Wen<br>Mr Enzo Charles Victor Buttazzoni</p>
+	<p>Ms Ng Hui Wen<br>Mr Enzo Charles Victor Buttazzoni<br>Ms Low Qiao Yuan</p>
 </div>
 </li>
 </ul>
