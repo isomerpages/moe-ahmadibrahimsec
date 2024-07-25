@@ -64,6 +64,6 @@ English Drama has been driven by its passion-filled members, passing down a zest
 	<p></p>
 <p><strong>Mrs Nirmala d/o K Peryiah (OIC)<br></strong><strong>Contact:&nbsp;<a target="" href="mailto:nirmala_k_periyiah@moe.edu.sg">nirmala_k_periyiah@moe.edu.sg</a></strong></p>
 <p>Ms Ng U-Ning Ruth
-<br>Ms Agnes Lim Siew Mei</p>
+<br>Mrs Kazhupermpakkam Srinivasaraghavan Priya<br>Ms Agnes Lim Siew Mei</p>
 	</div>
 </li></ul>
