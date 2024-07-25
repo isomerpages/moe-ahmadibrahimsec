@@ -56,9 +56,9 @@ variant: markdown
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
 <div>
-<p><strong>Ms Siti Salmiah (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:siti_salmiah_amin@moe.edu.sg" target="">siti_salmiah_amin@moe.edu.sg</a></strong></p>
-<p><strong>Ms Ow Hui Mei Wendy (2IC)<br></strong><strong>Contact:&nbsp;<a href="mailto:ow_hui_mei_wendy@moe.edu.sg" target="">ow_hui_mei_wendy@moe.edu.sg</a></strong></p>
-<p>Ms Kasturi d/o Manoselvam<br>Mr Mohd Imran Ishak</p>
+<p>
+</p><p><strong>Ms Ow Hui Mei Wendy (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:ow_hui_mei_wendy@moe.edu.sg" target="">ow_hui_mei_wendy@moe.edu.sg</a></strong></p>
+<p>Ms Kasturi d/o Manoselvam<br>Mr Mohd Imran Ishak<br>Ms Siti Salmiah</p>
 </div>
 </li>
 </ul>
