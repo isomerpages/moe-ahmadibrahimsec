@@ -58,7 +58,7 @@ variant: markdown
 <div>
 <p>
 </p><p><strong>Ms Ow Hui Mei Wendy (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:ow_hui_mei_wendy@moe.edu.sg" target="">ow_hui_mei_wendy@moe.edu.sg</a></strong></p>
-<p>Ms Kasturi d/o Manoselvam<br>Mr Mohd Imran Ishak<br>Ms Siti Salmiah</p>
+<p>Ms Kasturi d/o Manoselvam<br>Mr Mohd Imran Ishak<br>Ms Bong Ming Le<br>Ms Siti Salmiah</p>
 </div>
 </li>
 </ul>
