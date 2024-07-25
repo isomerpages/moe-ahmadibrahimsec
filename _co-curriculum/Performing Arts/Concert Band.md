@@ -168,7 +168,7 @@ variant: markdown
 <div>
 <p><strong>Miss Chow Pei Yan (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:chow_pei_yan@moe.edu.sg" target="">chow_pei_yan@moe.edu.sg</a></strong></p>
 <p>Ms Chew Hui Leng Faith<br>
-Mdm Kanthiri Alasa</p>
+Mdm Kanthiri Alasa<br>Ms Siti Mariah Binte Omar</p>
 </div>
 </li>
 </ul>
