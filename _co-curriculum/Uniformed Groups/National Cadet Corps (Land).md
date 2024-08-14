@@ -44,8 +44,8 @@ Other key programmes include the Air-Rifle experiential shooting experiences for
 </li>
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
 <div>
-<p><strong>Wednesday<br></strong>3.30 - 5.30 PM&nbsp;(E-CCA on Wednesday, 8 May)</p>
-<p><strong>Friday<br></strong>2.30 - 5.30 PM (No Training on Friday, 26 April &amp; 24 May)</p>
+<p><strong>Wednesday<br></strong>3.30 - 5.30 PM</p>
+<p><strong>Friday<br></strong>2.30 - 5.30 PM (No Training on Friday, 16 Aug, 23 Aug, 30 Aug)</p>
 <p>(Training sessions by HQ will be updated once details are released)</p>
 </div>
 </li>
