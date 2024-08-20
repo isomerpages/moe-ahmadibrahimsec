@@ -283,15 +283,15 @@ Andrea Lee Shu Qi
 <br>Or
 <br>
 <br>Mr Mohamed Imran Bin Ishak
-<br>Teacher-in-Charge
+<br>Assistant Year Head / Lower Sec
 <br>Tel: 6594 9036</p>
 <p><strong><u>For Music matters:<br></u></strong>Ms Chow Pei Yan
-<br>Teacher-in-Charge
+<br>Subject Head / Music
 <br>Tel: 6594 9038</p>
 <p><strong><u>For Sports &amp; Games matters:<br></u></strong>Mr Tommy Toh
-<br>SH / CCA
+<br>Subject Head / CCA
 <br>Tel: 6594 9047</p>
 <p><strong><u>For Community Youth Leadership matters:<br></u></strong>Ms
 Tsang Wing Han
-<br>SH / Systems &amp; Research
+<br>Subject Head / Systems &amp; Research
 <br>Tel: 6594 9047</p>
