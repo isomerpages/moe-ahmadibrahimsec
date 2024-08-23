@@ -53,7 +53,7 @@ variant: tiptap
 </li>
 </ul>
 <h4><strong>Exam Timetable</strong></h4>
-<p><em>*Timetable will be updated soon</em>
+<p><em>*Timetable updated on 21st August 2024</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
