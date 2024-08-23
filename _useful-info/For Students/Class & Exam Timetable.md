@@ -57,19 +57,23 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 1</strong>
+<p><a href="/files/Timetable/2024 EOY Timetables/2024_EOY_TT_Schedule_Sec1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><strong>Sec 2</strong>
+<p><a href="/files/Timetable/2024 EOY Timetables/2024_EOY_TT_Schedule_Sec2new.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><strong>Sec 3</strong>
+<p><a href="/files/Timetable/2024 EOY Timetables/2024_EOY_TT_Schedule_Sec3E.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express</a>
 </p>
 </li>
 <li>
-<p><strong>Sec 4 &amp; 5</strong>
+<p><a href="/files/Timetable/2024 EOY Timetables/2024_EOY_TT_Schedule_Sec3NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Academic</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2024 EOY Timetables/2024_EOY_TT_Schedule_Sec3NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Technical</a>
 </p>
 </li>
 </ul>
