@@ -4,10 +4,7 @@ permalink: /school-canteen-advertisement/
 variant: markdown
 description: ""
 ---
-<p>Ahmad Ibrahim Secondary School is inviting applicants to operate a "Chinese Noodles” stall from <strong>July 2024</strong>. Menu may include varieties such as wanton noodle, fish soup noodle, ban mian, hor fun, laksa, tom yum noodles, etc.</p>
-
-<u><strong>Background:</strong></u><br>
-<p>We are a single session secondary school with student enrolment of about 1140 and staff strength of 130. There are currently 5 food stalls and 1 drink/snack stall at our school. One of the food stalls is selling halal noodles.</p>
+<p>Ahmad Ibrahim Secondary School has vacancies for Halal stalls selling Noodles and Rice.</p>
 
 <u><strong>Criteria</strong></u><br>
 Applicants should meet the following criteria:
@@ -31,11 +28,12 @@ Interested applicants must submit the following documents:
 * Photocopy of the Identification Card (front &amp; back).
 * Records of past catering/canteen experiences, if any.
 
-Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a>. We regret that late applications will not be accepted.
+Please submit the documents to the school's General Office or email to <a href="mailto: aiss@moe.edu.sg">aiss@moe.edu.sg</a>.
 
 <u><strong>Interview and Food Tasting</strong></u><br>
 * Only shortlisted applicants will be invited for an interview and are required to provide food sampling.
-* Successful applicant will be expected to commence operation of the stall from <strong>July 2024</strong>.
+* Successful applicant will be expected to commence operation of the stall from <strong>January 2025</strong>.
+* Closing date for Application: <strong>31 October 2024, 6pm.</strong>
 * Please contact the school at <strong>6758 5384</strong> for any clarifications.
 
-[&lt;- Back to School Canteen](https://www.ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
+[&lt;- Back to School Canteen](https://ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
