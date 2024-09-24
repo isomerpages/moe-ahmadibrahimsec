@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h2>Arts</h2>
+<h2>Art</h2>
 <ul>
 <li>
 <p>Programmes</p>
