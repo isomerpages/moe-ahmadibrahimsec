@@ -8,10 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mainpage/eopen%20house-compressed-1080px.jpg">
 </div>
-<p>Interested to know more about our school? Come join our E-Open House on
-11 or 18 November 2023 over Zoom from 9.30 to 11.00 am. Listen to our Team
-and have a chat with our School Leaders and Teachers. We'll be happy to
-share with you about our school.</p>
+<p>Interested to know more about our school? Come join our E-Open House in
+mid-November over Zoom. Listen to our Team and have a chat with our School
+Leaders and Teachers. We'll be happy to share with you about our school.</p>
 <p>In the meantime, visit our E-OPEN HOUSE microsite and don't forget to
 register for our engagement session. See you there!</p>
 <p></p>
