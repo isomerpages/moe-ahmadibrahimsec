@@ -22,5 +22,5 @@ There are currently 5 food stalls and 1 drink/snack stall at our school.
 <tr>
 <td>Chinese stalls</td>
 <td>31 October 2024</td>
-<td><a href="https://ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement/">Click here</a></td>
+<td><a href="https://ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement-01/">Click here</a></td>
 </tr></tbody></table>
