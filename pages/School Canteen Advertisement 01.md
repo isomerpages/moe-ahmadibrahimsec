@@ -36,4 +36,4 @@ Please submit the documents to the school's General Office or email to <a href="
 * Closing date for Application: <strong>31 October, 6pm</strong>.
 * Please contact the school at <strong>6758 5384</strong> for any clarifications.
 
-[&lt;- Back to School Canteen](https://www.ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
+[&lt;- Back to School Canteen](https://ahmadibrahimsec.moe.edu.sg/useful-info/school-canteen/)
