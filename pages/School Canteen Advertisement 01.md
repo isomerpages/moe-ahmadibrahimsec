@@ -4,10 +4,7 @@ permalink: /school-canteen-advertisement-01/
 description: ""
 variant: markdown
 ---
-<p>Ahmad Ibrahim Secondary School is inviting applicants to operate a “Malay (Halal) Rice Stall” stall from <strong>Jan 2024</strong>. Menu may include varieties such as nasi padang, nasi briyani, nasi lemak, porridge etc.</p>
-
-<u><strong>Background:</strong></u><br>
-<p>We are a single session secondary school with student enrolment of about 1140 and staff strength of 130. There are currently 5 food stalls and 1 drink/snack stall at our school. One of the food stalls is selling halal noodles.</p>
+<p>Ahmad Ibrahim Secondary School has vacancies for Chinese stalls selling Chinese/Fusion/Japanese or Korean cuisine.</p>
 
 <u><strong>Criteria</strong></u><br>
 Applicants should meet the following criteria:
