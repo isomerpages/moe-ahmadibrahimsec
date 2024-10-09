@@ -6,32 +6,55 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>Class Timetable</strong></h4>
-<p><em>*Timetable updated on 9th July 2024</em>
+<p><em>*Timetable updated on 9th October 2024</em>
+</p>
+<p><strong>Sec 1</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 1</strong>
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S1_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S1_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/AI Learning Fiesta/2024_T4W7_Learning_Fiesta_Sec_1.pdf" rel="noopener nofollow" target="_blank">Odd Week (T4W7)</a>
 </p>
 </li>
 <li>
+<p><a href="/files/Timetable/AI Learning Fiesta/2024_T4W6__script_check_Sec_1.pdf" rel="noopener nofollow" target="_blank">Even Week (T4W6)</a>
+</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Sec 2</strong>
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S2_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S2_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/2024_T4W7_Learning_Fiesta_Sec_2.pdf" rel="noopener nofollow" target="_blank">Odd Week (T4W7)</a>
 </p>
 </li>
 <li>
+<p><a href="/files/Timetable/AI Learning Fiesta/2024_T4W6__script_check_Sec_2.pdf" rel="noopener nofollow" target="_blank">Even Week (T4W6)</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Sec 3</strong>
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S3_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a> 
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S3_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/2024_T4W7_Learning_Fiesta_Sec_3.pdf" rel="noopener nofollow" target="_blank">Odd Week (T4W7)</a>
 </p>
 </li>
 <li>
-<p><strong>Sec 4 &amp; 5</strong>
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S4_5_2024_Sem_2_TT__odd_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Odd Week</a>
-<br>-&nbsp;<a href="/files/Timetable/2024 Sem 2/S4_5_2024_Sem_2_TT__even_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/AI Learning Fiesta/2024_T4W6__script_check_Sec_3.pdf" rel="noopener nofollow" target="_blank">Even Week (T4W6)</a>
 </p>
+</li>
+</ul>
+<p></p>
+<p><strong>Sec 4&amp;5</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Odd Week</p>
+</li>
+<li>
+<p>Even Week</p>
 </li>
 </ul>
 <p></p>
