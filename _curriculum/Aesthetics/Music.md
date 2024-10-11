@@ -3,6 +3,7 @@ title: Music
 permalink: /curriculum/aesthetics/music/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ## Music
 ### About Us
@@ -137,8 +138,6 @@ third_nav_title: Aesthetics
     <td class="tg-8ixl">Music Teacher<br></td>
   </tr>
   <tr>
-    <td class="tg-8ixl">Carita Chew Meng<br></td>
-    <td class="tg-8ixl">Music Teacher<br></td>
   </tr>
   <tr>
     <td class="tg-8ixl">Enzo Charles Victor Buttazzoni<br></td>
