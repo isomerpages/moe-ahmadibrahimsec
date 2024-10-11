@@ -134,7 +134,8 @@ variant: markdown
     <td class="tg-8ixl">Amelia Y Dizon</td>
     <td class="tg-8ixl">Music Teacher</td>
   </tr>
-</tbody>
+	<tr><td>
+</td></tr></tbody>
 </table>
 </div>
 </li></ul>
