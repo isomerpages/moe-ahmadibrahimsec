@@ -104,7 +104,7 @@ am to 3 June 2024, 3 pm. For more details, please refer to MOE website
 </p>
 <p>For applicants studying in MOE mainstream primary schools: Only one parent's
 SingPass is needed to log in. If parent / guardian is unable to apply online,
-you can approach the child's primary school for assistance. Click <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+you can approach the child's primary school for assistance. Click<s> here </s><em>&lt;link has expired&gt;</em> to
 access the application page.</p>
 <p>For applicants NOT studying in MOE mainstream primary schools, please
 obtain a Registration Number (RGxxxxxxx) online before applying through
