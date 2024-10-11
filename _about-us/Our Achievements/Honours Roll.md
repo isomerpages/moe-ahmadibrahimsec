@@ -480,12 +480,5 @@ Yong, Mrs Silia Goh and Mr Fauzi as well as the students' parents who have
 been supporting them all this time!</p>
 <p>We would like to thank all who voted for our team 'We want to go to USA'
 and making their dream come true, we truely appreciate all the help!</p>
-<p>Below are the links for the publications that the students were featured
-in:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.mindef.gov.sg/imindef/resourcelibrary/cyberpioneer/topics/articles/news/2013/feb/15feb13_news2.html#.WJwsVBJ97IG" rel="noopener" target="_blank">cyberPioneer (MINDEF's own news team)</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p></p>
