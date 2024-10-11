@@ -127,11 +127,11 @@ variant: markdown
     <td class="tg-2bq1" rowspan="3">Music</td>
   </tr>
   <tr>
-    <td class="tg-8ixl">Enzo Charles Victor Buttazzoni</td>
+    <td class="tg-8ixl">Amelia Y Dizon</td>
     <td class="tg-8ixl">Music Teacher</td>
   </tr>
   <tr>
-    <td class="tg-8ixl">Amelia Y Dizon</td>
+    <td class="tg-8ixl">Enzo Charles Victor Buttazzoni</td>
     <td class="tg-8ixl">Music Teacher</td>
   </tr>
 	<tr><td>
