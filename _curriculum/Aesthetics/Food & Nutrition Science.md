@@ -1,8 +1,9 @@
 ---
-title: Food &amp; Nutrition Science
+title: Food & Nutrition Science
 permalink: /curriculum/aesthetics/food-nutrition-science/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ## Food &amp; Nutrition Science
 ### About Us
@@ -34,12 +35,12 @@ third_nav_title: Aesthetics
 <th style="text-align: center;">Designation</th>
 </tr>
 <tr style="text-align: center;">
-<td>Juny Iskawati</td>
-<td>Nutrition and Food Science (NFS) Coordinator</td>
+<td>Nirmala d/o Periyiahi</td>
+<td>Nutrition and Food Science (NFS) Teacher</td>
 </tr>
 
 <tr style="text-align: center;">
-<td>Nirmala d/o Periyiah</td>
+<td>Ng Qi Qin, Gary</td>
 <td>Nutrition and Food Science (NFS) Teacher</td>
 </tr>
 
