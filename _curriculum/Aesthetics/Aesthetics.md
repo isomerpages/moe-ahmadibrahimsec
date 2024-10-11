@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ## Aesthetics
 ### About Us
@@ -77,6 +78,11 @@ third_nav_title: Aesthetics
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-2bq1" rowspan="">Aesthetics and Craft</td>
+    <td class="tg-8ixl">Teo Chai Hong Joseph</td>
+    <td class="tg-8ixl">Head of Department / Aesthetic and Craft</td>
+  </tr>
   <tr>
     <td class="tg-2bq1" rowspan="3">Art Department</td>
     <td class="tg-8ixl">Woon Sher Lin Sheralyn</td>
