@@ -93,8 +93,7 @@ variant: markdown
     <td class="tg-8ixl">Art Teacher</td>
   </tr>
   <tr>
-    <td class="tg-8ixl">Siti Fatima bte Azmi</td>
-    <td class="tg-8ixl">Art Teacher</td>
+   
   </tr>
   <tr>
     <td class="tg-2bq1" rowspan="3">Design &amp; Technology</td>
@@ -111,15 +110,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-2bq1" rowspan="4">Nutrition &amp; Food Science</td>
-    <td class="tg-8ixl">Juny Iskawati Mohd Jaffar</td>
-    <td class="tg-8ixl">NFS Coordinator</td>
-  </tr>
-  <tr>
-    <td class="tg-8ixl">Ng Huey Chun Peggy</td>
-    <td class="tg-8ixl">NFS Teacher</td>
   </tr>
   <tr>
     <td class="tg-8ixl">Nirmala K Periyiah</td>
+    <td class="tg-8ixl">NFS Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Ng Qi Qin, Gary</td>
     <td class="tg-8ixl">NFS Teacher</td>
   </tr>
   <tr>
@@ -128,8 +125,6 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-2bq1" rowspan="3">Music</td>
-    <td class="tg-8ixl">Carita Chew Meng</td>
-    <td class="tg-8ixl">Music Teacher</td>
   </tr>
   <tr>
     <td class="tg-8ixl">Enzo Charles Victor Buttazzoni</td>
