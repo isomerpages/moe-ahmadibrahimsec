@@ -142,10 +142,6 @@ for PLD”.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/better-internet-sg</a>
-</p>
-</li>
-<li>
 <p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sure.nlb.gov.sg</a>
 </p>
 </li>
