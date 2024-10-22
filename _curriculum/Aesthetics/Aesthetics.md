@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ## Aesthetics
 ### About Us
@@ -77,6 +78,11 @@ third_nav_title: Aesthetics
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-2bq1" rowspan="">Aesthetics and Craft</td>
+    <td class="tg-8ixl">Teo Chai Hong Joseph</td>
+    <td class="tg-8ixl">Head of Department / Aesthetic and Craft</td>
+  </tr>
   <tr>
     <td class="tg-2bq1" rowspan="3">Art Department</td>
     <td class="tg-8ixl">Woon Sher Lin Sheralyn</td>
@@ -87,8 +93,7 @@ third_nav_title: Aesthetics
     <td class="tg-8ixl">Art Teacher</td>
   </tr>
   <tr>
-    <td class="tg-8ixl">Siti Fatima bte Azmi</td>
-    <td class="tg-8ixl">Art Teacher</td>
+   
   </tr>
   <tr>
     <td class="tg-2bq1" rowspan="3">Design &amp; Technology</td>
@@ -105,15 +110,13 @@ third_nav_title: Aesthetics
   </tr>
   <tr>
     <td class="tg-2bq1" rowspan="4">Nutrition &amp; Food Science</td>
-    <td class="tg-8ixl">Juny Iskawati Mohd Jaffar</td>
-    <td class="tg-8ixl">NFS Coordinator</td>
-  </tr>
-  <tr>
-    <td class="tg-8ixl">Ng Huey Chun Peggy</td>
-    <td class="tg-8ixl">NFS Teacher</td>
   </tr>
   <tr>
     <td class="tg-8ixl">Nirmala K Periyiah</td>
+    <td class="tg-8ixl">NFS Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Ng Qi Qin, Gary</td>
     <td class="tg-8ixl">NFS Teacher</td>
   </tr>
   <tr>
@@ -122,18 +125,17 @@ third_nav_title: Aesthetics
   </tr>
   <tr>
     <td class="tg-2bq1" rowspan="3">Music</td>
-    <td class="tg-8ixl">Carita Chew Meng</td>
+  </tr>
+  <tr>
+    <td class="tg-8ixl">Amelia Y Dizon</td>
     <td class="tg-8ixl">Music Teacher</td>
   </tr>
   <tr>
     <td class="tg-8ixl">Enzo Charles Victor Buttazzoni</td>
     <td class="tg-8ixl">Music Teacher</td>
   </tr>
-  <tr>
-    <td class="tg-8ixl">Amelia Y Dizon</td>
-    <td class="tg-8ixl">Music Teacher</td>
-  </tr>
-</tbody>
+	<tr><td>
+</td></tr></tbody>
 </table>
 </div>
 </li></ul>

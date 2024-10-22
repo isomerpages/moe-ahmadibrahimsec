@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - For Students/🎶 You're Invited to mosAIc! 🎶.md
       - For Students/.keep
       - For Students/Class & Exam Timetable.md
       - For Students/PLD Website for AISS Students.md
@@ -16,6 +17,7 @@ collections:
         (EAGLES).md
       - For Parents/Edusave Character Award (ECHA).md
       - For Parents/Full Subject Based Banding.md
+      - For Parents/Home Based Learning (HBL).md
       - For Parents/Personalised Learning Device Programme (PLD).md
       - For Parents/Information on DMA (Mobile Guardian).md
       - For Parents/Information on PLD Support.md
