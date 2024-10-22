@@ -43,7 +43,7 @@ The school takes the following approach and structure for HBL:</p>
 <p>For more information please visit the MOE microsite&nbsp;<a href="https://www.moe.gov.sg/-/media/files/parent-kit/experiencing-blended-learning.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/parent-kit/experiencing-blended-learning.pdf</a>&nbsp;or
 scan the QR code below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="image.png" src="https://mail.google.com/mail/u/1?ui=2&amp;ik=a5944d5b60&amp;attid=0.1&amp;permmsgid=msg-f:1813487218874990945&amp;th=192acd046dc14161&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ-IWdmtSHozyIRzEHYukq22B630eX4d9-1rOB3GMqnXNckNWMHntmdgjZqKAgKp-5ryovf7EvqOK6jBCvw9CAKjNUd8jI6W9q1-CSVAccPn5QTBmNJEazFfwoE&amp;disp=emb&amp;realattid=ii_m2id0epg0">
+<img style="width: 20%;" height="auto" width="100%" alt="image.png" src="https://mail.google.com/mail/u/1?ui=2&amp;ik=a5944d5b60&amp;attid=0.1&amp;permmsgid=msg-f:1813487218874990945&amp;th=192acd046dc14161&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ-IWdmtSHozyIRzEHYukq22B630eX4d9-1rOB3GMqnXNckNWMHntmdgjZqKAgKp-5ryovf7EvqOK6jBCvw9CAKjNUd8jI6W9q1-CSVAccPn5QTBmNJEazFfwoE&amp;disp=emb&amp;realattid=ii_m2id0epg0">
 </div>
 <p>Should there be changes to the HBL schedule, &nbsp;notifications will
 be sent via Parents Gateway (PG).</p>
