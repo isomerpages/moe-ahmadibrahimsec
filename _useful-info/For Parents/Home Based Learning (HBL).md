@@ -44,7 +44,7 @@ The school takes the following approach and structure for HBL:</p>
 scan the QR code below:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/qr.png">
+<img style="width: 35%;" height="auto" width="100%" alt="QR code HBL" src="/images/qr_code_hbl.png">
 </div>
 <p>Should there be changes to the HBL schedule, &nbsp;notifications will
 be sent via Parents Gateway (PG).</p>
