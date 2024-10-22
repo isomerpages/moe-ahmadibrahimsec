@@ -5,6 +5,16 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<h4><strong>Sec 3 Extended Curriculum Timetable</strong></h4>
+<p><em>*Timetable updated on 23rd October 2024</em>
+</p>
+<p><strong>Sec 3</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>T4W8</p>
+</li>
+</ul>
 <h4><strong>Class Timetable</strong></h4>
 <p><em>*Timetable updated on 9th October 2024</em>
 </p>
