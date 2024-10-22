@@ -12,7 +12,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>T4W8</p>
+<p><a href="/files/Timetable/Sec 3 Extended Curriculum/2024_Class_Timetable_Sec3_extended.pdf" rel="noopener nofollow" target="_blank">T4W8</a>
+</p>
 </li>
 </ul>
 <h4><strong>Class Timetable</strong></h4>
