@@ -19,10 +19,11 @@ our students as they embark on their secondary school journey. We’ll be
 happy to share insights about our programs, values, and the overall student
 experience at AI.</p>
 <p>We look forward to welcoming you!</p>
-<p><a href="https://forms.moe.edu.sg/forms/od28Rx" rel="noopener nofollow" target="_blank">CLICK HERE</a>&nbsp;to
+<p><strong><a href="https://forms.moe.edu.sg/forms/od28Rx" rel="noopener nofollow" target="_blank">CLICK HERE</a>&nbsp;</strong>to
 register for our engagement session.
 <br>
-<br>Follow us on <a href="https://www.instagram.com/the_aiss_fire" rel="noopener nofollow" target="_blank">Instagram</a>&nbsp;and
-<a href="https://www.facebook.com/theAIfire/" rel="noopener nofollow" target="_blank">Facebook</a>for more information about AI.</p>
+<br>Follow <strong><a href="https://www.instagram.com/the_aiss_fire" rel="noopener nofollow" target="_blank">the_aiss_fire</a></strong> on
+Instagram and <strong><a href="https://www.facebook.com/theAIfire/" rel="noopener nofollow" target="_blank">the_AIfire</a> </strong>on
+Facebook for more information about AI.</p>
 <p></p>
 <p></p>
