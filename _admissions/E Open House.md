@@ -4,20 +4,26 @@ permalink: /useful-info/e-openhouse/
 description: ""
 variant: tiptap
 ---
-<h2>E-Open House</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mainpage/eopen%20house-compressed-1080px.jpg">
-</div>
-<p>Interested to know more about our school? Come join our E-Open House in
-mid-November over Zoom. Listen to our Team and have a chat with our School
-Leaders and Teachers. We'll be happy to share with you about our school.</p>
-<p>In the meantime, visit our E-OPEN HOUSE microsite and don't forget to
-register for our engagement session. See you there!</p>
+<h2><strong>E-Open House</strong></h2>
 <p></p>
-<ul>
-<li>
-<p>REGISTER <a href="" rel="noopener noreferrer nofollow" target="_blank">HERE ➡</a>
-</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729617253838.jpg">
+</div>
+<p>Dear all!</p>
+<p>Registration for our E-Open House is now open.</p>
+<p>We are excited to invite you to our e-Open House on&nbsp;<strong>16th &amp; 23rd November 2024</strong>,
+from&nbsp;<strong>9:00 to 11:30 AM</strong>. The sessions will be held
+online via Zoom, and we would love for you to join us!</p>
+<p>This will be a great opportunity to learn more about what AI can offer
+our students as they embark on their secondary school journey. We’ll be
+happy to share insights about our programs, values, and the overall student
+experience at AI.</p>
+<p>We look forward to welcoming you!</p>
+<p><strong><a href="https://forms.moe.edu.sg/forms/od28Rx" rel="noopener nofollow" target="_blank">CLICK HERE</a>&nbsp;</strong>to
+register for our engagement session.
+<br>
+<br>Follow <strong><a href="https://www.instagram.com/the_aiss_fire" rel="noopener nofollow" target="_blank">the_aiss_fire</a></strong> on
+Instagram and <strong><a href="https://www.facebook.com/theAIfire/" rel="noopener nofollow" target="_blank">the_AIfire</a> </strong>on
+Facebook for more information about AI.</p>
+<p></p>
 <p></p>
