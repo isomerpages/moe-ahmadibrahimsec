@@ -113,14 +113,13 @@ that gets you over each and every wall.</p>
 <p>Photo with Ms Tan Ke-Xin after giving NS Talk in AI in August 2023</p>
 <p></p>
 <p><strong>What is your fondest memory of life in AI?</strong>
-</p>
-<p>- NPCC Cadet – Sgt</p>
-<p>- Track and Field – High Jump</p>
-<p>- Soccer – Goal Keeper</p>
+<br>- NPCC Cadet – Sgt
+<br>- Track and Field – High Jump
+<br>- Soccer – Goal Keeper</p>
 <p></p>
 <p>I was transferred from Dunman Secondary School (Haig Road) in Sec 3 (1996)
 as my family moved to Yishun. In AISS, I am in the Normal stream (Technical)
-and was a member of the NPCC uniform group and the athletic t am under
+and was a member of the NPCC uniform group and the athletic team under
 the late Mr Samuel.</p>
 <p></p>
 <p>Currently, I am now a volunteer Colonel with the Civil Defence Auxiliary
@@ -143,22 +142,22 @@ I am currently a Managing Director of Manjaya Pte Ltd and Director of Cloudfield
 Pte Ltd which deals with rental of industrial properties.</p>
 <p></p>
 <p>Following my full time National Service with SCDF from 1993 to 1995, I
-continued to serve with the following experiences:</p>
-<p>1. Conversion to an officer - 1997 (2nd LT)</p>
-<p>2. Deployed to Nepal under SCDF Ops Lionheart for earthquake rescue mission
-as Deputy Contingent Commander (LTC) - Apr 2015&nbsp;</p>
-<p>3. Appointed as a Battalion Commander - Dec 2015.</p>
-<p>4. Promoted as a Colonel (NS) - 2017</p>
-<p>5. Appointed as a Deputy Division Commander in SCDF 2nd Division.</p>
-<p>6. Completed as an ORNSmen - 2021</p>
-<p>7. Appointed as Mentor Colonel (V) in CDAU - 2021.
+continued to serve with the following experiences:
+<br>1. Conversion to an officer - 1997 (2nd LT)
+<br>2. Deployed to Nepal under SCDF Ops Lionheart for earthquake rescue mission
+as Deputy Contingent Commander (LTC) - Apr 2015&nbsp;
+<br>3. Appointed as a Battalion Commander - Dec 2015.
+<br>4. Promoted as a Colonel (NS) - 2017
+<br>5. Appointed as a Deputy Division Commander in SCDF 2nd Division.
+<br>6. Completed as an ORNSmen - 2021
+<br>7. Appointed as Mentor Colonel (V) in CDAU - 2021.
 <br>
 <br>My Grassroots leadership appointments include 2010 to 2020 (Marsiling
-and Woodgrove constituencies)</p>
-<p>&nbsp; &nbsp; - Chairman of C2E (Woodgrove)</p>
-<p>&nbsp; &nbsp; - Chairman of MAEC (Woodgrove)</p>
-<p>&nbsp; &nbsp; - Chairman of CSC (Woodgrove)</p>
-<p>&nbsp; &nbsp; - Member of C2E (Marsiling)</p>
+and Woodgrove constituencies)
+<br>- Chairman of C2E (Woodgrove)
+<br>- Chairman of MAEC (Woodgrove)
+<br>- Chairman of CSC (Woodgrove)
+<br>- Member of C2E (Marsiling)</p>
 <p></p>
 <p></p>
 <p><strong>What inspired you to continue to serve in SCDF beyond your NS term?</strong>
@@ -262,9 +261,74 @@ on society. Embrace the opportunity to serve, learn and grow.</p>
 <p>Class of 2000
 <br>Associate Professor, Food, Chemical and Biotechnology Cluster
 <br>Singapore Institute of Technology</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/alumni___Adison_Wong.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
 </p>
+<p></p>
+<p>Staying back after school hours to engage in a variety of extracurricular
+activities alongside friends, including basketball and interactive computer
+games.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>I crossed paths with a multitude of motivating educators who urged me
+to pursue personal development, placing strong emphasis on attributes like
+compassion, discipline, and empathy. Notably, individuals like Mr. Gabriel
+Morais, my form teacher in 4E1 in 2001, and Ms. Emily Tow, my biology teacher,
+were instrumental in recognizing and reinforcing my potential.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>I embarked on my academic journey by earning a Bachelor's degree in Chemical
+and Biomolecular Engineering at NTU, and later, a Doctorate in Bioengineering
+from Imperial College London. Throughout my studies, I maintained a stellar
+academic record, graduating with first-class honors and earning recognition
+as a Dean's list recipient. During my PhD research, I made significant
+contributions to the field of synthetic biology. Notably, I pioneered the
+groundbreaking concept of designer probiotics for human health, becoming
+the first in the world to do so. This innovative work was published in
+Molecular Systems Biology in 2011, a prestigious scientific journal in
+the field. It not only earned the distinction of being the best research
+paper in that journal but also ranked among the Top 10 Singapore Research
+papers of the same year.&nbsp;</p>
+<p></p>
+<p>In 2014, I took on a pivotal role as the inaugural Program Manager of
+the NUS Synthetic Biology Research Program. In this position, I collaborated
+with private companies and government agencies to harness the economic
+potential of synthetic biology in Singapore, contributing to its growth
+and development.&nbsp;</p>
+<p></p>
+<p>In 2017, I joined the Singapore Institute of Technology as a lecturer
+and, over the years, progressed to the position of Associate Professor
+in 2023. This transition allowed me to continue my passion for education
+and research. I am deeply grateful for the financial support I have received
+from various esteemed organizations, such as the Ministry of Education,
+Ministry of Defence, and the Lee Foundation. In 2022, I was honored to
+receive the Singapore Teaching and Academic Research Talent award, which
+recognized my dedication to scientific excellence and my contributions
+to the betterment of society and human lives.&nbsp;</p>
+<p></p>
+<p>Perhaps the proudest moments in my career have come as a mentor, witnessing
+the joy and fulfillment on the faces of my students as they realize their
+dreams and achieve their goals. These moments reaffirm the significance
+of my work in education and research, inspiring the next generation of
+scientists and innovators.</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>An inquisitive spirit, a love for science, and a compassionate heart for
+humanity.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Maintain patience and unwavering commitment in your pursuit of dreams;
+the rewards will arrive at the right moment!</p>
+<p></p>
 </div>
 </details>
 </div>
