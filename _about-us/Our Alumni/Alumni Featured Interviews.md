@@ -294,10 +294,49 @@ the rewards will arrive at the right moment!</p>
 <p>Class of 2004
 <br>Internal Medicine Consultant, Tan Tock Seng Hospital</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/alumni___Chua_Shumin_Eunice.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p></p>
+<p>Spending time with classmates preparing for special events like Racial
+Harmony Day and Fundraising Day, studying in school together with classmates
+and hanging out together after school at Northpoint.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>The wonderful teachers I had were really inspiring and instilled a love
+for learning in me. I was given opportunities for leadership and personal
+growth and that helped made me more confident.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>After O levels, I went to RJC and then to NUS School of Medicine to fulfil
+my dream of becoming a doctor. I now practice as an Internal Medicine consultant
+in Tan Tock Seng Hospital. I also enjoy teaching medical students.</p>
+<p></p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>My maternal aunt, who is also a doctor, has always been a good role model
+for me. My parents were nurturing and encouraging, and did not pressure
+me at all. My secondary school teachers, who taught me well and inspired
+me to pursue my dream.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p></p>
+<p>Don't be afraid to dream big. Be diligent in everything, even the small
+everyday things because self-discipline is needed for any kind of success.</p>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
