@@ -196,20 +196,13 @@ the growth and prosperity of our country.
 conservation, infrastructure development, education, healthcare, and more.
 <br>- Your efforts directly impact the welfare and advancement of our nation.</p>
 <p></p>
-<p>National Service also nurtures a deep appreciation for our;&nbsp;</p>
-<ol>
-<li>
-<p>Cultural heritage, history, and national values.&nbsp;</p>
-</li>
-<li>
-<p>It strengthens the sense of national identity and unity among the youth,
+<p>National Service also nurtures a deep appreciation for our;
+<br>1. Cultural heritage, history, and national values.
+<br>2. It strengthens the sense of national identity and unity among the youth,
 fostering a collective commitment to the betterment of our country.</p>
-</li>
-</ol>
 <p></p>
 <p><strong>What advice do you have for our students of today?</strong>
-</p>
-<p>Your involvement will shape your own future while leaving a positive impact
+<br>Your involvement will shape your own future while leaving a positive impact
 on society. Embrace the opportunity to serve, learn and grow.</p>
 </div>
 </details>
