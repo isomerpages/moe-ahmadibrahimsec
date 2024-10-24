@@ -43,7 +43,7 @@ This is the kind of person that I have become today.</p>
 	</p>
 <p>Qualifications &amp; Certificates only matter to get that door open. Beyond that – it’s going to be your character, attitude, mentality and sheer will that gets you over each and every wall.</p>
 
-
+----
 
 
 <h4><strong>Carine Ang CH</strong></h4>
