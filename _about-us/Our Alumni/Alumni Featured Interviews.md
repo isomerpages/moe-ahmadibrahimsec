@@ -26,16 +26,18 @@ All in all - it made to want to explore and travel the world beyond what we simp
 My secondary 1 &amp; 2 life was honestly terrible. I would consider myself to be a little less interested in studying during that phase – but during my upper secondary studies - I got my gears into place topping the level for combined sciences and Ace-ing other subjects too.<br>
 	
 The ultimate takeaway : anything can be achieved, if you set your heart and mind into it. 
-This is the kind of person that I have become today.
-	
-</p><p><strong>What did you do after AI?<br></strong>
+This is the kind of person that I have become today.</p>
+
+<p><strong>What did you do after AI?<br></strong>
 	</p><ul>
 		<li>JC: Tampines Junior College</li>
 <li>University: Degree: Business Management &amp; Strategy - Ritsumeikan Asia Pacific University (Japan)</li>
 <li>Singaporean of the Year 2021</li>
 <li>Career: Japan External Trade Organization (JETRO) as Manager. Today I'm a manager for importing and supplying A5 Miyazakigyu Japanese Beef</li><br>
 
-
+<p><strong>What inspired you to go down your career path?<br></strong>
+	</p><p>My inspiration was to seek a new high, setting a new record for myself for a better tomorrow. Growing with my peers, my colleagues, my company, my clients and then, myself.
+</p>
 	
 <h4><strong>Carine Ang CH</strong></h4>
 <p style="text-align: left;">SPH Radio, 96.3 HAO FM, DJ and Senior Programme Director, Graduate of 1990</p>
