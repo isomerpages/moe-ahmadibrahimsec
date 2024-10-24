@@ -103,21 +103,172 @@ that gets you over each and every wall.</p>
 <summary><strong>Col (V) Mohamed Razaleigh Bin Mohamed Saem</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Class of 1988</p>
-<p>Mentor Colonel, Civil Defence Auxiliary Unit</p>
-<p>ManagingDirector, Manjaya Pte Ltd</p>
-<p>Director, Cloudfield Pte Ltd</p>
-<p></p>
+<p>Class of 1988
+<br>Mentor Colonel, Civil Defence Auxiliary Unit
+<br>ManagingDirector, Manjaya Pte Ltd
+<br>Director, Cloudfield Pte Ltd</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/alumni___Mohamed_Razaleigh.jpg">
 </div>
+<p>Photo with Ms Tan Ke-Xin after giving NS Talk in AI in August 2023</p>
+<p></p>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p>- NPCC Cadet – Sgt</p>
+<p>- Track and Field – High Jump</p>
+<p>- Soccer – Goal Keeper</p>
+<p></p>
+<p>I was transferred from Dunman Secondary School (Haig Road) in Sec 3 (1996)
+as my family moved to Yishun. In AISS, I am in the Normal stream (Technical)
+and was a member of the NPCC uniform group and the athletic t am under
+the late Mr Samuel.</p>
+<p></p>
+<p>Currently, I am now a volunteer Colonel with the Civil Defence Auxiliary
+Unit (CDAU) after completing my 28 years of National Service as an ORNSmen
+with SCDF.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>I graduated from Singapore Polytechnic with a Diploma in Mechanical Engineering
+in 1993 and&nbsp;</p>
+<p>Coventry University with BSc Engineering and Business Management with
+Honors (2<sup>nd</sup> Class Upper) in 2008.</p>
+<p></p>
+<p>I started my career in Information Technology<strong>, </strong>Power
+&amp; Gas, Facilities and Engineering in various MultiNational Companies
+(MNCs) such as AT&amp;T, JP Morgan, IBM, DBS, NCS, CBM and Singapore Power.
+I was retrenched from work three times and failed in three startup businesses.
+I am currently a Managing Director of Manjaya Pte Ltd and Director of Cloudfield
+Pte Ltd which deals with rental of industrial properties.</p>
+<p></p>
+<p>Following my full time National Service with SCDF from 1993 to 1995, I
+continued to serve with the following experiences:</p>
+<p>1. Conversion to an officer - 1997 (2nd LT)</p>
+<p>2. Deployed to Nepal under SCDF Ops Lionheart for earthquake rescue mission
+as Deputy Contingent Commander (LTC) - Apr 2015&nbsp;</p>
+<p>3. Appointed as a Battalion Commander - Dec 2015.</p>
+<p>4. Promoted as a Colonel (NS) - 2017</p>
+<p>5. Appointed as a Deputy Division Commander in SCDF 2nd Division.</p>
+<p>6. Completed as an ORNSmen - 2021</p>
+<p>7. Appointed as Mentor Colonel (V) in CDAU - 2021.
+<br>
+<br>My Grassroots leadership appointments include 2010 to 2020 (Marsiling
+and Woodgrove constituencies)</p>
+<p>&nbsp; &nbsp; - Chairman of C2E (Woodgrove)</p>
+<p>&nbsp; &nbsp; - Chairman of MAEC (Woodgrove)</p>
+<p>&nbsp; &nbsp; - Chairman of CSC (Woodgrove)</p>
+<p>&nbsp; &nbsp; - Member of C2E (Marsiling)</p>
+<p></p>
+<p></p>
+<p><strong>What inspired you to continue to serve in SCDF beyond your NS term?</strong>
+</p>
+<p></p>
+<p><strong>Personal Growth</strong>
+</p>
+<ol>
+<li>
+<p>A unique platform for personal growth and development. Learn about resilience,
+adaptability, teamwork and leadership.</p>
+</li>
+<li>
+<p>An opportunity to step out of our comfort zones, challenge ourselves,
+and acquire valuable life skills</p>
+</li>
+<li>
+<p>Learn resilience, adaptability, teamwork, and leadership</p>
+</li>
+<li>
+<p>Exposes you to diverse experiences and perspectives, fostering a deeper
+understanding and appreciation for the multicultural fabric of our nation.</p>
+</li>
+<li>
+<p>Promotes empathy, tolerance, and the ability to work harmoniously with
+people from different backgrounds.</p>
+</li>
+<li>
+<p>Builds character and instils a sense of responsibility, discipline, and
+civic duty.&nbsp;</p>
+</li>
+<li>
+<p>It helps shape your identity and equips you with essential skills that
+will benefit you throughout your personal and professional life.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Community Building</strong>
+</p>
+<p>During National Service, you will be involved in community projects, volunteer
+work, and service-oriented activities.&nbsp;</p>
+<p>These experiences allow you to connect with individuals from various walks
+of life, understand their challenges, and actively contribute towards finding
+solutions.</p>
+<p></p>
+<ol>
+<li>
+<p>Build strong and cohesive communities.</p>
+</li>
+<li>
+<p>Positive impact on the lives of others.</p>
+</li>
+<li>
+<p>Sense of belonging and collective responsibility.</p>
+</li>
+<li>
+<p>Connects with various walks of life.</p>
+</li>
+<li>
+<p>Cultivates spirit of empathy, compassion and social consciousness.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>National Development</strong>
+</p>
+<p>It empowers young individuals like yourselves to contribute directly to
+the growth and prosperity of our country.</p>
+<ul>
+<li>
+<p>The opportunity to engage in nation-building initiatives, such as environmental
+conservation, infrastructure development, education, healthcare, and more.&nbsp;</p>
+</li>
+<li>
+<p>Your efforts directly impact the welfare and advancement of our nation.</p>
+</li>
+</ul>
+<p></p>
+<p>National Service also nurtures a deep appreciation for our;&nbsp;</p>
+<ol>
+<li>
+<p>Cultural heritage, history, and national values.&nbsp;</p>
+</li>
+<li>
+<p>It strengthens the sense of national identity and unity among the youth,
+fostering a collective commitment to the betterment of our country.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Your involvement will shape your own future while leaving a positive impact
+on society. Embrace the opportunity to serve, learn and grow.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Associate Professor Adison Wong Choon Kit</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 2000
+<br>Associate Professor, Food, Chemical and Biotechnology Cluster
+<br>Singapore Institute of Technology</p>
 <p>
 <br>
 </p>
 </div>
 </details>
 </div>
-<h4></h4>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Carine Ang CH</strong>
