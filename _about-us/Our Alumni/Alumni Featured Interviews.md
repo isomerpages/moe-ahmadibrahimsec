@@ -7,10 +7,36 @@ variant: markdown
 ---
 <h4><strong>Success Stories of our Alumni</strong></h4>
 <p><iframe src="https://www.youtube.com/embed/_IGOy8ezB1o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br><iframe src="https://www.youtube.com/embed/PKpxl0gqitU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
 <h4><strong>Mr Sakthibalan Balathandautham</strong></h4>
 <p style="text-align: left;">SBusiness Development Manager<br>
 Straits Times Singaporean of the Year 2021<br>
 Graduate of 2009</p>
+<img style="width: 50%;" src="/images/alumni___mr_sakthibalan_1.jpg" align="centre"><br>
+<img style="width: 50%;" src="/images/alumni___mr_sakthibalan_2.jpg" align="centre">
+<em>**ST Singaporean of the Year&nbsp;Sakthibalan&nbsp;Balathandautham donated part of his liver to a little girl he had never met.&nbsp;ST PHOTO: ARIFFIN JAMAR**</em><br>
+<p><strong>What is your fondest memory of life in AI?<br></strong>
+Secondary 3 OLE program to Gunung Ayam (I hope i have the correct hill). During my time - OLE3 was allocated to my batch by CCA types (ie Performing Arts / Sports / UG etc).  This I believe was done to ensure the skill sets required / tasked were matching our learning curve.<br>
+	
+I was with the AISS Warrior Scouts during this time - and we took a train into Malaysia and began our trip from the train station. My memories of hiking up the steep hill, heavy backpack with gears, covered in mud - playing in river rapids and even exploring limestone caves in the area; are still etched in my memories. Our campsite and water source - situated on the edge of a waterfall - was also our bathing area - amazing views and photos were taken here - and not to forget the piercing pitch darkness that the night. I still can recall the leeches that some of us were bitten by and even managed to "join" us on the train back to Singapore.<br>
+	
+All in all - it made to want to explore and travel the world beyond what we simply see.</p>
+
+<p><strong>How has AI shaped you into the person you are today?<br></strong>
+My secondary 1 &amp; 2 life was honestly terrible. I would consider myself to be a little less interested in studying during that phase – but during my upper secondary studies - I got my gears into place topping the level for combined sciences and Ace-ing other subjects too.<br>
+	
+The ultimate takeaway : anything can be achieved, if you set your heart and mind into it. 
+This is the kind of person that I have become today.
+	
+</p><p><strong>What did you do after AI?<br></strong>
+	</p><ul>
+		<li>JC: Tampines Junior College</li>
+<li>University: Degree: Business Management &amp; Strategy - Ritsumeikan Asia Pacific University (Japan)</li>
+<li>Singaporean of the Year 2021</li>
+<li>Career: Japan External Trade Organization (JETRO) as Manager. Today I'm a manager for importing and supplying A5 Miyazakigyu Japanese Beef</li><br>
+
+
+	
 <h4><strong>Carine Ang CH</strong></h4>
 <p style="text-align: left;">SPH Radio, 96.3 HAO FM, DJ and Senior Programme Director, Graduate of 1990</p>
 <img style="width: 40%;" src="/images/carrieang.png" align="left">
@@ -119,4 +145,4 @@ Graduate of 2009</p>
 <p>I actually took a more unconventional approach to education. I was in Anderson Junior College in Yio Chu Kang. After graduating from Junior College, I found that there was no route to realise my passion and dream for aviation. The polytechnics did not have any aviation courses then (the very first aerospace course only opened in 2003, after I had already enrolled into AJC). Therefore, after I graduated from AJC, I served my National Service first. During my time in NS, I had a long thought about my education path and did a lot of research. Finally, I made up my mind to enrol back into Polytechnic, as I did not want to go into University studying in a course that I did not really like. Therefore, I went back to Singapore Polytechnic after National Service and got into the Diploma in Aeronautical Engineering (DARE) course. It was the best decision of my life! I am one of the few people who took the road less travelled by, and in doing that, I earned both an A-level certificate as well as a polytechnic Diploma!</p>
 <p><strong>4) What inspired you to go down this career path?<br></strong>I guess my father largely influenced me to go down this career path. Back during my formative years as a child, he used to bring me to air shows and it was during this time that my interest in aviation was piqued and grew. My father also bought me my very first PC game; it was a fighter jet simulation and he even went all the way to buy me a joystick to fly it! He was supportive of my interest. What became a mere hobby soon evolved to become a dream and then a lifelong ambition. It has taken me this far now and I am glad I pursued it!</p>
 <p><strong>5) Any advice for our students of today?<br></strong>Don’t be afraid to pursue your dreams, no matter how unconventional the path you take. Your passion will bring you far; let it guide you and do not stop until you get whatever you desire. I have always believed in the power of passion; “Choose a job you love, and you will never have to work a day in your life,” Confucius once said. Live by these words of wisdom, and you will always be happy.</p>
-<p><strong>6) Achievements in AI:<br></strong>Outstanding All Rounders Students (OARS) Award,<br>Certificate of Merit (1st in English),<br>Certificate of Merit (1st in Higher Malay Language),<br>Certificate of Merit (Prefectorial Board),<br>Prefect Service Award Plaque</p>
+<p><strong>6) Achievements in AI:<br></strong>Outstanding All Rounders Students (OARS) Award,<br>Certificate of Merit (1st in English),<br>Certificate of Merit (1st in Higher Malay Language),<br>Certificate of Merit (Prefectorial Board),<br>Prefect Service Award Plaque</p></ul>
