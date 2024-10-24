@@ -128,7 +128,6 @@ with SCDF.</p>
 <p></p>
 <p><strong>What did you do after AI?</strong>
 </p>
-<p></p>
 <p>I graduated from Singapore Polytechnic with a Diploma in Mechanical Engineering
 in 1993 and&nbsp;</p>
 <p>Coventry University with BSc Engineering and Business Management with
@@ -162,78 +161,40 @@ and Woodgrove constituencies)
 <p></p>
 <p><strong>What inspired you to continue to serve in SCDF beyond your NS term?</strong>
 </p>
-<p></p>
-<p><strong>Personal Growth</strong>
-</p>
-<ol>
-<li>
-<p>A unique platform for personal growth and development. Learn about resilience,
-adaptability, teamwork and leadership.</p>
-</li>
-<li>
-<p>An opportunity to step out of our comfort zones, challenge ourselves,
-and acquire valuable life skills</p>
-</li>
-<li>
-<p>Learn resilience, adaptability, teamwork, and leadership</p>
-</li>
-<li>
-<p>Exposes you to diverse experiences and perspectives, fostering a deeper
-understanding and appreciation for the multicultural fabric of our nation.</p>
-</li>
-<li>
-<p>Promotes empathy, tolerance, and the ability to work harmoniously with
-people from different backgrounds.</p>
-</li>
-<li>
-<p>Builds character and instils a sense of responsibility, discipline, and
-civic duty.&nbsp;</p>
-</li>
-<li>
-<p>It helps shape your identity and equips you with essential skills that
+<p><strong><em>Personal Growth</em></strong>
+<br>1. A unique platform for personal growth and development. Learn about
+resilience, adaptability, teamwork and leadership.
+<br>2. An opportunity to step out of our comfort zones, challenge ourselves,
+and acquire valuable life skills
+<br>3. Learn resilience, adaptability, teamwork, and leadership
+<br>4. Exposes you to diverse experiences and perspectives, fostering a deeper
+understanding and appreciation for the multicultural fabric of our nation.
+<br>5. Promotes empathy, tolerance, and the ability to work harmoniously with
+people from different backgrounds.
+<br>6. Builds character and instils a sense of responsibility, discipline,
+and civic duty.&nbsp;
+<br>7. It helps shape your identity and equips you with essential skills that
 will benefit you throughout your personal and professional life.</p>
-</li>
-</ol>
 <p></p>
-<p><strong>Community Building</strong>
-</p>
-<p>During National Service, you will be involved in community projects, volunteer
+<p><strong><em>Community Building</em></strong>
+<br>During National Service, you will be involved in community projects, volunteer
 work, and service-oriented activities.&nbsp;</p>
 <p>These experiences allow you to connect with individuals from various walks
 of life, understand their challenges, and actively contribute towards finding
-solutions.</p>
+solutions.
+<br>
+<br>1. Build strong and cohesive communities.
+<br>2. Positive impact on the lives of others.
+<br>3. Sense of belonging and collective responsibility.
+<br>4. Connects with various walks of life.
+<br>5. Cultivates spirit of empathy, compassion and social consciousness.</p>
 <p></p>
-<ol>
-<li>
-<p>Build strong and cohesive communities.</p>
-</li>
-<li>
-<p>Positive impact on the lives of others.</p>
-</li>
-<li>
-<p>Sense of belonging and collective responsibility.</p>
-</li>
-<li>
-<p>Connects with various walks of life.</p>
-</li>
-<li>
-<p>Cultivates spirit of empathy, compassion and social consciousness.</p>
-</li>
-</ol>
-<p></p>
-<p><strong>National Development</strong>
-</p>
-<p>It empowers young individuals like yourselves to contribute directly to
-the growth and prosperity of our country.</p>
-<ul>
-<li>
-<p>The opportunity to engage in nation-building initiatives, such as environmental
-conservation, infrastructure development, education, healthcare, and more.&nbsp;</p>
-</li>
-<li>
-<p>Your efforts directly impact the welfare and advancement of our nation.</p>
-</li>
-</ul>
+<p><strong><em>National Development</em></strong>
+<br>It empowers young individuals like yourselves to contribute directly to
+the growth and prosperity of our country.
+<br>- The opportunity to engage in nation-building initiatives, such as environmental
+conservation, infrastructure development, education, healthcare, and more.
+<br>- Your efforts directly impact the welfare and advancement of our nation.</p>
 <p></p>
 <p>National Service also nurtures a deep appreciation for our;&nbsp;</p>
 <ol>
