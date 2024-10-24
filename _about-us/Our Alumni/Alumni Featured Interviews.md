@@ -89,6 +89,7 @@ a manager for importing and supplying A5 Miyazakigyu Japanese Beef</p>
 <p>My inspiration was to seek a new high, setting a new record for myself
 for a better tomorrow. Growing with my peers, my colleagues, my company,
 my clients and then, myself.</p>
+<p></p>
 <p><strong>What advice do you have for our students of today?<br></strong>
 </p>
 <p>Qualifications &amp; Certificates only matter to get that door open. Beyond
@@ -97,7 +98,25 @@ that gets you over each and every wall.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Col (V) Mohamed Razaleigh Bin Mohamed Saem</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 1988</p>
+<p>Mentor Colonel, Civil Defence Auxiliary Unit</p>
+<p>ManagingDirector, Manjaya Pte Ltd</p>
+<p>Director, Cloudfield Pte Ltd</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/alumni___Mohamed_Razaleigh.jpg">
+</div>
+<p>
+<br>
+</p>
+</div>
+</details>
+</div>
 <h4></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -137,7 +156,11 @@ or won't do well. Keep trying, have fun.
 </div>
 </details>
 </div>
-<h4><strong>Dr Kelvin Tan</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Dr Kelvin Tan</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Head, Curriculum, Teaching &amp; Learning. National Institute of Education,
 NTU, Graduated in 1983</p>
 <div class="isomer-image-wrapper">
@@ -183,7 +206,14 @@ and calling we all aspire to.
 <br>(c) Freedom is good only if there is also Friendship + Family – to support
 you through thick and thin in life, and desire the best for you. If you
 look hard enough, you can find it in your school!</p>
-<h4><strong>Dr Raveendran Rakesh</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Dr Raveendran Rakesh</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Doctor, Graduate of 1999</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/drrav.png">
@@ -256,7 +286,14 @@ grow.
 as these do nothing but harm you.
 <br>d) Work and play equally hard so that life can not only be successful,
 but also fulfilling.</p>
-<h4><strong>Dr Tony Halim</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Dr Tony Halim</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Lecturer, Graduate of 1993</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/tony.png">
@@ -279,7 +316,14 @@ share my passion in creation through engineering. Hence, I turned from
 Engineer to Educator, and joined Temasek Polytechnic as a lecturer.</p>
 <p><strong>Any advice for our students of today?<br></strong>Always have
 a hunger for knowledge!</p>
-<h4><strong>Eugene Luo</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Eugene Luo</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Air Warefare Officer (Command, Control and Communication) Singapore Air
 Force, Graduate of 2007</p>
 <div class="isomer-image-wrapper">
@@ -348,7 +392,14 @@ being selected for important Soccer games/tournament, etc. But it is how
 you respond to these events that defines you as a person and the outcome.
 With hard work, you can achieve what you set out to do. Like they say,
 shoot for the moon. Even if you miss, you will land among the stars!</p>
-<h4><strong>Jasmine Ser</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Jasmine Ser</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Professional Shooter &amp; Commonwealth Games Gold Medalist&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/jasmine.png">
@@ -383,7 +434,14 @@ find the motivation and joy in them.</p>
 mind, be curious about the world and one day you will find where your passion
 lies. Go towards that direction and work hard because there are no shortcuts
 in life.</p>
-<h4><strong>Loh Kang Yong</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Loh Kang Yong</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Research Scholar, A*Star, Graduate of 2009</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/lky.png">
@@ -454,7 +512,14 @@ solved a few important problems that were worth solving.</p>
 <p><strong>Any advice for our students of today?<br></strong>Think of and
 do something that will differentiate you from the rest. Think big about
 how to have an impact on others.</p>
-<h4><strong>Nur Hazlinda Bte Nasrom</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Nur Hazlinda Bte Nasrom</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Research Scholar, A*Star, Graduate of 2009</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/nur.png">
@@ -500,7 +565,14 @@ a calling, not just a job.</p>
 good to be ambitious and plan ahead, but it's a smarter move to have a
 backup plan in case your original plan fails. We must be open to learning
 new things.</p>
-<h4><strong>Pay Bok Sing</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Pay Bok Sing</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Owner, Nippon Koi Farms, Graduate of 1979</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/pbs.png">
@@ -570,7 +642,14 @@ and harsh. Remember, it is “Survival of the Fittest”. As the saying goes,
 “An able man is always busy”, one will become obsolete if we do not work
 hard. Students need to be confident and dare to dream big. One can only
 achieve success by putting in unremitting efforts and being resilient!</p>
-<h4><strong>Sallihin Othman</strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sallihin Othman</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>General Aviation Pilot, Graduate of 2001</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/sall.png">
@@ -623,3 +702,7 @@ be happy.</p>
 <br>Certificate of Merit (1st in Higher Malay Language),
 <br>Certificate of Merit (Prefectorial Board),
 <br>Prefect Service Award Plaque</p>
+</div>
+</details>
+</div>
+<p></p>
