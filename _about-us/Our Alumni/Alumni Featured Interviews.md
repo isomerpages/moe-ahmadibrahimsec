@@ -286,6 +286,18 @@ the rewards will arrive at the right moment!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Dr Chua Shumin Eunice</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 2004
+<br>Internal Medicine Consultant, Tan Tock Seng Hospital</p>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
