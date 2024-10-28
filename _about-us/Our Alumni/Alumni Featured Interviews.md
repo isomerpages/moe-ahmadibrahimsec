@@ -569,7 +569,124 @@ and either recall these fond memories, or regret that you haven't done
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Tang Ling Nah</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 1987
+<br>Artist, Educator, Curator,&nbsp;Activated C Studio
+<br>NAC Young Artist Award (Art) 2004
+<br>Created 'Walking into the Interstitial' (2022) - Marina Bay Station TEL</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Tang_Ling_Nah.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
 <p></p>
+<p>There were so many fond memories, like singing together with my classmates
+during music lessons in Sec 1 and 2, and having my sketch titled The Modern
+Little Red Riding Hood selected and performed on stage during assembly
+with my classmates, as well as the move from Upper Thomson Road to the
+current Yishun location when I was in Sec 2. They were all memorable, not
+just for the events themselves, but because of the dedicated teachers and
+wonderful, fun and helpful classmates who were also involved! If I must
+choose the fondest memory, then it would be that of participating in the
+Inter-School Chemistry Speech Contest (now known as Chemistry•Communication
+Challenge, or “Chem-dot-Comm” organised by the Chemistry Department, National
+University of Singapore or NUS) when I was in Sec 4 with three other classmates.
+Our Chemistry teacher Ms Pauline Wee was very encouraging and tirelessly
+trained us in researching the topic, selecting the essential materials
+and presenting orally before going for the competition. We practised in
+class and some classmates also offered helpful suggestions, and even assisted
+us prepare the slides. And the best of all was having the whole class supporting
+us at the NUS competition. We didn’t win any award, but the spirit of the
+whole class and the support given by teachers and the school really left
+a deep impression on me.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>AI’s all-rounded approach encouraged me to be open-minded and to develop
+my interests and explore new subjects and skills. Even though I majored
+in the Sciences (Biology, Chemistry and Physics), I was given the opportunity
+to study the humanities. I took literature and enjoyed it so much! It had
+helped me in my analytical and writing skills. I also recalled my Sec 2
+form teacher Mrs Lim Chin Tok who was also the art teacher asking me to
+consider taking up art at higher level. Sadly, I had to decline as I had
+already selected 9 subjects for my “O” Levels and I was afraid I couldn’t
+cope. The school also encouraged us to learn alongside the visually-challenged
+students and to show empathy and tolerance to all around us. The “care”
+element is thus crucial in training me to be more patient and considerate,
+and this has helped me in my work now—be it creating my own work, working
+with collaborators, teaching art students or dealing with clients.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>After AI, I moved on to the then Anderson Junior College to study my ‘A’
+levels, majoring in the sciences—Biology and Chemistry. I was able to get
+the grades that allowed me to enrol in pharmacy at NUS. I managed to obtain
+a degree after 3 years and undergo a one-year pre-registration training
+before getting my licence as a pharmacist. After working for about 2 years,
+I felt that I needed to pursue something that I had always loved—art—because
+I couldn’t get any younger. So, at age 26, I went to study at LASALLE College
+of the Arts. The first art prize I won after my diploma proved that I might
+be able to pursue art as a career path, even though I knew it would be
+challenging. After obtaining my Bachelor of Arts (Fine Art), I gave up
+my pharmacy licence and practised art full-time. That was the greatest
+change in my life! Then between 2013–17, I became a student again and completed
+my third degree—Bachelor of Arts (Translation &amp; Interpretation)—in
+2018. I think the proudest moment of my artistic career was winning the
+Young Artist Award (Art) given by the National Arts Council in 2004 and
+receiving the award at the Istana, witnessed by my parents. Being in the
+2nd Singapore Biennale where I created a large-scale drawing installation
+that spanned over 4 inter-connected rooms was also memorable for me, not
+just because it was an important international art exhibition based in
+Singapore, but also giving me the opportunity to create a site-specific
+new work that showed the progress of my practice. Another important achievement
+would be the completion of the commissioned work Walking into the Interstitial
+by the Land Transport Authority at Marina Bay Station, Thomson-East Coast
+Line in November 2022.</p>
+<p><a href="https://linktr.ee/lingnahtang.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://linktr.ee/lingnahtang.sg</u></a>
+</p>
+<p><a href="https://linktr.ee/lingnahtang.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://theartling.com/en/artist/tang-ling-nah/</u></a>
+</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>Interestingly, I didn’t stay long in pharmacy—my first career path. I
+do have strong interests in biology and chemistry, inspired by the excellent
+teachers I had at Sec. 3 and 4. Their delivery was very clear and the lessons
+in the laboratory were lively and systematic. I had initially chosen to
+further my studies in pharmacy because I thought it was a field that required
+both Biology and Chemistry, and it would be interesting to know how medicines
+work and to help humankind in the treatment of diseases. But after two
+years as a pharmacist, I realised something was lacking and that I still
+love art. A friend falling sick and a song titled Dreams by my Taiwanese
+singer idol made me reflect on life’s ephemerality. I was then inspired
+to study art at LASALLE College of the Arts. Winning the Della Butcher
+Art Award after my diploma also marked a milestone in my artistic path.
+I went on to complete my Bachelor of Arts (Fine Art) and presented my first
+solo exhibition a year after graduation in 2002.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Be open-minded and strive to learn as much things in life as you can.
+You may be passionate about one thing, but explore others as well to be
+aware of what is going on in other aspects of life, in this world. You
+may never know when you may need that knowledge or skills, e.g. learn to
+cook your own meals or even cut one’s hair! Once you have selected a path,
+stay focused and honest, work hard to get to your destination. Hear from
+different perspectives and examine all possibilities. Take the risks instead
+of overthinking. Learn to let go and be happy with what you have. You may
+not be able to get all you want, but so long as you know you have tried
+your best, give yourself a pat on the back! Show empathy and be considerate
+to people around you.</p>
+</div>
+</details>
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
