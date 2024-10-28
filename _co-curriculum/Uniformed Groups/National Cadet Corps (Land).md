@@ -89,22 +89,23 @@ SYAFIQ BIN HANISS
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Gallery</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoev-Z05BRhWLIKCZAgzij5hxPM4T-kk5Ub2LmUwJHym2WRgviTUsUS_-iaGL1tgLrFPwLipWXwGTQ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
-</li>
-<li>
-<p>Training Schedule</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday<br></strong>3.30 - 5.30 PM</p>
 <p><strong>Friday<br></strong>2.30 - 5.30 PM (No Training on Friday, 16 Aug,
 23 Aug, 30 Aug)</p>
 <p>(Training sessions by HQ will be updated once details are released)</p>
-</li>
-<li>
-<p>Student Leaders</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Unit Sergeant Major:<br></strong>MSG (NCC) KEEGAN TAN WEIJIE</p>
 <p><strong>Assistant Unit Sergeant Major:<br></strong>MSG (NCC) MUHAMMAD
 DANISH DAMIEN BIN ABDULLAH</p>
@@ -116,27 +117,35 @@ HANIS BIN JEPRI</p>
 KUAN SENG YUAN;</p>
 <p><strong>Assistant Company Sergeant Major (Junior Cadets):<br></strong>2SG
 (NCC) S PONETHN S/O SUDESH
-<br>3SG (NCC) VIJAY GOVINDARAJ VIMAL RAJn
-<br>
-</p>
+<br>3SG (NCC) VIJAY GOVINDARAJ VIMAL RAJn</p>
 <p><strong>Assistant Company Sergeant Major (Senior Cadets):<br></strong>3SG
 (NCC) ANNADURAI ASWINRAM
-<br>3SG (NCC) SARAVANAN SHENBAGA VASIKARAN
-<br>
-</p>
+<br>3SG (NCC) SARAVANAN SHENBAGA VASIKARAN</p>
 <p><strong>Assistant Company Sergeant Major (Cadet Leaders):<br></strong>1SG
 (NCC) HENG WEI XUAN
 <br>1SG (NCC) PENG YE KAI</p>
 <p><strong>Quartermaster:<br></strong>3SG (NCC) ANNADURAI ASWINRAM</p>
 <p><strong>Secretary:<br></strong>2SG (NCC) S PONETHN S/O SUDESH</p>
-</li>
-<li>
-<p>Teachers In Charge</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Miss Nur Syakira Binte Zamri<br>Contact:&nbsp;<a href="mailto:nur_syakira_zamri@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nur_syakira_zamri@moe.edu.sg</a></strong>
 </p>
 <p>Ms Jennifer Koh Pei Pei
 <br>Mr Marcus Lau Shao Yu
 <br>Mr Chong Wensheng</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoev-Z05BRhWLIKCZAgzij5hxPM4T-kk5Ub2LmUwJHym2WRgviTUsUS_-iaGL1tgLrFPwLipWXwGTQ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
+<p></p>
 <p></p>
