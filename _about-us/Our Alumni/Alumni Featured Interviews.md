@@ -23,14 +23,12 @@ variant: tiptap
 <p>SBusiness Development Manager
 <br>Straits Times Singaporean of the Year 2021
 <br>Graduate of 2009</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/alumni___mr_sakthibalan_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___mr_sakthibalan_1.jpg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/alumni___mr_sakthibalan_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___mr_sakthibalan_2.jpg">
 </div>
 <p><em>**ST Singaporean of the Year&nbsp;Sakthibalan&nbsp;Balathandautham donated part of his liver to a little girl he had never met.&nbsp;ST PHOTO: ARIFFIN JAMAR**</em>
 <br>
@@ -108,7 +106,7 @@ that gets you over each and every wall.</p>
 <br>ManagingDirector, Manjaya Pte Ltd
 <br>Director, Cloudfield Pte Ltd</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/alumni___Mohamed_Razaleigh.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Mohamed_Razaleigh.jpg">
 </div>
 <p>Photo with Ms Tan Ke-Xin after giving NS Talk in AI in August 2023</p>
 <p></p>
@@ -215,8 +213,9 @@ on society. Embrace the opportunity to serve, learn and grow.</p>
 <p>Class of 2000
 <br>Associate Professor, Food, Chemical and Biotechnology Cluster
 <br>Singapore Institute of Technology</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/alumni___Adison_Wong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Adison_Wong.jpg">
 </div>
 <p><strong>What is your fondest memory of life in AI?</strong>
 </p>
@@ -293,9 +292,8 @@ the rewards will arrive at the right moment!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Class of 2004
 <br>Internal Medicine Consultant, Tan Tock Seng Hospital</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/alumni___Chua_Shumin_Eunice.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Chua_Shumin_Eunice.jpg">
 </div>
 <p><strong>What is your fondest memory of life in AI?</strong>
 </p>
@@ -344,9 +342,82 @@ everyday things because self-discipline is needed for any kind of success.</p>
 <p>Class of 1988
 <br>Counsellor
 <br>Director, APKIM Resources</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___siti_adilah.png">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
 </p>
+<p></p>
+<p>It was wonderful how the programs and structure of AI brought out the
+kampung atmosphere of 'gotong royong' where students from various levels
+and classes worked together in making each milestone a success in itself.
+My fondest memory must be the time I spent in my CCAs and the time I spent
+representing AI for the interschool Debate Competition (Malay Language)
+in 1988. AI was the National Champion the previous year and the pressure
+for us to win was huge! We only had 1 week to prepare for the next qualifying
+round and it was hectic. There were a lot of other students who were helping
+us in the background, doing research, preparing props and being the alternate
+team for us to practice. Our seniors came back to help us in our trainings.
+The teacher in charge, Cikgu Rahmah Abdullah, was instrumental in bringing
+the team and all the other students together as we were from different
+classes, and she pushed us all to shine. We won the National competition
+and brought back the trophy. It was such a pleasant memory with the deafening
+cheers from busloads of supporters.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>AI was a place that provided a safe space for students to explore their
+ideas and interests. No matter what our level of ability was, once we showed
+interest, the Teachers and Seniors would coach us so that we could improve
+our skills and abilities. We were always encouraged to take the initiative
+to plan and organize activities. I believe this helped us to always 'think
+out of the box' and this has helped me in my working life as I have to
+deal with many challenges of running my agency and needed to find various
+unconventional ways to resolve them. AI has such a good pool of teachers
+who were always supportive. I remember there was a time when my friends
+and I were staying back after school and we were stuck on a Math problem.
+A random Math teacher was passing by and we ran up to him to ask for help.
+He sportingly taught us the Math concepts in the middle of the canteen.
+The approachable nature of the teachers helped create the environment that
+was conducive for students to reach out and be resourceful. This in turn
+helped me have a 'can-do' attitude where I will explore ways to achieve
+what I want.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>After AI, I went to Raffles Junior College. This was a pleasant achievement
+as I was not among the top students in my class and neither was I from
+the top few classes in my level. I went on to do my degree in NUS, Masters
+in Economics in IIUM and another Masters in Counselling in UniSA. I am
+currently heading APKIM Resources, an agency that provides counselling,
+adoption services and programs for couples and families. I still take up
+a few clients for marital counseling but I mainly do adoption counseling,
+for birth families considering to give up their child for adoption.</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>Since I was a student, I have always been involved in planning and running
+programs. I love providing services where I can be directly involved with
+the people I serve. Hence, when I was given an opportunity to lead APKIM,
+I did not hesitate and left my job at a Statutory Board. I enjoy being
+a part of the team that gives our clients a safe space where their voices
+are heard, they are able to work on their issues and where relationships
+and families are formed in adoption works. Couples attending our marriage
+preparation or enrichment programs gain significant insights and are more
+aware of relevant issues. I continue to be enriched as I perform my job
+and I am grateful to be privileged to learn directly from the diverse life
+experiences of APKIM's clients.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Give your 100% focus in whatever you do and do not be afraid to reach
+out for help. The resources are available for you to use wisely so do grab
+the opportunities. After you have given your best, be proud of yourself
+because the effort is what matters most. Last but not least, be kind and
+supportive to one another and have lots &amp; lots of fun!</p>
 </div>
 </details>
 </div>
