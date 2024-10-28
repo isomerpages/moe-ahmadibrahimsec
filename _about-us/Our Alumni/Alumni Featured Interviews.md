@@ -484,6 +484,92 @@ point will not dictate your endpoint.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Kok Yee Keong</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 2005
+<br>Of Counsel, Harry Elias Partnership LLP
+<br>Legal Skills Instructor, NUS Law School</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Kok_Yee_Keong.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p></p>
+<p>My time as an alto saxophonist in AISS military band / symphonic band
+in 2002-2005, where we did drills, marching, sectionals, music practice
+every alternate day, and various other bonding activities. As well as playing
+leisure basketball in school after lessons every other day (when there
+was no band activities) until the evening when the school compound is closing
+and the Indian security guard will holler "deng chu liao!" to us (Hokkien
+for "time to go home!", but he said it in an endearing manner), and thereafter,
+often moving over to Chong Pang CC or Block 111 to continue playing basketball
+until past dinner time. Forged many fond memories and best friends during
+these times.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>Band instilled in me discipline, focus, the collective team spirit, and
+we-can-do-it attitude. Basketball reminded me to always have fun and hang
+out with friends despite the tough rigours of school and CCA. Being in
+a neighbourhood school where it was truly a melting pot of races, backgrounds
+and life experiences, has taught me to be grounded, the human touch in
+interpersonal relationships, and different perspectives in life.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>I went on to Anderson Junior College, then NUS Law School. Now practising
+as a dispute lawyer with Harry Elias Partnership LLP: <a href="https://www.harryelias.com/of-counsel/kok-yee-keong" rel="noopener noreferrer nofollow" target="_blank">https://www.harryelias.com/of-counsel/kok-yee-keong</a> Also
+a Legal Skills Instructor with NUS Law School: <a href="https://law.nus.edu.sg/people/yee-keong-kok/" rel="noopener noreferrer nofollow" target="_blank">https://law.nus.edu.sg/people/yee-keong-kok/</a> During
+my time in National Service, I started grassroots volunteering with Chong
+Pang CC (where I used to hang out very often after school and thus formed
+a connection of sorts).&nbsp;</p>
+<p></p>
+<p>Some achievements include:&nbsp;</p>
+<p>(1) Teaching the Legal Analysis, Research and Communication (LARC) module
+to a class of 10 to 13 first-year students, twice a week, over 2 semesters,
+at NUS Law School.&nbsp;</p>
+<p>(2) Named as one of Singapore’s 18 most influential lawyers under 40 by
+the Singapore Business Review in 2021.&nbsp;</p>
+<p>(3) Served as a young amicus curiae (friend of court) in a High Court
+case on novel issues of law.&nbsp;</p>
+<p>(4) Best Feature Article by a Young Lawyer 2021, Law Gazette, Law Society
+of Singapore&nbsp;</p>
+<p>(5) Volunteering on various legal committees, such as the Personal Injury
+/ Property Damage (PIPD) Committee, and the Community Legal Clinics (CLC)
+Committee.&nbsp;</p>
+<p>(6) Volunteering at various legal clinics and Criminal Legal Aid Scheme
+(CLAS).&nbsp;</p>
+<p>(7) Appeared in all levels of Court on diverse subject matters.&nbsp;</p>
+<p>(8) Grassroots Leader with Chong Pang CC for over 14 years, and on its
+CCMC and CPYN.</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>When I was choosing a university course, I sought an occupation that satisfied
+2 criteria: (1) ability to help people directly, and (2) opportunity to
+meet people on almost daily basis. Surprisingly, I did well at 'A' levels.
+The old-school mindset of "don't waste good grades" kicked-in, and therefore,
+I applied for medicine school first, and law school second, with NUS. I
+was rejected by medicine school, and ended up in law school.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Thoroughly enjoy your schooling days, and make lasting friends! It is
+one of the last opportunities in your lifetime to organically befriend
+people, and to do 'silly' things with them which later become cherished
+memories. When you grow older and enter the workforce, you will look back
+and either recall these fond memories, or regret that you haven't done
+(enough of) this or that. I wish the former upon you!</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
