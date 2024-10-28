@@ -421,6 +421,69 @@ supportive to one another and have lots &amp; lots of fun!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Lou Hong Yeow</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 2011
+<br>Physiotherapist, Changi General Hospital
+<br>National Team Captain for Olympic Wrestling
+<br>SEA Games Bronze Medalist (2019, 2023)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Lou_Hong_Yeow.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p></p>
+<p>Spending time in making some of the best friends in life that I kept till
+today.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>I was slightly slower in terms of learning, perhaps due to my short attention
+span, and my playful nature during my younger days proved to be challenging.
+I am thankful for the slower pace of learning in the Normal Academic Stream
+and having nurturing teachers and great friends alongside me to tide me
+through my budding years.</p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>I am currently working as a physiotherapist in Changi General Hospital
+for 2 years - I was awarded the Bachelor of Science in Physiotherapy, Honours
+with Merit from SiT-TCD - I was also the recipient of the MOHH Healthcare
+Merit Award for Physiotherapy from 2017-2021 - I also represent Singapore
+in Olympic Wrestling as the current National Team Captain - I have been
+to the SEA Games 3x, Commonwealth Games 1x - 2x Bronze medalist at the
+2019 and 2023 SEA Games.</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>As an athlete, I had a few injuries, some minor, some requiring surgeries.
+My physiotherapist played a major in my rehabilitation journey. They helped
+me to return to my sport, competitively at a national and regional level.
+I wish to pay it forward and help other athletes who are facing what I
+faced, helping them to get back on their feet. (This was my original intent)
+However, having worked in the field for 2 years, I enjoy helping everyday
+people from young adults to the elderly to get back to doing what is important
+to them, adding life to years.</p>
+<p></p>
+<p><strong><a href="https://www.singaporetech.edu.sg/news/wrestlers-who-are-tenacious-healing-others" rel="noopener noreferrer nofollow" target="_blank">https://www.singaporetech.edu.sg/news/wrestlers-who-are-tenacious-healing-others</a></strong>
+</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Be inquisitive, open to learning, and strive to be better. Your start
+point will not dictate your endpoint.</p>
+</div>
+</details>
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
