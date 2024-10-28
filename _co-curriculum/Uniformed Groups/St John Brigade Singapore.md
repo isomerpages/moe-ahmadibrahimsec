@@ -98,14 +98,24 @@ CCA Exposure!</p>
 <summary><strong>Participation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>First Aid support at school events, i.e. Sports Carnival Achievement Day
-Parade Contingent National Day Parade Contingent 2 of our cadets were part
-of the Singapore National Day Parade SJAB Marching Contingent: MOHAMAD
-AQIL BIN MOHAMAD NIZAM 2-GRATITUDE AQIL RAIYAN BIN MOHAMED RIDWAN 2-RESILIENCE
-3 of our students took part as Official First Aiders for the National Day
-Parade at the padang: Ng Siew Jing 3 Excellence Wong Jiaan Leroy 3 Excellence
-Ong Ting Hao Lucas 3 Integrity 2 of our cadets took part in the Trooping
-of Colours Parade: WONG JIAAN LEROY S3-EXCELLENCE LUCAS ONG TING HAO S3-INTEGRITY</p>
+<p>First Aid support at school events, i.e. Sports Carnival
+<br>Achievement Day Parade Contingent
+<br>National Day Parade Contingent
+<br>
+<br>2 of our cadets were part of the Singapore National Day Parade SJAB Marching
+Contingent:
+<br>MOHAMAD AQIL BIN MOHAMAD NIZAM, 2-GRATITUDE
+<br>AQIL RAIYAN BIN MOHAMED RIDWAN, 2-RESILIENCE
+<br>
+<br>3 of our students took part as Official First Aiders for the National
+Day Parade at the Padang:
+<br>NG SIEW JING, 3-EXCELLENCE
+<br>WONG JIAAN LEROY, 3-EXCELLENCE
+<br>LUCAS ONG TING HAO, 3-INTEGRITY
+<br>
+<br>2 of our cadets took part in the Trooping of Colours Parade:
+<br>WONG JIAAN LEROY, 3-EXCELLENCE
+<br>LUCAS ONG TING HAO, 3-INTEGRITY</p>
 </div>
 </details>
 </div>
