@@ -140,7 +140,26 @@ Day Parade at the Padang:
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Corp Sergeant Major</strong>
+<br>Wong Jiaan Leroy (3 Excellence)
+<br>
+<br><strong>Regimental Sergeant Major </strong>
+<br>Ong Ting Hao Lucas (3 Integrity)
+<br>
+<br><strong>Platoon Leader (Sec 2) </strong>
+<br>Riqqah Inshyrah (3 Care)
+<br>
+<br><strong>Platoon Leader (Sec 1) </strong>
+<br>Ng Siew Jing (3 Excellence)
+<br>
+<br><strong>Head Admin </strong>
+<br>Choa Hui Yi Danielle (3 Care)
+<br>
+<br><strong>Assistant Head </strong>
+<br>Alwyna Qodira (3 Service)
+<br>
+<br><strong>Head Logistics</strong>
+<br>Cheong Yong An (3 Care)</p>
 </div>
 </details>
 </div>
