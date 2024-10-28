@@ -144,30 +144,23 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h5>GSC EXCO</h5>
-<p><strong>Chairperson<br></strong>Thanakrit Yeo, 3 Courage</p>
-<p><strong>Vice-Chairperson<br></strong>Eden Tang Yi Xuan, 3 Integrity</p>
-<p><strong>Vice-Chairperson<br></strong>Eva Leong Yu Hua, 3 Steadfastness</p>
-<p><strong>Secretary<br></strong>Teo Zhe Ann, 3 Resilience</p>
-<p><strong>Head Discipline/Welfare<br></strong>Ee Zheng Jie, 3 Resilience</p>
-<p><strong>Head Logistics<br></strong>Muhammad Illyas Bin Muhammad Faizal,
-3 Excellence</p>
-<h5>Wildlife - Outreach Committee</h5>
-<p><strong>Head<br></strong>Eden Tang Yi Xuan, 3 Integrity
-<br><strong>Discipline/Welfare<br></strong>Cho Yuan, 2E1
-<br><strong>Logistics<br></strong>Jovia Khoo Lin Ying, 2N2
-<br>
-</p>
-<h5>Composting-Recycling Committee</h5>
-<p><strong>Head<br></strong>Eva Leong Yu Hua, 3 Steadfastness
-<br><strong>Discipline/Welfare<br></strong>Chow Wei Xuan, 2N1
-<br><strong>Logistics<br></strong>Felix Cheam Kai Hao, 2E3
-<br>
-</p>
-<h5>Gardening- Upcycling Committee</h5>
-<p><strong>Head<br></strong>Ee Zheng Jie, 3 Resilience
-<br><strong>Discipline/Welfare<br></strong>Phoebe Zhao Zhirou, 2E4
-<br><strong>Logistics<br></strong>Khloe Tan Le En, 2E2</p>
+<p><strong>GSC EXCO</strong>
+<br><strong>Chairperson/ Head Discipline</strong>
+<br>Cho Yuan, 3 Resilience
+<br><strong>Vice-Chairperson 1/ Head Outreach-Audit</strong>
+<br>Jovia Khoo Lin Ying, 3 Service
+<br><strong>Vice- Chairperson 2/ Secretary</strong>
+<br>Chow Wei Xuan, 3 Care
+<br><strong>Head- Logistics</strong>
+<br>Felix Cheam Kai Hao, 3 Steadfastness</p>
+<p>
+<br>Assistant Head Outreach-Audit: Klaivert Soo, 2 Steadfastness
+<br>Head Recycling: Iffah Syakirah Binte Mohammad Faizal, 3 Gratitude
+<br>Head Upcycling: Zhao Zhirou Phoebe, 3 Steadfastness
+<br>Assistant Head Upcycling: Khloe Tan Le En, 3 Integrity
+<br>Head Gardening: Tok Le Qi, 2 Steadfastnes
+<br>Assistant Head Gardening: Mohamad Hyian Danish Bin Mohamed Junaidy, 2
+Steadfastness</p>
 </div>
 </details>
 </div>
