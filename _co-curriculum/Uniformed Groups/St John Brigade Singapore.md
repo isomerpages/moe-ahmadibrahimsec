@@ -14,26 +14,35 @@ variant: tiptap
 Utilitate Hominum’, which stands for ‘For The Faith’ and ‘For The Service
 Of Mankind’ respectively. Our corps seeks to train and develop cadets into
 confident, reliable and clear-headed leaders who contributes to the school
-and community actively.
-<br>
+and community actively. We offer a wide variety of programmes that equip
+cadets with life-saving skills such as First-Aid, Home Nursing, Transportation
+Of Casualties (TOC) and Footdrill. Our cadets participates actively in
+the Annual Hospital Attachment, Annual Walkathon, and Flag Day. Our cadets
+also partake in leadership training programmes such as the Zone Non-Commissioned
+Officer Course (NCOC) and Corps Trainer Course (CTC) which helps improve
+cadets’ leadership skills and broaden their way of thinking. With the Cadet
+Proficiency Badge Scheme (CPBS), cadets are able to gain other skills through
+different types of enriching courses and obtain different badges such as
+Leadership, Nursing Care, Shooting, Heart Saver and many more.</p>
+<blockquote>
+<p><em>“Being a part of SJAB has imparted invaluable lessons, particularly in taking initiative and leading. These skills have greatly contributed to my growth, making me a more confident and outgoing person. I am now more receptive to new experiences. The challenges I encountered in the CCA have instilled in me the values of resilience and excellence. I have learned to persevere and always strive for the best. I am deeply grateful to my corps and officers, whose support has been instrumental in my journey. SJAB has truly become a second home to me.” </em>
 </p>
-<p>We offer a wide variety of programmes that equip cadets with life-saving
-skills such as First-Aid, Home Nursing, Transportation Of Casualties (TOC)
-and Footdrill. Our cadets participates actively in the Annual Hospital
-Attachment, Annual Walkathon, and Flag Day. Our cadets also partake in
-leadership training programmes such as the Zone Non-Commissioned Officer
-Course (NCOC) and Corps Trainer Course (CTC) which helps improve cadets’
-leadership skills and broaden their way of thinking. With the Cadet Proficiency
-Badge Scheme (CPBS), cadets are able to gain other skills through different
-types of enriching courses and obtain different badges such as Leadership,
-Nursing Care, Shooting, Heart Saver and many more.</p>
-<p><em>“Being in SJBS taught me a lot of meaningful life lessons that I can never learn outside, such as being there for each other during times of need and daring to lead. It also gave me useful skills that I can use in the future such as first aid and home nursing. Despite going through hard times in this CCA, I always remind myself I am never doing this alone because my platoon is always by my side. To me, SJBS is my second family.”</em>
+<p><strong>- SITI AISYAH BINTE PUNGOT (S2-INTEGRITY)</strong>
 </p>
-<p><strong>-Loke Xin Yue, 5N1</strong>
+</blockquote>
+<p></p>
+<hr>
+<p></p>
+<blockquote>
+<p><em>“Joining SJAB has been one of the most rewarding experiences of my school life. The district and brigade events are not only fun but also provide a unique opportunity to forge lifelong friendships. Through SJAB, I have learned essential skills such as first aid and home nursing, which are invaluable in everyday life. Although the CCA can be challenging, the unwavering support and camaraderie from my platoonmates and district friends make it all worthwhile. Together, we face challenges and grow, always ensuring we have each other's backs."</em> 
 </p>
+<p><strong>- WONG JIAAN LEROY (S3-EXCELLENCE)</strong>
+</p>
+</blockquote>
+<p></p>
+<p>Mission</p>
 <ul>
 <li>
-<p>Mission</p>
 <p>Pro Fide, Pro Utilitate Hominum (For the Faith, For the Service of Humanity)</p>
 </li>
 <li>
