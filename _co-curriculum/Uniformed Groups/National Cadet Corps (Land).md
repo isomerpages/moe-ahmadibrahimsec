@@ -60,9 +60,11 @@ to the corps.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Achievements</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Best Unit Competition:<br></strong>** Best Unit Competition: Results
 reflect the performance of the previous year.
 <br>2011: Gold
@@ -84,7 +86,10 @@ SYAFIQ BIN HANISS
 <br>2019: MSG (NCC) HOE JOTHAM
 <br>2020: MSG (NCC) SATHIAH ELAMARAN
 <br>2021: MSG (NCC) AZRAEI SHAHRIEZAL BIN JAMIL</p>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Gallery</p>
 <div class="iframe-wrapper">
