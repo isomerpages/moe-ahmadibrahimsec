@@ -80,6 +80,35 @@ CCA Exposure!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Awards</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Gold Achievement Award
+<br>Nursing Cadet
+<br>Overall Second Runner Up
+<br>Best in Footdrills
+<br>Best in Home Nursing</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Participation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>First Aid support at school events, i.e. Sports Carnival Achievement Day
+Parade Contingent National Day Parade Contingent 2 of our cadets were part
+of the Singapore National Day Parade SJAB Marching Contingent: MOHAMAD
+AQIL BIN MOHAMAD NIZAM 2-GRATITUDE AQIL RAIYAN BIN MOHAMED RIDWAN 2-RESILIENCE
+3 of our students took part as Official First Aiders for the National Day
+Parade at the padang: Ng Siew Jing 3 Excellence Wong Jiaan Leroy 3 Excellence
+Ong Ting Hao Lucas 3 Integrity 2 of our cadets took part in the Trooping
+of Colours Parade: WONG JIAAN LEROY S3-EXCELLENCE LUCAS ONG TING HAO S3-INTEGRITY</p>
+</div>
+</details>
+</div>
 <p>Training Schedule</p>
 <p><strong>Wednesday (Competition Training in Term 1)<br></strong>3.40 to
 6.00 pm</p>
