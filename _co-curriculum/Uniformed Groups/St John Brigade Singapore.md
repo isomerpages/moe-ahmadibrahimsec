@@ -119,27 +119,46 @@ Day Parade at the Padang:
 </div>
 </details>
 </div>
-<p>Training Schedule</p>
-<p><strong>Wednesday (Competition Training in Term 1)<br></strong>3.40 to
-6.00 pm</p>
-<p><strong>Friday<br></strong>2.30 to 6.00 pm</p>
-<p>Note: Competitions may be held on Sat</p>
-<p>Student Leaders</p>
-<p><strong>Corp Sergeant Major<br></strong>Tew Xin Yi (3E4)</p>
-<p><strong>Regimental Sergeant Major<br></strong>Azyan Binte Zaini(3N1)</p>
-<p><strong>Platoon Leader (Sec 2)<br></strong>Avari Heng Tian Ting&nbsp;(3N1)</p>
-<p><strong>Platoon Leader (Sec 1)<br></strong>Tok Zhi Qi&nbsp;(3N1) &amp;&nbsp;Tiffany
-Tan Xin Fei (3T1)</p>
-<p><strong>Head Admin<br></strong>Presha Rani Sugumaran&nbsp;(3E2)</p>
-<p><strong>Head Logistics<br></strong>Amelia Michelle Jonaidy (3N1)</p>
-<p>Teachers In Charge</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Wednesday </strong>
+<br>3.30 to 5.30 pm
+<br>
+<br><strong>Friday </strong>
+<br>2.30 to 5.30 pm
+<br>
+<br><strong><em>Note:</em></strong><em> Competitions and workshops may be held on Saturday.</em>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mdm Hafizhah Jamel (OIC)<br>Contact:&nbsp;<a href="mailto:hafizhah_jamel@moe.edu.sg" rel="noopener noreferrer nofollow" target="">hafizhah_jamel@moe.edu.sg</a></strong>
 </p>
 <p>Ms Chia Yun Xin
 <br>Ms Ching Loo May
 <br>Mr Tan Yee Herng Zest</p>
-<p></p>
-<p>Gallery</p>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfdbK7NXIudaT_0LZX-s82NlqE3DDJIv-tjTF8CBWjhPhKUFiOHq87NAD_b66gWIScYDm-sDM3gCNZ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
