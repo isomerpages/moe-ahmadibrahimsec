@@ -67,9 +67,11 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Achievements</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>2019</u></strong><u><br></u>Documentary Making Competition:
 2nd Placing</p>
 <ul data-tight="true" class="tight">
@@ -105,7 +107,7 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 </li>
 </ul>
 <p><strong><u>2017<br></u></strong>School Green Award (Lotus Award)</p>
-</li>
+<ul>
 <li>
 <p>Participation</p>
 <p>NEA Environment Champion Programme
@@ -115,14 +117,15 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 <br>WWF Leadership Programme
 <br>Nature Society (Singapore) Every Singaporean A Naturalist (NSS-ESN) Programme</p>
 </li>
-<li>
-<p>Gallery</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKgoX2TMJv4jvgXieyhy9HuCzMpyh4h6WeYWL-0FMxQzBVztw2WcvhyEuKHg66LtxP2sSs3OPx9w6V/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</ul>
 </div>
-</li>
-<li>
-<p>Training Schedule</p>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
 <br>3.45 – 5.45 PM
 <br>
@@ -133,7 +136,10 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 </p>
 <p><strong>Venue</strong>
 <br>SR3/4T2/4N2</p>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Student Leaders</p>
 <h5>GSC EXCO</h5>
@@ -173,4 +179,10 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 <br>Mr Ng Qi Qin, Gary (Wu Qiqin)</p>
 </li>
 </ul>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKgoX2TMJv4jvgXieyhy9HuCzMpyh4h6WeYWL-0FMxQzBVztw2WcvhyEuKHg66LtxP2sSs3OPx9w6V/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
+<p></p>
 <p></p>
