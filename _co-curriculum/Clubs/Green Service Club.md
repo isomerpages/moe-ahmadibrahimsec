@@ -154,13 +154,18 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 <br><strong>Head- Logistics</strong>
 <br>Felix Cheam Kai Hao, 3 Steadfastness</p>
 <p>
-<br>Assistant Head Outreach-Audit: Klaivert Soo, 2 Steadfastness
-<br>Head Recycling: Iffah Syakirah Binte Mohammad Faizal, 3 Gratitude
-<br>Head Upcycling: Zhao Zhirou Phoebe, 3 Steadfastness
-<br>Assistant Head Upcycling: Khloe Tan Le En, 3 Integrity
-<br>Head Gardening: Tok Le Qi, 2 Steadfastnes
-<br>Assistant Head Gardening: Mohamad Hyian Danish Bin Mohamed Junaidy, 2
-Steadfastness</p>
+<br><strong>Assistant Head Outreach-Audit</strong>
+<br>Klaivert Soo, 2 Steadfastness
+<br><strong>Head Recycling</strong>
+<br>Iffah Syakirah Binte Mohammad Faizal, 3 Gratitude
+<br><strong>Head Upcyclin</strong>
+<br>Zhao Zhirou Phoebe, 3 Steadfastness
+<br><strong>Assistant Head Upcycling</strong>
+<br>Khloe Tan Le En, 3 Integrity
+<br><strong>Head Gardening</strong>
+<br>Tok Le Qi, 2 Steadfastnes
+<br><strong>Assistant Head Gardening</strong>
+<br>Mohamad Hyian Danish Bin Mohamed Junaidy, 2 Steadfastness</p>
 </div>
 </details>
 </div>
