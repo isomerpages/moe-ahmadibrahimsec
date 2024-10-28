@@ -22,9 +22,59 @@ the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/green%20service%20club.JPG">
 </div>
-<p><strong><em><sub>Standing (Left to Right): Vice-Chairpersons</sub></em></strong><em><sub><br>Eden Tang Yi Xuan (3Integrity 2023) and Eva Leong Yu Hua (3Steadfastness 2023)<br></sub></em><strong><em><sub>Seated: Chairperson</sub></em></strong><em><sub><br>Thanakrit Yeo (3Courage 2023)</sub></em>
+<p><strong><em><sub>Standing (Left to Right): Vice-Chairpersons</sub></em></strong><em><sub><br>Eden Tang Yi Xuan (3 In 2023) and Eva Leong Yu Hua (3 St 2023)<br></sub></em><strong><em><sub>Seated: Chairperson</sub></em></strong><em><sub><br>Thanakrit Yeo (3 Co 2023)</sub></em>
 </p>
 </blockquote>
+<p></p>
+<hr>
+<p></p>
+<blockquote>
+<p>Over the past three years with the Green Service Club (GSC), I've encountered
+significant challenges during projects like the Greenwave Initiative in
+2022 and a demanding video project in 2023. Through these experiences,
+I've come to appreciate the importance of discipline, resilience, and perseverance
+in seeing projects through to completion. Beyond personal growth, my involvement
+in GSC has profoundly deepened my awareness of environmental issues and
+equipped me with invaluable knowledge about the state of our natural environment.</p>
+<p><strong>– Cho Yuan, Chairperson, 3 Re (2024)</strong>
+</p>
+</blockquote>
+<p></p>
+<hr>
+<p></p>
+<blockquote>
+<p>Being the Vice-Chairperson in GSC is challenging, yet manageable as I
+work along well with my fellow CCA leaders. Back in Sec 1, I was the enthusiastic
+member of my batch as I worked hard to learn more about my CCA, and also
+wished to hold a leadership position one day. However, when I took up the
+leadership role as a Vice-Chairperson, I realise that I was not as capable
+as I thought I’ll be to handle such responsibilities. However, I pressed
+on and learn the ropes. Then I realise that honing the leadership skills
+requires time and effort to attain the results that I wish to achieve.
+Handling my committee may be tough, but I knew I could strive towards my
+victory if I just take the first leap of faith.</p>
+<p><strong>– Jovia Khoo Lin Ying, Vice-Chairperson/ Head Outreach-Audit, 3 Service (2024) </strong>
+<br>
+</p>
+</blockquote>
+<p></p>
+<hr>
+<p></p>
+<blockquote>
+<p>Being the Vice-Chairperson of GSC has been incredibly challenging. I suffered
+many setbacks but I managed to push myself through. At the start of sec
+1, I was very shy, but through the 3 years of CCA and with the help of
+my fellow EXCOs and members, my confidence grew. I am able to present in
+front of our GSC class, and also interact more with my juniors. This allows
+me to understand them better. Our activities are very interesting and fun,
+e.g. in our effort put into our gardening project, we were able to grow
+and harvested about 10kg of a vegetable (kang-kong). Being in GSC helps
+me understand the environmental issues faced by the world and also loaded
+me with important knowledge of our current state of environment.</p>
+<p><strong>– Chow Wei Xuan, Vice- Chairperson/ Secretary, 3 Ca (2024)</strong>
+</p>
+</blockquote>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mission</strong>
