@@ -47,21 +47,33 @@ Outreach committees.</p>
 <p>Some of our activities include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a CCA showcase during the Sec 1 CCA carnival, and exposure activities
-for Sec 1 CCA orientation,</p>
+<p>A CCA showcase during the annual Sec 1 CCA carnival, and exposure activities
+for sec 1 CCA orientation</p>
 </li>
 <li>
-<p>school CNY decorations using upcycled materials, providing 3’R’ services
-to teachers for CNY spring cleaning, and CNY food donation drive for Sree
-Narayana Mission (Singapore),</p>
+<p>School CNY decorations using upcycled materials, 3 ‘R’ services e.g. pass
+it on corner to recycled used books, re-use printed papers, spring cleaning
+services for staff, recycling of drink cans project, gardening projects,
+electrical audit where classrooms and facilities are checked to switch
+off the appliances. and CNY food donation drive for Sree Narayana Mission
+(Singapore)</p>
 </li>
 <li>
-<p>self-initiated learning and nature exploration hikes by GSC leaders, and
+<p>Self-initiated learning and nature exploration hikes by GSC leaders, and
 training workshop for GSC leaders,</p>
 </li>
 <li>
-<p>our yearly GSC Green Carnival with games and presentation booths, and
-yearly participation in Sembcorp Marine Greenwave Competition.</p>
+<p>Our annual GSC Green Carnival, mainly to commemorate Earth Day, Earth
+hour with games and presentation booths.</p>
+</li>
+<li>
+<p>Green learning journeys to interesting venues e.g. Edible Garden City,
+Tzu Chi Humanisitic Youth Centre.</p>
+</li>
+<li>
+<p>Annual participation in competitions e.g. SembCorp Marine Greenwave competition,
+PacificLight Crea8 Sustainability competition, and Interschool Eco Challenge
+by Yeaptransport (Green Journeys)</p>
 </li>
 </ul>
 </div>
@@ -104,6 +116,7 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 </li>
 <li>
 <p>Muhammad Ilhaam Putra Wirajaya</p>
+<p></p>
 </li>
 </ul>
 <p><strong><u>2017<br></u></strong>School Green Award (Lotus Award)</p>
@@ -123,7 +136,7 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Training Schedule</strong>
+<summary><strong>Training Schedule &amp; Venue</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
@@ -131,11 +144,9 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 <br>
 <br><strong>Friday</strong>
 <br>2.00 – 4.00 PM</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Venue</strong>
-<br>SR3/4T2/4N2</p>
+<br>S2-5 (main room) and S2-4</p>
 </div>
 </details>
 </div>
@@ -169,17 +180,19 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
-<ul>
-<li>
-<p>Teachers In Charge</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Tow Swee Ai Emily (OIC)<br>Contact:&nbsp;<a href="mailto:tow_swee_ai_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tow_swee_ai_emily@moe.edu.sg </a></strong>
 <br>Mdm Khoo Tee Mian
-<br>Mr Ng Qi Qin, Gary (Wu Qiqin)</p>
-</li>
-</ul>
+<br>Mr Ng Qi Qin, Gary (Wu Qiqin)
+<br>
+</p>
+</div>
+</details>
+</div>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
