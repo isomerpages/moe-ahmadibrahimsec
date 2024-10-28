@@ -139,9 +139,11 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Student Leaders</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h5>GSC EXCO</h5>
 <p><strong>Chairperson<br></strong>Thanakrit Yeo, 3 Courage</p>
 <p><strong>Vice-Chairperson<br></strong>Eden Tang Yi Xuan, 3 Integrity</p>
@@ -165,13 +167,14 @@ yearly participation in Sembcorp Marine Greenwave Competition.</p>
 <h5>Gardening- Upcycling Committee</h5>
 <p><strong>Head<br></strong>Ee Zheng Jie, 3 Resilience
 <br><strong>Discipline/Welfare<br></strong>Phoebe Zhao Zhirou, 2E4
-<br><strong>Logistics<br></strong>Khloe Tan Le En, 2E2
-<br>
-</p>
+<br><strong>Logistics<br></strong>Khloe Tan Le En, 2E2</p>
+</div>
+</details>
+</div>
 <p>
 <br>
 </p>
-</li>
+<ul>
 <li>
 <p>Teachers In Charge</p>
 <p><strong>Ms Tow Swee Ai Emily (OIC)<br>Contact:&nbsp;<a href="mailto:tow_swee_ai_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tow_swee_ai_emily@moe.edu.sg </a></strong>
