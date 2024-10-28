@@ -23,14 +23,12 @@ variant: tiptap
 <p>SBusiness Development Manager
 <br>Straits Times Singaporean of the Year 2021
 <br>Graduate of 2009</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/alumni___mr_sakthibalan_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___mr_sakthibalan_1.jpg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/alumni___mr_sakthibalan_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___mr_sakthibalan_2.jpg">
 </div>
 <p><em>**ST Singaporean of the Year&nbsp;Sakthibalan&nbsp;Balathandautham donated part of his liver to a little girl he had never met.&nbsp;ST PHOTO: ARIFFIN JAMAR**</em>
 <br>
@@ -108,7 +106,7 @@ that gets you over each and every wall.</p>
 <br>ManagingDirector, Manjaya Pte Ltd
 <br>Director, Cloudfield Pte Ltd</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/alumni___Mohamed_Razaleigh.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Mohamed_Razaleigh.jpg">
 </div>
 <p>Photo with Ms Tan Ke-Xin after giving NS Talk in AI in August 2023</p>
 <p></p>
@@ -215,8 +213,9 @@ on society. Embrace the opportunity to serve, learn and grow.</p>
 <p>Class of 2000
 <br>Associate Professor, Food, Chemical and Biotechnology Cluster
 <br>Singapore Institute of Technology</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/alumni___Adison_Wong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Adison_Wong.jpg">
 </div>
 <p><strong>What is your fondest memory of life in AI?</strong>
 </p>
@@ -293,9 +292,8 @@ the rewards will arrive at the right moment!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Class of 2004
 <br>Internal Medicine Consultant, Tan Tock Seng Hospital</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/alumni___Chua_Shumin_Eunice.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Chua_Shumin_Eunice.jpg">
 </div>
 <p><strong>What is your fondest memory of life in AI?</strong>
 </p>
@@ -336,8 +334,359 @@ everyday things because self-discipline is needed for any kind of success.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Siti Adilah Abu Bakar</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 1988
+<br>Counsellor
+<br>Director, APKIM Resources</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___siti_adilah.png">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p></p>
+<p>It was wonderful how the programs and structure of AI brought out the
+kampung atmosphere of 'gotong royong' where students from various levels
+and classes worked together in making each milestone a success in itself.
+My fondest memory must be the time I spent in my CCAs and the time I spent
+representing AI for the interschool Debate Competition (Malay Language)
+in 1988. AI was the National Champion the previous year and the pressure
+for us to win was huge! We only had 1 week to prepare for the next qualifying
+round and it was hectic. There were a lot of other students who were helping
+us in the background, doing research, preparing props and being the alternate
+team for us to practice. Our seniors came back to help us in our trainings.
+The teacher in charge, Cikgu Rahmah Abdullah, was instrumental in bringing
+the team and all the other students together as we were from different
+classes, and she pushed us all to shine. We won the National competition
+and brought back the trophy. It was such a pleasant memory with the deafening
+cheers from busloads of supporters.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>AI was a place that provided a safe space for students to explore their
+ideas and interests. No matter what our level of ability was, once we showed
+interest, the Teachers and Seniors would coach us so that we could improve
+our skills and abilities. We were always encouraged to take the initiative
+to plan and organize activities. I believe this helped us to always 'think
+out of the box' and this has helped me in my working life as I have to
+deal with many challenges of running my agency and needed to find various
+unconventional ways to resolve them. AI has such a good pool of teachers
+who were always supportive. I remember there was a time when my friends
+and I were staying back after school and we were stuck on a Math problem.
+A random Math teacher was passing by and we ran up to him to ask for help.
+He sportingly taught us the Math concepts in the middle of the canteen.
+The approachable nature of the teachers helped create the environment that
+was conducive for students to reach out and be resourceful. This in turn
+helped me have a 'can-do' attitude where I will explore ways to achieve
+what I want.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>After AI, I went to Raffles Junior College. This was a pleasant achievement
+as I was not among the top students in my class and neither was I from
+the top few classes in my level. I went on to do my degree in NUS, Masters
+in Economics in IIUM and another Masters in Counselling in UniSA. I am
+currently heading APKIM Resources, an agency that provides counselling,
+adoption services and programs for couples and families. I still take up
+a few clients for marital counseling but I mainly do adoption counseling,
+for birth families considering to give up their child for adoption.</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>Since I was a student, I have always been involved in planning and running
+programs. I love providing services where I can be directly involved with
+the people I serve. Hence, when I was given an opportunity to lead APKIM,
+I did not hesitate and left my job at a Statutory Board. I enjoy being
+a part of the team that gives our clients a safe space where their voices
+are heard, they are able to work on their issues and where relationships
+and families are formed in adoption works. Couples attending our marriage
+preparation or enrichment programs gain significant insights and are more
+aware of relevant issues. I continue to be enriched as I perform my job
+and I am grateful to be privileged to learn directly from the diverse life
+experiences of APKIM's clients.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Give your 100% focus in whatever you do and do not be afraid to reach
+out for help. The resources are available for you to use wisely so do grab
+the opportunities. After you have given your best, be proud of yourself
+because the effort is what matters most. Last but not least, be kind and
+supportive to one another and have lots &amp; lots of fun!</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Lou Hong Yeow</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 2011
+<br>Physiotherapist, Changi General Hospital
+<br>National Team Captain for Olympic Wrestling
+<br>SEA Games Bronze Medalist (2019, 2023)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Lou_Hong_Yeow.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p></p>
+<p>Spending time in making some of the best friends in life that I kept till
+today.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>I was slightly slower in terms of learning, perhaps due to my short attention
+span, and my playful nature during my younger days proved to be challenging.
+I am thankful for the slower pace of learning in the Normal Academic Stream
+and having nurturing teachers and great friends alongside me to tide me
+through my budding years.</p>
 <p></p>
 <p></p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>I am currently working as a physiotherapist in Changi General Hospital
+for 2 years - I was awarded the Bachelor of Science in Physiotherapy, Honours
+with Merit from SiT-TCD - I was also the recipient of the MOHH Healthcare
+Merit Award for Physiotherapy from 2017-2021 - I also represent Singapore
+in Olympic Wrestling as the current National Team Captain - I have been
+to the SEA Games 3x, Commonwealth Games 1x - 2x Bronze medalist at the
+2019 and 2023 SEA Games.</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>As an athlete, I had a few injuries, some minor, some requiring surgeries.
+My physiotherapist played a major in my rehabilitation journey. They helped
+me to return to my sport, competitively at a national and regional level.
+I wish to pay it forward and help other athletes who are facing what I
+faced, helping them to get back on their feet. (This was my original intent)
+However, having worked in the field for 2 years, I enjoy helping everyday
+people from young adults to the elderly to get back to doing what is important
+to them, adding life to years.</p>
+<p></p>
+<p><strong><a href="https://www.singaporetech.edu.sg/news/wrestlers-who-are-tenacious-healing-others" rel="noopener noreferrer nofollow" target="_blank">https://www.singaporetech.edu.sg/news/wrestlers-who-are-tenacious-healing-others</a></strong>
+</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Be inquisitive, open to learning, and strive to be better. Your start
+point will not dictate your endpoint.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Kok Yee Keong</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 2005
+<br>Of Counsel, Harry Elias Partnership LLP
+<br>Legal Skills Instructor, NUS Law School</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Kok_Yee_Keong.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p></p>
+<p>My time as an alto saxophonist in AISS military band / symphonic band
+in 2002-2005, where we did drills, marching, sectionals, music practice
+every alternate day, and various other bonding activities. As well as playing
+leisure basketball in school after lessons every other day (when there
+was no band activities) until the evening when the school compound is closing
+and the Indian security guard will holler "deng chu liao!" to us (Hokkien
+for "time to go home!", but he said it in an endearing manner), and thereafter,
+often moving over to Chong Pang CC or Block 111 to continue playing basketball
+until past dinner time. Forged many fond memories and best friends during
+these times.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>Band instilled in me discipline, focus, the collective team spirit, and
+we-can-do-it attitude. Basketball reminded me to always have fun and hang
+out with friends despite the tough rigours of school and CCA. Being in
+a neighbourhood school where it was truly a melting pot of races, backgrounds
+and life experiences, has taught me to be grounded, the human touch in
+interpersonal relationships, and different perspectives in life.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>I went on to Anderson Junior College, then NUS Law School. Now practising
+as a dispute lawyer with Harry Elias Partnership LLP: <a href="https://www.harryelias.com/of-counsel/kok-yee-keong" rel="noopener noreferrer nofollow" target="_blank">https://www.harryelias.com/of-counsel/kok-yee-keong</a> Also
+a Legal Skills Instructor with NUS Law School: <a href="https://law.nus.edu.sg/people/yee-keong-kok/" rel="noopener noreferrer nofollow" target="_blank">https://law.nus.edu.sg/people/yee-keong-kok/</a> During
+my time in National Service, I started grassroots volunteering with Chong
+Pang CC (where I used to hang out very often after school and thus formed
+a connection of sorts).&nbsp;</p>
+<p></p>
+<p>Some achievements include:&nbsp;</p>
+<p>(1) Teaching the Legal Analysis, Research and Communication (LARC) module
+to a class of 10 to 13 first-year students, twice a week, over 2 semesters,
+at NUS Law School.&nbsp;</p>
+<p>(2) Named as one of Singapore’s 18 most influential lawyers under 40 by
+the Singapore Business Review in 2021.&nbsp;</p>
+<p>(3) Served as a young amicus curiae (friend of court) in a High Court
+case on novel issues of law.&nbsp;</p>
+<p>(4) Best Feature Article by a Young Lawyer 2021, Law Gazette, Law Society
+of Singapore&nbsp;</p>
+<p>(5) Volunteering on various legal committees, such as the Personal Injury
+/ Property Damage (PIPD) Committee, and the Community Legal Clinics (CLC)
+Committee.&nbsp;</p>
+<p>(6) Volunteering at various legal clinics and Criminal Legal Aid Scheme
+(CLAS).&nbsp;</p>
+<p>(7) Appeared in all levels of Court on diverse subject matters.&nbsp;</p>
+<p>(8) Grassroots Leader with Chong Pang CC for over 14 years, and on its
+CCMC and CPYN.</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>When I was choosing a university course, I sought an occupation that satisfied
+2 criteria: (1) ability to help people directly, and (2) opportunity to
+meet people on almost daily basis. Surprisingly, I did well at 'A' levels.
+The old-school mindset of "don't waste good grades" kicked-in, and therefore,
+I applied for medicine school first, and law school second, with NUS. I
+was rejected by medicine school, and ended up in law school.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Thoroughly enjoy your schooling days, and make lasting friends! It is
+one of the last opportunities in your lifetime to organically befriend
+people, and to do 'silly' things with them which later become cherished
+memories. When you grow older and enter the workforce, you will look back
+and either recall these fond memories, or regret that you haven't done
+(enough of) this or that. I wish the former upon you!</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Tang Ling Nah</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Class of 1987
+<br>Artist, Educator, Curator,&nbsp;Activated C Studio
+<br>NAC Young Artist Award (Art) 2004
+<br>Created 'Walking into the Interstitial' (2022) - Marina Bay Station TEL</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni/alumni___Tang_Ling_Nah.jpg">
+</div>
+<p><strong>What is your fondest memory of life in AI?</strong>
+</p>
+<p></p>
+<p>There were so many fond memories, like singing together with my classmates
+during music lessons in Sec 1 and 2, and having my sketch titled The Modern
+Little Red Riding Hood selected and performed on stage during assembly
+with my classmates, as well as the move from Upper Thomson Road to the
+current Yishun location when I was in Sec 2. They were all memorable, not
+just for the events themselves, but because of the dedicated teachers and
+wonderful, fun and helpful classmates who were also involved! If I must
+choose the fondest memory, then it would be that of participating in the
+Inter-School Chemistry Speech Contest (now known as Chemistry•Communication
+Challenge, or “Chem-dot-Comm” organised by the Chemistry Department, National
+University of Singapore or NUS) when I was in Sec 4 with three other classmates.
+Our Chemistry teacher Ms Pauline Wee was very encouraging and tirelessly
+trained us in researching the topic, selecting the essential materials
+and presenting orally before going for the competition. We practised in
+class and some classmates also offered helpful suggestions, and even assisted
+us prepare the slides. And the best of all was having the whole class supporting
+us at the NUS competition. We didn’t win any award, but the spirit of the
+whole class and the support given by teachers and the school really left
+a deep impression on me.</p>
+<p></p>
+<p><strong>How has AI shaped you into the person you are today?</strong>
+</p>
+<p></p>
+<p>AI’s all-rounded approach encouraged me to be open-minded and to develop
+my interests and explore new subjects and skills. Even though I majored
+in the Sciences (Biology, Chemistry and Physics), I was given the opportunity
+to study the humanities. I took literature and enjoyed it so much! It had
+helped me in my analytical and writing skills. I also recalled my Sec 2
+form teacher Mrs Lim Chin Tok who was also the art teacher asking me to
+consider taking up art at higher level. Sadly, I had to decline as I had
+already selected 9 subjects for my “O” Levels and I was afraid I couldn’t
+cope. The school also encouraged us to learn alongside the visually-challenged
+students and to show empathy and tolerance to all around us. The “care”
+element is thus crucial in training me to be more patient and considerate,
+and this has helped me in my work now—be it creating my own work, working
+with collaborators, teaching art students or dealing with clients.</p>
+<p></p>
+<p><strong>What did you do after AI?</strong>
+</p>
+<p></p>
+<p>After AI, I moved on to the then Anderson Junior College to study my ‘A’
+levels, majoring in the sciences—Biology and Chemistry. I was able to get
+the grades that allowed me to enrol in pharmacy at NUS. I managed to obtain
+a degree after 3 years and undergo a one-year pre-registration training
+before getting my licence as a pharmacist. After working for about 2 years,
+I felt that I needed to pursue something that I had always loved—art—because
+I couldn’t get any younger. So, at age 26, I went to study at LASALLE College
+of the Arts. The first art prize I won after my diploma proved that I might
+be able to pursue art as a career path, even though I knew it would be
+challenging. After obtaining my Bachelor of Arts (Fine Art), I gave up
+my pharmacy licence and practised art full-time. That was the greatest
+change in my life! Then between 2013–17, I became a student again and completed
+my third degree—Bachelor of Arts (Translation &amp; Interpretation)—in
+2018. I think the proudest moment of my artistic career was winning the
+Young Artist Award (Art) given by the National Arts Council in 2004 and
+receiving the award at the Istana, witnessed by my parents. Being in the
+2nd Singapore Biennale where I created a large-scale drawing installation
+that spanned over 4 inter-connected rooms was also memorable for me, not
+just because it was an important international art exhibition based in
+Singapore, but also giving me the opportunity to create a site-specific
+new work that showed the progress of my practice. Another important achievement
+would be the completion of the commissioned work Walking into the Interstitial
+by the Land Transport Authority at Marina Bay Station, Thomson-East Coast
+Line in November 2022.</p>
+<p><a href="https://linktr.ee/lingnahtang.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://linktr.ee/lingnahtang.sg</u></a>
+</p>
+<p><a href="https://linktr.ee/lingnahtang.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://theartling.com/en/artist/tang-ling-nah/</u></a>
+</p>
+<p></p>
+<p><strong>What inspired you to go down your career path?</strong>
+</p>
+<p></p>
+<p>Interestingly, I didn’t stay long in pharmacy—my first career path. I
+do have strong interests in biology and chemistry, inspired by the excellent
+teachers I had at Sec. 3 and 4. Their delivery was very clear and the lessons
+in the laboratory were lively and systematic. I had initially chosen to
+further my studies in pharmacy because I thought it was a field that required
+both Biology and Chemistry, and it would be interesting to know how medicines
+work and to help humankind in the treatment of diseases. But after two
+years as a pharmacist, I realised something was lacking and that I still
+love art. A friend falling sick and a song titled Dreams by my Taiwanese
+singer idol made me reflect on life’s ephemerality. I was then inspired
+to study art at LASALLE College of the Arts. Winning the Della Butcher
+Art Award after my diploma also marked a milestone in my artistic path.
+I went on to complete my Bachelor of Arts (Fine Art) and presented my first
+solo exhibition a year after graduation in 2002.</p>
+<p></p>
+<p><strong>What advice do you have for our students of today?</strong>
+</p>
+<p>Be open-minded and strive to learn as much things in life as you can.
+You may be passionate about one thing, but explore others as well to be
+aware of what is going on in other aspects of life, in this world. You
+may never know when you may need that knowledge or skills, e.g. learn to
+cook your own meals or even cut one’s hair! Once you have selected a path,
+stay focused and honest, work hard to get to your destination. Hear from
+different perspectives and examine all possibilities. Take the risks instead
+of overthinking. Learn to let go and be happy with what you have. You may
+not be able to get all you want, but so long as you know you have tried
+your best, give yourself a pat on the back! Show empathy and be considerate
+to people around you.</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Carine Ang CH</strong>
