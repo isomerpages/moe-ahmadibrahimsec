@@ -29,13 +29,10 @@ the community.</p>
 <hr>
 <p></p>
 <blockquote>
-<p>Over the past three years with the Green Service Club (GSC), I've encountered
-significant challenges during projects like the Greenwave Initiative in
-2022 and a demanding video project in 2023. Through these experiences,
-I've come to appreciate the importance of discipline, resilience, and perseverance
-in seeing projects through to completion. Beyond personal growth, my involvement
-in GSC has profoundly deepened my awareness of environmental issues and
-equipped me with invaluable knowledge about the state of our natural environment.</p>
+<p><em>"Over the past three years with the Green Service Club (GSC), I've encountered significant challenges during projects like the Greenwave Initiative in 2022 and a demanding video project in 2023. </em>
+<br><em>Through these experiences, I've come to appreciate the importance of discipline, resilience, and perseverance in seeing projects through to completion. </em>
+<br><em>Beyond personal growth, my involvement in GSC has profoundly deepened my awareness of environmental issues and equipped me with invaluable knowledge about the state of our natural environment."</em>
+</p>
 <p><strong>– Cho Yuan, Chairperson, 3 Re (2024)</strong>
 </p>
 </blockquote>
@@ -43,16 +40,10 @@ equipped me with invaluable knowledge about the state of our natural environment
 <hr>
 <p></p>
 <blockquote>
-<p>Being the Vice-Chairperson in GSC is challenging, yet manageable as I
-work along well with my fellow CCA leaders. Back in Sec 1, I was the enthusiastic
-member of my batch as I worked hard to learn more about my CCA, and also
-wished to hold a leadership position one day. However, when I took up the
-leadership role as a Vice-Chairperson, I realise that I was not as capable
-as I thought I’ll be to handle such responsibilities. However, I pressed
-on and learn the ropes. Then I realise that honing the leadership skills
-requires time and effort to attain the results that I wish to achieve.
-Handling my committee may be tough, but I knew I could strive towards my
-victory if I just take the first leap of faith.</p>
+<p><em>"Being the Vice-Chairperson in GSC is challenging, yet manageable as I work along well with my fellow CCA leaders. </em>
+<br><em>Back in Sec 1, I was the enthusiastic member of my batch as I worked hard to learn more about my CCA, and also wished to hold a leadership position one day. However, when I took up the leadership role as a Vice-Chairperson, I realise that I was not as capable as I thought I’ll be to handle such responsibilities. </em>
+<br><em>However, I pressed on and learn the ropes. Then I realise that honing the leadership skills requires time and effort to attain the results that I wish to achieve. Handling my committee may be tough, but I knew I could strive towards my victory if I just take the first leap of faith."</em>
+</p>
 <p><strong>– Jovia Khoo Lin Ying, Vice-Chairperson/ Head Outreach-Audit, 3 Service (2024) </strong>
 <br>
 </p>
@@ -61,16 +52,10 @@ victory if I just take the first leap of faith.</p>
 <hr>
 <p></p>
 <blockquote>
-<p>Being the Vice-Chairperson of GSC has been incredibly challenging. I suffered
-many setbacks but I managed to push myself through. At the start of sec
-1, I was very shy, but through the 3 years of CCA and with the help of
-my fellow EXCOs and members, my confidence grew. I am able to present in
-front of our GSC class, and also interact more with my juniors. This allows
-me to understand them better. Our activities are very interesting and fun,
-e.g. in our effort put into our gardening project, we were able to grow
-and harvested about 10kg of a vegetable (kang-kong). Being in GSC helps
-me understand the environmental issues faced by the world and also loaded
-me with important knowledge of our current state of environment.</p>
+<p><em>"Being the Vice-Chairperson of GSC has been incredibly challenging. I suffered many setbacks but I managed to push myself through. </em>
+<br><em>At the start of sec 1, I was very shy, but through the 3 years of CCA and with the help of my fellow EXCOs and members, my confidence grew. I am able to present in front of our GSC class, and also interact more with my juniors. This allows me to understand them better. Our activities are very interesting and fun, e.g. in our effort put into our gardening project, we were able to grow and harvested about 10kg of a vegetable (kang-kong). </em>
+<br><em>Being in GSC helps me understand the environmental issues faced by the world and also loaded me with important knowledge of our current state of environment."</em>
+</p>
 <p><strong>– Chow Wei Xuan, Vice- Chairperson/ Secretary, 3 Ca (2024)</strong>
 </p>
 </blockquote>
