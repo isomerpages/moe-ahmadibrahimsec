@@ -28,7 +28,7 @@ amongst the cadets, competitions are included as part of the training curriculum
 NCC cadets are also engaged in community service, so as to help develop
 their sense of social responsibility.</p>
 <blockquote>
-<p><em>“As I reflect, I was glad that I joined NPCC. NPCC made me realized how capable I am of being a leader and the importance of having self-discipline. Through all the trainings, NPCC taught me how to be confident leader and believe that it is fine to make mistakes as it is part of the process. I was given various opportunities to lead and guide others and I appreciate all these learning experiences that has truly shaped me to who I am today!” </em>
+<p><em>“As I reflect, I was glad that I joined NPCC. NPCC made me realized how capable I am of being a leader and the importance of having self-discipline. Through all the trainings, NPCC taught me how to be confident leader and believe that it is fine to make mistakes as it is part of the process. I was given various opportunities to lead and guide others and I appreciate all these learning experiences that has truly shaped me to who I am today!”</em>
 </p>
 <p><strong>- SI (NPCC) NUR NAYLI BINTE ROMI SOFHIAN, 4N1 (2023)</strong>
 </p>
@@ -149,22 +149,52 @@ Redzuan Bin Mohammad Hanip</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>AISS NPCC Unit Executive Committee 24/25 Chairman: CPL (NPCC) AMANDA LIEW
-JING XI Vice-Chairman: CPL (NPCC) MAGSINO PIO MARTIN GARCIA Secretary:
-CPL (NPCC) KDYS TAN ROSEANNE Training Unit Head, Training: CPL (NPCC) NG
-YU XUAN CONSTANCE Member: CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS CPL (NPCC)
-EUGENE CHEOK JIA RUI Head, Testing: CPL (NPCC) AHMAD ZAQY BIN JASNI Member:
-CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR CPL (NPCC) INSYIRAH ANDRIYANINGSIH
-BINTE ISMAIL Function &amp; Activity Department Head, FA: CPL (NPCC) MUHAMMAD
-FAKHRY DANISH BIN KAHARUDIN CPL (NPCC) NUR MARSYA DANIA BINTE DAHLAN Member:
-CPL (NPCC) INSYIRAH ANDRIYANINGSIH BINTE ISMAIL (Welfare) CPL (NPCC) ANG
-QI SI, ASHLEE (Media &amp; Publications) Assisting: CPL (NPCC) LIN YUHAN
-CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS CPL (NPCC) SERENA SREE D/O RAGURAMAN
-DEVAR CPL (NPCC) MUHAMMAD IZZ AMANI BIN MOHD FAIZAL (Games) Assisting:
-CPL (NPCC) CHIEW ADON (JIANG WEIDONG), CPL (NPCC) NAURUS ZINNEERA CPL (NPCC)
-PUTRI NOR ASHURA BINTE JOHANI (Safety I/C) Assisting: CPL (NPCC) NUR ARYA
-TAQIAH BINTE MOHAMAD NOOR AZHAR Logistic Department Quarter Master: CPL
-(NPCC) NAURUS ZINNEERA CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR</p>
+<p><strong>AISS NPCC Unit Executive Committee 24/25 </strong>
+<br><strong>Chairman</strong>
+<br>CPL (NPCC) AMANDA LIEW JING XI
+<br><strong>Vice-Chairman</strong>
+<br>CPL (NPCC) MAGSINO PIO MARTIN GARCIA
+<br><strong>Secretary</strong>
+<br>CPL (NPCC) KDYS TAN ROSEANNE</p>
+<p>
+<br><strong>Training Unit </strong>
+<br><strong>Head, Training</strong>
+<br>CPL (NPCC) NG YU XUAN CONSTANCE
+<br><strong>Member</strong>
+<br>CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS
+<br>CPL (NPCC) EUGENE CHEOK JIA RUI
+<br>
+<br><strong>Head, Testing</strong>
+<br>CPL (NPCC) AHMAD ZAQY BIN JASNI
+<br><strong>Member</strong>
+<br>CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR
+<br>CPL (NPCC) INSYIRAH ANDRIYANINGSIH BINTE ISMAIL
+<br>
+<br><strong>Function &amp; Activity Department </strong>
+<br><strong>Head, FA</strong>
+<br>CPL (NPCC) MUHAMMAD FAKHRY DANISH BIN KAHARUDIN
+<br>CPL (NPCC) NUR MARSYA DANIA BINTE DAHLAN
+<br><strong>Member</strong>
+<br>CPL (NPCC) INSYIRAH ANDRIYANINGSIH BINTE ISMAIL <em>(Welfare)</em> 
+<br>
+<br>CPL (NPCC) ANG QI SI, ASHLEE <em>(Media &amp; Publications) </em>
+<br><strong>Assisting</strong>
+<br>CPL (NPCC) LIN YUHAN
+<br>CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS
+<br>CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR
+<br>
+<br>CPL (NPCC) MUHAMMAD IZZ AMANI BIN MOHD FAIZAL <em>(Games)</em>
+<br><strong>Assisting</strong>
+<br>CPL (NPCC) CHIEW ADON (JIANG WEIDONG)
+<br>CPL (NPCC) NAURUS ZINNEERA
+<br>
+<br>CPL (NPCC) PUTRI NOR ASHURA BINTE JOHANI <em>(Safety I/C) </em>
+<br><strong>Assisting</strong>
+<br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR
+<br>
+<br><strong>Logistic Department Quarter Master</strong>
+<br>CPL (NPCC) NAURUS ZINNEERA
+<br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR</p>
 </div>
 </details>
 </div>
