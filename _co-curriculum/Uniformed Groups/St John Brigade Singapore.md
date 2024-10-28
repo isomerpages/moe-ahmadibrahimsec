@@ -69,6 +69,14 @@ We are immensely proud of each participant for their unwavering dedication
 and hard work in tirelessly preparing for the competition.
 <br>
 </p>
+<p><strong>CCA Open House</strong> 
+<br>Over the course of a few days in January, AISJ had CCA carnival and CCA
+exposure for our fellow secondary 1 students. They got to try out some
+key components of St John like CPR, bandaging, transportation of casualty
+and casualty simulations. Students also get to learn how to do special
+effects make-up to simulate real injuries.
+<br>We hope that you enjoyed our CCA Carnival booth and the activities during
+CCA Exposure!</p>
 </div>
 </details>
 </div>
