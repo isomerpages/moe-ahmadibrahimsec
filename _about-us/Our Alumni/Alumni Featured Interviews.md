@@ -687,7 +687,6 @@ to people around you.</p>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Carine Ang CH</strong>
