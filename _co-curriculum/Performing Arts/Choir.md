@@ -102,15 +102,6 @@ Choir and East Spring Chorale, 2019</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Training Schedule</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Gallery</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -126,13 +117,15 @@ Choir and East Spring Chorale, 2019</p>
 <p><strong>Wednesdays:<br></strong>3.30 pm - 6.00 pm
 <br>
 </p>
-<p><strong>Friday:<br></strong>2.30 pm – 5.00 pm</p>
+<p><strong>Friday:<br></strong>2.00 pm – 5.00 pm</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Student Leaders</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Chairperson:</strong>
 </p>
 <p>Koh Ching Voon (S3-Excellence)</p>
@@ -160,13 +153,19 @@ Choir and East Spring Chorale, 2019</p>
 </p>
 <p>Kum Yu Fung Joel (S2-Service)</p>
 <p>Kaydon Kan Yongxuan (S2-Excellence)</p>
-</li>
-<li>
-<p>Teachers In Charge</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mdm Phua Meng Hong (OIC) <br>Contact:&nbsp;<a href="mailto:sherman_yuen_sheung_man@moe.edu.sg" rel="noopener noreferrer nofollow" target="">phua_meng_hong@moe.edu.sg</a></strong>
 </p>
 <p>Ms Foo Hui Cheng Candee
 <br>Ms Tan Wiphaporn</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p></p>
