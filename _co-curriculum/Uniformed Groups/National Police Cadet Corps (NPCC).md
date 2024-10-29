@@ -139,18 +139,20 @@ TAQIAH BINTE MOHAMAD NOOR AZHAR Logistic Department Quarter Master: CPL
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Teachers In Charge</p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Ow Hui Mei Wendy (OIC)<br>Contact:&nbsp;<a href="mailto:ow_hui_mei_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ow_hui_mei_wendy@moe.edu.sg</a></strong>
 </p>
 <p>Ms Kasturi d/o Manoselvam
 <br>Mr Mohd Imran Ishak
 <br>Ms Bong Ming Le
 <br>Ms Siti Salmiah</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p><strong>Gallery</strong>
 </p>
 <p></p>
