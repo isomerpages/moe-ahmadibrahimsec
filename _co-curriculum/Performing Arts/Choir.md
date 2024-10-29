@@ -47,9 +47,11 @@ heart in singing, so that music in our soul can be heard by the universe.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Achievements and Activities</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements and Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -95,26 +97,40 @@ Choir and East Spring Chorale, 2019</p>
 <p>Ahmad Ibrahim Secondary School Achievement Day, 2022</p>
 </li>
 </ul>
-<p><strong>Upcoming Events</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival, 2023</p>
-</li>
-<li>
-<p>Ahmad Ibrahim Secondary School Achievement Day 2023</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Gallery</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Gallery</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Do follow us on Instagram for more updates and exciting news:&nbsp;<strong><a href="https://www.instagram.com/ai_choir/" rel="noopener" target="_blank">AI_Choir</a></strong>&nbsp;</p>
-</li>
-<li>
-<p>Training Schedule</p>
-<p><strong>Wednesdays:<br></strong>3.30 pm - 6.00 pm</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Wednesdays:<br></strong>3.30 pm - 6.00 pm
+<br>
+</p>
 <p><strong>Friday:<br></strong>2.30 pm – 5.00 pm</p>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Student Leaders</p>
 <p><strong>Chairperson:</strong>
