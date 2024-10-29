@@ -122,27 +122,41 @@ Choir and East Spring Chorale</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Chairperson:</strong>
 </p>
-<p>Koh Ching Voon (S3-Excellence)</p>
+<p>Koh Ching Voon (S3-Excellence)
+<br>
+</p>
 <p><strong>Vice-Chairperson:</strong>
 </p>
-<p>Guee Shao Han (S3-Excellence)</p>
+<p>Guee Shao Han (S3-Excellence)
+<br>
+</p>
 <p><strong>Student Conductor:</strong>
 </p>
-<p>Jaison Liana Elezabath (S3-Service)</p>
+<p>Jaison Liana Elezabath (S3-Service)
+<br>
+</p>
 <p><strong>Secretary:</strong>
 </p>
-<p>Ng Xin Yu, Isabelle (S3-Excellence)</p>
+<p>Ng Xin Yu, Isabelle (S3-Excellence)
+<br>
+</p>
 <p><strong>Librarian:</strong>
 </p>
-<p>Tan Yu Lin (S3-Steadfastness)</p>
+<p>Tan Yu Lin (S3-Steadfastness)
+<br>
+</p>
 <p><strong>Soprano Section Leaders:</strong>
 </p>
 <p>Yeo Yun Xi Desiree (S3-Service)</p>
-<p>Putri Anggerik Lestari Binte Maslan (S3-Service)</p>
+<p>Putri Anggerik Lestari Binte Maslan (S3-Service)
+<br>
+</p>
 <p><strong>Alto Section Leaders:</strong>
 </p>
 <p>Long Yi Lin (S2-Steadfastness)</p>
-<p>Kellen Tan Xuan Ting (S2-Service)</p>
+<p>Kellen Tan Xuan Ting (S2-Service)
+<br>
+</p>
 <p><strong>Tenor and bass section leader:</strong>
 </p>
 <p>Kum Yu Fung Joel (S2-Service)</p>
