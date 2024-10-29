@@ -307,6 +307,8 @@ will be available <strong><u>from 13 Nov</u></strong>.
 </p>
 <p>Please refer to the available dates for walk-in purchase in school at
 the table below.</p>
+<p><strong>Payment Mode:</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -350,7 +352,8 @@ the table below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cash, Paynow(QR) NTUC BTS Fund (e-voucher), CDAC (e-voucher)</p>
+<p>Cash, Paynow(QR)
+<br>NTUC BTS Fund (e-voucher),</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cash, Paynow</p>
