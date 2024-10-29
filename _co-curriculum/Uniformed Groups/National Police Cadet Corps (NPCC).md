@@ -115,13 +115,31 @@ Redzuan Bin Mohammad Hanip
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Student Leaders</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/NPCC.jpg">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>AISS NPCC Unit Executive Committee 24/25 Chairman: CPL (NPCC) AMANDA LIEW
+JING XI Vice-Chairman: CPL (NPCC) MAGSINO PIO MARTIN GARCIA Secretary:
+CPL (NPCC) KDYS TAN ROSEANNE Training Unit Head, Training: CPL (NPCC) NG
+YU XUAN CONSTANCE Member: CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS CPL (NPCC)
+EUGENE CHEOK JIA RUI Head, Testing: CPL (NPCC) AHMAD ZAQY BIN JASNI Member:
+CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR CPL (NPCC) INSYIRAH ANDRIYANINGSIH
+BINTE ISMAIL Function &amp; Activity Department Head, FA: CPL (NPCC) MUHAMMAD
+FAKHRY DANISH BIN KAHARUDIN CPL (NPCC) NUR MARSYA DANIA BINTE DAHLAN Member:
+CPL (NPCC) INSYIRAH ANDRIYANINGSIH BINTE ISMAIL (Welfare) CPL (NPCC) ANG
+QI SI, ASHLEE (Media &amp; Publications) Assisting: CPL (NPCC) LIN YUHAN
+CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS CPL (NPCC) SERENA SREE D/O RAGURAMAN
+DEVAR CPL (NPCC) MUHAMMAD IZZ AMANI BIN MOHD FAIZAL (Games) Assisting:
+CPL (NPCC) CHIEW ADON (JIANG WEIDONG), CPL (NPCC) NAURUS ZINNEERA CPL (NPCC)
+PUTRI NOR ASHURA BINTE JOHANI (Safety I/C) Assisting: CPL (NPCC) NUR ARYA
+TAQIAH BINTE MOHAMAD NOOR AZHAR Logistic Department Quarter Master: CPL
+(NPCC) NAURUS ZINNEERA CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR</p>
 </div>
-</li>
+</details>
+</div>
+<ul>
 <li>
 <p>Teachers In Charge</p>
 <p></p>
