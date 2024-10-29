@@ -106,26 +106,48 @@ SYAFIQ BIN HANISS
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Unit Sergeant Major:<br></strong>MSG (NCC) KEEGAN TAN WEIJIE</p>
-<p><strong>Assistant Unit Sergeant Major:<br></strong>MSG (NCC) MUHAMMAD
-DANISH DAMIEN BIN ABDULLAH</p>
-<p><strong>Company Sergeant Major (Junior Cadets):<br></strong>SSG (NCC)
-NAMEEN S/O MAGESH</p>
-<p><strong>Company Sergeant Major (Senior Cadets):<br></strong>SSG (NCC)
-HANIS BIN JEPRI</p>
-<p><strong>Company Sergeant Major (Cadet Leaders):<br></strong>SSG (NCC)
-KUAN SENG YUAN;</p>
-<p><strong>Assistant Company Sergeant Major (Junior Cadets):<br></strong>2SG
-(NCC) S PONETHN S/O SUDESH
-<br>3SG (NCC) VIJAY GOVINDARAJ VIMAL RAJn</p>
-<p><strong>Assistant Company Sergeant Major (Senior Cadets):<br></strong>3SG
-(NCC) ANNADURAI ASWINRAM
-<br>3SG (NCC) SARAVANAN SHENBAGA VASIKARAN</p>
-<p><strong>Assistant Company Sergeant Major (Cadet Leaders):<br></strong>1SG
-(NCC) HENG WEI XUAN
-<br>1SG (NCC) PENG YE KAI</p>
-<p><strong>Quartermaster:<br></strong>3SG (NCC) ANNADURAI ASWINRAM</p>
-<p><strong>Secretary:<br></strong>2SG (NCC) S PONETHN S/O SUDESH</p>
+<p><strong>Unit Sergeant Major</strong>
+<br>3SG (NCC) OKKAR MAW KONN
+<br>
+<br><strong>Assistant Unit Sergeant Major</strong>
+<br>3SG (NCC) HENG JIE YANG
+<br>
+<br><strong>Company Sergeant Major (Junior Cadets)</strong>
+<br>3SG (NCC) AHMAD MAHMUD BIN PARMIN
+<br>
+<br><strong>Company Sergeant Major (Senior Cadets)</strong>
+<br>3SG (NCC) HENG WEI EN
+<br>
+<br><strong>Company Sergeant Major (Cadet Leaders)</strong>
+<br>3SG (NCC) MARINER DEAN SUKENDRO
+<br>
+<br><strong>Assistant Company Sergeant Major (Junior Cadets)</strong>
+<br>3SG (NCC) GOH EIK MING
+<br>
+<br><strong>Assistant Company Sergeant Major (Senior Cadets)</strong>
+<br>3SG (NCC) CHEW YU BIN
+<br>
+<br><strong>Assistant Company Sergeant Major (Cadet Leaders)</strong>
+<br>3SG (NCC) FIQRI HUZAIMAN BIN IRWAN SHAH
+<br>
+<br><strong>Physical Training and Safety Instructor (Junior Cadets)</strong>
+<br>3SG (NCC) JEDSEDAR NEO ZHE XI
+<br>
+<br><strong>Physical Training and Safety Instructor (Senior Cadets)</strong>
+<br>3SG (NCC) RAJA DHARUN
+<br>
+<br><strong>Physical Training and Safety Instructor (Cadet Leaders)</strong>
+<br>3SG (NCC) FU RUOYANG, MARCUS
+<br>
+<br><strong>Quartermaster</strong>
+<br>3SG (NCC) MUHAMMAD BASIL BIN MAHADI
+<br>
+<br><strong>Assistant Quartermaster</strong>
+<br>3SG (NCC) DANISH AKMAL BIN KAMALUDIN
+<br>
+<br><strong>Welfare Coordinator</strong> 
+<br>3SG (NCC) TAN BAO XIANG, TORRES
+<br>CPL (NCC) VENKATACHALAM DAVID VASANTH</p>
 </div>
 </details>
 </div>
