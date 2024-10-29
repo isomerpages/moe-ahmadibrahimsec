@@ -116,7 +116,7 @@ letter from our school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
-<br>Please refer to <a href="/files/Booklist/2024/pacific%20bookstores%20purchase%20guide%202024%20secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">purchase guide</a>.</p>
+<br>Please refer to <a href="/files/Booklist/2025/Pacific_Bookstores_Online_Purchase_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">purchase guide</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.euniforms.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.euniforms.com.sg/</a>
@@ -133,7 +133,7 @@ letter from our school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From: 3 Nov to 15 Dec</p>
+<p>4th Nov to 14th Dec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ongoing</p>
