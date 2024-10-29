@@ -151,7 +151,8 @@ Redzuan Bin Mohammad Hanip
 <br>CPL (NPCC) LIN YUHAN
 <br>CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS
 <br>CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR
-<br>CPL (NPCC) MUHAMMAD IZZ AMANI BIN MOHD FAIZAL <em>(Games)</em>  <strong>Assisting</strong>
+<br>CPL (NPCC) MUHAMMAD IZZ AMANI BIN MOHD FAIZAL <em>(Games)</em>
+<br><strong>Assisting</strong>
 <br>CPL (NPCC) CHIEW ADON (JIANG WEIDONG), CPL (NPCC) NAURUS ZINNEERA
 <br>CPL (NPCC) PUTRI NOR ASHURA BINTE JOHANI <em>(Safety I/C)</em> 
 <br><strong>Assisting</strong>
