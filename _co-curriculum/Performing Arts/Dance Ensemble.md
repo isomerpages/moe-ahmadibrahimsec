@@ -11,9 +11,8 @@ third_nav_title: Performing Arts
 individual into confident performers, capable of expressing themselves
 through elegant dance movements.</p>
 <blockquote>
-<p><em>Throughout the 3 years that I've been in AIDE, the experience that I've had as a dancer has been nothing short of fun &amp; full of excitement. AIDE has taught me the importance of discipline, perseverance and teamwork through the preparation for various performances. Mostly, it is the friends I have made and come to know in AIDE that have made it all more meaningful.</em>
-</p>
-<p><strong>- Nyla Aqila Binte Zainal Abidin <br>(3 Excellence)</strong>
+<p><em>"As a dancer in AIDE, my journey has been both fulfilling and memorable, marked by constant growth. Learning each choreography from our instructors has been eye-opening, revealing how a dance can express and showcase so many emotions simultaneously. Every stage performance is the culmination of our consistent practice, passion, sweat, and joy. Each one is a unique and unforgettable experience, blending nervousness and exhilaration."</em>
+<br><strong>- Wang Xiaoyu (3 Resilience)</strong>
 </p>
 </blockquote>
 <p>
@@ -22,9 +21,8 @@ through elegant dance movements.</p>
 <br>
 </p>
 <blockquote>
-<p><em>As an active member of AIDE from 2021 to 2023, the journey in which we progress from online to physical training has mould me to be an adaptable dancer. In my serving years at AI, I continue to strive higher as I make more friends and seniors, where their guidance have brought me closer to achieving what I feel is the key achievement to a dancer; discipline and expression. I am more aware of my strengths which has led me to achieving my current position as Captain of AIDE. In a nutshell, the care and inclusivity that we have in AIDE community has created a second family in us. Being a part of AIDE has made me grow not only in terms of the physical strengths of a dancer but also as a resilient, discipline and great team player and discipline.</em>
-</p>
-<p><strong>- Joey Heng Wen Ting <br>(3 Excellence)</strong>
+<p><em>"Dancing, under the guidance of our supportive instructors, has become a vital outlet for self-expression and stress relief. Encouraged to express ourselves without judgment, we thrive in an environment that nurtures creativity and emotional well-being. Dancing not only enhances our physical fitness but also strengthens our mental health, making it an essential part of our lives."</em> 
+<br><strong>- Wang Yingluo (3 Excellence)</strong>
 </p>
 </blockquote>
 <p></p>
@@ -96,6 +94,9 @@ other both on and off the dance floor.</p>
 </li>
 <li>
 <p>Achievement Day Performance</p>
+</li>
+<li>
+<p>National Day Performance</p>
 </li>
 </ul>
 </div>
