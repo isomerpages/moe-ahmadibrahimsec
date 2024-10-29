@@ -121,7 +121,6 @@ Redzuan Bin Mohammad Hanip
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>AISS NPCC Unit Executive Committee 24/25 </strong>
-<br>
 <br><strong>Chairman</strong>
 <br>CPL (NPCC) AMANDA LIEW JING XI
 <br><strong>Vice-Chairman</strong>
@@ -147,19 +146,20 @@ Redzuan Bin Mohammad Hanip
 <br>CPL(NPCC) NUR MARSYA DANIA BINTE DAHLAN
 <br><strong>Member</strong>
 <br>CPL (NPCC) INSYIRAH ANDRIYANINGSIH BINTE ISMAIL <em>(Welfare) </em>
-<br>
 <br>CPL (NPCC) ANG QI SI, ASHLEE <em>(Media &amp; Publications) </em>
 <br><strong>Assisting</strong>
 <br>CPL (NPCC) LIN YUHAN
 <br>CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS
 <br>CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR
-<br>
 <br>CPL (NPCC) MUHAMMAD IZZ AMANI BIN MOHD FAIZAL <em>(Games)</em>  <strong>Assisting</strong>
-<br>CPL (NPCC) CHIEW ADON (JIANG WEIDONG), CPL (NPCC) NAURUS ZINNEERA CPL
-(NPCC) PUTRI NOR ASHURA BINTE JOHANI (Safety I/C) Assisting: CPL (NPCC)
-NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR Logistic Department Quarter Master:
-CPL (NPCC) NAURUS ZINNEERA CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR
-AZHAR</p>
+<br>CPL (NPCC) CHIEW ADON (JIANG WEIDONG), CPL (NPCC) NAURUS ZINNEERA
+<br>CPL (NPCC) PUTRI NOR ASHURA BINTE JOHANI <em>(Safety I/C)</em> 
+<br><strong>Assisting</strong>
+<br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR
+<br>
+<br><strong>Logistic Department Quarter Master</strong>
+<br>CPL (NPCC) NAURUS ZINNEERA
+<br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR</p>
 </div>
 </details>
 </div>
