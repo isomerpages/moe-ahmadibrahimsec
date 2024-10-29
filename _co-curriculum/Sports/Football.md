@@ -133,10 +133,15 @@ National C Division Boys League 2 Preliminary Round
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Captain
-<br>Johan Wahyudi Bin Jailani (3N2)</p>
-<p>Vice Captain
-<br>Mohammad Zharfan Bin Shanafian (3E1)</p>
+<p><strong>B Division Co-Captains </strong>
+<br>SAIFUL ARMAN BIN SAIFUDDIN (4 Care)
+<br>DARRELL MARVELO SANTOSA (4 Integrity)
+<br>
+<br><strong>C Division Co-Captains</strong>
+<br>ABSAL BIN ABUTHAHIR (2 Care)
+<br>MOHAMAD NAWFAL BIN MOHAMAD NAZRIN (2 Gratitude)
+<br>HARI HARA SUTHAN S/O SASIDHARAN (2 Gratitude)
+<br>MAQIL ESHAN BIN MOHAMMAD MUHAILY (1 Excellence)</p>
 </div>
 </details>
 </div>
