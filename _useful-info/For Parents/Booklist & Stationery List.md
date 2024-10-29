@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>Booklist &amp; Stationery List (2024)</h3>
+<h3>Booklist &amp; Stationery List (2025)</h3>
 <ul>
 <li>
 <p><strong>Sec 1</strong> - <em>To be updated on later date</em>
@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2024</strong></h4>
+<h4><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2025</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
