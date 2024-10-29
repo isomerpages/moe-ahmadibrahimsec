@@ -203,23 +203,58 @@ letter from our school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- All purchases are final, and no cancellation will be accepted
-<br>- No refund allowed and only exchange will be entertained.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All purchases are final, and no cancellation will be accepted.
+<br>
+</p>
+</li>
+<li>
+<p>No refund allowed and only exchange will be entertained.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>- All items sold are non-refundable.
-<br>- Items may be exchanged at our Retail Outlet within 14 days with the
-receipt.
-<br>- Items sold may be exchanged provided that they are in their original
-condition, i.e., the items are not washed, worn or altered.
-<br>- All exchanges are subjected to stock availability of the items.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All items sold are non-refundable.
+<br>
+</p>
+</li>
+<li>
+<p>Items may be exchanged at our Retail Outlet within 14 days with the receipt.
+<br>
+</p>
+</li>
+<li>
+<p>Items sold may be exchanged provided that they are in their original condition,
+i.e., the items are not washed, worn or altered.
+<br>
+</p>
+</li>
+<li>
+<p>All exchanges are subjected to stock availability of the items.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>- All items sold are non-refundable.
-<br>- Items can be exchanged at the sales venue in school during our operating
+<ul data-tight="true" class="tight">
+<li>
+<p>All items sold are non-refundable.
+<br>
+</p>
+</li>
+<li>
+<p>Items can be exchanged at the sales venue in school during our operating
 hours within 14 days.
-<br>- In order to be accepted for exchanges, the products should not be washed,
+<br>
+</p>
+</li>
+<li>
+<p>In order to be accepted for exchanges, the products should not be washed,
 altered, worn or ironed.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
