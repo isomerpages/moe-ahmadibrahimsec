@@ -3,71 +3,179 @@ title: St John Brigade Singapore
 permalink: /co-curriculum/uniformed-groups/st-john-brigade-singapore/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-## St John Brigade Singapore
-
-### About Us
-<img style="width: 20%;" src="/images/sjbs.png" align="LEFT">
-St. John Brigade Singapore (SJBS) upholds the mottos ‘Pro Fide’ and ‘Pro Utilitate Hominum’, which stands for ‘For The Faith’ and ‘For The Service Of Mankind’ respectively. Our corps seeks to train and develop cadets into confident, reliable and clear-headed leaders who contributes to the school and community actively.
-
-<br clear="left">
-
-We offer a wide variety of programmes that equip cadets with life-saving skills such as First-Aid, Home Nursing, Transportation Of Casualties (TOC) and Footdrill. Our cadets participates actively in the Annual Hospital Attachment, Annual Walkathon, and Flag Day. Our cadets also partake in leadership training programmes such as the Zone Non-Commissioned Officer Course (NCOC) and Corps Trainer Course (CTC) which helps improve cadets’ leadership skills and broaden their way of thinking. With the Cadet Proficiency Badge Scheme (CPBS), cadets are able to gain other skills through different types of enriching courses and obtain different badges such as Leadership, Nursing Care, Shooting, Heart Saver and many more.
-
-_“Being in SJBS taught me a lot of meaningful life lessons that I can never learn outside, such as being there for each other during times of need and daring to lead. It also gave me useful skills that I can use in the future such as first aid and home nursing. Despite going through hard times in this CCA, I always remind myself I am never doing this alone because my platoon is always by my side. To me, SJBS is my second family.”_
-
-<div style="text-align: right;"><b>-Loke Xin Yue, 5N1</b></div>
-
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Mission</label>
-<div>
+<h2>St John Brigade Singapore</h2>
+<h3>About Us</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" src="/images/sjbs.png">
+</div>
+<p>St. John Brigade Singapore (SJBS) upholds the mottos ‘Pro Fide’ and ‘Pro
+Utilitate Hominum’, which stands for ‘For The Faith’ and ‘For The Service
+Of Mankind’ respectively. Our corps seeks to train and develop cadets into
+confident, reliable and clear-headed leaders who contributes to the school
+and community actively. We offer a wide variety of programmes that equip
+cadets with life-saving skills such as First-Aid, Home Nursing, Transportation
+Of Casualties (TOC) and Footdrill. Our cadets participates actively in
+the Annual Hospital Attachment, Annual Walkathon, and Flag Day. Our cadets
+also partake in leadership training programmes such as the Zone Non-Commissioned
+Officer Course (NCOC) and Corps Trainer Course (CTC) which helps improve
+cadets’ leadership skills and broaden their way of thinking. With the Cadet
+Proficiency Badge Scheme (CPBS), cadets are able to gain other skills through
+different types of enriching courses and obtain different badges such as
+Leadership, Nursing Care, Shooting, Heart Saver and many more.</p>
+<blockquote>
+<p><em>“Being a part of SJAB has imparted invaluable lessons, particularly in taking initiative and leading. These skills have greatly contributed to my growth, making me a more confident and outgoing person. I am now more receptive to new experiences. The challenges I encountered in the CCA have instilled in me the values of resilience and excellence. I have learned to persevere and always strive for the best. I am deeply grateful to my corps and officers, whose support has been instrumental in my journey. SJAB has truly become a second home to me.”</em>
+</p>
+<p><strong>- SITI AISYAH BINTE PUNGOT (S2-INTEGRITY)</strong>
+</p>
+</blockquote>
+<p></p>
+<hr>
+<p></p>
+<blockquote>
+<p><em>“Joining SJAB has been one of the most rewarding experiences of my school life. The district and brigade events are not only fun but also provide a unique opportunity to forge lifelong friendships. Through SJAB, I have learned essential skills such as first aid and home nursing, which are invaluable in everyday life. Although the CCA can be challenging, the unwavering support and camaraderie from my platoonmates and district friends make it all worthwhile. Together, we face challenges and grow, always ensuring we have each other's backs."</em>
+</p>
+<p><strong>- WONG JIAAN LEROY (S3-EXCELLENCE)</strong>
+</p>
+</blockquote>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mission</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Pro Fide, Pro Utilitate Hominum (For the Faith, For the Service of Humanity)</p>
 </div>
-</li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Activities</label>
-<div>
-<p>“Again, Ladies!” shouted the Company Sergeant Major. “We have to try harder! Come on! We need to win this for our school!” With sweat dripping off their foreheads and the look of sheer determination on the cadets’ faces, they shouted in unison, “Yes, Ma’am!” After dozens of rehearsals later, a satisfied smile was etched on the instructor’s face.</p>
-<p>“Come on, gentlemen! You can do better than this! We have to show them how AI cadets evacuate the injured casualties!” The Ambulance cadets then attempted the drill again, a look of absolute grit on their faces.</p>
-<p>It was the moment of truth. The auditorium was enveloped in an uncanny silence as the crowd waited with bated breath for the announcer to reveal the results of the 2017 Zonal First Aid competition. This prestigious competition pits the best in the zone against each other and the winners will represent the Zone in the National First Aid Competition. “Best Leader and Best Foot Drill go to the Nursing Cadets of Ahmad Ibrahim Secondary!” The crowd applauded with gusto and loud cheers! “Best Transport of Casualty – The Ambulance Brigade of Ahmad Ibrahim Secondary!” The AI cadets took a deep breath and closed their eyes, knowing all those months of sweat and tears have finally paid off. They had done it!</p>
+</details>
 </div>
-</li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
-<div>
-<p>Gold Achievement Award for the 10th consecutive year</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>First Aid and Home Nursing Competition:</strong>
+<br>On 6th April, our cadets participated in the annual North District First
+Aid and Home Nursing Competition 🤩
+<br>After months of intensive training, our cadets have achieved the following:
+<br>
+<br>Nursing Cadet
+<br>Overall Second Runner Up
+<br>Best in Footdrills
+<br>Best in Home Nursing
+<br>
+<br>Witnessing the growth of our ambulance and nursing cadets was truly heartening.
+We are immensely proud of each participant for their unwavering dedication
+and hard work in tirelessly preparing for the competition.
+<br>
+</p>
+<p><strong>CCA Open House</strong> 
+<br>Over the course of a few days in January, AISJ had CCA carnival and CCA
+exposure for our fellow secondary 1 students. They got to try out some
+key components of St John like CPR, bandaging, transportation of casualty
+and casualty simulations. Students also get to learn how to do special
+effects make-up to simulate real injuries.
+<br>We hope that you enjoyed our CCA Carnival booth and the activities during
+CCA Exposure!</p>
 </div>
-</li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Participation</label>
-<div>
-<p>First Aid support at school events, i.e. Sports Carnival<br>Achievement Day Parade Contingent<br>National Day Parade Contingent</p>
+</details>
 </div>
-</li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
-<div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfdbK7NXIudaT_0LZX-s82NlqE3DDJIv-tjTF8CBWjhPhKUFiOHq87NAD_b66gWIScYDm-sDM3gCNZ/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Awards</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Gold Achievement Award
+<br>Nursing Cadet
+<br>Overall Second Runner Up
+<br>Best in Footdrills
+<br>Best in Home Nursing</p>
 </div>
-</li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
-<div>
-<p><strong>Wednesday (Competition Training in Term 1)<br></strong>3.40 to 6.00 pm</p>
-<p><strong>Friday<br></strong>2.30 to 6.00 pm</p>
-<p>Note: Competitions may be held on Sat</p>
+</details>
 </div>
-</li>
-<li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
-<div>
-<p><strong>Corp Sergeant Major<br></strong>Tew Xin Yi (3E4)</p>
-<p><strong>Regimental Sergeant Major<br></strong>Azyan Binte Zaini(3N1)</p>
-<p><strong>Platoon Leader (Sec 2)<br></strong>Avari Heng Tian Ting&nbsp;(3N1)</p>
-<p><strong>Platoon Leader (Sec 1)<br></strong>Tok Zhi Qi&nbsp;(3N1) &amp;&nbsp;Tiffany Tan Xin Fei (3T1)</p>
-<p><strong>Head Admin<br></strong>Presha Rani Sugumaran&nbsp;(3E2)</p>
-<p><strong>Head Logistics<br></strong>Amelia Michelle Jonaidy (3N1)</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Participation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>First Aid support at school events, i.e. Sports Carnival
+<br>Achievement Day Parade Contingent
+<br>National Day Parade Contingent
+<br>
+<br>2 of our cadets were part of the Singapore National Day Parade SJAB Marching
+Contingent:
+<br><em>MOHAMAD AQIL BIN MOHAMAD NIZAM, 2-GRATITUDE <br>AQIL RAIYAN BIN MOHAMED RIDWAN, 2-RESILIENCE </em>
+<br>
+<br>3 of our students took part as Official First Aiders for the National
+Day Parade at the Padang:
+<br><em>NG SIEW JING, 3-EXCELLENCE <br>WONG JIAAN LEROY, 3-EXCELLENCE <br>LUCAS ONG TING HAO, 3-INTEGRITY</em> 
+<br>
+<br>2 of our cadets took part in the Trooping of Colours Parade:
+<br><em>WONG JIAAN LEROY, 3-EXCELLENCE <br>LUCAS ONG TING HAO, 3-INTEGRITY</em>
+</p>
 </div>
-</li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
-<div>
-<p><strong>Mdm Hafizhah Jamel (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:hafizhah_jamel@moe.edu.sg" target="">hafizhah_jamel@moe.edu.sg</a></strong></p>
-<p>Ms Chia Yun Xin<br>Ms Ching Loo May<br>Mr Tan Yee Herng Zest</p>
+</details>
 </div>
-</li>
-</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Wednesday </strong>
+<br>3.30 to 5.30 pm
+<br>
+<br><strong>Friday </strong>
+<br>2.30 to 5.30 pm
+<br>
+<br><strong><em>Note:</em></strong><em> Competitions and workshops may be held on Saturday.</em>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Corp Sergeant Major</strong>
+<br>Wong Jiaan Leroy (3 Excellence)
+<br>
+<br><strong>Regimental Sergeant Major </strong>
+<br>Ong Ting Hao Lucas (3 Integrity)
+<br>
+<br><strong>Platoon Leader (Sec 2) </strong>
+<br>Riqqah Inshyrah (3 Care)
+<br>
+<br><strong>Platoon Leader (Sec 1) </strong>
+<br>Ng Siew Jing (3 Excellence)
+<br>
+<br><strong>Head Admin </strong>
+<br>Choa Hui Yi Danielle (3 Care)
+<br>
+<br><strong>Assistant Head </strong>
+<br>Alwyna Qodira (3 Service)
+<br>
+<br><strong>Head Logistics</strong>
+<br>Cheong Yong An (3 Care)</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Mdm Hafizhah Jamel (OIC)<br>Contact:&nbsp;<a href="mailto:hafizhah_jamel@moe.edu.sg" rel="noopener noreferrer nofollow" target="">hafizhah_jamel@moe.edu.sg</a></strong>
+</p>
+<p>Ms Chia Yun Xin
+<br>Ms Ching Loo May
+<br>Mr Tan Yee Herng Zest</p>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcPYhrGZ29TunTi6w8y9RFJmcmpQu9mimPWSOA8QLzASHCsW9CP1IfsrDEjB-jyQelfjIDedZGKKGQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>

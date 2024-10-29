@@ -3,62 +3,180 @@ title: National Police Cadet Corps (NPCC)
 permalink: /co-curriculum/uniformed-groups/national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-## National Police Cadet Corps (NPCC)
-
-
+<h2>National Police Cadet Corps (NPCC)</h2>
 <h4><strong>About Us</strong></h4>
-<img src="/images/logo.png" style="width:20%;margin-right:15px;" align="left">
-<p style="width:fixed;">Set up in 1968, Ahmad Ibrahim Secondary School’s NPCC unit has grown in strength in the last 50 years. AISS NPCC unit aims to develop its members as a confident, self-directed learner, an active contributor and a concerned citizen through the wide range of activities.</p>
-<p>Our cadets pick up skills such as foot drills, armed drills, campcraft, and revolver shooting. Alongside these, sing-a-long sessions, physical training, recreational activities and lectures are held to train them mentally and physically. Values such as endurance and teamwork are instilled into the cadets while learning these skills.&nbsp;</p>
-<p>Our cadets also have the opportunity of going on overseas educational trips to places such as Hong Kong and Brunei, through the linkup between SPF/NPCC HQ and our foreign partner’s police cadet groups. Locally, we also have our annual camps in the unit held in school.</p>
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Highlights</label>
-<div>
-<p>Taking an aim at the man-figure on the target board, he squeezes the cold trigger and watches how each shot pierces through the target. He starts to break into cold sweat as he feels his grip on the revolver moisten with sheer determination and traces of nervousness. The deafening sounds of the gunfire seem to be able to penetrate through the ear mufflers, startling him with each shot. Intense training sessions as such are no stranger to the determined NPCC cadet who grits his teeth through them all.&nbsp;</p>
-<p>“Uncle, have you heard about SGSecure?” She asks as she hands over a pamphlet. With the aid of the student-drawn poster, she shares with the shop owner the key messages of this nation-wide initiative – staying alert and reporting suspicious characters. Her confidence grows as he nods in agreement. Indeed, public awareness and training go hand-in-hand for the NPCC cadet, who not only equips herself for emergencies, but actively promotes civic-consciousness.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" src="/images/logo.png">
 </div>
-</li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Reflections</label>
-<div>
+<p>Set up in 1968, Ahmad Ibrahim Secondary School’s NPCC unit has grown in
+strength in the last 50 years. AISS NPCC unit aims to develop its members
+as a confident, self-directed learner, an active contributor and a concerned
+citizen through the wide range of activities.</p>
+<p>Our cadets pick up skills such as foot drills, armed drills, campcraft,
+and revolver shooting. Alongside these, sing-a-long sessions, physical
+training, recreational activities and lectures are held to train them mentally
+and physically. Values such as endurance and teamwork are instilled into
+the cadets while learning these skills.&nbsp;</p>
+<p>Our cadets also have the opportunity of going on overseas educational
+trips to places such as Hong Kong and Brunei, through the linkup between
+SPF/NPCC HQ and our foreign partner’s police cadet groups. Locally, we
+also have our annual camps in the unit held in school.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Due to the easing of Covid-19 restrictions, this has allowed cadets to
+attend various NPCC activities throughout the year. Cadets were given various
+opportunities to attend learning journeys to police establishments such
+as Police Heritage Centre and visits to Yishun Neighbourhood Police Centre,
+Area Camps and participate in NPCC-related competitions such as the inter-unit
+Crime Scene Investigation (CSI) Competition, in which our unit placed 8th
+among the 123 participating schools. As AI NPCC continues to strive despite
+of all the challenges and obstacles, let’s aim for more remarkable accomplishments
+and reaching new heights together. Onwards, AI NPCC!
+<br>
+<br>AI NPCC Website: <a href="https://sites.google.com/moe.edu.sg/ai-npcc/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/ai-npcc/home</a>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Reflections</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
-<div><em>"Being in NPCC has allowed me to experience and learn many things that are beneficial to my life. Before joining NPCC, I was shy and wouldn't try to get to know more people. After going through Area Camps and participating in Harmony Camp, I have become a little more outgoing which has allowed me to foster new friendships. In NPCC, we are taught to step out of our comfort zone and take initiative. That has indeed helped me to hone my leadership capabilities as the Chairman of AI NPCC. I am grateful for all the experiences throughout my journey as a NPCC cadet. It has definitely played an integral part in shaping my character to be who I am today."</em></div>
-<div style="text-align: right;">- Randy Chong Jing Xuan 4E2</div>
+<p><em>“As I reflect, I was glad that I joined NPCC. NPCC made me realized how capable I am of being a leader and the importance of having self-discipline. Through all the trainings, NPCC taught me how to be confident leader and believe that it is fine to make mistakes as it is part of the process. I was given various opportunities to lead and guide others and I appreciate all these learning experiences that has truly shaped me to who I am today!” </em>
+<br><strong>- SI (NPCC) NUR NAYLI BINTE ROMI SOFHIAN, 4N1 (2023)</strong>
+</p>
 </blockquote>
 </div>
-</li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
-<div>
-<p><strong>Unit Overall Proficiency Award (UOPA)</strong></p>
-<p>2011 : Bronze Award<br>2012 : Silver Award<br>2013 : Bronze Award<br>2014 : Bronze Award<br>2015 : Silver Award<br>2016 : Gold Award<br>2017 : Gold Award<br>2018 : Gold Award<br>2019 : Gold Award<br>2020 : Gold Award<br>2021 : Suspended<br>2022 : Gold Award<br>2023 : Gold Award</p>
-<p><strong>Best Unit Cadet</strong></p>
-<p>2012 : SSG Li Jian Xing &amp; SSG Nur Aqilah Diyanah<br>2013 : SSG Md Shahirul Shukor &amp; SSG Sen Shu Hui<br>2014 : SSG Adam Malik &amp; SSG Soh Yu Qi<br>2015 : SSG Jet Law &amp; SSG Vivian Quek<br>2016 : SSG Kenneth Chia &amp; SSG Jessica Lim<br>2017 : SI Kwok Si-yang &amp; SSG Partiban Tharani<br>2018 : SSG Girish S/O Balakrishnan &amp; SSG Chen Huixin<br>2019 : SSG Raihanatunnisa &amp; SSG Ryan&nbsp;</p>
-<p><strong>SPF-NPCC Badge Awardee<br></strong>2017 : SI Kwok Si-yang<br>2018 : SSG Wang Le Chen<br>2020 : SI Ho Zheng Yang Xanthus</p>
+</details>
 </div>
-</li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
-<div>
-<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSR2BwgSBFjnxREemwfIEsGbuRf08rOlZ0YXGWLHXjDjtyuJ_B-YBq-LoTEzh5IrS2l8aA9aLjm6wQv/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Unit Overall Proficiency Award (UOPA) </strong>
+<br>2016 : Gold Award
+<br>2017 : Gold Award
+<br>2018 : Gold Award
+<br>2019 : Gold Award
+<br>2020 : Gold Award
+<br>2021 : Suspended
+<br>2022 : Gold Award
+<br>2023 : Gold Award
+<br>2024 : Gold Award
+<br>
+<br><strong>Best Unit Cadet </strong>
+<br>2012 : SSG Li Jian Xing &amp; SSG Nur Aqilah Diyanah
+<br>2013 : SSG Md Shahirul Shukor &amp; SSG Sen Shu Hui
+<br>2014 : SSG Adam Malik &amp; SSG Soh Yu Qi
+<br>2015 : SSG Jet Law &amp; SSG Vivian Quek
+<br>2016 : SSG Kenneth Chia &amp; SSG Jessica Lim
+<br>2017 : SI Kwok Si-yang &amp; SSG Partiban Tharani
+<br>2018 : SSG Girish S/O Balakrishnan &amp; SSG Chen Huixin
+<br>2020 : SSG Raihanatunnisa &amp; SSG Ng Wei An Ryan
+<br>2021: SGT D S Jayin &amp; SGT Song Zi Qi Gladys
+<br>2022: SI D S Jayin &amp; SSG Aalysha
+<br>2023: SSG Saeed Muntasir Bin Mohamed Abusali &amp; SI Nur Nayli Binte
+Romi Sofhian
+<br>2024: SSG Ong Yi Nuo Angelina (Wang Yinuo) &amp; SSG Mohammad Khairyl
+Redzuan Bin Mohammad Hanip
+<br><strong><br>SPF-NPCC Badge Awardee</strong> 
+<br>2017 : SI Kwok Si-yang
+<br>2018 : SSG Wang Le Chen
+<br>2020 : SI Ho Zheng Yang Xanthus
+<br>2021 : SI Tan Cinn Yui
+<br>2022 : SI D S Jayin &amp; SSG Irka Adlina
+<br>2023 : SI Nur Nayli &amp; SSG Saeed Muntasir
+<br>2024 : SI Nur Zafirah Insyirah Binte Zainal Abidin, SSG Lim Jun Hui, Lucas
+&amp; SSG Goh Yun Hong, Collin
+<br>
+</p>
 </div>
-</li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
-<div>
-<strong>Wednesday<br></strong>3.45 pm - 6.15 pm<br>
-<strong>Friday<br></strong>2.30 pm - 6.00 pm<br>
-(Training sessions by HQ will be updated once details are released)
+</details>
 </div>
-</li>
-<li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
-<div>
-<img src="/images/NPCC.jpg">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Wednesday</strong> 
+<br>3.15 pm – 5.45 pm
+<br>
+<br><strong>Friday </strong>
+<br>2.30 pm – 5.00 pm</p>
 </div>
-</li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
-<div>
-<p>
-</p><p><strong>Ms Ow Hui Mei Wendy (OIC)<br></strong><strong>Contact:&nbsp;<a href="mailto:ow_hui_mei_wendy@moe.edu.sg" target="">ow_hui_mei_wendy@moe.edu.sg</a></strong></p>
-<p>Ms Kasturi d/o Manoselvam<br>Mr Mohd Imran Ishak<br>Ms Bong Ming Le<br>Ms Siti Salmiah</p>
+</details>
 </div>
-</li>
-</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>AISS NPCC Unit Executive Committee 24/25 </strong>
+<br><strong>Chairman</strong>
+<br>CPL (NPCC) AMANDA LIEW JING XI
+<br><strong>Vice-Chairman</strong>
+<br>CPL (NPCC) MAGSINO PIO MARTIN GARCIA
+<br><strong>Secretary</strong>
+<br>CPL (NPCC) KDYS TAN ROSEANNE
+<br>
+<br><strong>Training Unit </strong>
+<br><strong>Head, Training</strong>
+<br>CPL (NPCC) NG YU XUAN CONSTANCE
+<br><strong>Member</strong>
+<br>CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS
+<br>CPL (NPCC) EUGENE CHEOK JIA RUI
+<br>
+<br><strong>Head, Testing</strong>
+<br>CPL (NPCC) AHMAD ZAQY BIN JASNI
+<br><strong>Member</strong>
+<br>CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR
+<br>CPL (NPCC) INSYIRAH ANDRIYANINGSIH BINTE ISMAIL
+<br>
+<br><strong>Function &amp; Activity Department <br>Head, FA</strong>
+<br>CPL (NPCC) MUHAMMAD FAKHRY DANISH BIN KAHARUDIN
+<br>CPL(NPCC) NUR MARSYA DANIA BINTE DAHLAN
+<br><strong>Member</strong>
+<br>CPL (NPCC) INSYIRAH ANDRIYANINGSIH BINTE ISMAIL <em>(Welfare) </em>
+<br>CPL (NPCC) ANG QI SI, ASHLEE <em>(Media &amp; Publications) </em>
+<br><strong>Assisting</strong>
+<br>CPL (NPCC) LIN YUHAN
+<br>CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS
+<br>CPL (NPCC) SERENA SREE D/O RAGURAMAN DEVAR
+<br>CPL (NPCC) MUHAMMAD IZZ AMANI BIN MOHD FAIZAL <em>(Games)</em>  <strong>Assisting</strong>
+<br>CPL (NPCC) CHIEW ADON (JIANG WEIDONG), CPL (NPCC) NAURUS ZINNEERA
+<br>CPL (NPCC) PUTRI NOR ASHURA BINTE JOHANI <em>(Safety I/C)</em> 
+<br><strong>Assisting</strong>
+<br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR
+<br>
+<br><strong>Logistic Department Quarter Master</strong>
+<br>CPL (NPCC) NAURUS ZINNEERA
+<br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ms Ow Hui Mei Wendy (OIC)<br>Contact:&nbsp;<a href="mailto:ow_hui_mei_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ow_hui_mei_wendy@moe.edu.sg</a></strong>
+</p>
+<p>Ms Kasturi d/o Manoselvam
+<br>Mr Mohd Imran Ishak
+<br>Ms Bong Ming Le
+<br>Ms Siti Salmiah</p>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
+<p></p>

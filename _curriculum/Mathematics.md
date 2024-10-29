@@ -38,6 +38,28 @@ components – concepts, skills, processes, metacognition and attitudes.</p>
 <p>In the Mathematics classrooms, technology is also leveraged to differentiate
 instruction to meet the needs of all students, foster conceptual change
 as well as support assessment for learning.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Enrichment &amp; Competition</summary>
@@ -53,11 +75,40 @@ prototypes that help to solve a real-life problem. The process allowed
 the students to develop an appreciation of core computational thinking
 and coding concepts, excited them about the opportunities in the digital
 age and exposed them to the skill sets needed for the digital economy.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Math 2024/pic_3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>
-<br>
-</p>
-<p><strong><u>Math Alive!</u></strong>
+<br><strong><u>Math Alive!</u></strong>
 </p>
 <p>Conducted as part of post-exam activities for the Secondary 1 to 3 students,
 the Math Alive! series aims to allow students to see the real-world application
@@ -82,6 +133,50 @@ the concepts and skills acquired in a bigger context – the aviation industry.&
 modelling process when they formulate problems, select and apply appropriate
 concepts and skills to solve the problems, and interpret the mathematical
 solutions in the context of the problems.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/Pic_7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_12.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
@@ -98,6 +193,10 @@ a working solution to the judging panel. For the past two years, our students
 have consistently made us proud by attaining the Certificate of Merit,
 a strong testament of their brilliant work. Congratulations to the teams
 over the years!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_13.jpg">
+</div>
 <p>
 <br>
 </p>
