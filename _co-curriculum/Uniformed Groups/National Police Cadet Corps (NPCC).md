@@ -44,15 +44,20 @@ and reaching new heights together. Onwards, AI NPCC!
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Reflections</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Reflections</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
-<p><em>"Being in NPCC has allowed me to experience and learn many things that are beneficial to my life. Before joining NPCC, I was shy and wouldn't try to get to know more people. After going through Area Camps and participating in Harmony Camp, I have become a little more outgoing which has allowed me to foster new friendships. In NPCC, we are taught to step out of our comfort zone and take initiative. That has indeed helped me to hone my leadership capabilities as the Chairman of AI NPCC. I am grateful for all the experiences throughout my journey as a NPCC cadet. It has definitely played an integral part in shaping my character to be who I am today."</em>
+<p><em>“As I reflect, I was glad that I joined NPCC. NPCC made me realized how capable I am of being a leader and the importance of having self-discipline. Through all the trainings, NPCC taught me how to be confident leader and believe that it is fine to make mistakes as it is part of the process. I was given various opportunities to lead and guide others and I appreciate all these learning experiences that has truly shaped me to who I am today!” </em>
+<br><strong>- SI (NPCC) NUR NAYLI BINTE ROMI SOFHIAN, 4N1 (2023)</strong>
 </p>
-<p>- Randy Chong Jing Xuan 4E2</p>
 </blockquote>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Achievements</p>
 <p><strong>Unit Overall Proficiency Award (UOPA)</strong>
