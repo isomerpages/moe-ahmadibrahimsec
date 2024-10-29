@@ -166,9 +166,12 @@ letter from our school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home Delivery
+<p>1) Home Delivery
 <br>Local delivery charge of <strong>$14.60</strong> applies.
-<br>Self-Collection at School (Appointment required)</p>
+<br>
+</p>
+<p>2) Self-Collection at School <strong>(Appointment required)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Home Delivery only
