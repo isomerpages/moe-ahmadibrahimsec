@@ -54,10 +54,11 @@ other both on and off the dance floor.</p>
 </div>
 </details>
 </div>
-<p></p>
-<ul>
-<li>
-<p>Achievements</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Youth Festival Presentation</p>
@@ -78,9 +79,14 @@ other both on and off the dance floor.</p>
 2018</p>
 </li>
 </ul>
-</li>
-<li>
-<p>Participation</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Participation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese New Year Performance</p>
@@ -92,33 +98,49 @@ other both on and off the dance floor.</p>
 <p>Achievement Day Performance</p>
 </li>
 </ul>
-</li>
-<li>
-<p>Gallery</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST7bCq0uLVGdpHPatlD7rW3aWYOpVM7svSCbLArqqq367-XIFM99WQsELGzgfTy3Heg3KUXeQ43WHI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-</li>
-<li>
-<p>Training Schedule</p>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
 <br>3.45 pm to 6.15 pm</p>
 <p><strong>Friday</strong>
 <br>1.30 pm to 5.00 pm</p>
-</li>
-<li>
-<p>Student Leaders</p>
-<p><strong>Chiarperson<br></strong>Nyla Aqila Binte Zainal Abidin (3 Excellence)</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Chairperson<br></strong>Nyla Aqila Binte Zainal Abidin (3 Excellence)</p>
 <p><strong>Vice-Chairperson<br></strong>Chong Ning Xin (3 Steadfastness)</p>
 <p><strong>Captains<br></strong>Joey Heng Wen Ting (3 Excellence)
 <br>Isabel Tay Yun Xi (3 Steadfastness)</p>
-</li>
-<li>
-<p>Teacher In Charge</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teacher In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mdm Fitrah Bte Jamri<br>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" rel="noopener noreferrer nofollow" target="">fitrah_jamri@moe.edu.sg</a></strong>
 <br>Mdm Amelia Y Dizon
 <br>Ms Ang Xin Ru Ruby
 <br>Ms Yamuna Rani D/O Rajagopal</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST7bCq0uLVGdpHPatlD7rW3aWYOpVM7svSCbLArqqq367-XIFM99WQsELGzgfTy3Heg3KUXeQ43WHI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
 <p></p>
