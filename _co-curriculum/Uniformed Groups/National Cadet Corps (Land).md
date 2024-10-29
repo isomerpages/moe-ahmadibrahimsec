@@ -8,7 +8,7 @@ variant: tiptap
 <h2>National Cadet Corps (Land)</h2>
 <h3>About Us<br></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ncclogo.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ncclogo.jpg">
 </div>
 <p>The National Cadet Corps (Land) in Ahmad Ibrahim Secondary School is a
 Uniformed Group Co-Curricular Activity (CCA) that is supported by the Ministry
