@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2024</h4>
+<h4><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2024</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -70,7 +70,7 @@ letter from our school.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>Online Purchase*</strong></h5>
+<h4><strong>Online Purchase*</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -284,19 +284,22 @@ altered, worn or ironed.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>*Online purchase is not available for MOE FAS and School Based FAS students</strong>
+<p><strong>NB: *Online purchase is not available for MOE FAS and School Based FAS students</strong>
 </p>
-<p><strong><u>Walk-In Purchase</u></strong>
-<br>As part of safe management measures, the school strongly encourages appointments
+<p></p>
+<h4><strong>Walk-In Purchase</strong></h4>
+<p>As part of safe management measures, the school strongly encourages appointments
 to be made for walk-in purchase of textbooks. Those with scheduled appointment
 will receive priority at the bookstore. Those who walk-in without an appointment
-will have to wait for the next available opening.</p>
-<p>Appointments can made at our vendor <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">website</a> . The appointment system
-will be available from 13 Nov.</p>
-<p>The user guide for the appointment system is attached.</p>
+will have to wait for the next available opening.
+<br>
+<br>Appointments can made at our vendor <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">website</a>. The appointment system
+will be available <strong><u>from 13 Nov</u></strong>.
+<br>
+<br>The user guide for the appointment system is attached.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist/2024/eappointment%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
+<p><a href="/files/Booklist/2025/Pacific_Bookstores_eAppointment_Guide.pdf" rel="noopener nofollow" target="_blank">eAppointment Guide</a>
 </p>
 </li>
 </ul>
