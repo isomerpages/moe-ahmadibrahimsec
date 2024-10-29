@@ -107,10 +107,11 @@ other both on and off the dance floor.</p>
 <summary><strong>Training Schedule</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Wednesday</strong>
-<br>3.45 pm to 6.15 pm</p>
-<p><strong>Friday</strong>
-<br>1.30 pm to 5.00 pm</p>
+<p><strong>Wednesday</strong> 
+<br>315pm to 615pm
+<br>
+<br><strong>Friday </strong>
+<br>230pm t0 530pm</p>
 </div>
 </details>
 </div>
