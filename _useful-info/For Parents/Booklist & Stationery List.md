@@ -149,7 +149,8 @@ letter from our school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PayNow (QR code)
-<br>Credit/Debit Card (Visa/Master only)</p>
+<br>Credit/Debit Card
+<br>(Visa/Master only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PayNow</p>
