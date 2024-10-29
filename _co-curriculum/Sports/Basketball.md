@@ -17,9 +17,11 @@ from the teachers and coaches. As a result, since 2008, we have at least
 one team qualifying for the National competition, where the top 16 teams
 in Singapore compete annually, and it has been a record that we are definitely
 going to continue to uphold and we will strive to keep it going.&nbsp;</p>
-<ul>
-<li>
-<p>Achievements</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>NSG Basketball Championships (North Zone)</strong>
 </p>
 <p><strong><u>2023<br></u></strong>B Boys: Zone - 2nd Round
@@ -46,33 +48,48 @@ going to continue to uphold and we will strive to keep it going.&nbsp;</p>
 <br>C Boys: 1st Round</p>
 <p>B Girls: 4th Placing
 <br>C Girls: 1st Round</p>
-</li>
-<li>
-<p>Gallery</p>
-<h4></h4>
-</li>
-<li>
-<p>Training Schedule</p>
-<p><strong>Wednesdays</strong>
-<br>3.30 to 5.30 pm</p>
-<p><strong>Fridays<br></strong>2.00 to 5.00 pm</p>
-<p></p>
-</li>
-<li>
-<p><strong>Student Leaders</strong>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Wednesdays </strong>
+<br>3.30-5.30pm
+<br>
+<br><strong>Fridays </strong>
+<br>2-5pm</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Boys Captain<br></strong>Ng Yong Le, Junius (4EX)
+<br>Sia Andy (2SE)
+<br>
 </p>
-<p><strong>Boys Captain<br></strong>Ng Yong Le, Junius (4EX), Sia Andy (2SE)</p>
-<p><strong>Girls Captain<br> </strong>Yip Pun Yin (4EX), Dania Nurallysya
-Putri Mohamed Hizan (2RE)</p>
-</li>
-<li>
-<p><strong>Teachers In Charge</strong>
-</p>
+<p><strong>Girls Captain<br></strong>Yip Pun Yin (4EX)
+<br>Dania Nurallysya Putri Mohamed Hizan (2RE)</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mdm Tay Liling (OIC)<br>Contact:&nbsp;<a href="mailto:tay_liling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tay_liling@moe.edu.sg</a></strong>
 </p>
 <p>Mr Daniel Chan Chong Weng
 <br>Ms Theresa Ong Hwee Fang
 <br>Mr Zhang Xinwen</p>
-</li>
-</ul>
-<p></p>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
