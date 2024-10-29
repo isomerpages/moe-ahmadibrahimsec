@@ -120,10 +120,15 @@ other both on and off the dance floor.</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Chairperson<br></strong>Nyla Aqila Binte Zainal Abidin (3 Excellence)</p>
-<p><strong>Vice-Chairperson<br></strong>Chong Ning Xin (3 Steadfastness)</p>
-<p><strong>Captains<br></strong>Joey Heng Wen Ting (3 Excellence)
-<br>Isabel Tay Yun Xi (3 Steadfastness)</p>
+<p><strong>Chairperson </strong>
+<br>Wang Xiaoyu (3 Resilience)
+<br>
+<br><strong>Vice-Chairperson</strong> 
+<br>Wang Yingluo (3 Excellence)
+<br>
+<br><strong>Captains </strong>
+<br>Tan Shi Ern Shannon (3 Care)
+<br>Hannah Qistina Binte Mohammad Wirman (3 Steadfastness)</p>
 </div>
 </details>
 </div>
