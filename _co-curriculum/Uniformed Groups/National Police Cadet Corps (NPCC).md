@@ -8,7 +8,7 @@ variant: tiptap
 <h2>National Police Cadet Corps (NPCC)</h2>
 <h4><strong>About Us</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/logo.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/logo.png">
 </div>
 <p>Set up in 1968, Ahmad Ibrahim Secondary School’s NPCC unit has grown in
 strength in the last 50 years. AISS NPCC unit aims to develop its members
