@@ -62,35 +62,60 @@ and reaching new heights together. Onwards, AI NPCC!
 <summary><strong>Achievements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Unit Overall Proficiency Award (UOPA) 2016 : Gold Award 2017 : Gold Award
-2018 : Gold Award 2019 : Gold Award 2020 : Gold Award 2021 : Suspended
-2022 : Gold Award 2023 : Gold Award 2024 : Gold Award Best Unit Cadet 2012
-: SSG Li Jian Xing &amp; SSG Nur Aqilah Diyanah 2013 : SSG Md Shahirul
-Shukor &amp; SSG Sen Shu Hui 2014 : SSG Adam Malik &amp; SSG Soh Yu Qi
-2015 : SSG Jet Law &amp; SSG Vivian Quek 2016 : SSG Kenneth Chia &amp;
-SSG Jessica Lim 2017 : SI Kwok Si-yang &amp; SSG Partiban Tharani 2018
-: SSG Girish S/O Balakrishnan &amp; SSG Chen Huixin 2020 : SSG Raihanatunnisa
-&amp; SSG Ng Wei An Ryan 2021: SGT D S Jayin &amp; SGT Song Zi Qi Gladys
-2022: SI D S Jayin &amp; SSG Aalysha 2023: SSG Saeed Muntasir Bin Mohamed
-Abusali &amp; SI Nur Nayli Binte Romi Sofhian 2024: SSG Ong Yi Nuo Angelina
-(Wang Yinuo) &amp; SSG Mohammad Khairyl Redzuan Bin Mohammad Hanip SPF-NPCC
-Badge Awardee 2017 : SI Kwok Si-yang 2018 : SSG Wang Le Chen 2020 : SI
-Ho Zheng Yang Xanthus 2021 : SI Tan Cinn Yui 2022 : SI D S Jayin &amp;
-SSG Irka Adlina 2023 : SI Nur Nayli &amp; SSG Saeed Muntasir 2024 : SI
-Nur Zafirah Insyirah Binte Zainal Abidin, SSG Lim Jun Hui, Lucas &amp;
-SSG Goh Yun Hong, Collin
+<p><strong>Unit Overall Proficiency Award (UOPA) </strong>
+<br>2016 : Gold Award
+<br>2017 : Gold Award
+<br>2018 : Gold Award
+<br>2019 : Gold Award
+<br>2020 : Gold Award
+<br>2021 : Suspended
+<br>2022 : Gold Award
+<br>2023 : Gold Award
+<br>2024 : Gold Award
+<br>
+<br><strong>Best Unit Cadet </strong>
+<br>2012 : SSG Li Jian Xing &amp; SSG Nur Aqilah Diyanah
+<br>2013 : SSG Md Shahirul Shukor &amp; SSG Sen Shu Hui
+<br>2014 : SSG Adam Malik &amp; SSG Soh Yu Qi
+<br>2015 : SSG Jet Law &amp; SSG Vivian Quek
+<br>2016 : SSG Kenneth Chia &amp; SSG Jessica Lim
+<br>2017 : SI Kwok Si-yang &amp; SSG Partiban Tharani
+<br>2018 : SSG Girish S/O Balakrishnan &amp; SSG Chen Huixin
+<br>2020 : SSG Raihanatunnisa &amp; SSG Ng Wei An Ryan
+<br>2021: SGT D S Jayin &amp; SGT Song Zi Qi Gladys
+<br>2022: SI D S Jayin &amp; SSG Aalysha
+<br>2023: SSG Saeed Muntasir Bin Mohamed Abusali &amp; SI Nur Nayli Binte
+Romi Sofhian
+<br>2024: SSG Ong Yi Nuo Angelina (Wang Yinuo) &amp; SSG Mohammad Khairyl
+Redzuan Bin Mohammad Hanip
+<br><strong><br>SPF-NPCC Badge Awardee</strong> 
+<br>2017 : SI Kwok Si-yang
+<br>2018 : SSG Wang Le Chen
+<br>2020 : SI Ho Zheng Yang Xanthus
+<br>2021 : SI Tan Cinn Yui
+<br>2022 : SI D S Jayin &amp; SSG Irka Adlina
+<br>2023 : SI Nur Nayli &amp; SSG Saeed Muntasir
+<br>2024 : SI Nur Zafirah Insyirah Binte Zainal Abidin, SSG Lim Jun Hui, Lucas
+&amp; SSG Goh Yun Hong, Collin
 <br>
 </p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Wednesday</strong> 
+<br>3.15 pm – 5.45 pm
+<br>
+<br><strong>Friday </strong>
+<br>2.30 pm – 5.00 pm</p>
+</div>
+</details>
+</div>
 <ul>
-<li>
-<p>Training Schedule</p>
-<p><strong>Wednesday<br></strong>3.45 pm - 6.15 pm
-<br><strong>Friday<br></strong>2.30 pm - 6.00 pm
-<br>(Training sessions by HQ will be updated once details are released)</p>
-</li>
 <li>
 <p>Student Leaders</p>
 <div class="isomer-image-wrapper">
