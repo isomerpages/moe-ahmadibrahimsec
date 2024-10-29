@@ -13,12 +13,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2025/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
+<p><a href="/files/Booklist/2025/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 <br>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2025/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
+<p><a href="/files/Booklist/2025/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 <br>
 </p>
 </li>
@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2025/S5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a></strong>
+<p><a href="/files/Booklist/2025/S5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a>
 </p>
 </li>
 </ul>
