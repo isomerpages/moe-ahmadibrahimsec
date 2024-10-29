@@ -108,10 +108,7 @@ age and exposed them to the skill sets needed for the digital economy.&nbsp;</p>
 </tbody>
 </table>
 <p>
-<br>
-<br>
-</p>
-<p><strong><u>Math Alive!</u></strong>
+<br><strong><u>Math Alive!</u></strong>
 </p>
 <p>Conducted as part of post-exam activities for the Secondary 1 to 3 students,
 the Math Alive! series aims to allow students to see the real-world application
@@ -136,6 +133,50 @@ the concepts and skills acquired in a bigger context – the aviation industry.&
 modelling process when they formulate problems, select and apply appropriate
 concepts and skills to solve the problems, and interpret the mathematical
 solutions in the context of the problems.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/Pic_7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_12.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
