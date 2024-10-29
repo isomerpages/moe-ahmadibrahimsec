@@ -38,24 +38,38 @@ variant: tiptap
 </li>
 </ul>
 <h4>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2024</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>The school textbooks and attire can be purchased from our approved vendors
 either online* or directly at the school during specified dates (see walk-in
-purchase).</p>
-<p>Students are advised to purchase school textbooks from our school bookshop
+purchase). &nbsp;
+<br>
+<br>Students are advised to purchase school textbooks from our school bookshop
 vendor to ensure the correct editions and titles are selected as prescribed
-by the school</p>
-<p><strong><u>STUDENTS OFFERED SBB SUBJECTS</u></strong>
+by the school.
+<br>
+<br><strong><u>STUDENTS OFFERED SBB SUBJECTS</u></strong>
 <br>Students who are uncertain about whether they will be offered SBB subjects
 should refrain from purchasing textbooks at this time. Please be aware
 that purchases from our school bookshop are non-refundable, and only books
 in their original condition can be exchanged. For instance, books with
-students' names written in them cannot be exchanged.</p>
-<p><strong><u>MOE FAS AND SCHOOL-BASED FAS STUDENTS</u></strong>
+students' names written in them cannot be exchanged.
+<br>
+<br><strong><u>MOE FAS AND SCHOOL-BASED FAS STUDENTS</u></strong>
 <br>Online purchase will not be available. Upon FAS approval, the school will
 contact parents to arrange for the collection of the approval letter. Parents
 who receive FAS approval from other schools are advised to contact our
 General Office to make an appointment for the collection of the approval
 letter from our school.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>Online Purchase*</strong></h5>
 <table style="minWidth: 100px">
 <colgroup>
