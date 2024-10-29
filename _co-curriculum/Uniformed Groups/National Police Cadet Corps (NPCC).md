@@ -23,23 +23,28 @@ the cadets while learning these skills.&nbsp;</p>
 trips to places such as Hong Kong and Brunei, through the linkup between
 SPF/NPCC HQ and our foreign partner’s police cadet groups. Locally, we
 also have our annual camps in the unit held in school.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Due to the easing of Covid-19 restrictions, this has allowed cadets to
+attend various NPCC activities throughout the year. Cadets were given various
+opportunities to attend learning journeys to police establishments such
+as Police Heritage Centre and visits to Yishun Neighbourhood Police Centre,
+Area Camps and participate in NPCC-related competitions such as the inter-unit
+Crime Scene Investigation (CSI) Competition, in which our unit placed 8th
+among the 123 participating schools. As AI NPCC continues to strive despite
+of all the challenges and obstacles, let’s aim for more remarkable accomplishments
+and reaching new heights together. Onwards, AI NPCC!
+<br>
+<br>AI NPCC Website: <a href="https://sites.google.com/moe.edu.sg/ai-npcc/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/ai-npcc/home</a>
+</p>
+</div>
+</details>
+</div>
 <ul>
-<li>
-<p>Highlights</p>
-<p>Taking an aim at the man-figure on the target board, he squeezes the cold
-trigger and watches how each shot pierces through the target. He starts
-to break into cold sweat as he feels his grip on the revolver moisten with
-sheer determination and traces of nervousness. The deafening sounds of
-the gunfire seem to be able to penetrate through the ear mufflers, startling
-him with each shot. Intense training sessions as such are no stranger to
-the determined NPCC cadet who grits his teeth through them all.&nbsp;</p>
-<p>“Uncle, have you heard about SGSecure?” She asks as she hands over a pamphlet.
-With the aid of the student-drawn poster, she shares with the shop owner
-the key messages of this nation-wide initiative – staying alert and reporting
-suspicious characters. Her confidence grows as he nods in agreement. Indeed,
-public awareness and training go hand-in-hand for the NPCC cadet, who not
-only equips herself for emergencies, but actively promotes civic-consciousness.</p>
-</li>
 <li>
 <p>Reflections</p>
 <blockquote>
