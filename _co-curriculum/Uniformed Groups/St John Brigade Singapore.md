@@ -8,7 +8,7 @@ variant: tiptap
 <h2>St John Brigade Singapore</h2>
 <h3>About Us</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/sjbs.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/sjbs.png">
 </div>
 <p>St. John Brigade Singapore (SJBS) upholds the mottos ‘Pro Fide’ and ‘Pro
 Utilitate Hominum’, which stands for ‘For The Faith’ and ‘For The Service
@@ -104,18 +104,15 @@ CCA Exposure!</p>
 <br>
 <br>2 of our cadets were part of the Singapore National Day Parade SJAB Marching
 Contingent:
-<br>MOHAMAD AQIL BIN MOHAMAD NIZAM, 2-GRATITUDE
-<br>AQIL RAIYAN BIN MOHAMED RIDWAN, 2-RESILIENCE
+<br><em>MOHAMAD AQIL BIN MOHAMAD NIZAM, 2-GRATITUDE <br>AQIL RAIYAN BIN MOHAMED RIDWAN, 2-RESILIENCE </em>
 <br>
 <br>3 of our students took part as Official First Aiders for the National
 Day Parade at the Padang:
-<br>NG SIEW JING, 3-EXCELLENCE
-<br>WONG JIAAN LEROY, 3-EXCELLENCE
-<br>LUCAS ONG TING HAO, 3-INTEGRITY
+<br><em>NG SIEW JING, 3-EXCELLENCE <br>WONG JIAAN LEROY, 3-EXCELLENCE <br>LUCAS ONG TING HAO, 3-INTEGRITY</em> 
 <br>
 <br>2 of our cadets took part in the Trooping of Colours Parade:
-<br>WONG JIAAN LEROY, 3-EXCELLENCE
-<br>LUCAS ONG TING HAO, 3-INTEGRITY</p>
+<br><em>WONG JIAAN LEROY, 3-EXCELLENCE <br>LUCAS ONG TING HAO, 3-INTEGRITY</em>
+</p>
 </div>
 </details>
 </div>
@@ -179,6 +176,6 @@ Day Parade at the Padang:
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfdbK7NXIudaT_0LZX-s82NlqE3DDJIv-tjTF8CBWjhPhKUFiOHq87NAD_b66gWIScYDm-sDM3gCNZ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcPYhrGZ29TunTi6w8y9RFJmcmpQu9mimPWSOA8QLzASHCsW9CP1IfsrDEjB-jyQelfjIDedZGKKGQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
