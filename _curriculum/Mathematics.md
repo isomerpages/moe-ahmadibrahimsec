@@ -193,6 +193,10 @@ a working solution to the judging panel. For the past two years, our students
 have consistently made us proud by attaining the Certificate of Merit,
 a strong testament of their brilliant work. Congratulations to the teams
 over the years!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math 2024/pic_13.jpg">
+</div>
 <p>
 <br>
 </p>
