@@ -69,32 +69,26 @@ heart in singing, so that music in our soul can be heard by the universe.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ahmad Ibrahim Secondary School Achievement Day, 2018</p>
+<p>Ahmad Ibrahim Secondary School Achievement Day</p>
 </li>
 <li>
-<p>Ahmad Ibrahim Secondary School Biennial Combined Concert, 2018</p>
+<p>Ahmad Ibrahim Secondary School Biennial Combined Concert</p>
 </li>
 <li>
 <p>Choir Exchange with Bartley Secondary School Choir, Jurong Secondary School
-Choir and East Spring Chorale, 2019</p>
+Choir and East Spring Chorale</p>
 </li>
 <li>
 <p>Voices of Singapore Festival, 2019</p>
 </li>
 <li>
-<p>AISS Achievement Day, 2019</p>
+<p>SYF Competition</p>
 </li>
 <li>
-<p>SYF Competition, 2019</p>
+<p>SYF Celebrations</p>
 </li>
 <li>
-<p>SYF Celebrations, 2019</p>
-</li>
-<li>
-<p>Zarathustra! Concert with Orchestra of the Music Makers, 2019</p>
-</li>
-<li>
-<p>Ahmad Ibrahim Secondary School Achievement Day, 2022</p>
+<p>Zarathustra! Concert with Orchestra of the Music Makers</p>
 </li>
 </ul>
 </div>
