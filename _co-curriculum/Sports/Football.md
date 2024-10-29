@@ -118,9 +118,13 @@ National C Division Boys League 2 Preliminary Round
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Monday</strong>
-<br>(During competition season)</p>
-<p><strong>Wednesday<br></strong>3.30 to 5.30 pm</p>
-<p><strong>Friday<br></strong>3.00 to 5.00 pm</p>
+<br>(During competition season)
+<br>
+<br><strong>Wednesday</strong>
+<br>3.15pm to 6.15pm
+<br>
+<br><strong>Friday </strong>
+<br>2.30pm to 5.30pm.</p>
 </div>
 </details>
 </div>
