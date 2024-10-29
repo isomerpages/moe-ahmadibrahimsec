@@ -276,6 +276,10 @@ altered, worn or ironed.</p>
 <br>(9am to 5pm, Mon to Fri)
 <br>Email: <a href="general@bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">general@bluestag.sg</a>
 </p>
+<p></p>
+<p><strong><em>PE Attire are also available for purchase from School Bookshop, and Chop Kong Chong's retail outlet at Sembawang Shopping Centre, wef from 11 Jan 24 - Nov 24, during their operating hours</em><br><br><em>Online purchase directly from <a href="http://www.bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">www.bluestag.sg</a> will still be available throughout the year.</em></strong>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
