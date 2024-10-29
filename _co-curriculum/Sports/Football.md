@@ -88,7 +88,10 @@ and bring AI Football to be the best that it can be.</p>
 <summary><strong>Achievements/Participation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><u>2023<br></u></strong>B Boys: Zone - 1st Round
+<p><strong><u>2024</u></strong> 
+<br>B Boys: National B Division Boys League 4 Championship: Runners-up C Boys:
+National C Division Boys League 2 Preliminary Round
+<br><strong><u>2023<br></u></strong>B Boys: Zone - 1st Round
 <br>C Boys: National League 2 - Prelim</p>
 <p><strong><u>2022<br></u></strong>B Boys: Zone - 1st Round
 <br>C Boys: Zone - 4th and Fair Play award</p>
