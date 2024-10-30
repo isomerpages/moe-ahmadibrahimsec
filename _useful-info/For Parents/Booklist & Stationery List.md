@@ -13,12 +13,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2025/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
+<p><a href="/files/Booklist/2025/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 <br>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2025/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
+<p><a href="/files/Booklist/2025/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 <br>
 </p>
 </li>
@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2025/S5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a></strong>
+<p><a href="/files/Booklist/2025/S5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a>
 </p>
 </li>
 </ul>
@@ -277,7 +277,7 @@ altered, worn or ironed.</p>
 <br>Email: <a href="general@bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">general@bluestag.sg</a>
 </p>
 <p></p>
-<p><strong><em>PE Attire are also available for purchase from School Bookshop, and Chop Kong Chong's retail outlet at Sembawang Shopping Centre, wef from 11 Jan 24 - Nov 24, during their operating hours</em><br><br><em>Online purchase directly from <a href="http://www.bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">www.bluestag.sg</a> will still be available throughout the year.</em></strong>
+<p><strong><em>PE Attire are also available for purchase from School Bookshop, and Chop Kong Chong's retail outlet at Sembawang Shopping Centre, wef from 11 Jan 25 - Nov 25, during their operating hours</em><br><br><em>Online purchase directly from <a href="http://www.bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">www.bluestag.sg</a> will still be available throughout the year.</em></strong>
 </p>
 <p></p>
 </td>
