@@ -320,13 +320,9 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6xEcCVqO3_J4M0W2Y2xA5nSMO-9TZAySfQH6rguENUFQ42mplu9E02TxMEFbVCavbtqStEhdb3hYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-</li>
-</ul>
 <p></p>
