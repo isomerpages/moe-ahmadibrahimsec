@@ -125,32 +125,48 @@ of Accomplishment</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Gallery</p>
-<h4></h4>
-</li>
-<li>
-<p>Training Schedule</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
-<br>3.45 pm to 6.30 pm</p>
+<br>3.30 pm to 6.00 pm
+<br>
+</p>
 <p><strong>Friday</strong>
-<br>1.30 pm to 5.00 pm</p>
-</li>
-<li>
-<p>Student Leaders</p>
+<br>2.30 pm to 5.30 pm</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Executive Committee</u></strong>
 </p>
 <p><strong>Chairperson<br></strong>Celeste Wong Jing Man&nbsp;(3E2)</p>
 <p><strong>Vice-chairpersons<br></strong>Kelly Soh Shi Ya&nbsp;(3E4) and&nbsp;Ong
 Ti Gwan&nbsp;(3N2)</p>
-</li>
-<li>
-<p>Teachers In Charge</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Wang Xuejuan (OIC)<br>Contact: </strong><a href="mailto:wang_xuejuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_xuejuan@moe.edu.sg</a>
 </p>
 <p>Ms Ho Jie Min, Melody
 <br>Mdm Song Weina</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9Dy13jNqJ_ZGbT0kDlenB7M_4U0EmpOvSezoQoafQ48mb-58vjVT_QkmMLXpV_g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
