@@ -481,16 +481,21 @@ Division Girls
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Teachers In Charge</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mdm Puah Shi Hui Silia&nbsp;(OIC)<br>Contact:&nbsp;<a href="mailto:puah_shi_hui_silia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">puah_shi_hui_silia@moe.edu.sg</a></strong>
-</p>
-<p>Mdm Chennakesavalu Sheela
+<br>Mdm Chennakesavalu Sheela
 <br>Mr Mohamed Izwan Bin Abdul Manan
 <br>Mdm Ngui Lilian</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p><strong>Gallery</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa00WXOofSd8dJCn1AqjjMrnSZ7zMncKixJk6VW7lA_yGlKDXXa5MN6whwSntopwBpH4PveTlYqkLP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
