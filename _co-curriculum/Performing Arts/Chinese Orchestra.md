@@ -145,10 +145,13 @@ of Accomplishment</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Executive Committee</u></strong>
+<br>
 </p>
-<p><strong>Chairperson<br></strong>Celeste Wong Jing Man&nbsp;(3E2)</p>
-<p><strong>Vice-chairpersons<br></strong>Kelly Soh Shi Ya&nbsp;(3E4) and&nbsp;Ong
-Ti Gwan&nbsp;(3N2)</p>
+<p><strong>Chairperson<br></strong>Lim En Ting&nbsp;(3 Integrity)
+<br>
+</p>
+<p><strong>Vice-chairpersons<br></strong>Lian Yu Qi, Heidi (3 Integrity)</p>
+<p>Aloysius Lim Zing Lak (3 Care)</p>
 </div>
 </details>
 </div>
