@@ -16,7 +16,7 @@ first. We have fun during trainings but at the same time we maintain discipline.
 <p>Our motto is,&nbsp;<strong>“Chase your dreams, throw your worries, jump for your goals”</strong>.&nbsp;</p>
 <blockquote>
 <p><em>"Track and Field has definitely helped me to become fitter. It encourages me to persevere through the difficult trainings. I am able to use the values I acquired from Track and Field in many real life situations. I believe the bonds that I have with my Track and Field friends have grown, especially when running together, as we get to talk to each other and help one another out. For example, once my friend got really bad cramps in his thighs and calves, and my group of friends went to help him out. This exemplifies the value of care, one of our school values."</em>
-<br><strong>- Vignesh S/O Manoharan 3E3 </strong>
+<br><strong>- Vignesh S/O Manoharan 3E3</strong>
 </p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -462,118 +462,22 @@ Division Girls
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Captain&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JALENE POON SI HAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>S3-RE</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p>Vice-Captain (Training)</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ALOYSIUS TAN GUAN ZHI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>S3-RE</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p>Vice-Captain (Discipline)</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>EMIRA NDREU</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>S3-SE</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p>Vice-Captain (Logistic)</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>YONG RUI LANG ETHAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>S3-IN</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p>Vice-Captain (PSL)</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LEE KAI QI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>S3-RE</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p>Vice-Captain (Farewell)</p>
-<p>Tan Si En S3-ST</p>
+<p><strong>Captain</strong>
+<br>JALENE POON SI HAN (S3-RE)</p>
+<p></p>
+<p><strong>Vice-Captain (Training)<br></strong>ALOYSIUS TAN GUAN ZHI (S3-RE)</p>
+<p></p>
+<p><strong>Vice-Captain (Discipline)</strong>
+<br>EMIRA NDREU (S3-SE)</p>
+<p></p>
+<p><strong>Vice-Captain (Logistic)</strong>
+<br>YONG RUI LANG ETHAN (S3-IN)</p>
+<p></p>
+<p><strong>Vice-Captain (PSL)</strong>
+<br>LEE KAI QI (S3-RE)</p>
+<p></p>
+<p><strong>Vice-Captain (Farewell)</strong>
+<br>TAN SI EN (S3-ST)</p>
 </div>
 </details>
 </div>
