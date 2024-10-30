@@ -16,22 +16,22 @@ Together with our Band Directors, Mr. Chong, Mr. Chia and Mr. Tarun, the
 band will continue striving for excellence in music.</p>
 <p></p>
 <blockquote>
-<p><em>When I first joined band, I thought it was just to play an instrument and perform with other people. I realized it was more than that. Band teaches us teamwork, perseverance and other values. We need to be comfortable and communicate well with band mates. Whenever we don't understand a certain part of the piece, we can always turn to our band mates and work together.</em>
+<p><em>"When I first joined band, I thought it was just to play an instrument and perform with other people. I realized it was more than that. Band teaches us teamwork, perseverance and other values. We need to be comfortable and communicate well with band mates. Whenever we don't understand a certain part of the piece, we can always turn to our band mates and work together."</em>
 <br><strong>- Luqman Hakim Bin Mohammad Khalid</strong>
 </p>
-<p><em>Band taught me soft skills that I could apply it in my daily lives. I initially considered band to be a CCA to be mainly playing on an instrument. But joining the CCA, I learnt in-depth about what Band could offer me. Like from Musicianship to Teamwork and Communication, I think joining band enabled me to find my potential and to express myself without words.</em>
+<p><em>"Band taught me soft skills that I could apply it in my daily lives. I initially considered band to be a CCA to be mainly playing on an instrument. But joining the CCA, I learnt in-depth about what Band could offer me. Like from Musicianship to Teamwork and Communication, I think joining band enabled me to find my potential and to express myself without words."</em>
 <br><strong>- Peh Shan Yuan, Leroy</strong>
 </p>
-<p><em>I chose band as my CCA as for me, I wanted to learn a new instrument, and I chose to play the trombone in the band. For me, Band initially was just about learning how to play a new instrument, however, I have learnt so much more than just playing the trombone. I never expected to make new friends along the way, or to be able to participate in SYF, and those experiences helped me grow and mature, learning that Band was not only about learning a new instrument, but about learning how to play together, as one, in a band, which has taught be about the values of teamwork and cooperation</em>
+<p><em>"I chose band as my CCA as for me, I wanted to learn a new instrument, and I chose to play the trombone in the band. For me, Band initially was just about learning how to play a new instrument, however, I have learnt so much more than just playing the trombone. I never expected to make new friends along the way, or to be able to participate in SYF, and those experiences helped me grow and mature, learning that Band was not only about learning a new instrument, but about learning how to play together, as one, in a band, which has taught be about the values of teamwork and cooperation."</em>
 <br><strong>- Rion Oh Yu Bin</strong>
 </p>
-<p><em>Many people think that joining band is just practice hard and go for SYF but it is different in AI. Concert Band have taught me so much like responsibility and changed me so much that I could be an ASL (Assistant Section Leader).</em>
+<p><em>"Many people think that joining band is just practice hard and go for SYF but it is different in AI. Concert Band have taught me so much like responsibility and changed me so much that I could be an ASL (Assistant Section Leader)."</em>
 <br><strong>- Muhammad Rifqii Bin Abdur Rauf</strong>
 </p>
-<p><em>I am really happy that I took my chance to join Band. At first, I was so intimidated by everyone and was really scared of messing up. But, with the support from the other band members, I learnt that it is really okay to make a mistake and that I have nothing to be afraid of.</em>
+<p><em>"I am really happy that I took my chance to join Band. At first, I was so intimidated by everyone and was really scared of messing up. But, with the support from the other band members, I learnt that it is really okay to make a mistake and that I have nothing to be afraid of."</em>
 <br><strong>- Deka Garishma</strong>
 </p>
-<p><em>Many people around me view band as just another cca but to me, it is more than that. Band has taught me many values such as respect, patience, discipline and perseverance. Band has taught me to be responsible.</em>
+<p><em>"Many people around me view band as just another cca but to me, it is more than that. Band has taught me many values such as respect, patience, discipline and perseverance. Band has taught me to be responsible."</em>
 <br><strong>- Nadyne Nur Rahilah</strong>
 </p>
 </blockquote>
