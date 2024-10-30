@@ -18,9 +18,7 @@ performance, dedication as well as services at the secondary school level.
 As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for
 sixteen consecutive years. The Frank Cooper Sands Award is an award which
 every Scout unit in Singapore strives to achieve excellence in.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>In Scouts CCA, we conduct training twice a week where Scouts experience
 many exciting and enriching activities and learn Scouting skills such as
 camping, pioneering, orienteering and outdoor cooking. We also organise
@@ -45,18 +43,25 @@ Once every two years at year end, we co-organise a combined camp with the
 Girl Guides and embark on an overseas camping trip to meet Scouts from
 other countries. This is to allow Scouts to make new friends and learn
 new knowledge and skills from our counterparts.</p>
-<ul>
-<li>
-<p>Vision &amp; Mission</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Vision &amp; Mission</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Vision</strong>
 <br>Each Scout a gentleman clean in thought, word and deed, who strives to
 be a student leader who is a cut above the rest.</p>
 <p><strong>Mission</strong>
 <br>To develop in young gentlemen courage, resilience, and a sense of brotherhood.</p>
-</li>
-<li>
-<p>Activities</p>
-<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>In Scouting, Scouts learn four core skills:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -117,7 +122,10 @@ using mere wooden spars and manila ropes.</p>
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire,
 to putting small pieces of chicken to roast over a self-made cooking pit,
 this is part of the outdoor cooking skill set that every Scout possesses.</p>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Achievements</p>
 <ul data-tight="true" class="tight">
@@ -253,70 +261,13 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </li>
 <li>
 <p>Student Leaders</p>
-<p><strong>Senior Patrol Leader</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3-Intergrity Cheng Chung Yau</p>
-</li>
-<li>
-<p>3-Excellence Wong Kai Hong</p>
-</li>
-</ul>
-<p><strong>Patrol Leader / Secretary</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3-Integrity Goh Kar Ying</p>
-</li>
-</ul>
-<p><strong>Patrol Leader / Quartermaster</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3-Resilience Muhammad Danish Bin Andy Mirza</p>
-</li>
-<li>
-<p>3-Resilience Hah Kai Hao</p>
-</li>
-</ul>
-<p><strong>Assistant Patrol Leader / Secretary</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2-E3 Afable Grey Anthony Banzuela</p>
-</li>
-</ul>
-<p><strong>Assistant Patrol Leader</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3-Resilience Chai Song Mi</p>
-</li>
-<li>
-<p>3-Care Jared Reyes Castillo</p>
-</li>
-<li>
-<p>2-E1 Liau Kang Jie</p>
-</li>
-<li>
-<p>2-E3 Koh Jia Wei</p>
-</li>
-<li>
-<p>2-N1 Aqeel Rashaad Khan</p>
-</li>
-<li>
-<p>2-N1 Darwisyh Arfan Bin Abdul Jalil</p>
-</li>
-<li>
-<p>2-N1 Neo Xuan Ming</p>
-</li>
-</ul>
+<p><strong>Senior Patrol Leader</strong> 3RE AFABLE GREY ANTHONY BANZUELA
+3ST KOH JIA WEI <strong>Patrol Leader / Secretary</strong> 3SE DARWISYH ARFAN
+BIN ABDUL JALIL 3ST LIAU KANG JIE <strong>Patrol Leader / Quartermaster</strong> 3SE
+AQEEL RASHAAD KHAN 3CA NEO XUAN MING <strong>Assistant Patrol Leader</strong> 3CA
+AHMAD IMTIYAZ BIN AZME 3EX SEE KAI LE REYES 2CA LIM ZHENG YIN 2CO MUHAMMAD
+ADEN MATEEN BIN ABDULLAH 2GR HADI RAYYAN ADI 2RE BENJAMIN LIM MING YING
+2SE ONG XUAN LIANG, ISAAC</p>
 </li>
 <li>
 <p>Teachers In Charge</p>
