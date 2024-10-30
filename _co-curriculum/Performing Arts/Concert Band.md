@@ -95,235 +95,46 @@ Top in Division</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Training Schedule</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Wednesday</strong>
+<br>3.15pm to 5.45pm</p>
+<p><strong>Friday</strong>
+<br>2.30pm to 6.00pm</p>
 <p><strong><a href="http://gg.gg/AICBeCCA" rel="noopener noreferrer nofollow" target="">Live Schedule here</a></strong>
 </p>
-</li>
-<li>
-<p>Student Leaders</p>
-<p><strong><u>EXCO</u></strong>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>To be updated</em>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drum Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD RIFQII BIN ABDUR RAUF</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Band Major (Admin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TORRES TAY RUI YI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Band Major (Music)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LIU YU ZHE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Head Recruit Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NADYNE NUR RAHILAH BINTE HISKANDAR NUMEIRY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Assistant Recruit Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DIAN ALYA BATRISYIA BINTE ADIHIRMAWAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Assistant Recruit Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RYAN CHEW</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Head Quarter Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;ARLYNN NATASHA BINTE RAHIMI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Assistant Quarter Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;KONG YI YAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Assistant Quarter Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;LAI HONGFOK</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Head Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;PEH SHAN YUAN, LEROY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Assistant Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;RION OH YU BIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;NUR FARADISA BINTE AZ ZUBIR</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Sectional Leaders</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Flute</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BNUR RUSYDINA BINTE KHUZAINY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Clarinet</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOSES KEELAN RAPISURA DELA CERNA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ANG EN XIN, ALYSSA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Horn</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NOURYN AAQILAH RABITAH BINTE HISKANDAR NUMEIRY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trumpet</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PHYRA YEO YUNJING</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trombone</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LUQMAN HAKIM BIN MOHAMMAD KHALID</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Euphonium</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUR FARADISA BINTE AZ ZUBIR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tuba</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KONG YI YAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Percussion</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DEKA GARISHMA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LEE JING YI</p>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>Teachers In Charge</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Miss Chow Pei Yan (OIC)<br>Contact:&nbsp;<a href="mailto:chow_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chow_pei_yan@moe.edu.sg</a></strong>
-</p>
-<p>Ms Chew Hui Leng Faith
 <br>Mdm Kanthiri Alasa
 <br>Ms Siti Mariah Binte Omar</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p><strong>Gallery</strong>
 </p>
+<p>Do follow us on Instagram for more updates and exciting news: <a href="www.instagram.com/aiconcertband/" rel="noopener noreferrer nofollow" target="_blank"><u>AI Concert Band</u></a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGep8K1Q9ZG-6I6vNTYgwfJ6q6GivppKbYO3bjYg2CqE7l3cShzyshFAoqZ_EhhA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
