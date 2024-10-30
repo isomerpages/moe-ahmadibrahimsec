@@ -74,7 +74,9 @@ be a student leader who is a cut above the rest.</p>
 <p>Knots and Pioneering</p>
 </li>
 <li>
-<p>Cooking and Outdoor Survival</p>
+<p>Cooking and Outdoor Survival
+<br>
+</p>
 </li>
 </ul>
 <p>This is done through the eight elements of the Scout Method:</p>
@@ -101,23 +103,31 @@ be a student leader who is a cut above the rest.</p>
 <p>Nature</p>
 </li>
 <li>
-<p>Community Involvement</p>
+<p>Community Involvement
+<br>
+</p>
 </li>
 </ul>
 <h3>Camping</h3>
 <p>Scouts’ hands are trained for wonders, with the ability to set up tents
 and structures necessary for surviving in the outdoors. Working in accordance
 with nature, Scouts improvise and make use of their surroundings to meet
-their needs while protecting them.</p>
+their needs while protecting them.
+<br>
+</p>
 <h3>Orienteering</h3>
 <p>Navigating with a map in one hand and a compass in the other, Scouts identify
 checkpoints and significant landmarks, and orientate themselves based on
 these points, allowing them to explore unfamiliar territory with ease while
-hiking.</p>
+hiking.
+<br>
+</p>
 <h3>Pioneering</h3>
 <p>With nimble fingers and rugged hands, Scouts construct miniature wooden
 models, transforming them into life-sized bridges, swings and kitchens
-using mere wooden spars and manila ropes.</p>
+using mere wooden spars and manila ropes.
+<br>
+</p>
 <h3>Outdoor Cooking</h3>
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire,
 to putting small pieces of chicken to roast over a self-made cooking pit,
@@ -125,127 +135,61 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Achievements</p>
-<ul data-tight="true" class="tight">
-<li>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Unit Award: Frank Cooper Sands (Gold with Honours Pennant) Award</p>
-</li>
-<li>
 <p>Individual Award: Chief Commissioner’s Award</p>
-</li>
-<li>
 <p>North Area Scout Lore Quest
 <br>- Highest Team Award: Silver
 <br>- Highest Individual Award: Silver</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Participation</p>
-<ul data-tight="true" class="tight">
-<li>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Participation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>AISS Weekly Morning Assembly</p>
-</li>
-<li>
 <p>AISS CCA Carnival</p>
-</li>
-<li>
 <p>Diamond Jubilee Donation Drive</p>
-</li>
-<li>
 <p>Shooting for Masters-At-Arms</p>
-</li>
-<li>
 <p>AISS Total Defence Day Commemoration Parade Segment</p>
-</li>
-<li>
 <p>Diamond Jubilee Challenge</p>
-</li>
-<li>
 <p>AISS Total Defence Day Celebration</p>
-</li>
-<li>
 <p>North Area Founder’s Day Celebration</p>
-</li>
-<li>
 <p>North Area Scout Leadership Training Course</p>
-</li>
-<li>
 <p>CPIB Anti-Corruption Badge Course</p>
-</li>
-<li>
 <p>Unit Community Service</p>
-</li>
-<li>
 <p>Standard First Aid Course + CPR AED Certification Course</p>
-</li>
-<li>
 <p>01 Raffles Scout Group Annual Show</p>
-</li>
-<li>
 <p>SPCA Free Pet Health Screening</p>
-</li>
-<li>
 <p>Job Week</p>
-</li>
-<li>
 <p>AISS Achievement Day Parade Segment</p>
-</li>
-<li>
 <p>One Star Kayaking Certification Course</p>
-</li>
-<li>
 <p>Beatty Beaver Scout Group 70th Anniversary Campfire</p>
-</li>
-<li>
 <p>Collector Proficiency Badge Course</p>
-</li>
-<li>
 <p>Istana Open House (National Day)</p>
-</li>
-<li>
 <p>AISS National Day Celebration Parade Segment</p>
-</li>
-<li>
 <p>National Day Parade Segment</p>
-</li>
-<li>
 <p>2006 Southern Cross Scout Troop 65th Anniversary Campfire</p>
-</li>
-<li>
 <p>Unit Training Camp</p>
-</li>
-<li>
 <p>AISS Scouts Honouring Session</p>
-</li>
-<li>
 <p>Jamboree On The Air - Jamboree On The Internet</p>
-</li>
-<li>
 <p>North Area Akela Award Ceremony</p>
-</li>
-<li>
 <p>Learning Journey to Airbus</p>
-</li>
-<li>
 <p>Commercial Flight Simulation Experience</p>
-</li>
-<li>
 <p>National Cub Scout Gang Show Finale</p>
-</li>
-<li>
 <p>Istana Open House (Deepavali)</p>
-</li>
-<li>
 <p>Chief Scout, Mdm Halimah Yacob, Farewell</p>
-</li>
-<li>
 <p>North Area Camporee to Malacca, Malaysia</p>
-</li>
-</ul>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Gallery</p>
 <div class="iframe-wrapper">
