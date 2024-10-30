@@ -16,7 +16,7 @@ first. We have fun during trainings but at the same time we maintain discipline.
 <p>Our motto is,&nbsp;<strong>“Chase your dreams, throw your worries, jump for your goals”</strong>.&nbsp;</p>
 <blockquote>
 <p><em>"Track and Field has definitely helped me to become fitter. It encourages me to persevere through the difficult trainings. I am able to use the values I acquired from Track and Field in many real life situations. I believe the bonds that I have with my Track and Field friends have grown, especially when running together, as we get to talk to each other and help one another out. For example, once my friend got really bad cramps in his thighs and calves, and my group of friends went to help him out. This exemplifies the value of care, one of our school values."</em>
-<br><strong>- Vignesh S/O Manoharan 3E3</strong>
+<br><strong>- Vignesh S/O Manoharan 3E3 (2023)</strong>
 </p>
 </blockquote>
 <ul>
