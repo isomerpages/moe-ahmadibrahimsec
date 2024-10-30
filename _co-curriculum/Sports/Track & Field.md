@@ -422,24 +422,42 @@ Division Girls
 </div>
 </details>
 </div>
-<ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Participation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
 <li>
-<p>Participation</p>
-<p>Singapore Athletics Track and Field Series 1, 2 and 3
-<br>Singapore Press Holdings (SPH) Schools Relay Championships 2018
-<br>Singapore U18/U20 Athletics Championships
-<br>Nationals Cross Country
-<br>Nationals Track and Field</p>
+<p>Singapore Athletics Track and Field Series 1, 2 and 3</p>
 </li>
 <li>
-<p>Gallery</p>
-<h4></h4>
+<p>Singapore Press Holdings (SPH) Schools Relay Championships 2018</p>
 </li>
 <li>
-<p>Training Schedule</p>
+<p>Singapore U18/U20 Athletics Championships</p>
+</li>
+<li>
+<p>Nationals Cross Country</p>
+</li>
+<li>
+<p>Nationals Track and Field</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday<br></strong>3.30 pm - 5.30 pm at Yishun Stadium</p>
 <p><strong>Friday<br></strong>2.00 pm - 4.00 pm at Yishun Stadium</p>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Student Leaders</p>
 <p><strong>Captain<br></strong>BELLELYN ONG 3E2</p>
@@ -459,4 +477,6 @@ Division Girls
 <br>Mdm Ngui Lilian</p>
 </li>
 </ul>
+<p><strong>Gallery</strong>
+</p>
 <p></p>
