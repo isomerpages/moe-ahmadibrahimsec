@@ -16,7 +16,7 @@ first. We have fun during trainings but at the same time we maintain discipline.
 <p>Our motto is,&nbsp;<strong>“Chase your dreams, throw your worries, jump for your goals”</strong>.&nbsp;</p>
 <blockquote>
 <p><em>"Track and Field has definitely helped me to become fitter. It encourages me to persevere through the difficult trainings. I am able to use the values I acquired from Track and Field in many real life situations. I believe the bonds that I have with my Track and Field friends have grown, especially when running together, as we get to talk to each other and help one another out. For example, once my friend got really bad cramps in his thighs and calves, and my group of friends went to help him out. This exemplifies the value of care, one of our school values."</em>
-<br><strong>- Vignesh S/O Manoharan 3E3 (2023)</strong>
+<br><strong>- Vignesh S/O Manoharan 3E3 </strong>
 </p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -457,17 +457,127 @@ Division Girls
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Captain&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JALENE POON SI HAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-RE</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Vice-Captain (Training)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ALOYSIUS TAN GUAN ZHI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-RE</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Vice-Captain (Discipline)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EMIRA NDREU</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-SE</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Vice-Captain (Logistic)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YONG RUI LANG ETHAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-IN</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Vice-Captain (PSL)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LEE KAI QI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-RE</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Vice-Captain (Farewell)</p>
+<p>Tan Si En S3-ST</p>
+</div>
+</details>
+</div>
 <ul>
-<li>
-<p>Student Leaders</p>
-<p><strong>Captain<br></strong>BELLELYN ONG 3E2</p>
-<p><strong>Vice-Captain (Training)<br></strong>TANG ZHIJIE NICHOLAS 3N1</p>
-<p><strong>VIce-Captain (Discipline)<br></strong>KENDRA GOMEZ 2N1</p>
-<p><strong>Vice-Captain (Logistic)<br></strong>&nbsp;MUHAMMAD RAIS BIN RIDHWAN
-3N1</p>
-<p><strong>Vice-Captain<br></strong>DAWN ALETHEA LOWE EN 3E1</p>
-<p><strong>Vice-Captain<br></strong>FATIN BINTI ABU BAKAR 3E4</p>
-</li>
 <li>
 <p>Teachers In Charge</p>
 <p><strong>Mdm Puah Shi Hui Silia&nbsp;(OIC)<br>Contact:&nbsp;<a href="mailto:puah_shi_hui_silia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">puah_shi_hui_silia@moe.edu.sg</a></strong>
