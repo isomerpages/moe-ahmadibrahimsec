@@ -19,15 +19,22 @@ first. We have fun during trainings but at the same time we maintain discipline.
 <br><strong>- Vignesh S/O Manoharan 3E3 (2023)</strong>
 </p>
 </blockquote>
-<ul>
-<li>
-<p>Mission</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mission</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Based on our motto “Chase your dreams, throw your worries, jump for your
 goals”, we nurture our athletes to always dream big and persevere through
 challenges so as to achieve their goals.</p>
-</li>
-<li>
-<p>Activities</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The determination of the track and field members during the Nationals
 Track and Field Finals was electrifying. The AI Track and Field team did
 the school proud by qualifying as one of the top 8 finalists! They stayed
@@ -43,9 +50,288 @@ great friendships. They would support each other’s races by cheering for
 them, even on the days where they did not have any events. They would also
 form study groups and this transcended streams, cementing their friendship.</p>
 <p>May the AI School Flag continue to fly proudly!&nbsp;</p>
-</li>
-<li>
-<p>Achievements</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>2024</u></strong>
+</p>
+<p><strong>Individual events&nbsp;</strong>
+</p>
+<p>Semi-Finals for B Division Girls [100m]</p>
+<p><strong>- Eva Chia of 3 Resilience</strong>
+</p>
+<p>Semi-Finals for B Division Boys [400m]</p>
+<p><strong>- Ryan Suffian of 3 Steadfastness&nbsp;</strong>
+</p>
+<p>Semi-Finals for C Division Boys [100m]</p>
+<p><strong>- ⁠Ethan Mark of 2 Gratitude&nbsp;</strong>
+</p>
+<p>
+<br>
+</p>
+<p><strong>Relay Events 4x100m Relay&nbsp;</strong>
+</p>
+<p>Semi-Finals for B Division Girls&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHUA XIN HUI RAYANNE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-EX</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KENDRA GOMEZ</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S4-CA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LEE KAI QI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-RE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PUTRI QATRUNNADA BIVI BINTE TARMIZI KHAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S4-GR</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SHEN JUN AN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S4-ST</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Semi-Finals for B Division Boys&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHOO YEE WEI (ZHU YIWEI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-RE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ILHAN FAHEEM BIN ZAINAL ABIDIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S5-EX</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RAJA DARRIN ARYANO BIN RAJA MUHAMMAD KHABIR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S4-RE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>REEVE WONG ZHEN XUAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S5-EX</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RYAN SUFFIEAN BIN ROHAIZAT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S3-ST</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TAJUL ZAHIRULHAQ BIN ESFAN RIZAL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S4-EX</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Semi-Finals for C Division Girls&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AURA MYSHA BINTE AZMI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-GR</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NADYA NILOUFAR BINTE RAMZDAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-CA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NUR ELLY NATRISSYA BINTE ABDULLAH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S1-CO</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RAEANNE SOH YI XIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S1-ST</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>Semi-Finals for C Division Boys&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ELFIE SHAQRY BIN MUHAMMAD NIN SULAIMAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-EX</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ETHAN MARK ALDECOA UGTO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-GR</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GIDEON WONG ZHENG JIE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-CA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JAYDEN POH (FU JINGTENG)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-CO</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RABAGO GIO RAPHAEL FAELDOG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-EX</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RAYNER KAY ZHEN YONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>S2-SE</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><u>2023</u></strong>
 </p>
 <p><strong>Qualify for Semi finals relay:<br></strong>4 x 100m C Boys
@@ -107,6 +393,7 @@ form study groups and this transcended streams, cementing their friendship.</p>
 <br>Eva Chia Yi Hui (Xie Yihui)</p>
 <p><strong>Qualify for 400m semi finals and finals (C Div Girl): 1st</strong>
 <br>Eva Chia Yi Hui (Xie Yihui)</p>
+<p></p>
 <p><strong><u>2022</u></strong>
 </p>
 <p><strong>Individual Events<br></strong>EVA CHIA YI HUI 1E2
@@ -132,7 +419,10 @@ Division Girls
 <br>6. PEDDI GREESHMA 4E1
 <br>
 </p>
-</li>
+</div>
+</details>
+</div>
+<ul>
 <li>
 <p>Participation</p>
 <p>Singapore Athletics Track and Field Series 1, 2 and 3
