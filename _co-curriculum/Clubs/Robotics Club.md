@@ -58,9 +58,11 @@ and tinkerers.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Achievements</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -115,9 +117,9 @@ and tinkerers.</p>
 <p>DJI Online Robomaster Challenge</p>
 </li>
 </ul>
-</li>
-</ul>
-<p></p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Teachers In Charge</strong>
