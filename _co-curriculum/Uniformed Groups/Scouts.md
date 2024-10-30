@@ -267,37 +267,66 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p>Gallery</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6xEcCVqO3_J4M0W2Y2xA5nSMO-9TZAySfQH6rguENUFQ42mplu9E02TxMEFbVCavbtqStEhdb3hYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-</li>
-<li>
-<p>Training Schedule</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
 <br>3.30 pm to 6.00 pm</p>
 <p><strong>Friday</strong>
 <br>2.30 pm to 5.30 pm</p>
-</li>
-<li>
-<p>Student Leaders</p>
-<p><strong>Senior Patrol Leader</strong> 3RE AFABLE GREY ANTHONY BANZUELA
-3ST KOH JIA WEI <strong>Patrol Leader / Secretary</strong> 3SE DARWISYH ARFAN
-BIN ABDUL JALIL 3ST LIAU KANG JIE <strong>Patrol Leader / Quartermaster</strong> 3SE
-AQEEL RASHAAD KHAN 3CA NEO XUAN MING <strong>Assistant Patrol Leader</strong> 3CA
-AHMAD IMTIYAZ BIN AZME 3EX SEE KAI LE REYES 2CA LIM ZHENG YIN 2CO MUHAMMAD
-ADEN MATEEN BIN ABDULLAH 2GR HADI RAYYAN ADI 2RE BENJAMIN LIM MING YING
-2SE ONG XUAN LIANG, ISAAC</p>
-</li>
-<li>
-<p>Teachers In Charge</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Senior Patrol Leader</strong> 
+<br>3RE AFABLE GREY ANTHONY BANZUELA
+<br>3ST KOH JIA WEI
+<br>
+<br><strong>Patrol Leader / Secretary</strong> 
+<br>3SE DARWISYH ARFAN BIN ABDUL JALIL
+<br>3ST LIAU KANG JIE
+<br>
+<br><strong>Patrol Leader / Quartermaster</strong> 
+<br>3SE AQEEL RASHAAD KHAN
+<br>3CA NEO XUAN MING
+<br>
+<br><strong>Assistant Patrol Leader</strong> 
+<br>3CA AHMAD IMTIYAZ BIN AZME
+<br>3EX SEE KAI LE REYES
+<br>2CA LIM ZHENG YIN
+<br>2CO MUHAMMAD ADEN MATEEN BIN ABDULLAH
+<br>2GR HADI RAYYAN ADI
+<br>2RE BENJAMIN LIM MING YING
+<br>2SE ONG XUAN LIANG, ISAAC</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Tania Chia Mei Lin (OIC)<br>Contact:&nbsp;<a href="mailto:chia_mei_lin_tania@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chia_mei_lin_tania@moe.edu.sg</a></strong>
 </p>
 <p>Ms Ng Hui Wen
 <br>Mr Enzo Charles Victor Buttazzoni
 <br>Ms Low Qiao Yuan</p>
+</div>
+</details>
+</div>
+<ul>
+<li>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6xEcCVqO3_J4M0W2Y2xA5nSMO-9TZAySfQH6rguENUFQ42mplu9E02TxMEFbVCavbtqStEhdb3hYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </li>
 </ul>
 <p></p>
