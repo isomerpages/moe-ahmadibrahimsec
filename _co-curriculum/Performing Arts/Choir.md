@@ -96,15 +96,6 @@ Choir and East Spring Chorale</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Gallery</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Do follow us on Instagram for more updates and exciting news:&nbsp;<strong><a href="https://www.instagram.com/ai_choir/" rel="noopener" target="_blank">AI_Choir</a></strong>&nbsp;</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Training Schedule</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -176,4 +167,6 @@ Choir and East Spring Chorale</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><strong>Gallery</strong>
+<br>Do follow us on Instagram for more updates and exciting news: <strong><a href="https://www.instagram.com/ai_choir/" rel="noopener" target="_blank">AI_Choir</a></strong>
+</p>
