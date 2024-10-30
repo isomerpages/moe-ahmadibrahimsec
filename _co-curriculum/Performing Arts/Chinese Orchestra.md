@@ -23,7 +23,7 @@ Esplanade &amp; Singapore Conference Hall.</p>
 do, who will persevere against the odds and who aim for perfection in the
 mastery of their own instrument.</p>
 <blockquote>
-<p><em>I’ve always loved the Chinese culture and tradition, hence I was excited to know that AI has a Chinese Orchestra. No doubt, CO was my first CCA choice. I really enjoy being a CO member. On top of learning how to plays songs on the Zhongruan, I also made many friends in CO. CO provides opportunities for us to develop our music skills. It is a CCA which helps us to learn and grow.</em>
+<p><em>"I’ve always loved the Chinese culture and tradition, hence I was excited to know that AI has a Chinese Orchestra. No doubt, CO was my first CCA choice. I really enjoy being a CO member. On top of learning how to plays songs on the Zhongruan, I also made many friends in CO. CO provides opportunities for us to develop our music skills. It is a CCA which helps us to learn and grow."</em>
 </p>
 <p><strong>- Kelly Soh, Alumnus</strong>
 </p>
