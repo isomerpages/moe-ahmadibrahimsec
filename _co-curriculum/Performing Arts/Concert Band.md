@@ -66,19 +66,36 @@ Day in 2024.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore International Band Festival Competition 2024 – Silver Award</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2023: Distinction</p>
+</li>
+<li>
+<p>Singapore International Band Festival Competition 2022 – Gold Award cum
+Top in Division</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2021: Distinction, Accomplishment, Accomplishment</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2019: Distinction</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2017: Accomplishment</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <ul>
-<li>
-<p>Achievements</p>
-<p>SYF Arts Presentation 2023: Distinction
-<br>Singapore International Band Festival Competition 2022 – 1st
-<br>SYF Arts Presentation 2021: Distinction, Accomplishment, Accomplishment
-<br>SYF Arts Presentation 2019: Distinction
-<br>SYF Arts Presentation 2017: Accomplishment</p>
-</li>
-<li>
-<p>Gallery</p>
-<h4></h4>
-</li>
 <li>
 <p>Training Schedule</p>
 <p><strong><a href="http://gg.gg/AICBeCCA" rel="noopener noreferrer nofollow" target="">Live Schedule here</a></strong>
@@ -307,4 +324,6 @@ Day in 2024.</p>
 <br>Ms Siti Mariah Binte Omar</p>
 </li>
 </ul>
+<p><strong>Gallery</strong>
+</p>
 <p></p>
