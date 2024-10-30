@@ -162,7 +162,8 @@ of Accomplishment</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Wang Xuejuan (OIC)<br>Contact: </strong><a href="mailto:wang_xuejuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_xuejuan@moe.edu.sg</a>
 </p>
-<p>Ms Ho Jie Min, Melody
+<p>Ms Ho Jie Min, Melody (2IC)</p>
+<p>Contact: <a href="mailto:ho_jie_min_melody@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jie_min_melody@moe.edu.sg</a>
 <br>Mdm Song Weina</p>
 </div>
 </details>
