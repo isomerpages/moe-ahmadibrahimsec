@@ -673,9 +673,17 @@ songs.</p>
 <p><strong>华文音乐欣赏</strong>
 </p>
 <p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Appreciating Chinese through Professional Lenses</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <ul>
 <li>
-<p>Appreciating Chinese through Professional Lenses</p>
+<p></p>
 <p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong>
 </p>
 <div class="isomer-image-wrapper">
