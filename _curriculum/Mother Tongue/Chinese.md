@@ -675,23 +675,15 @@ songs.</p>
 <p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Appreciating Chinese through Professional Lenses</summary>
+<summary><strong>Appreciating Chinese through Professional Lenses</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<ul>
-<li>
-<p></p>
 <p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Pic%201.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Pic%203.jpg">
 </div>
@@ -707,14 +699,7 @@ and promote students’ appreciation of the Chinese culture and the arts!</p>
 <img style="width: 40%;" height="auto" width="100%" src="/images/Pic%202.jpg">
 </div>
 <p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
 <p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan</strong>
 </p>
 <p>“云端连线，坦抒己见”写作对话会</p>
@@ -728,6 +713,8 @@ and the writing journey. The characters in the story resonated with many
 of our AI students, and we were inspired to pay closer attention to people
 in their lives. All of us were energized by the interaction and definitely
 enjoyed this unique HBL experience!</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
