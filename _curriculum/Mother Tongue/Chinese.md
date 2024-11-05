@@ -67,7 +67,13 @@ compulsory reading materials to spark AI students’ imagination.
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mother Tongue   CL/Screenshot_2024_11_05_100737.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mother Tongue   CL/Screenshot_2024_11_05_100754.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mother Tongue   CL/Screenshot_2024_11_05_100815.png">
+</div>
 <hr>
 <p>As the saying goes, “teach a man to fish and you feed him for a lifetime”.
 To develop AI students into confident self-regulated adults, they are guided
