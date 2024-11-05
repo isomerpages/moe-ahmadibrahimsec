@@ -63,6 +63,11 @@ compulsory reading materials to spark AI students’ imagination.
 <br>•《所罗门大法官的最后一个案件》是中三G3华文学生的延伸读物。
 <br>•《细读世上人》是中三高华学生的延伸读物。</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mother Tongue   CL/Screenshot_2024_11_05_100737.png">
+</div>
+<p></p>
+<p></p>
 <hr>
 <p>As the saying goes, “teach a man to fish and you feed him for a lifetime”.
 To develop AI students into confident self-regulated adults, they are guided
