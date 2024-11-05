@@ -42,17 +42,33 @@ writing, narrative writing, or discursive writing.</p>
 <p><strong><em>Narrative Writing<br></em></strong>We know students need inspiration
 to write deeper stories. Therefore, the following books are selected as
 compulsory reading materials to spark AI students’ imagination.</p>
-<p>• Sec 1 G3 Chinese students: That small, small dessert shop
-<br>• Sec 1 Higher Chinese students: Zuo He’s Super Grandma
-<br>• Sec 2 Express students: Where do you want to go?
-<br>• Sec 2 Higher Chinese students: Secondary Four
-<br>• Sec 3 Higher Chinese students: Walking Clouds</p>
-<p><u>记叙文写作<br></u>常言道：“读书破万卷，下笔如有神”。广泛阅读，对培养学生的写作能力至关重要。为了加强学生记叙文的写作能力，我校挑选了一些课外读物，让学生在课本之外，培养良好的阅读习惯：</p>
-<p>•《那间小小的、小小的甜点店》是中一G3学生的延伸读物。
-<br>• 《佐贺的超级阿嬷》是中一高华学生的延伸读物。
-<br>• 《请问你要去哪里？》是中二快捷华文学生的延伸读物。
-<br>• 《中四》是中二高华学生的延伸读物。
-<br>• 《走路的云》是中三高华学生的延伸读物。</p>
+<p>&nbsp;</p>
+<p>• Sec 1 G3 Chinese students: That small, small dessert shop</p>
+<p>• Sec 1 Higher Chinese students: You can’t go back</p>
+<p>• Sec 2 G3 Chinese students: Cai Xiao Shan’s Mishap in school</p>
+<p>• Sec 2 Higher Chinese students: Bittersweet Sixteen</p>
+<p>• Sec 3 G3 Chinese students: Chief Judge Solomon’s Last Case</p>
+<p>• Sec 3 Higher Chinese students: Ponder over Mankind</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><u>记叙文写作</u>
+</p>
+<p>&nbsp;</p>
+<p>常言道：“读书破万卷，下笔如有神”。广泛阅读，对培养学生的写作能力至关重要。为了加强学生记叙文的写作能力，我校挑选了一些课外读物，让学生在课本之外，培养良好的阅读习惯：</p>
+<p>
+<br>
+<br>
+</p>
+<p>•&nbsp;&nbsp;《那间小小的、小小的甜点店》是中一G3学生的延伸读物。</p>
+<p>•&nbsp;&nbsp;&nbsp;《回不去的候车站》是中一高华学生的延伸读物。</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+《蔡小山校园遇险：翡翠一号》是中二G3华文学生的延伸读物。</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+《中四》是中二高华学生的延伸读物。</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+《所罗门大法官的最后一个案件》是中三G3华文学生的延伸读物。</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+《细读世上人》是中三高华学生的延伸读物。</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Mother%20Tongue%20%20%20CL/2023%20cl-compiled%201.JPG">
 </div>
