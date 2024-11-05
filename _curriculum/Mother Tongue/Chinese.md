@@ -8,13 +8,9 @@ third_nav_title: Mother Tongue
 <h2>Chinese</h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Learning Chinese Language in AI</summary>
+<summary><strong>Learning Chinese Language in AI</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
 <p>By integrating the MOE syllabus with other carefully selected materials
 and deliberately designed learning activities, we bring AI students to
 discover joy in their Chinese Language learning experience with our differentiated
@@ -107,9 +103,7 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxBZSZ8-QQqI0Ym5VPr_kseUqbhkXogm3_eyNwAPKJTLPyCA7gQRSgPUZ7hdcNobppFNlRdvcflKvM/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br>伊布拉欣中学得奖名单</u></strong>
 </p>
 <table style="minWidth: 150px">
@@ -360,7 +354,6 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 </table>
 <hr>
 <p><strong><em>Text Recital Competition</em></strong>
-<br>
 </p>
 <p>Talents need opportunities to shine. Every year, selected students in
 Sec 1 to Sec 3 cohort participate in Text Recital Competition, organised
@@ -369,9 +362,7 @@ Chinese language reading skills to bring life to otherwise dry texts individuall
 or in teams. AI students and teams are proud to clinch top awards for consecutive
 years. This year, one of our students clinched the “Gold Award” and went
 on qualify for the “Special Mention ” award in the finals.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong><em>全国中小学课文朗读比赛</em></strong>
 </p>
 <p>有天分的学生，需要发挥才华的空间。每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI
@@ -548,15 +539,14 @@ for professional creations.</p>
 <p>AI学生在课堂之中学习华文，在课堂之外也能够体验华文，领悟华文华语的美妙和趣味。</p>
 <p>1. 2022年的母语双周活动在学生的欢声笑语中圆满落幕！今年伊布拉欣中学华文部特别为中一中二的学生设计了不同的活动，希望每位学生都能体会华族传统文化之美。中一的学生在导师的带领下了解了传统宫灯文化，还亲手制作了精美的宫灯；中二的学生除了更深入地认识端午节的由来和传统习俗以外，还参加了龙舟模型和泥塑粽子制作活动。今年华文部也特别为普通工艺班的学生安排了传统游戏站，让学生们体验投壶和踢毽子等中国传统游戏。</p>
 <p>2. 华文不只是一门学科，也可以是一种专业的表达方式。为了让学生有所体验，我校每年都会带领中三学生观赏本地华文剧场。2022年，因疫情状况不明，AI学生在课室里，体验了一场线上舞台剧。通过线上线下的互动活动，学生能亲身领悟华文在艺术创作中的美妙之处，也能从中学习社会素材如何成为艺术创作灵感的源泉。</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Experiencing Chinese Culture</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Experiencing Chinese Culture</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mother Tongue Fortnight</strong>
 </p>
 <p>“After Chang’e ate up the elixir, she drifted all the way up into the
@@ -625,14 +615,11 @@ but also filled the classroom with a mood of celebration!&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMu5yMxLXawDlBy2lpVcxhiEhOzqAFasVb2swT4scmuYiT7JsSaxie5cgrg0BJfW2rWHrAiCMb0iWe/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/cl6.jpg">
 </div>
 <p>
-<br>
 <br>
 <br>
 </p>
@@ -664,15 +651,16 @@ songs.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y3lRk2hUk3I"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90RLT9ndb_E"></iframe>
 </div>
 <p><strong>华文音乐欣赏</strong>
 </p>
 <p>文字是智慧的结晶，音乐是灵魂的律动。为了利用其它媒介激发学生对母语的热忱，我校于2019年，趁母语双周聚集了所有中二学生，一同沉浸在华语歌曲之中。老师们为节目拉开序幕，演唱了流行歌手林俊杰与张惠妹的歌曲，炒热了全场的气氛。各班代表也大展歌喉，让其他学生不禁拍手叫好。在场的师生都大饱“耳”福！真切希望这项活动打动了所有师生，让他们继续在华语歌曲中，找到学习华文的乐趣。</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Appreciating Chinese through Professional Lenses</strong>
@@ -716,5 +704,4 @@ enjoyed this unique HBL experience!</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
