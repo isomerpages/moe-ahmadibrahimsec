@@ -72,7 +72,6 @@ Ser , Chen Huifen&nbsp;</p>
 </li>
 <li>
 <p><strong>Muhammad Nasiruddin B Jumari, High Jump; Graduated in 2008</strong>
-<br>
 <br><a href="http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015" rel="noopener" target="_blank">http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015</a>
 </p>
 </li>
