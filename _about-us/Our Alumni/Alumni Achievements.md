@@ -57,8 +57,8 @@ Ser , Chen Huifen&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ser Xiang Wei Jasmine, Shooting, 徐湘玮; Graduated in 2006 </strong>
-<a href="https://www.myactivesg.com/team-singapore/athletes/s/ser-xiang-wei-jasmine" rel="noopener" target="_blank">https://www.myactivesg.com/team-singapore/athletes/s/ser-xiang-wei-jasmine</a>
+<p><strong>Ser Xiang Wei Jasmine, Shooting, 徐湘玮; Graduated in 2006</strong>
+<br>
 </p>
 </li>
 <li>
@@ -71,8 +71,9 @@ Ser , Chen Huifen&nbsp;</p>
 </p>
 </li>
 <li>
-<p><strong>Muhammad Nasiruddin B Jumari, High Jump; Graduated in 2008</strong> 
-<a href="http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015" rel="noopener" target="_blank">http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015</a>
+<p><strong>Muhammad Nasiruddin B Jumari, High Jump; Graduated in 2008</strong>
+<br>
+<br><a href="http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015" rel="noopener" target="_blank">http://www.singaporeathletics.org.sg/28th-sea-games-singapore-2015</a>
 </p>
 </li>
 <li>
