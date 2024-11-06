@@ -134,6 +134,36 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec
+<br>低年级组</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment Award
+<br>三等奖</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE CHIA
+<br>WANG YI LIN
+<br>WONG WEI WEN
+<br>FAN RUOLA
+<br>SOON YI JIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>谢慜绚
+<br>王伊琳
+<br>王偉文
+<br>范若拉
+<br>孙藝佳</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>2023</strong>
 </p>
@@ -147,25 +177,25 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 <p>表扬奖</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soo Yin Wei</p>
-<p>Chong Ning Xin</p>
-<p>Chia Min Jun</p>
-<p>New Yu Xuan</p>
-<p>Ang En Xin, Alyssa</p>
+<p>Soo Yin Wei
+<br>Chong Ning Xin
+<br>Chia Min Jun
+<br>New Yu Xuan
+<br>Ang En Xin, Alyssa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>苏尹唯</p>
-<p>张宁芯</p>
-<p>谢旻均</p>
-<p>梁语萱</p>
-<p>洪恩芯</p>
+<p>苏尹唯
+<br>张宁芯
+<br>谢旻均
+<br>梁语萱
+<br>洪恩芯</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-Steadfastness</p>
-<p>S3-Steadfastness</p>
-<p>S3-Steadfastness</p>
-<p>S3-Excellence</p>
-<p>S3-Resilience</p>
+<p>3 Steadfastness
+<br>3 Steadfastness
+<br>3 Steadfastness
+<br>3 Excellence
+<br>3 Resilience</p>
 </td>
 </tr>
 <tr>
