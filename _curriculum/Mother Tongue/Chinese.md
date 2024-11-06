@@ -134,8 +134,9 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
+<td rowspan="2" colspan="1">
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec
@@ -165,6 +166,25 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 <br>2 Service
 <br>2 Courage
 <br>2 Gratitude</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec
+<br>高年级组</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Mention Award
+<br>表扬奖</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
