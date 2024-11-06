@@ -190,8 +190,8 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 <br>
 <br>王晓钰
 <br>葉妍希
-<br>
-</p>
+<br>赖柔颖
+<br>辜靖文</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
