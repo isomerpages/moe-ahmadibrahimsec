@@ -78,7 +78,6 @@ Ser , Chen Huifen&nbsp;</p>
 </li>
 <li>
 <p><strong>Siraaj B Ramadhan, Floorball; Graduated in 2008<br></strong>
-<a href="https://www.myactivesg.com/team-singapore/athletes/s/siraaj-bin-ramadhan" rel="noopener" target="_blank">https://www.myactivesg.com/team-singapore/athletes/s/siraaj-bin-ramadhan</a>
 </p>
 </li>
 </ul>
