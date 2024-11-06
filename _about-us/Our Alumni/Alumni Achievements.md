@@ -63,7 +63,6 @@ Ser , Chen Huifen&nbsp;</p>
 </li>
 <li>
 <p><strong>Lin Qingyi Micky, Netball, Captain, 林清易; Graduated in 2001<br></strong>
-<a href="https://www.myactivesg.com/team-singapore/athletes/l/lin-qingyi-micky" rel="noopener" target="_blank">https://www.myactivesg.com/team-singapore/athletes/l/lin-qingyi-micky</a>
 </p>
 </li>
 <li>
