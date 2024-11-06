@@ -25,7 +25,7 @@ and <strong><u>G</u></strong>ratitude; and/or</p>
 demonstrated exemplary character, and who can be role models to inspire
 others.</p>
 <p>If you wish to nominate a deserving student for the ECHA, please fill
-in and submit your nomination via the following link: <a href="https://go.gov.sg/aiss-echa-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aiss-echa-2024</a>
+in and submit your nomination via the following link: <em>&lt;submission has closed&gt;</em>
 </p>
 <p>The deadline for nomination is 5 pm on Friday, 5 July 2024.</p>
 <p>We look forward to your nominations.</p>
