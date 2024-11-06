@@ -79,8 +79,8 @@ compulsory reading materials to spark AI students’ imagination.
 To develop AI students into confident self-regulated adults, they are guided
 to evaluate oral and writing pieces throughout 4 years of Chinese Language
 experience.
-<br>• Sec 1 students: oral evaluation lessons</p>
-<p>• Sec 2 students: narrative writing skills Process Writing lessons
+<br>• Sec 1 students: oral evaluation lessons
+<br>• Sec 2 students: narrative writing skills Process Writing lessons
 <br>• Sec 3 students: discursive writing skills through Process Writing lessons
 <br>
 <br>正所谓“授人以鱼，不如授之以渔”。为了提高AI学生独立思考的能力，我校教师每年都会针对不同的语文技能，培养学生自我评价的能力，增强他们使用华文华语的信心。
@@ -238,33 +238,34 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Upper Sec</p>
-<p>高年级组</p>
+<p>Upper Sec
+<br>高年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment Award + Best Theme Award</p>
-<p>二等奖 + 最佳题材</p>
+<p>Accomplishment Award +
+<br>Best Theme Award
+<br>二等奖 + 最佳题材</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toh Shi Ying</p>
-<p>Lim Ziyan</p>
-<p>Seah Jia Xuan Rachel</p>
-<p>Jiang Yingrui</p>
-<p>Michelle Khoo Xin Yu</p>
+<p>Toh Shi Ying
+<br>Lim Ziyan
+<br>Seah Jia Xuan
+<br>Rachel Jiang Yingrui
+<br>Michelle Khoo Xin Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>杜思颖</p>
-<p>林芷言</p>
-<p>謝佳璇</p>
-<p>江应锐</p>
-<p>邱鋅嵛</p>
+<p>杜思颖
+<br>林芷言
+<br>謝佳璇
+<br>江应锐
+<br>邱鋅嵛</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E1</p>
-<p>3E2</p>
-<p>3E4</p>
-<p>3E1</p>
-<p>3E3</p>
+<p>3E1
+<br>3E2
+<br>3E4
+<br>3E1
+<br>3E3</p>
 </td>
 </tr>
 </tbody>
