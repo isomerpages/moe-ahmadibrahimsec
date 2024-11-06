@@ -28,8 +28,6 @@ who we are and what makes&nbsp;<strong>AI EXTRAORDINARY</strong>...</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/om1.jpg">
 </div>
-<p><strong><a href="http://www.namhongwelfare.org.sg/zh-hans/%E7%88%B1%E5%BF%83%E6%9C%8D%E5%8A%A1-%E5%9C%A8%E6%82%A8%E5%B7%A6%E5%8F%B3-2019%E5%B9%B42%E6%9C%884%E6%97%A5/" rel="noopener" target="_blank">Click here to read more</a></strong>
-</p>
 <h3>C. B. Paul Science Quiz 2019</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/om2.jpg">
