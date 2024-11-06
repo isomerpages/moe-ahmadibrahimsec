@@ -178,10 +178,20 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 <br>表扬奖</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WONG WAN YAN
+<br>(HUANG WANYAN)
+<br>WANG XIAOYU
+<br>JOELLYN YAP YANXI
+<br>LAI ROU YING
+<br>KOH CHING VOON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>黄婉嫣
+<br>
+<br>王晓钰
+<br>葉妍希
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
