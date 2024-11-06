@@ -67,7 +67,8 @@ Ser , Chen Huifen&nbsp;</p>
 </p>
 </li>
 <li>
-<p><strong>Chen Huifen, Netball, Co-Vice Captain, 陈慧芬; Graduated in 2001 </strong>
+<p><strong>Chen Huifen, Netball, Co-Vice Captain, 陈慧芬; Graduated in 2001</strong>
+<br>
 </p>
 </li>
 <li>
@@ -115,4 +116,5 @@ a successful educator).</p>
 <p>Newspaper Articles:
 <br><a href="/files/ai_berita%20minggu_29092013b.pdf" rel="noopener noreferrer nofollow" target="_blank">Article 1</a>
 <br><a href="/files/ai_berita%20harian_06092013.pdf" rel="noopener noreferrer nofollow" target="_blank">Article 2</a>
+<br>
 </p>
