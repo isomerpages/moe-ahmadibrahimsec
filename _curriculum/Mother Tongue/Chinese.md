@@ -169,12 +169,12 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Upper Sec</p>
-<p>高年级组</p>
+<p>Upper Sec
+<br>高年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Mention Award</p>
-<p>表扬奖</p>
+<p>Special Mention Award
+<br>表扬奖</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soo Yin Wei
@@ -200,33 +200,36 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec</p>
-<p>低年级组</p>
+<p>Lower Sec
+<br>低年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment Award</p>
-<p>二等奖</p>
+<p>Accomplishment Award
+<br>二等奖</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Wan Yan (Huang Wanyan)</p>
-<p>Joellyn Yap Yanxi</p>
-<p>Lai Rou Ying</p>
-<p>Koh Ching Voon</p>
-<p>Wang Xiaoyu</p>
+<p>Wong Wan Yan
+<br>(Huang Wanyan)
+<br>Joellyn Yap Yanxi
+<br>Lai Rou Ying
+<br>Koh Ching Voon
+<br>Wang Xiaoyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>黄婉嫣</p>
-<p>葉妍希</p>
-<p>赖柔颖</p>
-<p>辜靖文</p>
-<p>王晓钰</p>
+<p>黄婉嫣
+<br>
+<br>葉妍希
+<br>赖柔颖
+<br>辜靖文
+<br>王晓钰</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2E1</p>
-<p>2E2</p>
-<p>2E3</p>
-<p>2E3</p>
-<p>2E4</p>
+<p>2E1
+<br>
+<br>2E2
+<br>2E3
+<br>2E3
+<br>2E4</p>
 </td>
 </tr>
 <tr>
