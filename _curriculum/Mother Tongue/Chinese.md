@@ -160,7 +160,11 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 <br>孙藝佳</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 Care
+<br>2 Service
+<br>2 Service
+<br>2 Courage
+<br>2 Gratitude</p>
 </td>
 </tr>
 <tr>
