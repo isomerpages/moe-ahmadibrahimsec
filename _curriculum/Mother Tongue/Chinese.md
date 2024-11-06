@@ -194,7 +194,12 @@ This year, one of our teams clinched the “Accomplishment Award” and the
 <br>辜靖文</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 Resilience
+<br>
+<br>3 Resilience
+<br>3 Resilience
+<br>3 Excellence
+<br>3 Excellence</p>
 </td>
 </tr>
 <tr>
