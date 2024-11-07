@@ -245,6 +245,27 @@ and more importantly, leveling up their writing skills.</p>
 <summary><strong>Reading Programme 2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>Assembly Programmes</u></strong>
+<br>During our weekly assembly, our Reading Ambassadors actively promote our
+schools’ reading initiatives, rousing their peers to avidly participate
+in reading ventures and borrow books. On 9<sup>th</sup> February 2023, our
+Reading Ambassadors, Olivia Zelda Setiano from 2E1 and Javien Quek Wen
+Le from 3 Integrity gave a riveting presentation on our library’s thematic
+event, ‘Valentine’s Day’, encouraging students to go on blind dates with
+books and explore our ‘Busk Me Away Station’ where students can express
+their love for creative expression and music through live performances
+at the library.&nbsp;</p>
+<p>In another example, during the 30th August Assembly Programme, our Reading
+Programme collaborated with the school’s ALP Programme and NLB to address
+the contemporary issue of Food Sustainability. Reading Ambassador Fernandez
+Ronne Gabrielle Abrenica from 2E3 highlighted recommended reads by NLB,
+which were also available on Sora, our school’s digital library. Alongside
+the ALP ambassadors, they showcased exemplary vlogs created by students
+Fong Siyi, Jolin, and Nadyne Nur Rahilah Binte Hiskandar Numeiry from 4N2.
+These vlogs were inspired by The IN Straits Times article, “Going Plastic-Free
+For One Day,” from <em>The Environment Issue</em>, underscoring the positive
+impact our school’s reading subscription to The IN Straits Times has on
+our students.</p>
 <p></p>
 </div>
 </details>
