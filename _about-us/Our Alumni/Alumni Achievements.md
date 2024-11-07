@@ -31,8 +31,7 @@ donating a part of his liver to a baby in need. AI is proud of you!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/afna.png">
 </div>
-<p><strong><a href="http://www.channelnewsasia.com/news/sport/ahmad-ibrahim-secondary/2454196.html" rel="noopener" target="_blank">Click here to view the clip</a></strong>
-</p>
+<p></p>
 <p>Channel NewsAsia featured national shooter Jasmine Ser and traced the
 history of the shooting sport at Ahmad Ibrahim Secondary School (AISS).
 Ser shared that AISS had a long track record of achievements, leading to
