@@ -11,8 +11,55 @@ on the foundation in the English language through exposure and creative
 use, in reading, writing, listening and speaking.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Creative Writing Programme 2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>CAP 2023/2024</u></strong>
+<br><strong>2023/2024 CAPpers</strong>
+<br>Student-writers in our Creative Writing Programme passionately pursued
+their craft, meticulously developing portfolios of original works that
+reflect a deep sensitivity to the world around them for the Creative Arts
+Programme (CAP). This prestigious programme, jointly organized by the Gifted
+Education Branch, MOE, and Yale-NUS College, offers a unique platform for
+young and talented writers.</p>
+<p>We are proud to announce that in 2023, two of our students, Stella Tong
+Chi Ling from 3 Steadfastness and Rulona Miguel Badilla from 3 Excellence,
+were selected to represent AISS at the CAP Seminar, held from 29th May
+to 1st June. Continuing this achievement, in 2024, Chang Ling-Chi @ Olivia
+Zelda Setiono and Joey Lee Jie Yi, both from 3 Excellence, were also accepted
+into CAP, representing AISS at the seminar from 27th to 31st May.</p>
+<p>As CAP participants, they engaged in a diverse array of creative writing
+workshops, plenary lectures, performance workshops, and enrichment sessions,
+all of which pushed their creative boundaries to new heights. We would
+like to congratulate them in achieving new and exciting milestones in their
+creative writing endeavors.</p>
+<p><strong>2023/2024 CAP Mentees</strong>
+<br>We are pleased to announce that our 2022 CAPpers, Bellelyn Ong and Klenn
+Teo Yuan Jun Kai, successfully submitted their portfolios for the 2023
+Mentorship Attachment. As 2023 CAP poetry mentees, they demonstrated a
+spirit of excellence, pushing themselves to refine their creative writing
+skills under the guidance of a local writer. Their dedication led to the
+creation of exceptional poetry pieces, which were selected for publication
+in the 2023 CAP Anthology, <em>Eye on the World: Making It New.</em>
+</p>
+<p>Additionally, Bellelyn received special recognition from the CAP Organising
+Committee and was invited to recite her published poem, ‘Pulau Ubin &amp;
+Painting Lessons (Title of Film) @ National Gallery’<em>,</em> at the CAP
+Seminar Closing Ceremony on 1 June at NAFA. Her performance aimed to inspire
+seminar participants from various schools as they embarked on their journeys
+as budding writers. Bellelyn was further honored with an invitation to
+recite her poem at the 2023 Poetry Festival at NLB on 5th August, where
+her work was praised for its craftsmanship and alignment with the festival’s
+theme, ‘Sojourners.’ We applaud her outstanding achievements in creative
+writing.</p>
+<p>Building on this success, Rulona Miguel Badilla from 3 Excellence was
+also successful in his application for the 2024 Mentorship Attachment.
+Under the mentorship of a local writer, he crafted remarkable poetry pieces
+that were selected for publication in the 2024 CAP Anthology, <em>Eye on the World: The Half Familiar.</em> Following
+in the footsteps of his seniors, Miguel was chosen to perform a reading
+of his poem, ‘Self-portrait of an Art Gallery’<em>,</em> at the CAP Seminar
+2024 Closing Ceremony, carrying forward the legacy of inspiring students
+across schools on their creative writing journeys.</p>
 <p></p>
 </div>
 </details>
