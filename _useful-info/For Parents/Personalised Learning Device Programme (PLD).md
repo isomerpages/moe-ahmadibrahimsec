@@ -127,8 +127,7 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 </div>
 <p>Parents/Students are encouraged to pre-register their device via the link&nbsp;
 <a href="https://smartcares.com/lenovo/" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo/</a>&nbsp;before proceeding to the&nbsp;<strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>.</p>
-<h3></h3>
-<h1><strong>Frequently Asked Questions and Answers</strong></h1>
+<h2><strong>Frequently Asked Questions and Answers</strong></h2>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <table style="minWidth: 75px">
 <colgroup>
