@@ -388,12 +388,12 @@ on qualify for the “Special Mention ” award in the finals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower Sec</p>
-<p>低年级组</p>
+<p>Lower Sec
+<br>低年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOLD Award (Individual)</p>
-<p>金奖（个人）</p>
+<p>GOLD Award (Individual)
+<br>金奖（个人）</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Linus Tan</p>
@@ -407,52 +407,52 @@ on qualify for the “Special Mention ” award in the finals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec</p>
-<p>低年级组</p>
+<p>Lower Sec
+<br>低年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SILVER Award (Team)</p>
-<p>银奖（团体）</p>
+<p>SILVER Award (Team)
+<br>银奖（团体）</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hung De Han</p>
-<p>Tang Jia Jun</p>
-<p>Heng Wei En</p>
+<p>Hung De Han
+<br>Tang Jia Jun
+<br>Heng Wei En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>孔德翰</p>
-<p>陈佳俊</p>
-<p>邢维恩</p>
+<p>孔德翰
+<br>陈佳俊
+<br>邢维恩</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2T1</p>
-<p>2T1</p>
-<p>2T1</p>
+<p>2T1
+<br>2T1
+<br>2T1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec</p>
-<p>高年级组</p>
+<p>Upper Sec
+<br>高年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BRONZE Award (Team)</p>
-<p>铜奖（团体）</p>
+<p>BRONZE Award (Team)
+<br>铜奖（团体）</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Tingrui, Terry</p>
-<p>Ong Xiang Rou</p>
-<p>Pang Xinyu</p>
+<p>Zhang Tingrui, Terry
+<br>Ong Xiang Rou
+<br>Pang Xinyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>张庭睿</p>
-<p>王湘柔</p>
-<p>彭歆喻</p>
+<p>张庭睿
+<br>王湘柔
+<br>彭歆喻</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-Resilience</p>
-<p>S3-Care</p>
-<p>S3-Service</p>
+<p>3 Resilience
+<br>3 Care
+<br>3 Service</p>
 </td>
 </tr>
 <tr>
