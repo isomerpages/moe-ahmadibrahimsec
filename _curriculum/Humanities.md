@@ -22,7 +22,8 @@ among students.
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Organisation Chart</summary>
+<summary><strong>Organisation Chart</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
@@ -115,5 +116,26 @@ among students.
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Learning the Humanities @ AISS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWma7T84h6hedT_RQm9YRQkh86MlDf8F4YmNGtUmlXhHC4g9OnjL5lLLHR0AkWgbMK3mN-pkttqZiU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAAdy-Z0qOGfcEtVAajQ0vqdr22fS3woZHJUXhjdWR7JNttv_uIhD2EMnF_596WfBtJhXkjildx7cn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</div>
+</details>
+</div>
 <p></p>
