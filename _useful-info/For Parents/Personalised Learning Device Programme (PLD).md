@@ -27,7 +27,7 @@ provide students with many good years of learning and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lenovo Chromebook PLD" src="/images/Useful Info/For Parents/Lenovo_Chromebook_Gen_4.jpg">
 </div>
-<h1><strong>Important Actions For Parents</strong><br></h1>
+<h1><strong>Important Actions For Parents</strong></h1>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
 or hardcopy with details about the purchase of PLD by mid January.</p>
 <p>Please submit the following consent forms in order for the school to begin
