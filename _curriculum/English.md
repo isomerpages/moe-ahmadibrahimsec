@@ -190,21 +190,50 @@ and camaraderie that will last a lifetime. Here's to a festival filled
 with words that leap off the pages and into our hearts, and to superheroes
 who inspire us all to explore the limitless horizons of language and literature.</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQprZcp7OIOelFUzrc7LkDePoFeLG4wRjnbSBf4C1H2D7IyRUNv2Q6AVS4lP6l-ocl2tgIhQEh0FEB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Public Speaking 2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>‘Rotate both of your shoulder blades backwards and then forward.’</p>
+<p>‘Shake your arms vigorously as if dozens of invisible jellyfish are clinging
+on to them.’&nbsp;</p>
+<p>What in the world is this workshop?&nbsp;</p>
+<p>
+<br>Only when the instructor, like an accomplished choir master, put participants
+through the paces of varying their intonations and conquering tongue twisters,
+then some semblance of a public speaking workshop emerges.</p>
+<p>
+<br>What a fun and engaging workshop which garners high ratings year in and
+year out! Participants will be deployed to helm school concerts and events
+to provide them with opportunities to put into practice what they have
+learnt.</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRU6MSnZq-pA9yNk-Eoxy0Spd-At_6B0l4q-_dxVRw8GI_u13luYAUKULxZN-BiJg802rKifoKZzPhL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Queen’s Essay Competition 2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>This annual international writing competition provides both budding and
+sophisticated writers the much needed opportunities - the former to explore
+whether they have what it takes to be a writer and the latter, a means
+to pitch their writing skills and creativity against their peers from other
+parts of the world. It is no wonder that this competition captures the
+imagination of many AI students who participated, enhancing their interest
+and more importantly, leveling up their writing skills.</p>
+<p></p>
 <p></p>
 </div>
 </details>
