@@ -108,8 +108,6 @@ to a Mrs David, her former teacher at AI.</p>
 <p>Mrs David, according to Shakila, was responsible for turning her from
 a quiet and passive student into a more confident person (and of course,
 a successful educator).</p>
-<p><a href="http://www.moe.gov.sg/media/press/2013/09/presidents-award-for-teachers-2014.php" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/media/press/2013/09/presidents-award-for-teachers-2014.php</a>
-</p>
 <p>Newspaper Articles:
 <br><a href="/files/ai_berita%20minggu_29092013b.pdf" rel="noopener noreferrer nofollow" target="_blank">Article 1</a>
 <br><a href="/files/ai_berita%20harian_06092013.pdf" rel="noopener noreferrer nofollow" target="_blank">Article 2</a>
