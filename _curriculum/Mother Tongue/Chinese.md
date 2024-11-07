@@ -324,12 +324,10 @@ years. This year, one of our students clinched the “Gold Award” and went
 on qualify for the “Special Mention ” award in the finals.</p>
 <p></p>
 <p><strong><em>全国中小学课文朗读比赛</em></strong>
-</p>
-<p>有天分的学生，需要发挥才华的空间。每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI
+<br>有天分的学生，需要发挥才华的空间。每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI
 代表和团队都很荣幸得到评审的认可，勇夺铜奖和银奖。今年，我校的其中一位学生荣获金奖和优秀奖。</p>
 <p><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br>伊布拉欣中学得奖名单</u></strong>
-</p>
-<p><strong>Award Winners for 2023</strong>
+<br><strong><em><u>Award Winners for 2024</u></em></strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -342,27 +340,53 @@ on qualify for the “Special Mention ” award in the finals.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Preliminary Round</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lower Sec
+<br>低年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>BRONZE Award (Team)
+<br>铜奖（团体）</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>QUEK XIN RU ISABELLE
+<br>ZHU ZIQI
+<br>SHI MUFENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>郭心如
+<br>祝子棋
+<br>石沐峰</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 Courage
+<br>1 Courage
+<br>1 Service</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p><strong><em><u>Award Winners for 2023</u></em></strong>
+</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
+<td rowspan="3" colspan="1">
+<p><strong>Preliminary Round</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec</p>
 <p>低年级组</p>
@@ -432,34 +456,18 @@ on qualify for the “Special Mention ” award in the finals.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Finals</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Lower Sec</p>
 <p>低年级组</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Mention Award (Individual)</p>
-<p>优秀奖（个人）</p>
+<p>Special Mention Award
+<br>(Individual)
+<br>优秀奖（个人）</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Linus Tan</p>
