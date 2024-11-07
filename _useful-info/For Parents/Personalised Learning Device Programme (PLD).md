@@ -50,7 +50,7 @@ processing the purchase of a PLD for your child/ward.</p>
 the Parents’ Gateway notification.</p>
 <p>Permanent Residents/International Students, please submit the hardcopy
 letter to your child’s/ward’s Form Teacher.</p>
-<h1><strong>Financial Assistance</strong><br></h1>
+<h1><strong>Financial Assistance</strong></h1>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
 automatically qualify for these subsidies and do not need to take any action.</p>
@@ -59,7 +59,7 @@ can apply for subsidies, particularly those whose Gross Household Income
 (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your
 child qualifies for a subsidy, please submit Annex D “Application for Subsidy
 for PLD”.</p>
-<h1><strong>Cyberwellness Resources for Parents</strong><br></h1>
+<h1><strong>Cyberwellness Resources for Parents</strong></h1>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/PLD/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
@@ -73,26 +73,18 @@ for PLD”.</p>
 <p><a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-cyber-wellness</a>
 </p>
 </li>
-<li>
-<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sure.nlb.gov.sg</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">help123.sg</a>
-</p>
-</li>
 </ul>
 <h1><strong>DMA Information</strong></h1>
 <blockquote>
 <p>&lt;To be updated&gt;</p>
 </blockquote>
-<h1><strong>Service Centre Information</strong><br></h1>
+<h1><strong>Service Centre Information</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
 </div>
 <p>Parents/Students are encouraged to pre-register their device via the link&nbsp;
 <a href="https://smartcares.com/lenovo/" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo/</a>&nbsp;before proceeding to the&nbsp;<strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>.</p>
-<h1><strong>Frequently Asked Questions and Answers</strong><br></h1>
+<h1><strong>Frequently Asked Questions and Answers</strong></h1>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <table style="minWidth: 75px">
 <colgroup>
