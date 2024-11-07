@@ -97,19 +97,22 @@ such talents a sense of achievement.
 <br>为了培养精益求精的学习精神，同时也让学生巩固课堂所学，我校每年都会奖励在年度华文写作比赛中表现优异的学生。这项比赛，是母语部比赛的常设项目之一，旨在提供学生展现文采的平台。</p>
 <hr>
 <p><strong>Zaobao Editorial Competition</strong>
-</p>
-<p>Talents need opportunities to shine. Every year, selected students in
+<br>Talents need opportunities to shine. Every year, selected students in
 Sec 2 and 3 Higher Chinese participate in Create Your Own Newspaper Competition,
 organised by Singapore Press Holdings. Students hone their Chinese language
 skills as they work as a team of journalist to produce professional newspaper
 articles. AI teams are proud to clinch top awards for consecutive years.
 This year, one of our teams clinched the “Accomplishment Award” and the
-“Best Theme ” award.</p>
-<p></p>
-<p><strong>全国中学编采比赛</strong>
+“Best Theme ” award.
+<br>
+<br><strong>全国中学编采比赛</strong>
+<br>有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI
+代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。今年，校的其中一组学生荣获二等奖和最佳题材奖。
+<br><strong><u>2024</u></strong>
 </p>
-<p>有天分的学生，需要发挥才华的空间。每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生使出浑身解数，担任小记者，采访、撰写并编排精彩版面。近几年，AI
-代表队都很荣幸得到评审的认可，勇夺一等奖和二等奖。今年，校的其中一组学生荣获二等奖和最佳题材奖。</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKWymXJsGqYBl7MWDcoOO6eTYcY6PDfc33T3gvelVBw1x5-w50_EXZLWsC2-nKYJ4MoAnuFpEJsBHh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p><strong><u>2023</u></strong>
 </p>
 <div class="iframe-wrapper">
