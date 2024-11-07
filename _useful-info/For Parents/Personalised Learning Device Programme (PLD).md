@@ -77,7 +77,7 @@ for PLD”.</p>
 <h1><strong>DMA Information</strong></h1>
 <p><em>&lt;To be updated&gt;</em>
 </p>
-<h1><strong>Service Centre Information</strong></h1>
+<h1><strong>Technical Support &amp; Service Centre Information</strong></h1>
 <p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
 <li>
