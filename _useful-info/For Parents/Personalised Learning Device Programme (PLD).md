@@ -12,7 +12,7 @@ their digital literacy. One of the components of the NDLP is the introduction
 of the Personalised Digital Learning Programme (PDLP) for all secondary
 school students, whereby every secondary school student will own a school-prescribed
 Personal Learning Device (PLD).</p>
-<h1><strong>Personal Learning Device</strong><br></h1>
+<h1><strong>Personal Learning Device</strong></h1>
 <p>Personal Learning Devices (PLDs) will truly transform the learning environment
 as it allows teachers and students to harness technology for greater effectiveness
 in teaching and learning. The use of the personal learning devices for
