@@ -12,7 +12,8 @@ third_nav_title: For Parents
 to Operating Hours below).</p>
 </li>
 <li>
-<p>Assistance to collect and send the PLD for repair service with the vendor.</p>
+<p>Assistance to collect and send the PLD for repair service with the Lenovo
+vendor.</p>
 </li>
 <li>
 <p>Please check with school ICT Support team of availability of spare Chromebook
