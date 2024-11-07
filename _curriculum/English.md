@@ -234,7 +234,9 @@ parts of the world. It is no wonder that this competition captures the
 imagination of many AI students who participated, enhancing their interest
 and more importantly, leveling up their writing skills.</p>
 <p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpjSBUAucb3OoZrN7c805f1pR0LMiHlWu4aMjguMPoxQMn_qBaqHdF-bJWv10e-g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </div>
 </details>
 </div>
