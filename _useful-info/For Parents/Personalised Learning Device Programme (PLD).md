@@ -5,14 +5,14 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h1><strong>National Digital Literacy Programme</strong></h1>
+<h2><strong>National Digital Literacy Programme</strong></h2>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools to help students strengthen
 their digital literacy. One of the components of the NDLP is the introduction
 of the Personalised Digital Learning Programme (PDLP) for all secondary
 school students, whereby every secondary school student will own a school-prescribed
 Personal Learning Device (PLD).</p>
-<h1><strong>Personal Learning Device</strong></h1>
+<h2><strong>Personal Learning Device</strong></h2>
 <p>Personal Learning Devices (PLDs) will truly transform the learning environment
 as it allows teachers and students to harness technology for greater effectiveness
 in teaching and learning. The use of the personal learning devices for
@@ -27,7 +27,7 @@ provide students with many good years of learning and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lenovo Chromebook PLD" src="/images/Useful Info/For Parents/Lenovo_Chromebook_Gen_4.jpg">
 </div>
-<h1><strong>Important Actions For Parents</strong></h1>
+<h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
 or hardcopy with details about the purchase of PLD by mid January.</p>
 <p>Please submit the following consent forms in order for the school to begin
@@ -50,7 +50,7 @@ processing the purchase of a PLD for your child/ward.</p>
 the Parents’ Gateway notification.</p>
 <p>Permanent Residents/International Students, please submit the hardcopy
 letter to your child’s/ward’s Form Teacher.</p>
-<h1><strong>Financial Assistance</strong></h1>
+<h2><strong>Financial Assistance</strong></h2>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
 automatically qualify for these subsidies and do not need to take any action.</p>
@@ -59,7 +59,7 @@ can apply for subsidies, particularly those whose Gross Household Income
 (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your
 child qualifies for a subsidy, please submit Annex D “Application for Subsidy
 for PLD”.</p>
-<h1><strong>Cyberwellness Resources for Parents</strong></h1>
+<h2><strong>Cyberwellness Resources for Parents</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/PLD/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
@@ -74,15 +74,17 @@ for PLD”.</p>
 </p>
 </li>
 </ul>
-<h1><strong>DMA Information</strong></h1>
+<h2><strong>DMA Information</strong></h2>
 <p><em>&lt;To be updated&gt;</em>
 </p>
-<h1><strong>Technical Support &amp; Service Centre Information</strong></h1>
+<h2><strong>Technical Support &amp; Service Centre Information</strong></h2>
 <p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The School’s IT Team which is available from 7.30 am to 3.30 pm during
-school days.</p>
+school days.
+<br>Refer to <a href="https://www.ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/info-on-pld-support/" rel="noopener nofollow" target="_blank">Operating Hours for School IT Team support</a>
+</p>
 </li>
 <li>
 <p>Assistance to collect and send the PLD for repair service with the vendor.</p>
