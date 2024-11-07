@@ -50,9 +50,13 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 @ Tai Seng Centre (Service Centre Number Call: 6871 4838).</p>
 </li>
 </ul>
-<h3><strong>School IT Support for Personal Learning Device (PLDs)</strong></h3>
+<h2><strong>School IT Support for Personal Learning Device (PLDs)</strong></h2>
+<ul data-tight="true" class="tight">
+<li>
 <p>Located at&nbsp;IT&nbsp;Office&nbsp;(Level 2, Outside Staff Room 1 near
 MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
+</li>
+</ul>
 <h3><strong>Operating Hours</strong></h3>
 <blockquote>
 <h4>During School Term</h4>
@@ -76,7 +80,7 @@ MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 </li>
 </ul>
 </blockquote>
-<h3><strong>Lenovo Service Centre (For Hardware Issues)</strong></h3>
+<h2><strong>Lenovo Service Centre (For Hardware Issues)</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
 </div>
