@@ -74,7 +74,7 @@ MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 </li>
 </ul>
 </blockquote>
-<h2><strong>Lenovo Service Centre (For Hardware Issues)</strong></h2>
+<h3><strong>Lenovo Service Centre (For Hardware Issues)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
 </div>
