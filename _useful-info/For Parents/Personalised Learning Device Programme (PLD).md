@@ -73,6 +73,10 @@ for PLD”.</p>
 <p><a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-cyber-wellness</a>
 </p>
 </li>
+<li>
+<p><a href="/files/PLD/Resources_to_Support_Parents.pdf" rel="noopener nofollow" target="_blank">Resources to support parents</a>
+</p>
+</li>
 </ul>
 <h2><strong>DMA Information</strong></h2>
 <p><em>&lt;To be updated&gt;</em>
