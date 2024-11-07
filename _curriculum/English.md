@@ -245,6 +245,8 @@ and more importantly, leveling up their writing skills.</p>
 <summary><strong>Reading Programme 2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong><u>Assembly Programmes</u></strong>
 <br>During our weekly assembly, our Reading Ambassadors actively promote our
 schools’ reading initiatives, rousing their peers to avidly participate
@@ -254,8 +256,9 @@ Le from 3 Integrity gave a riveting presentation on our library’s thematic
 event, ‘Valentine’s Day’, encouraging students to go on blind dates with
 books and explore our ‘Busk Me Away Station’ where students can express
 their love for creative expression and music through live performances
-at the library.&nbsp;</p>
-<p>In another example, during the 30th August Assembly Programme, our Reading
+at the library.&nbsp;
+<br>
+<br>In another example, during the 30th August Assembly Programme, our Reading
 Programme collaborated with the school’s ALP Programme and NLB to address
 the contemporary issue of Food Sustainability. Reading Ambassador Fernandez
 Ronne Gabrielle Abrenica from 2E3 highlighted recommended reads by NLB,
@@ -266,9 +269,17 @@ These vlogs were inspired by The IN Straits Times article, “Going Plastic-Free
 For One Day,” from <em>The Environment Issue</em>, underscoring the positive
 impact our school’s reading subscription to The IN Straits Times has on
 our students.</p>
+</li>
+</ul>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUktEGYW1F6yv0kxdFJjRlWMYHitn4FlkjKj2OI7FQHDN7l5dwdQjr1pUbTPBXUzHh9roN--PEM_s_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 </div>
 </details>
 </div>
