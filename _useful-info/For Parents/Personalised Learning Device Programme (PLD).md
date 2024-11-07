@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h1><strong>National Digital Literacy Programme</strong><br></h1>
+<h1><strong>National Digital Literacy Programme</strong></h1>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools to help students strengthen
 their digital literacy. One of the components of the NDLP is the introduction
