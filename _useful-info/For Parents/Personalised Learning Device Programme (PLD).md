@@ -151,60 +151,9 @@ for PLD”.</p>
 </li>
 </ul>
 <h1><strong>DMA Information</strong></h1>
-<h5><strong>Fill up the form below to change your child's/ward's after school DMA option</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://form.gov.sg/6143ec0c70054d0012da2b0f" rel="noopener noreferrer nofollow" target="_blank">Change Of After-School DMA Parent Options (for Parents/Guardians)</a>
-</p>
-</li>
-</ul>
-<h5><strong>Option Quick Guides &amp; Information</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Default Option</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_A___compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Option A</a>
-</p>
-</li>
-<li>
-<p><a href="/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_B___compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Option B</a>
-</p>
-</li>
-</ul>
-<h5><strong>Additional Useful Guides</strong></h5>
-<p><strong>For All Options</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://youtu.be/IUc-x-_wUdU?si=3mcrBnFwnudls5hT" rel="noopener noreferrer nofollow" target="_blank">[All Options] Parent Account Password Reset</a>
-</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent"></iframe>
-</div>
-<p><strong>For Option A</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://youtu.be/qaxcXPA9obs?si=7jSvnSQUY9pf8XKM" rel="noopener noreferrer nofollow" target="_blank">[Option A] Setting Rules to Restrict Usage</a>
-</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent"></iframe>
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://youtu.be/Pau7YjjgmPY" rel="noopener noreferrer nofollow" target="_blank">[Option A] Overriding School Sleep Hours</a>
-</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pau7YjjgmPY?wmode=transparent"></iframe>
-</div>
+<blockquote>
+<p>&lt;To be updated&gt;</p>
+</blockquote>
 <h1><strong>Service Centre Information</strong><br></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
