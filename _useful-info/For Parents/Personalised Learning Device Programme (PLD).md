@@ -81,7 +81,8 @@ for PLD”.</p>
 <p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The School’s Service Desk which is available from 7.30 am to 3.30 pm daily.</p>
+<p>The School’s IT Team which is available from 7.30 am to 3.30 pm during
+school days.</p>
 </li>
 <li>
 <p>Assistance to collect and send the PLD for repair service with the vendor.</p>
