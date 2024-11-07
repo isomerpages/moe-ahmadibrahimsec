@@ -5,6 +5,48 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<p>Technical support will be provided to students through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The School’s IT Team which is available from 7.30 am to 3.30 pm during
+school days.</p>
+</li>
+<li>
+<p>Assistance to collect and send the PLD for repair service with the vendor.</p>
+</li>
+<li>
+<p>Please check with school ICT Support team of availability of spare Chromebook
+to loan to affected students as there are limited quantity.</p>
+</li>
+</ul>
+<h4>Additional Information:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.qmqoas71osww" rel="noopener nofollow" target="_blank">What if the PLD is faulty?</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.p20bnkzh8pw8" rel="noopener nofollow" target="_blank">What is covered by the insurance?</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.bcpl4rb6xty4" rel="noopener nofollow" target="_blank">What happens if the device is stolen/lost?</a>
+</p>
+</li>
+</ul>
+<h4>Note:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lenovo will only do a fortnightly collection of all faulty devices from
+our school. The estimated turn-around time is 4 weeks repair and return
+from collection date (subject to vendor's availability).</p>
+</li>
+<li>
+<p>For faster turn-around on-site same-day repair (if spare part is available),
+parents can bring the faulty device directly to the Lenovo Service Centre
+@ Tai Seng Centre (Service Centre Number Call: 6871 4838).</p>
+</li>
+</ul>
 <h2><strong>School IT Support for Personal Learning Device (PLDs)</strong></h2>
 <p>Located at&nbsp;IT&nbsp;Office&nbsp;(Level 2, Outside Staff Room 1 near
 MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
