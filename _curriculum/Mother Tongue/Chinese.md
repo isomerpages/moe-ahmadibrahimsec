@@ -481,6 +481,9 @@ on qualify for the “Special Mention ” award in the finals.</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_sX8lffYGn6XOqeDkfrUODh5M3m4GBAmsHAjRulDmelsoFVzMh5vzNt7jfH40o1ANoH-zv9AKFBVr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <hr>
 <p><strong><u>Joy in Chinese beyond the classroom</u></strong>
 </p>
