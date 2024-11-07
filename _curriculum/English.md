@@ -266,7 +266,9 @@ These vlogs were inspired by The IN Straits Times article, “Going Plastic-Free
 For One Day,” from <em>The Environment Issue</em>, underscoring the positive
 impact our school’s reading subscription to The IN Straits Times has on
 our students.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUktEGYW1F6yv0kxdFJjRlWMYHitn4FlkjKj2OI7FQHDN7l5dwdQjr1pUbTPBXUzHh9roN--PEM_s_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </div>
 </details>
 </div>
@@ -572,5 +574,6 @@ our students.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
