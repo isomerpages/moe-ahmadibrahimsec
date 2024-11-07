@@ -92,8 +92,22 @@ school days.</p>
 to loan to affected students as there are limited quantity.</p>
 </li>
 </ul>
-<p><strong>Note:</strong>
+<h4>Additional Information:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.qmqoas71osww" rel="noopener nofollow" target="_blank">What if the PLD is faulty?</a>
 </p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.p20bnkzh8pw8" rel="noopener nofollow" target="_blank">What is covered by the insurance?</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.bcpl4rb6xty4" rel="noopener nofollow" target="_blank">What happens if the device is stolen/lost?</a>
+</p>
+</li>
+</ul>
+<h4>Note:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lenovo will only do a fortnightly collection of all faulty devices from
@@ -111,21 +125,7 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 </div>
 <p>Parents/Students are encouraged to pre-register their device via the link&nbsp;
 <a href="https://smartcares.com/lenovo/" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo/</a>&nbsp;before proceeding to the&nbsp;<strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>.</p>
-<h3>Additional Information:</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.qmqoas71osww" rel="noopener nofollow" target="_blank">What if the PLD is faulty?</a>
-</p>
-</li>
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.p20bnkzh8pw8" rel="noopener nofollow" target="_blank">What is covered by the insurance?</a>
-</p>
-</li>
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.bcpl4rb6xty4" rel="noopener nofollow" target="_blank">What happens if the device is stolen/lost?</a>
-</p>
-</li>
-</ul>
+<h3></h3>
 <h1><strong>Frequently Asked Questions and Answers</strong></h1>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <table style="minWidth: 75px">
