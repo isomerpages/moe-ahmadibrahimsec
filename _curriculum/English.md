@@ -14,6 +14,8 @@ use, in reading, writing, listening and speaking.</p>
 <summary><strong>Creative Writing Programme 2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong><u>CAP 2023/2024</u></strong>
 <br><strong>2023/2024 CAPpers</strong>
 <br>Student-writers in our Creative Writing Programme passionately pursued
@@ -21,8 +23,8 @@ their craft, meticulously developing portfolios of original works that
 reflect a deep sensitivity to the world around them for the Creative Arts
 Programme (CAP). This prestigious programme, jointly organized by the Gifted
 Education Branch, MOE, and Yale-NUS College, offers a unique platform for
-young and talented writers.</p>
-<p>We are proud to announce that in 2023, two of our students, Stella Tong
+young and talented writers.
+<br>We are proud to announce that in 2023, two of our students, Stella Tong
 Chi Ling from 3 Steadfastness and Rulona Miguel Badilla from 3 Excellence,
 were selected to represent AISS at the CAP Seminar, held from 29th May
 to 1st June. Continuing this achievement, in 2024, Chang Ling-Chi @ Olivia
@@ -60,6 +62,21 @@ in the footsteps of his seniors, Miguel was chosen to perform a reading
 of his poem, ‘Self-portrait of an Art Gallery’<em>,</em> at the CAP Seminar
 2024 Closing Ceremony, carrying forward the legacy of inspiring students
 across schools on their creative writing journeys.</p>
+</li>
+</ul>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_b7CrCWVyGgDkhUmKrXjONdLMHGd8jIcQS8oHOs8_iIJ4-XhD5gRYgYkZx2faOCubHyG8pqzv23sA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Creative Writing Workshop 2023</u></strong>
+<br>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 </div>
 </details>
