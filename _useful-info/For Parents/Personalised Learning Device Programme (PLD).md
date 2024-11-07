@@ -75,15 +75,56 @@ for PLD”.</p>
 </li>
 </ul>
 <h1><strong>DMA Information</strong></h1>
-<blockquote>
-<p>&lt;To be updated&gt;</p>
-</blockquote>
+<p><em>&lt;To be updated&gt;</em>
+</p>
 <h1><strong>Service Centre Information</strong></h1>
+<p>Technical support will be provided to students through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The School’s Service Desk which is available from 7.30 am to 3.30 pm daily.</p>
+</li>
+<li>
+<p>Assistance to collect and send the PLD for repair service with the vendor.</p>
+</li>
+<li>
+<p>Please check with school ICT Support team of availability of spare Chromebook
+to loan to affected students as there are limited quantity.</p>
+</li>
+</ul>
+<p><strong>Note:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lenovo will only do a fortnightly collection of all faulty devices from
+our school. The estimated turn-around time is 4 weeks repair and return
+from collection date (subject to vendor's availability).</p>
+</li>
+<li>
+<p>For faster turn-around on-site same-day repair (if spare part is available),
+parents can bring the faulty device directly to the Lenovo Service Centre
+@ Tai Seng Centre (Service Centre Number Call: 6871 4838).</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
 </div>
 <p>Parents/Students are encouraged to pre-register their device via the link&nbsp;
 <a href="https://smartcares.com/lenovo/" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo/</a>&nbsp;before proceeding to the&nbsp;<strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>.</p>
+<h3>Additional Information:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.qmqoas71osww" rel="noopener nofollow" target="_blank">What if the PLD is faulty?</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.p20bnkzh8pw8" rel="noopener nofollow" target="_blank">What is covered by the insurance?</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.bcpl4rb6xty4" rel="noopener nofollow" target="_blank">What happens if the device is stolen/lost?</a>
+</p>
+</li>
+</ul>
 <h1><strong>Frequently Asked Questions and Answers</strong></h1>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <table style="minWidth: 75px">
