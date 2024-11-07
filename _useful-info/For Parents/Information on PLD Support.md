@@ -10,7 +10,8 @@ third_nav_title: For Parents
 <li>
 <p>The School’s IT Team which is available from 7.30 am to 3.30 pm during
 school days.
-<br>(Refer to Operating Hours below).</p>
+<br><em>(Refer to Operating Hours below)</em>
+</p>
 </li>
 <li>
 <p>Assistance to collect and send the PLD for repair service with the Lenovo
