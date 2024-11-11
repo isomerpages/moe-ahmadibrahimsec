@@ -277,7 +277,35 @@ our students.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><strong><u>Outreach</u></strong>
+<br><strong>AISS Reading Ambassadors Ignite the Joy of Reading in the Community with NLB</strong>
+<br>On the 13th of July 2024, our Reading Ambassadors from Ahmad Ibrahim Secondary
+School had the incredible opportunity to collaborate with the National
+Library Board (NLB) in an outreach event at Yishun Public Library. Titled <em>Tales Come Alive: A Puppetry Reading Adventure</em>,
+the event was designed to captivate the imaginations of young readers and
+foster a love for storytelling in the community.</p>
+<p>Our Reading Ambassadors took center stage, delivering a delightful and
+engaging puppetry reading session that brought stories to life. With vibrant
+characters, expressive voices, and creative puppetry, they transported
+the audience into the magical worlds of their chosen tales. This interactive
+and entertaining approach not only captured the attention of the children
+but also inspired a renewed interest in reading among the audience members.</p>
+<p>The event was a resounding success, with attendees leaving with smiles
+on their faces and a spark of curiosity ignited in their hearts. The collaboration
+with NLB provided our students with a unique platform to develop their
+public speaking and performance skills while contributing meaningfully
+to the community.</p>
+<p>We are incredibly proud of our Reading Ambassadors for their dedication,
+creativity, and passion for promoting literacy. This outreach event is
+a testament to the power of storytelling and the importance of nurturing
+a lifelong love for reading.</p>
+<p>We look forward to many more opportunities to engage with the community
+and spread the joy of reading far and wide!
+<br>
+</p>
+<p>
+<br>
+</p>
 </li>
 </ul>
 </div>
