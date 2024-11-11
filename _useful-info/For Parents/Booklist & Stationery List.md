@@ -6,7 +6,10 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3>Booklist &amp; Stationery List (2025)</h3>
-<h4> Sale of Textbooks &amp; Stationery, School Uniform &amp; PE Attire not available on <strong><u>27 November 2024</u></strong>.</h4>
+<p>Sale of Textbooks &amp; Stationery, School Uniform &amp; PE Attire are <strong><em>not available</em></strong> on <strong><u>27 November 2024</u></strong>.
+Please refer to this <a href="www.ahmadibrahimsec.moe.edu.sg/closure-of-sales-of-textbooks-stationery-school-uniform-pe/" rel="noopener nofollow" target="_blank">message</a>.
+<br>
+</p>
 <ul>
 <li>
 <p><strong>Sec 1</strong> - <em>To be updated on later date</em>
