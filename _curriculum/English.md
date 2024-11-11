@@ -442,6 +442,54 @@ an inspiring example for their peers. The Top Borrowers for are:</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 3 2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KLENN TEO YUAN JUN KAI, 4E4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Second Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VI-YAN YEW HYUN NING, 1ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Third Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOEY LEE JIE YI, 2E2
+<br>CHIEW ADON (JIANG WEIDONG), 2N1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Their commitment to reading not only enriches their minds but also encourages
+others to dive into the world of books. Congratulations to our Top Borrowers
+and may your passion for reading continue to thrive!</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
