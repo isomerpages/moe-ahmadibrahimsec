@@ -181,4 +181,7 @@ Redzuan Bin Mohammad Hanip
 </div>
 <p><strong>Gallery</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXIeCrEw6er6O_0Xd_WMu7ZRRSzgg9VheWtFSuKePKoYt7mmNmawC_8PgkvrvfkLU0v5Yf-1QQ92CN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>

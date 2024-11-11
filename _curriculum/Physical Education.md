@@ -80,7 +80,7 @@ promotes class spirit. For the school’s 60<sup>th</sup> anniversary, the
 Fun Run encourages students to run 60 laps around the 100Plus Promenade
 at the Singapore Sports Hub as a class.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuggWOsLVLLkkLf9lbYsNmb1ciX7tvxhIIb9HZj5TBNm0vBsDS-evFYTzchmxU_zwcQ4pVE2O7hv9E/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiWrA70k0GYH3B0Sx3u9Vlf5YQsX6LIyWBELx5oTJUeVc32X5AXXD53iFaafvN8rDkV7I0GV24lsp/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 </div>
 </details>
@@ -98,7 +98,7 @@ Net Barrier and Invasion Games).</p>
 <p>Each module consists of 10 weeks (20 periods) of PE lessons in which the
 students learn the skills, rules and strategies in playing the games.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiWrA70k0GYH3B0Sx3u9Vlf5YQsX6LIyWBELx5oTJUeVc32X5AXXD53iFaafvN8rDkV7I0GV24lsp/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuggWOsLVLLkkLf9lbYsNmb1ciX7tvxhIIb9HZj5TBNm0vBsDS-evFYTzchmxU_zwcQ4pVE2O7hv9E/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 </div>
 </details>

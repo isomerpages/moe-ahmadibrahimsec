@@ -6,9 +6,11 @@ third_nav_title: Aesthetics
 variant: tiptap
 ---
 <h2>Art</h2>
-<ul>
-<li>
-<p>Programmes</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Programmes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Sec 1 Level – Full Subject Based Banding (FSBB)</strong>
 </p>
 <p>Sec 1 students will be introduced to the field of Drawing and explore
@@ -63,9 +65,14 @@ held at Marina Bay Sand.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" src="/images/CeramicsMrAhmad03.jpg">
 </div>
-</li>
-<li>
-<p>Art Advanced Elective Modules</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Art Advanced Elective Modules</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Ideas for Design @Temasek Polytechnic</u></strong>
 <br>Our students visited Temasek Polytechnic for the Ideas for Design AEM
 in 2022. This group was a mix of Art students and other students who were
@@ -90,9 +97,11 @@ was specially designed to engage and inspire secondary school students,
 helped the students discover new strengths and interest. It also provided
 an authentic learning experience that would help them make a more well-informed
 decision on their post-secondary options.</p>
-</li>
-<li>
-<p>Organisation Chart</p>
+</div>
+</details>
+</div>
+<p><strong><u>Organisation Chart</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -125,6 +134,4 @@ decision on their post-secondary options.</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p></p>
