@@ -303,6 +303,98 @@ a lifelong love for reading.</p>
 and spread the joy of reading far and wide!
 <br>
 </p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTylUrIXBARZH1mrIHaqJtT5P7QbmOScjezBVONUEzMO8gl_D5QrNS1CJpHMY1A_dZAUgvGS8WfOjPI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Thematic Events</u></strong>
+<br>A new month at our library beckons a new thematic event, calling students
+to celebrate significant occasions with the school and their peers as one
+AI community. Our students were thrilled to participate in a myriad of
+ever-changing activities throughout the year, be it serenading the crowds
+at the ‘Busk Me Away’ station for Valentine’s Day or making paper pageant
+dolls for International Friendship Day. Not only that, but our library
+also collaborated with NPCC to hold an interactive Crime Scene Investigation
+where students sleuth and solve a crime mystery and stand a chance at winning
+attractive prizes.&nbsp;</p>
+<p>Alongside these activities, students also explore our enticing book displays
+such as our mystery reads with alluring teasers tempting them to pick them
+up as their next read. With a slew of events, invigorating our library
+with a new lease of life each month, we are committed to ignite, in our
+students, the passion for reading and exploration!
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrX20JssjS8QD3mKWtNBitG_DH297O7y_RUyNRwmTQeKe1zVKoc-ctnsHq4dvURQsugGkoILM4QfmJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+</li>
+<li>
+<p><strong><u>Top Borrowers</u></strong>
+<br><strong>Celebrating Our Top Borrowers: Fostering a Culture of Reading Excellence</strong>
+<br>At AISS, we recognize the importance of reading in fostering lifelong
+learning. To celebrate our students' dedication to this vital skill, we
+proudly honor our Top Borrowers who have shown exceptional enthusiasm in
+exploring the diverse collection of books in our library.</p>
+<p>These students have gone above and beyond in their reading journeys, setting
+an inspiring example for their peers. The Top Borrowers for are:</p>
+<p></p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><u>Term 1 2023</u>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRANDON LOK ZHI YANG, 2E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Second Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CELEST LOH ENXY, 3ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Third Place</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>FATIMAH BINTE YUSOF, 1SE
+<br>ISOC ANGEL DANIELLE PESCADOR, 3ST
+<br>YUAN JINGYI, 3SE</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
 <p>
 <br>
 </p>
