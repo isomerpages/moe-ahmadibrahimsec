@@ -34,9 +34,14 @@ experience.</p>
 Zelda Setiono and Vidal Janella Amy Pfrilz De Vera from 3 Excellence, received
 recognition for their outstanding poetry, clinching awards for ‘The Most
 Thought-Provoking Poem’ and ‘The Best Writer’s Craft,’ respectively.</p>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/el_ttp 2024 (2).jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/el_ttp 2024 (1).jpg">
+</div>
 </div>
 </details>
 </div>
