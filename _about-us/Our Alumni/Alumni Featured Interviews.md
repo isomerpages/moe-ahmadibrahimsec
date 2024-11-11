@@ -926,10 +926,9 @@ the Air Force.</p>
 <br>- Represented Singapore U23 in 2010 Eximbank Cup held in Vietnam (Sept
 2010)
 <br>Scored the only goal for Singapore in the tournament against Asian Powerhouse
-Iran (<strong><a href="https://www.redsports.sg/2010/09/28/singapore-iran-%20eximbank-cup-%20football/" rel="noopener" target="_blank">https://www.redsports.sg/2010/09/28/singapore-iran- eximbank-cup- football/</a></strong>)
+Iran
 <br>- Represented Singapore U23 in 2010 Asian Games held in Guangzhou, China
 (Nov 2010) Scored the only goal for Singapore in the tournament.
-<br>(<strong><a href="https://www.redsports.sg/2010/11/11/asian-games-%20football-singapore-%20india/" rel="noopener" target="_blank">https://www.redsports.sg/2010/11/11/asian-games- football-singapore- india/</a></strong>)
 <br>- Represented Temasek Polytechnic soccer team from Y2008 - Y 2011
 <br>- Captained the Temasek Polytechnic Team and emerged as Champion in the
 The Institute-Varsity-Polytechnic Games (IVP Games) aka S R Nathan Challenge

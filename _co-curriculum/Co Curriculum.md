@@ -2,6 +2,7 @@
 title: Co Curriculum
 permalink: /our-co-curriculum/co-curriculum/
 description: ""
+variant: markdown
 ---
 <h4><strong>SPORTS</strong></h4>
 <p style="text-align: center;"><strong>BASKETBALL</strong></p>
@@ -68,8 +69,8 @@ description: ""
 <a href="/co-curriculum/performing-arts/dance-ensemble">
 <img style="width: 40%;" src="/images/ai%20dance%20ensemble%20thumbnail.jpg"></a>
 <p style="text-align: center;">Aiming to release the full potential in our dancers, we not only train flexibility but strength as well</p>
-<p style="text-align: center;"><strong>ORATORICAL DEBATE AND DRAMA SOCIETY (ODDS)</strong></p>
-<a href="/co-curriculum/performing-arts/the-oratorical-debate-and-drama-society-odds">
+<p style="text-align: center;"><strong>English Drama</strong></p>
+<a href="/co-curriculum/performing-arts/english-drama/">
 <img style="width: 40%;" src="/images/ai%20odds%20thumbnail.jpg"></a>
 <p style="text-align: center;">To become empathetic and compassionate individuals who are confident and creative, demonstrating passion and love for the art of drama</p>
 

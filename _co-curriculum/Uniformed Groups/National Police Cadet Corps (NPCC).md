@@ -50,8 +50,9 @@ and reaching new heights together. Onwards, AI NPCC!
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
-<p><em>“As I reflect, I was glad that I joined NPCC. NPCC made me realized how capable I am of being a leader and the importance of having self-discipline. Through all the trainings, NPCC taught me how to be confident leader and believe that it is fine to make mistakes as it is part of the process. I was given various opportunities to lead and guide others and I appreciate all these learning experiences that has truly shaped me to who I am today!” </em>
-<br><strong>- SI (NPCC) NUR NAYLI BINTE ROMI SOFHIAN, 4N1 (2023)</strong>
+<p><em>“Through my journey in NPCC, I was faced&nbsp; with many challenges that helped develop my leadership skills and teamwork. Every experience builds a sense of responsibility and discipline in me. As I reflect on this journey, I deeply appreciate the friendships I made along the way, the support I received from those around me and&nbsp; the meaningful lessons I learned that will guide me in my future endeavours. I truly have no regret choosing NPCC as my first option!”</em>
+</p>
+<p><strong>-SGT (NPCC) AMANDA LIEW JING XI, 3 Excellence (2024)</strong>
 </p>
 </blockquote>
 </div>

@@ -5,14 +5,14 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h1><strong>National Digital Literacy Programme</strong><br></h1>
+<h2><strong>National Digital Literacy Programme</strong></h2>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools to help students strengthen
 their digital literacy. One of the components of the NDLP is the introduction
 of the Personalised Digital Learning Programme (PDLP) for all secondary
 school students, whereby every secondary school student will own a school-prescribed
 Personal Learning Device (PLD).</p>
-<h1><strong>Personal Learning Device</strong><br></h1>
+<h2><strong>Personal Learning Device</strong></h2>
 <p>Personal Learning Devices (PLDs) will truly transform the learning environment
 as it allows teachers and students to harness technology for greater effectiveness
 in teaching and learning. The use of the personal learning devices for
@@ -27,7 +27,7 @@ provide students with many good years of learning and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lenovo Chromebook PLD" src="/images/Useful Info/For Parents/Lenovo_Chromebook_Gen_4.jpg">
 </div>
-<h1><strong>Important Actions For Parents</strong><br></h1>
+<h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
 or hardcopy with details about the purchase of PLD by mid January.</p>
 <p>Please submit the following consent forms in order for the school to begin
@@ -50,75 +50,7 @@ processing the purchase of a PLD for your child/ward.</p>
 the Parents’ Gateway notification.</p>
 <p>Permanent Residents/International Students, please submit the hardcopy
 letter to your child’s/ward’s Form Teacher.</p>
-<h1><strong>PDLP Information for Parents</strong><br></h1>
-<p>This is a video of the presentation on PLD briefing for Parents.
-<br>Alternatively, you can view the <a href="https://drive.google.com/drive/folders/10NvmL1pK8RW0I7IPAI1-hg-VUquGkabz?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">slides here</a>.
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Section 1 </strong>- <a href="https://youtu.be/FuV9qJ2uSJ0" rel="noopener noreferrer nofollow" target="_blank">Info on NDLP and PLD Initiative</a>
-<br>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FuV9qJ2uSJ0?wmode=transparent"></iframe>
-</div>
-<p>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Section 2</strong> - <a href="https://youtu.be/4HWe5rmO7LI" rel="noopener noreferrer nofollow" target="_blank">Supporting Students in Safe &amp; Effective Use of PLDs</a>
-<br>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Baf9R2yAQlA?wmode=transparent"></iframe>
-</div>
-<p>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><br>Section 3</strong> - <a href="https://youtu.be/v8U_6KYINU8" rel="noopener noreferrer nofollow" target="_blank">Device &amp; Funding Information</a>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v8U_6KYINU8?wmode=transparent"></iframe>
-</div>
-<p>
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Section 4</strong> - <a href="https://youtu.be/QdfUdyzlE1s" rel="noopener noreferrer nofollow" target="_blank">Action by Parents &amp; Guardians</a>
-<br>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QdfUdyzlE1s?wmode=transparent"></iframe>
-</div>
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h1><strong>Financial Assistance</strong><br></h1>
+<h2><strong>Financial Assistance</strong></h2>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
 automatically qualify for these subsidies and do not need to take any action.</p>
@@ -127,7 +59,7 @@ can apply for subsidies, particularly those whose Gross Household Income
 (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your
 child qualifies for a subsidy, please submit Annex D “Application for Subsidy
 for PLD”.</p>
-<h1><strong>Cyberwellness Resources for Parents</strong><br></h1>
+<h2><strong>Cyberwellness Resources for Parents</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/PLD/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
@@ -142,76 +74,64 @@ for PLD”.</p>
 </p>
 </li>
 <li>
-<p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sure.nlb.gov.sg</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">help123.sg</a>
+<p><a href="/files/PLD/Resources_to_Support_Parents.pdf" rel="noopener nofollow" target="_blank">Resources to support parents</a>
 </p>
 </li>
 </ul>
-<h1><strong>DMA Information</strong></h1>
-<h5><strong>Fill up the form below to change your child's/ward's after school DMA option</strong></h5>
+<h2><strong>DMA Information</strong></h2>
+<p><em>&lt;To be updated&gt;</em>
+</p>
+<h2><strong>Technical Support &amp; Service Centre Information</strong></h2>
+<p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/6143ec0c70054d0012da2b0f" rel="noopener noreferrer nofollow" target="_blank">Change Of After-School DMA Parent Options (for Parents/Guardians)</a>
+<p>The School’s IT Team which is available from 7.30 am to 3.30 pm during
+school days.
+<br>Refer to <a href="https://www.ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/info-on-pld-support/" rel="noopener nofollow" target="_blank">Operating Hours for School IT Team support</a>
 </p>
 </li>
+<li>
+<p>Assistance to collect and send the PLD for repair service with the vendor.</p>
+</li>
+<li>
+<p>Please check with school ICT Support team of availability of spare Chromebook
+to loan to affected students as there are limited quantity.</p>
+</li>
 </ul>
-<h5><strong>Option Quick Guides &amp; Information</strong></h5>
+<h4>Additional Information:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Default Option</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.qmqoas71osww" rel="noopener nofollow" target="_blank">What if the PLD is faulty?</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_A___compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Option A</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.p20bnkzh8pw8" rel="noopener nofollow" target="_blank">What is covered by the insurance?</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD/DMA%20Resources%20for%20Parents/DMA_Parent_Guide___Option_B___compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Option B</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs#h.bcpl4rb6xty4" rel="noopener nofollow" target="_blank">What happens if the device is stolen/lost?</a>
 </p>
 </li>
 </ul>
-<h5><strong>Additional Useful Guides</strong></h5>
-<p><strong>For All Options</strong>
-</p>
+<h4>Note:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://youtu.be/IUc-x-_wUdU?si=3mcrBnFwnudls5hT" rel="noopener noreferrer nofollow" target="_blank">[All Options] Parent Account Password Reset</a>
-</p>
+<p>Lenovo will only do a fortnightly collection of all faulty devices from
+our school. The estimated turn-around time is 4 weeks repair and return
+from collection date (subject to vendor's availability).</p>
 </li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IUc-x-_wUdU?wmode=transparent"></iframe>
-</div>
-<p><strong>For Option A</strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://youtu.be/qaxcXPA9obs?si=7jSvnSQUY9pf8XKM" rel="noopener noreferrer nofollow" target="_blank">[Option A] Setting Rules to Restrict Usage</a>
-</p>
+<p>For faster turn-around on-site same-day repair (if spare part is available),
+parents can bring the faulty device directly to the Lenovo Service Centre
+@ Tai Seng Centre (Service Centre Number Call: 6871 4838).</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qaxcXPA9obs?wmode=transparent"></iframe>
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://youtu.be/Pau7YjjgmPY" rel="noopener noreferrer nofollow" target="_blank">[Option A] Overriding School Sleep Hours</a>
-</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="360" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pau7YjjgmPY?wmode=transparent"></iframe>
-</div>
-<h1><strong>Service Centre Information</strong><br></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
 </div>
 <p>Parents/Students are encouraged to pre-register their device via the link&nbsp;
 <a href="https://smartcares.com/lenovo/" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo/</a>&nbsp;before proceeding to the&nbsp;<strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>.</p>
-<h1><strong>Frequently Asked Questions and Answers</strong><br></h1>
+<h2><strong>Frequently Asked Questions and Answers</strong></h2>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <table style="minWidth: 75px">
 <colgroup>
