@@ -392,6 +392,57 @@ an inspiring example for their peers. The Top Borrowers for are:</p>
 <tr></tr>
 </tbody>
 </table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 2 2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH HONG FU, 1ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Second Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD AFIQ FAKHRI BIN MOHAMMAD FAIRUZ SHAH, 1SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Third Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOMMULA VAIBHAV REDDY, 1IN
+<br>MUHAMMAD SYAHMI BIN SUZIRMAN, 3ST
+<br>STELLA TONG CHI LING, 3ST
+<br>MOHAMED MANASEER MASROORA, 4E3
+<br>ALAINA SAHER, 4E4
+<br>HANA NURHUSNA, 4E2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>
