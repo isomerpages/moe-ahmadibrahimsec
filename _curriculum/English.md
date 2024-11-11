@@ -342,7 +342,6 @@ proudly honor our Top Borrowers who have shown exceptional enthusiasm in
 exploring the diverse collection of books in our library.</p>
 <p>These students have gone above and beyond in their reading journeys, setting
 an inspiring example for their peers. The Top Borrowers for are:</p>
-<p></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
