@@ -6,6 +6,7 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3>Booklist &amp; Stationery List (2025)</h3>
+<h4> Sale of Textbooks &amp; Stationery, School Uniform &amp; PE Attire not available on <strong><u>27 November 2024</u></strong>.</h4>
 <ul>
 <li>
 <p><strong>Sec 1</strong> - <em>To be updated on later date</em>
