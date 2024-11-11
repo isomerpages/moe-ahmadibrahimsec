@@ -6,9 +6,40 @@ variant: tiptap
 ---
 <h2>English</h2>
 <h3>About Us</h3>
-<p>A dedicated group of teachers who believe in the importance of building
-on the foundation in the English language through exposure and creative
-use, in reading, writing, listening and speaking.</p>
+<p>We are a dedicated group of educators who believe in the importance of
+building on the foundation of the English language through nurturing confident,
+competent, and fluent users of the English language.</p>
+<p>Through exposing our students to a variety of contexts of how the language
+is used and platforms for discussions, we aim to grow our students to appreciate
+the beauty of the language while at the same time be critical thinkers
+who can convey their opinions with heart and soul.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Tea, Tiffin &amp; Poetry 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>We are delighted to share that our students participated in the 'Tea,
+Tiffin, and Poetry' 2024 event at CHIJ St. Nicholas Girls' School. This
+event was dedicated to celebrating the art of poetry, offering students
+a unique opportunity to engage with local poets and fellow poetry enthusiasts
+and embodying our school’s commitment to nurturing the arts and fostering
+a love for literature within our community.&nbsp;</p>
+<p>During the event, our students immersed themselves in the rich world of
+poetry through reading, writing, and listening to original works. The afternoon
+was brimming with creativity and inspiration, enabling students to deepen
+their understanding and appreciation of poetic expression. We are proud
+of the insights and creative growth our students gained from this memorable
+experience.</p>
+<p>We are also thrilled to announce that our students, Chang Ling-Chi @ Olivia
+Zelda Setiono and Vidal Janella Amy Pfrilz De Vera from 3 Excellence, received
+recognition for their outstanding poetry, clinching awards for ‘The Most
+Thought-Provoking Poem’ and ‘The Best Writer’s Craft,’ respectively.</p>
+<p>
+<br>
+</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Creative Writing Programme 2023</strong>
