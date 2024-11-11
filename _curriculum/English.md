@@ -537,6 +537,17 @@ and may your passion for reading continue to thrive!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Chong Pang Next Top Speaker 2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuerTiZwTNK83hWO46_ncToSXh1WV855LwiMzOvAVIhEqL2j6y5kKlXtrcc-I3DQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Organisation chart</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
