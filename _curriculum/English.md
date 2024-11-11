@@ -401,7 +401,8 @@ an inspiring example for their peers. The Top Borrowers for are:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 2 2023</p>
+<p><u>Term 2 2023</u>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -450,7 +451,8 @@ an inspiring example for their peers. The Top Borrowers for are:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 3 2023</p>
+<p><u>Term 3 2023</u>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -491,13 +493,9 @@ an inspiring example for their peers. The Top Borrowers for are:</p>
 others to dive into the world of books. Congratulations to our Top Borrowers
 and may your passion for reading continue to thrive!</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>
 <br>
 </p>
-</li>
-</ul>
 </div>
 </details>
 </div>
