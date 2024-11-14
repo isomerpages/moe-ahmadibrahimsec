@@ -32,7 +32,7 @@ Essay Competition, also hosted on the website!&nbsp;</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Tea, Tiffin &amp; Poetry 2024</strong>
+<summary><strong>Tea, Tiffin &amp; Poetry 2023/2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We are delighted to share that our students participated in the 'Tea,
@@ -64,7 +64,7 @@ Thought-Provoking Poem’ and ‘The Best Writer’s Craft,’ respectively.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Creative Writing Programme 2023</strong>
+<summary><strong>Creative Writing Programme 2023/2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -185,73 +185,7 @@ imaginations.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>ELL Fest 2023</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The theme for this year's English Language and Literature (ELL) Festival
-was ‘Superheroes’, and it's safe to say that our teachers have donned their
-capes, forming the formidable ‘Justice Lit’, led by none other than the
-illustrious Captain English. Justice Lit is a league of superheroes with
-extraordinary literary and linguistic abilities whose mission is to ignite
-a spark of excitement in the hearts of our students for English Language
-and Literature.</p>
-<p>The objectives of the ELL festival were to cultivate a school-wide culture
-that nurtures the appreciation of the English Language and Literature while
-promoting the sheer joy of learning. And what better way to inspire this
-than by organising a series of engaging events, including speech competitions,
-spelling bees, and poetry contests, alongside fun and enlightening workshops,
-where students and teachers alike can delve into the boundless world of
-language and linguistic expressions. A multitude of events have been organised,
-each designed to empower our students to harness their inner language superheroes.
-Among the highlights are:</p>
-<p>1. Spelling Bee (Sec 1s): The Sec 1 students showcased their command over
-the English language by competing in a thrilling Spelling Bee. This event
-not only tests their linguistic prowess but also fosters healthy competition
-and camaraderie. Students were given a treat as they also got to watch
-their non-English teachers taking part in the Spelling Bee too!&nbsp;</p>
-<p>2. Planned Speech (Sec 2s): The Sec 2 students stepped up to the podium
-with well-researched and eloquently delivered speeches. This event not
-only honed their public speaking skills but also encouraged critical thinking
-and in-depth exploration of literary themes.</p>
-<p>3. Impromptu Speech (Sec 3s): The Sec 3 students faced the challenge of
-thinking on their feet as they engaged in impromptu speeches. This event
-promotes quick thinking, adaptability, and the ability to articulate ideas
-effectively, all essential skills for future leaders.</p>
-<p>4. Poetry Writing Competition (Whole School): For our passionate literature
-enthusiasts, the Poetry Writing Competition provided a platform to unleash
-their creativity and express themselves through the art of poetry. It's
-an opportunity to dive deep into the world of words and emotions.</p>
-<p>But the&nbsp; ELL Festival is not just about competition; it's also about
-nurturing talent and fostering a love for the language and its literature.
-To that end, the festival includes a series of workshops during the Learning
-Fiesta week:</p>
-<p>Drama and Poetry Workshops for Sec 1 and 2 Students: These workshops allow
-our younger students to explore the world of literature in a dynamic and
-interactive way. They get to enact scenes from their favorite plays and
-immerse themselves in the beauty of poetic expression.</p>
-<p>In the spirit of "Superheroes," Justice Lit members served as guides throughout
-the festival, sharing their passion for language and literature with students,
-and demonstrating that, indeed, "words are mightier than swords."</p>
-<p>The ELL Festival promised to be a spectacular journey, where students
-were not only educated but inspired. It is a celebration of language and
-literature, a testament to the power of words, and a reminder that each
-one of us has the potential to be a superhero in our own literary adventures.</p>
-<p>On this extraordinary voyage, let us remember that the true heroes of
-the&nbsp; ELL Festival are the students and teachers who came together
-to make it a resounding success, forging bonds of learning, creativity,
-and camaraderie that will last a lifetime. Here's to a festival filled
-with words that leap off the pages and into our hearts, and to superheroes
-who inspire us all to explore the limitless horizons of language and literature.</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQprZcp7OIOelFUzrc7LkDePoFeLG4wRjnbSBf4C1H2D7IyRUNv2Q6AVS4lP6l-ocl2tgIhQEh0FEB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Public Speaking 2023</strong>
+<summary><strong>Public Speaking 2023/2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>‘Rotate both of your shoulder blades backwards and then forward.’</p>
@@ -276,7 +210,7 @@ learnt.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Queen’s Essay Competition 2023</strong>
+<summary><strong>Queen’s Essay Competition 2023/2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This annual international writing competition provides both budding and
@@ -295,7 +229,7 @@ and more importantly, leveling up their writing skills.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Reading Programme 2023</strong>
+<summary><strong>Reading Programme 2023/2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -386,180 +320,7 @@ students, the passion for reading and exploration!
 </div>
 <p></p>
 </li>
-<li>
-<p><strong><u>Top Borrowers</u></strong>
-<br><strong>Celebrating Our Top Borrowers: Fostering a Culture of Reading Excellence</strong>
-<br>At AISS, we recognize the importance of reading in fostering lifelong
-learning. To celebrate our students' dedication to this vital skill, we
-proudly honor our Top Borrowers who have shown exceptional enthusiasm in
-exploring the diverse collection of books in our library.</p>
-<p>These students have gone above and beyond in their reading journeys, setting
-an inspiring example for their peers. The Top Borrowers for are:</p>
-</li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><u>Term 1 2023</u>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>First Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRANDON LOK ZHI YANG, 2E3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Second Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CELEST LOH ENXY, 3ST</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p><strong>Third Place</strong>
-</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>FATIMAH BINTE YUSOF, 1SE
-<br>ISOC ANGEL DANIELLE PESCADOR, 3ST
-<br>YUAN JINGYI, 3SE</p>
-</td>
-</tr>
-<tr></tr>
-<tr></tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><u>Term 2 2023</u>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>First Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KOH HONG FU, 1ST</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Second Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD AFIQ FAKHRI BIN MOHAMMAD FAIRUZ SHAH, 1SE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Third Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KOMMULA VAIBHAV REDDY, 1IN
-<br>MUHAMMAD SYAHMI BIN SUZIRMAN, 3ST
-<br>STELLA TONG CHI LING, 3ST
-<br>MOHAMED MANASEER MASROORA, 4E3
-<br>ALAINA SAHER, 4E4
-<br>HANA NURHUSNA, 4E2</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><u>Term 3 2023</u>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>First Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KLENN TEO YUAN JUN KAI, 4E4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Second Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VI-YAN YEW HYUN NING, 1ST</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Third Place</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JOEY LEE JIE YI, 2E2
-<br>CHIEW ADON (JIANG WEIDONG), 2N1</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p>Their commitment to reading not only enriches their minds but also encourages
-others to dive into the world of books. Congratulations to our Top Borrowers
-and may your passion for reading continue to thrive!</p>
-<p></p>
-<p>
-<br>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Chong Pang Next Top Speaker 2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuerTiZwTNK83hWO46_ncToSXh1WV855LwiMzOvAVIhEqL2j6y5kKlXtrcc-I3DQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 </div>
 </details>
 </div>
@@ -611,24 +372,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Woon Sher Lin Sheralyn
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Art
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
+<p><strong>2</strong>
 <br>
 </p>
 </td>
@@ -643,22 +387,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chew Hui Leng Faith
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6</strong>
+<p><strong>3</strong>
 <br>
 </p>
 </td>
@@ -673,22 +402,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Phua Eng Sze
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>8</strong>
+<p><strong>4</strong>
 <br>
 </p>
 </td>
@@ -703,7 +417,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9</strong>
+<p><strong>5</strong>
 <br>
 </p>
 </td>
@@ -718,7 +432,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10</strong>
+<p><strong>6</strong>
 <br>
 </p>
 </td>
@@ -733,7 +447,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11</strong>
+<p><strong>7</strong>
 <br>
 </p>
 </td>
@@ -748,7 +462,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12</strong>
+<p><strong>8</strong>
 <br>
 </p>
 </td>
@@ -763,7 +477,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13</strong>
+<p><strong>9</strong>
 <br>
 </p>
 </td>
@@ -778,7 +492,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>14</strong>
+<p><strong>10</strong>
 <br>
 </p>
 </td>
@@ -793,22 +507,7 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>15</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Imran Ishak
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>17</strong>
+<p><strong>11</strong>
 <br>
 </p>
 </td>
@@ -823,27 +522,12 @@ and may your passion for reading continue to thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>18</strong>
+<p><strong>12</strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Enzo Charles Victor Buttazzoni
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>19</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kesavan Ramakrishnan
 <br>
 </p>
 </td>
