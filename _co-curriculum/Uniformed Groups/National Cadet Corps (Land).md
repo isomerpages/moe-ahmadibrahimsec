@@ -173,6 +173,9 @@ SYAFIQ BIN HANISS
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwtImR43Ba9Kom70ytPgV8Ld73EFrf0E7Rh4ZMyD1BIjhM1m_gkp4gvGOdseuHPT2ZYYUUIARgbo8Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAOVqC8MuG9xC4fPLFukHJX8HZxCrncwlROABFjgz2tJfJKpWC01M1iLUjLKluLigSD6DCZeTBzsXQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
