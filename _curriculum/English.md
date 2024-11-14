@@ -23,7 +23,7 @@ our annual Creative Writing Camp, with experiences and workshops led by
 teachers and professionals from the writing industry. In Term 3, ELL Festival
 took place with various activities to engage students' curiosity about
 the English Language and literary pursuits.&nbsp;</p>
-<p>Do check out their works here at our online publication, <a href="https://sites.google.com/moe.edu.sg/contemplations2024/home" rel="noopener nofollow" target="_blank">ContemplAItions 2024</a>!&nbsp;</p>
+<p>Do check out their works here at our online publication, <a href="https://sites.google.com/moe.edu.sg/contemplations2024/home" rel="noopener nofollow" target="_blank">ContemplAtIons 2024</a>!&nbsp;</p>
 <p>In addition, you may also enjoy reading the thoughtful and creative essays
 by students who achieved Gold and Silver awards at the Queens Commonwealth
 Essay Competition, also hosted on the website!&nbsp;</p>
