@@ -85,7 +85,13 @@ SYAFIQ BIN HANISS
 <br>2018: MSG (NCC) RAVICHANDRAN DHARANI
 <br>2019: MSG (NCC) HOE JOTHAM
 <br>2020: MSG (NCC) SATHIAH ELAMARAN
-<br>2021: MSG (NCC) AZRAEI SHAHRIEZAL BIN JAMIL</p>
+<br>2021: MSG (NCC) AZRAEI SHAHRIEZAL BIN JAMIL
+<br>2024: MSG (NCC) ONG KAI WEN ETHAN (WANG KAIWEN)
+<br>
+<br><strong><u>NCC Sports&nbsp;Championship 2024</u></strong>
+<br>Junior Cadets (Captain’s Ball) – 4th place (District Finals)
+<br>Senior Cadets (Ultimate Frisbee) – 2nd place (District Finals and HQ Finals)
+<br>Cadet Leaders (Soccer) – 3rd place (District Finals)</p>
 </div>
 </details>
 </div>
@@ -166,6 +172,9 @@ SYAFIQ BIN HANISS
 </div>
 <p><strong>Gallery</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwtImR43Ba9Kom70ytPgV8Ld73EFrf0E7Rh4ZMyD1BIjhM1m_gkp4gvGOdseuHPT2ZYYUUIARgbo8Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAOVqC8MuG9xC4fPLFukHJX8HZxCrncwlROABFjgz2tJfJKpWC01M1iLUjLKluLigSD6DCZeTBzsXQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
