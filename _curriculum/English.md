@@ -388,20 +388,6 @@ students, the passion for reading and exploration!
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chew Hui Leng Faith
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
 <br>
 </p>
 </td>
@@ -416,7 +402,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5</strong>
+<p><strong>4</strong>
 <br>
 </p>
 </td>
@@ -431,7 +417,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6</strong>
+<p><strong>5</strong>
 <br>
 </p>
 </td>
@@ -446,7 +432,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7</strong>
+<p><strong>6</strong>
 <br>
 </p>
 </td>
@@ -461,7 +447,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8</strong>
+<p><strong>7</strong>
 <br>
 </p>
 </td>
@@ -476,7 +462,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9</strong>
+<p><strong>8</strong>
 <br>
 </p>
 </td>
@@ -491,7 +477,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10</strong>
+<p><strong>9</strong>
 <br>
 </p>
 </td>
@@ -506,7 +492,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11</strong>
+<p><strong>10</strong>
 <br>
 </p>
 </td>
@@ -521,7 +507,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12</strong>
+<p><strong>11</strong>
 <br>
 </p>
 </td>
@@ -536,7 +522,7 @@ students, the passion for reading and exploration!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13</strong>
+<p><strong>12</strong>
 <br>
 </p>
 </td>
