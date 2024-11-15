@@ -129,7 +129,47 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lenovo Service Centre" src="/images/Lenovo_Service_Centre__New_.png">
 </div>
-<p></p>
+<h4>Service Centre Location:</h4>
+<p>Servlink Technologies – Lenovo Authorised Service Centre
+<br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
+339407</p>
+<h4>How do students / customers get to the service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>By MRT: </strong>The nearest MRT station is <strong>Bendemeer Station (Downtown Line)</strong>.
+It’s about a 5-minute walk to CTHub from the station.</p>
+</li>
+<li>
+<p><strong>By Bus: </strong>Bus services <strong>13, 23, 67, 125, and 133 </strong>stop
+near CTHub</p>
+</li>
+<li>
+<p><strong>By Car: </strong>CTHub offers parking facilities. Enter via <strong>Kallang Avenue</strong>,
+and parking is available at an hourly rate.</p>
+</li>
+</ul>
+<h4>What are the operating hours of the service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday to Friday: 9:00 AM – 6:00 PM</p>
+</li>
+<li>
+<p>Saturday: 9:00 AM – 1:00 PM</p>
+</li>
+<li>
+<p>Closed on Sundays and Public Holidays</p>
+</li>
+</ul>
+<h4>What are the contact details for the service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hotline: +65 6817 1435</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+</p>
+</li>
+</ul>
 <h2><strong>Frequently Asked Questions and Answers</strong></h2>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <table style="minWidth: 75px">
