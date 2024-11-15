@@ -80,10 +80,7 @@ MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 </li>
 </ul>
 </blockquote>
-<h2><strong>Lenovo Service Centre (For Hardware Issues)</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lenovo service centre" src="/images/Lenovo_Service_Centre__New_.png">
-</div>
+<h2><strong>Lenovo Service Centre (For Hardware Issues)</strong></h2><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/NyNb53gYXjP5v9T28"><img style="width: 100%" height="auto" width="100%" alt="lenovo service centre" src="/images/Lenovo_Service_Centre__New_.png"></a>
 <h4>Service Centre Location:</h4>
 <p>Servlink Technologies – Lenovo Authorised Service Centre
 <br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
