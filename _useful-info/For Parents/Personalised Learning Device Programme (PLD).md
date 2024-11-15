@@ -126,6 +126,9 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 @ Tai Seng Centre (Service Centre Number Call: 6871 4838).</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lenovo Service Centre" src="/images/Lenovo_Service_Centre__New_.png">
+</div>
 <p></p>
 <h2><strong>Frequently Asked Questions and Answers</strong></h2>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
@@ -169,4 +172,5 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
