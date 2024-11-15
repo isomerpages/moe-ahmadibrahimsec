@@ -113,8 +113,13 @@ and parking is available at an hourly rate.</p>
 </li>
 </ul>
 <h4>What are the contact details for the new service centre?</h4>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Hotline: +65 6817 1435</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Email: <a rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hotline: +65 6817 1435</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
 </p>
+</li>
+</ul>
+<p></p>
