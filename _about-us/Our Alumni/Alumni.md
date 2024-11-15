@@ -20,7 +20,8 @@ alumni provide strong support in key areas such as co-curricular activities
 talks as well as motivational talks to our students.
 <br>
 <br>We are proud of our alumni, and we celebrate their achievements through
-our school website and our <a href="https://www.instagram.com/the_aiss_fire/?hl=en" rel="noopener nofollow" target="_blank">Social Media</a>.
+our school website and our Social Medias (<a href="https://www.instagram.com/the_aiss_fire/?hl=en" rel="noopener nofollow" target="_blank">Instagram</a> /
+<a href="https://www.facebook.com/theAIfire/" rel="noopener nofollow" target="_blank">Facebook</a>).
 <br>
 <br>We encourage our alumni to be actively involved and to be contributing
 role models, so as to meaningfully enhance school life for our AI students.
