@@ -188,8 +188,9 @@ and parking is available at an hourly rate.</p>
 </ul>
 <h2><strong>Frequently Asked Questions and Answers</strong></h2>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -202,7 +203,7 @@ and parking is available at an hourly rate.</p>
 <th rowspan="1" colspan="1">
 <p>Administrative &amp; Financial Matters</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>DMA Matters</p>
 </th>
 </tr>
@@ -223,6 +224,12 @@ and parking is available at an hourly rate.</p>
 <p>Mr Mohammad Hafiz
 <br>ICT Manager
 <br><a href="mailto:mohammad_hafiz_hairuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hafiz_hairuddin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Elisha
+<br>ICT Associate
+<br><a href="elisha_ruth_cabaltera_zamudio@moe.edu.sg" rel="noopener nofollow" target="_blank">elisha_ruth_cabaltera_zamudio@moe.edu.sg</a>
 </p>
 </td>
 </tr>
