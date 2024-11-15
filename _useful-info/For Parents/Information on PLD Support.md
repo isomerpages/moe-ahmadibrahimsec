@@ -82,7 +82,42 @@ MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 </blockquote>
 <h2><strong>Lenovo Service Centre (For Hardware Issues)</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="lenovo service centre" src="/images/Lenovo_Service_Centre__New_.png">
 </div>
-<p>Parents/Students are encouraged to pre-register their device via the link&nbsp;
-<a href="https://smartcares.com/lenovo/" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo/</a>&nbsp;before proceeding to the&nbsp;<strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>.</p>
+<h4>Service Centre Location:</h4>
+<p>Servlink Technologies – Lenovo Authorised Service Centre
+<br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
+339407</p>
+<h4>How do students / customers get to the new service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>By MRT: </strong>The nearest MRT station is <strong>Bendemeer Station (Downtown Line)</strong>.
+It’s about a 5-minute walk to CTHub from the station.</p>
+</li>
+<li>
+<p><strong>By Bus: </strong>Bus services <strong>13, 23, 67, 125, and 133 </strong>stop
+near CTHub</p>
+</li>
+<li>
+<p><strong>By Car: </strong>CTHub offers parking facilities. Enter via <strong>Kallang Avenue</strong>,
+and parking is available at an hourly rate.</p>
+</li>
+</ul>
+<h4>What are the operating hours of the new service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday to Friday: 9:00 AM – 6:00 PM</p>
+</li>
+<li>
+<p>Saturday: 9:00 AM – 1:00 PM</p>
+</li>
+<li>
+<p>Closed on Sundays and Public Holidays</p>
+</li>
+</ul>
+<h4>What are the contact details for the new service centre?</h4>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Hotline: +65 6817 1435</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Email: <a rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+</p>
