@@ -169,6 +169,9 @@ of Accomplishment</p>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYBYpIoSsy9N_zX2Znt0od6HJ9SBS3A_REpkuAQmuHcYtH4qLOwrj4vgYj-1e_6-86mKHFBjvX4J6o/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9Dy13jNqJ_ZGbT0kDlenB7M_4U0EmpOvSezoQoafQ48mb-58vjVT_QkmMLXpV_g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
