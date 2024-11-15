@@ -103,7 +103,7 @@ for PLD”.</p>
 <li>
 <p>The School’s IT Team which is available from 7.30 am to 3.30 pm during
 school days.
-<br>Refer to <a href="https://www.ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/info-on-pld-support/" rel="noopener nofollow" target="_blank">Operating Hours for School IT Team support</a>
+<br>Refer to <a href="https://www.ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/info-on-pld-support-dma-request-change/" rel="noopener nofollow" target="_blank">Operating Hours for School IT Team support</a>
 </p>
 </li>
 <li>
