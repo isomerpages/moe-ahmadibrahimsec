@@ -17,14 +17,22 @@ in shooting technique and to gain values such as perseverance and discipline.
 In their journey to becoming a student athlete, we aim to inculcate in
 students the combined physical and emotional aptitudes that are required
 for success in the sport.</p>
-<ul>
-<li>
-<p>Mission</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mission</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>To nurture athletes that are disciplined and focused through a sport that
 places emphasis on mental resilience and consistency.</p>
-</li>
-<li>
-<p>Achievements</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>National Shooting Championships</u></strong>
 </p>
 <p><strong><u>2023<br></u>B Girls Rifle<br></strong>National: Champion</p>
@@ -463,15 +471,24 @@ for ‘C’ Div Air Rifle Men : Suhairi Aaron</p>
 <p>- Individual 3rd Under 13 : Nurhanis Nabilah Binte Mohammad Azli</p>
 <p>- Individual 1st Under 17 : Kelli-Ann- Individual 2nd Under 15 : Suhairi
 Aaron</p>
-<h4></h4>
-</li>
-<li>
-<p>Training Schedule</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mondays &amp; Wednesdays<br></strong>3.00 pm - 5.00 pm</p>
 <p><strong>Fridays<br></strong>1.30 pm - 4.30 PM</p>
-</li>
-<li>
-<p>Student Leaders</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Club Captains<br></strong>PANG XIN TONG
 <br>SAYSHAA DEVI D/O SURESH</p>
 <p><strong>Club Vice-captains<br></strong>ANG JUN KAI, RYAN
@@ -479,18 +496,26 @@ Aaron</p>
 <p><strong>Training Leaders<br></strong>CHAW MIN MIN
 <br>SAW KAI LI KELLY
 <br>CHONG XUE MIN</p>
-</li>
-<li>
-<p>Teachers In Charge</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mr Luo Zhengyang (OIC)<br>Contact:&nbsp;<a href="mailto:luo_zhengyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">luo_zhengyang@moe.edu.sg</a></strong>
 </p>
 <p>Mr Mohamed Fauzi Bin Husin
 <br>Mr Tan Boon Seng</p>
-</li>
-</ul>
-<p></p>
+</div>
+</details>
+</div>
 <p><strong>Gallery</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjVT39CE2Ad_yMsmaQeN2WNuA5RFLrOrfoR3rTNKdMg-jzzLmYKOEIahi3JM9uZ7kLO_S6wJzls6l6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjVT39CE2Ad_yMsmaQeN2WNuA5RFLrOrfoR3rTNKdMg-jzzLmYKOEIahi3JM9uZ7kLO_S6wJzls6l6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
