@@ -5,6 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<h2><strong>DMA Request Change</strong></h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>&lt;to be updated soon&gt;</p>
+</li>
+</ul>
+<h2><strong>PLD Support</strong></h2>
 <p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,9 +64,9 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 </li>
 </ul>
-<h3><strong>Operating Hours</strong></h3>
-<blockquote>
-<h4>During School Term</h4>
+<h4>Operating Hours:</h4>
+<p><strong>During School Term</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Operating Days: Mondays to Fridays</p>
@@ -68,9 +75,8 @@ MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 <p>Operating Hours: 7.30 am to 3.30 pm</p>
 </li>
 </ul>
-</blockquote>
-<blockquote>
-<h4>During School Holidays</h4>
+<p><strong>During School Holidays</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Operating Days: Mondays to Fridays</p>
@@ -79,7 +85,6 @@ MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 <p>Operating Hours: 9.00 am to 12.00 pm</p>
 </li>
 </ul>
-</blockquote>
 <h2><strong>Lenovo Service Centre (For Hardware Issues)</strong></h2><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/NyNb53gYXjP5v9T28"><img style="width: 100%" height="auto" width="100%" alt="lenovo service centre" src="/images/Lenovo_Service_Centre__New_.png"></a>
 <h4>Service Centre Location:</h4>
 <p>Servlink Technologies – Lenovo Authorised Service Centre
