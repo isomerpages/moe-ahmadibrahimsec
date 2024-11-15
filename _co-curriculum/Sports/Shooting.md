@@ -3,319 +3,520 @@ title: Shooting
 permalink: /co-curriculum/sports/shooting/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-## Shooting
-### About Us
-<p>Shooting is a collective group of competitive and recreational sporting activities involving tests of proficiency in accuracy, precision and speed using various types of ranged weapons. In Ahmad Ibrahim Shooting Club, we train for both 10m Air Pistol and Air Rifle Events, both of which are part of the National School Games.</p>
-<p>Trainings are usually carried out 3 times a week as part of building consistency in shooting technique and to gain values such as perseverance and discipline. In their journey to becoming a student athlete, we aim to inculcate in students the combined physical and emotional aptitudes that are required for success in the sport.</p>
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Mission</label>
-<div>
-<p>To nurture athletes that are disciplined and focused through a sport that places emphasis on mental resilience and consistency.</p>
+<h2>Shooting</h2>
+<h3>About Us</h3>
+<p>Shooting is a collective group of competitive and recreational sporting
+activities involving tests of proficiency in accuracy, precision and speed
+using various types of ranged weapons. In Ahmad Ibrahim Shooting Club,
+we train for both 10m Air Pistol and Air Rifle Events, both of which are
+part of the National School Games.</p>
+<p>Trainings are usually carried out 3 times a week as part of building consistency
+in shooting technique and to gain values such as perseverance and discipline.
+In their journey to becoming a student athlete, we aim to inculcate in
+students the combined physical and emotional aptitudes that are required
+for success in the sport.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mission</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To nurture athletes that are disciplined and focused through a sport that
+places emphasis on mental resilience and consistency.</p>
 </div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>National Shooting Championships</u></strong>
+</p>
+<p><strong><u>2023<br></u>B Girls Rifle<br></strong>National: Champion</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Wee Xuan, Wichelle</p>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Achievements</label>
-<div>
-<div>
-<div>
-<div>
-<p><strong><u>National Shooting Championships</u></strong></p>
-<p><u><strong>2023<br></strong></u>
-<strong>B Girls Rifle<br></strong>National: Champion
-</p><ul>
-<li>Tan Wee Xuan, Wichelle</li>
-<li>Gao Xinyue</li>
-<li>Ong Jia Yee (Wang Jiayi)</li>
-<li>Erinna Qusyairah Binte Eddy Amin</li>
-<li>Oh Hwee Teng Joey</li>
-<li>Nyla Batrisyia Evbuomwan</li>
-</ul><br>Air Rifle Women Rank 4
-<ul>
-<li>Oh Hwee Teng Joey</li>
+<li>
+<p>Gao Xinyue</p>
+</li>
+<li>
+<p>Ong Jia Yee (Wang Jiayi)</p>
+</li>
+<li>
+<p>Erinna Qusyairah Binte Eddy Amin</p>
+</li>
+<li>
+<p>Oh Hwee Teng Joey</p>
+</li>
+<li>
+<p>Nyla Batrisyia Evbuomwan</p>
+</li>
 </ul>
-<br>Air Rifle Women Rank 6
-<ul>
-<li>Tan Wee Xuan, Wichelle</li>
+<p>
+<br>Air Rifle Women Rank 4</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oh Hwee Teng Joey</p>
+</li>
 </ul>
-<br>Air Rifle Women Rank 7
-<ul>
-<li>Gao Xinyue</li>
+<p>
+<br>Air Rifle Women Rank 6</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Wee Xuan, Wichelle</p>
+</li>
 </ul>
-<br>Air Rifle Women Rank 10
-<ul>
-<li>Erinna Qusyairah Binte Eddy Amin</li>
+<p>
+<br>Air Rifle Women Rank 7</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gao Xinyue</p>
+</li>
 </ul>
-<strong>B Girls Pistol<br></strong>National: Champion
-<ul>
-<li>Lin Yuxuan</li>
-<li>Chew Yee Sin</li>
-<li>Liu Ho Man Meagan</li>
-<li>Michelle Khoo Xin Yu</li>
-<li>Toh Jin Yi Jamie</li>
+<p>
+<br>Air Rifle Women Rank 10</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Erinna Qusyairah Binte Eddy Amin</p>
+</li>
 </ul>
-<br>Air Pistol Women Champion
-<ul>
-<li>Chew Yee Sin</li>
+<p><strong>B Girls Pistol<br></strong>National: Champion</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lin Yuxuan</p>
+</li>
+<li>
+<p>Chew Yee Sin</p>
+</li>
+<li>
+<p>Liu Ho Man Meagan</p>
+</li>
+<li>
+<p>Michelle Khoo Xin Yu</p>
+</li>
+<li>
+<p>Toh Jin Yi Jamie</p>
+</li>
 </ul>
-<br>Air Pistol Women Rank 4
-<ul>
-<li>Tan Yi Jin</li>
+<p>
+<br>Air Pistol Women Champion</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chew Yee Sin</p>
+</li>
 </ul>
-<br>Air Pistol Women Rank 5
-<ul>
-<li>Lin Yuxuan</li>
+<p>
+<br>Air Pistol Women Rank 4</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yi Jin</p>
+</li>
 </ul>
-<strong>B Boys Rifle<br></strong>Air Rifle Men Rank 15
-<ul>
-<li>Toh Jin An, Brandon</li>
+<p>
+<br>Air Pistol Women Rank 5</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lin Yuxuan</p>
+</li>
 </ul>
-<strong>B Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Boys Rifle<br></strong>Air Rifle Men Rank 15</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Toh Jin An, Brandon</p>
+</li>
 </ul>
-<strong>C Girls Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Girls Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Girls Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Boys Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Girls Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
-</ul>	
-	
-<p><u><strong>2022<br></strong></u>
-<strong>B Girls Rifle<br></strong>
-</p><ul>
-<li>N.A</li>
+<p><strong>C Boys Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Girls Pistol<br></strong>National: 3rd
-<ul>
-<li>Tan Yi Jin</li>
-<li>Chew Yee Sin</li>
-<li>Ho Yi Xuan, Chloe</li>
-<li>Aragon Janna Francheska Cabillo</li>
+<p><strong>C Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Boys Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong><u>2022<br></u>B Girls Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Girls Pistol<br></strong>National: 3rd</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yi Jin</p>
+</li>
+<li>
+<p>Chew Yee Sin</p>
+</li>
+<li>
+<p>Ho Yi Xuan, Chloe</p>
+</li>
+<li>
+<p>Aragon Janna Francheska Cabillo</p>
+</li>
 </ul>
-<strong>C Girls Rifle<br></strong>National: 4th
-<ul>
-<li>Tan Wee Xuan Wichelle</li>
-<li>Oh Kwee Teng Joey</li>
-<li>Ong Jia Yee Erinna</li>
-<li>Qusyairah Binte Eddy Amin</li>
+<p><strong>B Boys Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Girls Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Boys Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Girls Rifle<br></strong>National: 4th</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Wee Xuan Wichelle</p>
+</li>
+<li>
+<p>Oh Kwee Teng Joey</p>
+</li>
+<li>
+<p>Ong Jia Yee Erinna</p>
+</li>
+<li>
+<p>Qusyairah Binte Eddy Amin</p>
+</li>
 </ul>
-<strong>C Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
-</ul>	
-
-<p><u><strong>2021<br></strong></u>
-<strong>B Girls Rifle<br></strong>National: 4th
-</p><ul>
-<li>Nur Sara Insyira</li>
-<li>Wong Yu Xuan</li>
-<li>Pang Xin Tong</li>
-<li>Chong Xue Min</li>
+<p><strong>C Girls Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Girls Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Boys Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Boys Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong><u>2021<br></u>B Girls Rifle<br></strong>National: 4th</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Sara Insyira</p>
+</li>
+<li>
+<p>Wong Yu Xuan</p>
+</li>
+<li>
+<p>Pang Xin Tong</p>
+</li>
+<li>
+<p>Chong Xue Min</p>
+</li>
 </ul>
-<strong>C Girls Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Girls Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Girls Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Boys Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Boys Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
-</ul>	
-
-<p><u><strong>2020<br></strong></u>
-<strong>B Girls Rifle<br></strong>
-</p><ul>
-<li>N.A</li>
+<p><strong>C Girls Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Girls Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Girls Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Boys Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Boys Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>B Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>C Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Girls Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong><u>2020<br></u>B Girls Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Girls Pistol<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Girls Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Boys Rifle<br></strong>
-<ul>
-<li>N.A</li>
+<p><strong>B Boys Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
 </ul>
-<strong>C Boys Pistol<br></strong>
-<ul>
-<li>N.A</li>
-</ul>	
-
-<p><u><strong>2019<br></strong></u>
-<strong>B Girls<br></strong>Individual: Elisabeth Anne Lawrence, 3rd Placing<br>Team: 2nd Placing</p>
-<ul>
-<li>Nur Sara Insyira</li>
-<li>Emma Jane Pragasam</li>
-<li>Elisabeth Anne Lawrence</li>
-<li>Nur Yusrina</li>
+<p><strong>B Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
+</ul>
+<p><strong>C Girls Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
+</ul>
+<p><strong>C Girls Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
+</ul>
+<p><strong>C Boys Rifle<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
+</ul>
+<p><strong>C Boys Pistol<br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>N.A</p>
+</li>
+</ul>
+<p><strong><u>2019<br></u>B Girls<br></strong>Individual: Elisabeth Anne
+Lawrence, 3rd Placing
+<br>Team: 2nd Placing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Sara Insyira</p>
+</li>
+<li>
+<p>Emma Jane Pragasam</p>
+</li>
+<li>
+<p>Elisabeth Anne Lawrence</p>
+</li>
+<li>
+<p>Nur Yusrina</p>
+</li>
 </ul>
 <p><strong>C Boys<br></strong>Individual: Ang Jun Kai, Ryan, 4th Placing</p>
-<p><strong>C Girls</strong><br>Team: 3rd Placing</p>
-<ul>
-<li>Aragon Janna Francheska Cabillo</li>
-<li>Sayshaa Devi D/O Suresh</li>
-<li>Chong Siew Fen</li>
-<li>Chaw Min Min</li>
-</ul>
-<p><strong>Colours Award</strong></p>
-<ul>
-<li>Emma Jane Prasagam</li>
-<li>Nur Yusrina Binte Yusni</li>
-<li>Elisabeth Anne Lawrence</li>
-<li>Nur Sara Insyira Binte Norhisham</li>
-<li>Sayshaa Devi d/o Suresh</li>
-<li>Ang Jun Kai, Ryan</li>
-<li>Chaw Min Min</li>
-<li>Chong Siew Fen</li>
-<li>Aragon Janna Francheska Cabillo</li>
-</ul>
-
-<p><u><strong>2018<br></strong></u>
-- Individual 1st for 'B' Div Air Pistol Men :&nbsp;Bryon Lim Guan Jie<br>- Team 3rd for 'C' Div Air Rifle Women<br>- Team 3rd for 'B' Div Air Rifle Men<br>- Team 4th for 'B' Div Air Pistol Men</p>
-<p><strong>2017<br></strong>- Individual 1st for ‘C’ Div Air Pistol Women: Choong Yuki <br>- Individual 1st for ‘B’ Div Air Rifle Women : Lee Kelli-Ann <br>- Individual 4th for 'B' Div Air Pistol Men : Bryon Lim Guan Jie</p>
-</div>
-<div>
-<div><strong>2016</strong></div>
-<div>- Individual 3rd for ‘C’ Div Air Rifle Men : Lutfi Bin Mohamed Zulnizan&nbsp;</div>
-</div>
-<div>- Individual 1st for ‘C’ Div Air Pistol Men : Bryon Lim Guan Jie&nbsp;</div>
-<div>- Team 4th for ‘C’ Div Air Pistol Men</div>
-<div>- Team 1st for ‘B’ Div Air Rifle Women&nbsp;</div>
-<div>- Team 4th for ‘B’ Div Air Rifle Men</div>
-<div>&nbsp;</div>
-<div><strong><u>East Asia Youth Airgun Competition 2017</u></strong></div>
-<div>- Bryon Lim in Singapore National Youth Team (2nd)</div>
-<div>&nbsp;</div>
-</div>
-</div>
-<div>
-<div>
-<div><strong><u>NTU Invitational Shoot</u><br></strong></div>
-<div><strong>2018</strong></div>
-<div>
-<div>- Team 1st for ‘B’ Div Air Pistol Men&nbsp;</div>
-<div>
-<div>- Team 1st for ‘C’ Div Air Pistol Women</div>
-<div>
-<div>- Team 3rd for ‘C’ Div Air Pistol Men</div>
-<div>- Individual 2ns for 'B' Div Air Pistol Men: Bryon Lim Guan Jie&nbsp;</div>
-<div>- Individual 3rd for 'B' Div Air Rifle Men: Aaron Mikael Suhairi</div>
-<div>- Individual 3rd for 'C' Div Air Pistol Women: Tan Ru Bing, Rachel</div>
-<div>
-<div>
-<div>&nbsp;</div>
-</div>
-<div>
-<div><strong>2017</strong></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>- Team 2nd for ‘B’ Div Air Pistol Men&nbsp;</div>
-<div>- Team 2nd for ‘B’ Div Air Rifle Women&nbsp;</div>
-<div>- Team 2nd for ‘C’ Div Air Rifle Women</div>
-<div>- Team 2nd for ‘C’ Div Air Pistol Women</div>
-<div>- Team 2nd for ‘C’ Div Air Pistol Men</div>
-<div>- Individual 1st for ‘B’ Div Air Pistol Women : Chen Leyi</div>
-<div>&nbsp;</div>
-</div>
-<div>
-<div><strong><u>NJC invitational Shoot 2017<br></u></strong>- Individual 1st for ‘C’ Div Air Rifle Men : Suhairi Aaron</div>
-<div>&nbsp;</div>
-</div>
-<div>
-<div><strong><u>Singapore Youth Olympic Festival 2017&nbsp;<br></u></strong></div>
-<div>- Individual 3rd Under 13 : Tan Ru Bing Rachel&nbsp;</div>
-<div>- Individual 3rd Under 13 : Nurhanis Nabilah Binte Mohammad Azli</div>
-<div>- Individual 1st Under 17 : Kelli-Ann- Individual 2nd Under 15 : Suhairi Aaron</div>
-</div>
-</div>
-</div>
+<p><strong>C Girls</strong>
+<br>Team: 3rd Placing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aragon Janna Francheska Cabillo</p>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">Gallery</label>
-<div>
-<h4><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT30XgBnl0InRzmaAyco140JD-vLly6OHpj7dgbrwkwgy4WYezSLUdKw9IGe0Mieca6HjJ4ATy1fqrp/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center></h4>
-</div>
+<li>
+<p>Sayshaa Devi D/O Suresh</p>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Training Schedule</label>
-<div>
+<li>
+<p>Chong Siew Fen</p>
+</li>
+<li>
+<p>Chaw Min Min</p>
+</li>
+</ul>
+<p><strong>Colours Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emma Jane Prasagam</p>
+</li>
+<li>
+<p>Nur Yusrina Binte Yusni</p>
+</li>
+<li>
+<p>Elisabeth Anne Lawrence</p>
+</li>
+<li>
+<p>Nur Sara Insyira Binte Norhisham</p>
+</li>
+<li>
+<p>Sayshaa Devi d/o Suresh</p>
+</li>
+<li>
+<p>Ang Jun Kai, Ryan</p>
+</li>
+<li>
+<p>Chaw Min Min</p>
+</li>
+<li>
+<p>Chong Siew Fen</p>
+</li>
+<li>
+<p>Aragon Janna Francheska Cabillo</p>
+</li>
+</ul>
+<p><strong><u>2018<br></u></strong>- Individual 1st for 'B' Div Air Pistol
+Men :&nbsp;Bryon Lim Guan Jie
+<br>- Team 3rd for 'C' Div Air Rifle Women
+<br>- Team 3rd for 'B' Div Air Rifle Men
+<br>- Team 4th for 'B' Div Air Pistol Men</p>
+<p><strong>2017<br></strong>- Individual 1st for ‘C’ Div Air Pistol Women:
+Choong Yuki
+<br>- Individual 1st for ‘B’ Div Air Rifle Women : Lee Kelli-Ann
+<br>- Individual 4th for 'B' Div Air Pistol Men : Bryon Lim Guan Jie</p>
+<p><strong>2016</strong>
+</p>
+<p>- Individual 3rd for ‘C’ Div Air Rifle Men : Lutfi Bin Mohamed Zulnizan&nbsp;</p>
+<p>- Individual 1st for ‘C’ Div Air Pistol Men : Bryon Lim Guan Jie&nbsp;</p>
+<p>- Team 4th for ‘C’ Div Air Pistol Men</p>
+<p>- Team 1st for ‘B’ Div Air Rifle Women&nbsp;</p>
+<p>- Team 4th for ‘B’ Div Air Rifle Men</p>
+<p>&nbsp;</p>
+<p><strong><u>East Asia Youth Airgun Competition 2017</u></strong>
+</p>
+<p>- Bryon Lim in Singapore National Youth Team (2nd)</p>
+<p>&nbsp;</p>
+<p><strong><u>NTU Invitational Shoot</u><br></strong>
+</p>
+<p><strong>2018</strong>
+</p>
+<p>- Team 1st for ‘B’ Div Air Pistol Men&nbsp;</p>
+<p>- Team 1st for ‘C’ Div Air Pistol Women</p>
+<p>- Team 3rd for ‘C’ Div Air Pistol Men</p>
+<p>- Individual 2ns for 'B' Div Air Pistol Men: Bryon Lim Guan Jie&nbsp;</p>
+<p>- Individual 3rd for 'B' Div Air Rifle Men: Aaron Mikael Suhairi</p>
+<p>- Individual 3rd for 'C' Div Air Pistol Women: Tan Ru Bing, Rachel</p>
+<p>&nbsp;</p>
+<p><strong>2017</strong>
+</p>
+<p>- Team 2nd for ‘B’ Div Air Pistol Men&nbsp;</p>
+<p>- Team 2nd for ‘B’ Div Air Rifle Women&nbsp;</p>
+<p>- Team 2nd for ‘C’ Div Air Rifle Women</p>
+<p>- Team 2nd for ‘C’ Div Air Pistol Women</p>
+<p>- Team 2nd for ‘C’ Div Air Pistol Men</p>
+<p>- Individual 1st for ‘B’ Div Air Pistol Women : Chen Leyi</p>
+<p>&nbsp;</p>
+<p><strong><u>NJC invitational Shoot 2017<br></u></strong>- Individual 1st
+for ‘C’ Div Air Rifle Men : Suhairi Aaron</p>
+<p>&nbsp;</p>
+<p><strong><u>Singapore Youth Olympic Festival 2017&nbsp;<br></u></strong>
+</p>
+<p>- Individual 3rd Under 13 : Tan Ru Bing Rachel&nbsp;</p>
+<p>- Individual 3rd Under 13 : Nurhanis Nabilah Binte Mohammad Azli</p>
+<p>- Individual 1st Under 17 : Kelli-Ann- Individual 2nd Under 15 : Suhairi
+Aaron</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Training Schedule</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mondays &amp; Wednesdays<br></strong>3.00 pm - 5.00 pm</p>
 <p><strong>Fridays<br></strong>1.30 pm - 4.30 PM</p>
 </div>
-</li>
-<li><input id="accordion7" type="checkbox"> <label for="accordion7">Student Leaders</label>
-<div>
-<p><strong>Club Captains<br></strong>PANG XIN TONG<br>SAYSHAA DEVI D/O SURESH</p>
-<p><strong>Club Vice-captains<br></strong>ANG JUN KAI, RYAN<br>CHONG SIEW FEN</p>
-<p><strong>Training Leaders<br></strong>CHAW MIN MIN<br>SAW KAI LI KELLY<br>CHONG XUE MIN</p>
+</details>
 </div>
-</li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Teachers In Charge</label>
-<div>
-<p><strong>Mr Luo Zhengyang (OIC)<br></strong><strong>Contact:&nbsp;</strong><strong><a href="mailto:luo_zhengyang@moe.edu.sg" target="">luo_zhengyang@moe.edu.sg</a></strong></p>
-<p>Mr Mohamed Fauzi Bin Husin<br>Mr Tan Boon Seng</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Student Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Club Captains<br></strong>PANG XIN TONG
+<br>SAYSHAA DEVI D/O SURESH</p>
+<p><strong>Club Vice-captains<br></strong>ANG JUN KAI, RYAN
+<br>CHONG SIEW FEN</p>
+<p><strong>Training Leaders<br></strong>CHAW MIN MIN
+<br>SAW KAI LI KELLY
+<br>CHONG XUE MIN</p>
 </div>
-</li>
-</ul>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teachers In Charge</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Mr Luo Zhengyang (OIC)<br>Contact:&nbsp;<a href="mailto:luo_zhengyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">luo_zhengyang@moe.edu.sg</a></strong>
+</p>
+<p>Mr Mohamed Fauzi Bin Husin
+<br>Mr Tan Boon Seng</p>
+</div>
+</details>
+</div>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjVT39CE2Ad_yMsmaQeN2WNuA5RFLrOrfoR3rTNKdMg-jzzLmYKOEIahi3JM9uZ7kLO_S6wJzls6l6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjVT39CE2Ad_yMsmaQeN2WNuA5RFLrOrfoR3rTNKdMg-jzzLmYKOEIahi3JM9uZ7kLO_S6wJzls6l6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>

@@ -176,6 +176,9 @@ Day Parade at the Padang:
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQW1L_PcJTlcqMMpdLVAgvUN88K0neuLjasVS2zuydwbhML1AgdMcbjLO0OurUT9PNmiFH3bdlaxbFj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcPYhrGZ29TunTi6w8y9RFJmcmpQu9mimPWSOA8QLzASHCsW9CP1IfsrDEjB-jyQelfjIDedZGKKGQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

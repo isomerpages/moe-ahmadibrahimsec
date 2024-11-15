@@ -79,15 +79,31 @@ for PLD”.</p>
 </li>
 </ul>
 <h2><strong>DMA Information</strong></h2>
-<p><em>&lt;To be updated&gt;</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE08_Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener nofollow" target="_blank">Infosheet on MOE DMA Settings</a>
 </p>
+</li>
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Parent's User Guide for Default Option</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent's User Guide for Option A</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">Parent's User Guide for Option B</a>
+</p>
+</li>
+</ul>
 <h2><strong>Technical Support &amp; Service Centre Information</strong></h2>
 <p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The School’s IT Team which is available from 7.30 am to 3.30 pm during
 school days.
-<br>Refer to <a href="https://www.ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/info-on-pld-support/" rel="noopener nofollow" target="_blank">Operating Hours for School IT Team support</a>
+<br>Refer to <a href="https://www.ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/info-on-pld-support-dma-request-change/" rel="noopener nofollow" target="_blank">Operating Hours for School IT Team support</a>
 </p>
 </li>
 <li>
@@ -127,14 +143,54 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lenovo%20Service%20Centre%20at%20Tai%20Seng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lenovo Service Centre" src="/images/Lenovo_Service_Centre__New_.png">
 </div>
-<p>Parents/Students are encouraged to pre-register their device via the link&nbsp;
-<a href="https://smartcares.com/lenovo/" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo/</a>&nbsp;before proceeding to the&nbsp;<strong>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions</strong>.</p>
+<h4>Service Centre Location:</h4>
+<p>Servlink Technologies – Lenovo Authorised Service Centre
+<br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
+339407</p>
+<h4>How do students / customers get to the service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>By MRT: </strong>The nearest MRT station is <strong>Bendemeer Station (Downtown Line)</strong>.
+It’s about a 5-minute walk to CTHub from the station.</p>
+</li>
+<li>
+<p><strong>By Bus: </strong>Bus services <strong>13, 23, 67, 125, and 133 </strong>stop
+near CTHub</p>
+</li>
+<li>
+<p><strong>By Car: </strong>CTHub offers parking facilities. Enter via <strong>Kallang Avenue</strong>,
+and parking is available at an hourly rate.</p>
+</li>
+</ul>
+<h4>What are the operating hours of the service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday to Friday: 9:00 AM – 6:00 PM</p>
+</li>
+<li>
+<p>Saturday: 9:00 AM – 1:00 PM</p>
+</li>
+<li>
+<p>Closed on Sundays and Public Holidays</p>
+</li>
+</ul>
+<h4>What are the contact details for the service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hotline: +65 6817 1435</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+</p>
+</li>
+</ul>
 <h2><strong>Frequently Asked Questions and Answers</strong></h2>
 <p>A list of answers to Frequently Asked Questions can be found <a href="https://sites.google.com/moe.edu.sg/ndlp-aiss/pld-faqs" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -147,7 +203,7 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 <th rowspan="1" colspan="1">
 <p>Administrative &amp; Financial Matters</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>DMA Matters</p>
 </th>
 </tr>
@@ -170,7 +226,14 @@ parents can bring the faulty device directly to the Lenovo Service Centre
 <br><a href="mailto:mohammad_hafiz_hairuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hafiz_hairuddin@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Miss Elisha
+<br>ICT Associate
+<br><a href="elisha_ruth_cabaltera_zamudio@moe.edu.sg" rel="noopener nofollow" target="_blank">elisha_ruth_cabaltera_zamudio@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

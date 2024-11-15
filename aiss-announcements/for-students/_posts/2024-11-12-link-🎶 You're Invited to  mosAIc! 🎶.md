@@ -1,6 +1,6 @@
 ---
 title: 🎶 You're Invited to  mosAIc! 🎶
-date: 2024-10-22
+date: 2024-11-12
 layout: link
 description: ""
 image: ""
