@@ -79,8 +79,24 @@ for PLD”.</p>
 </li>
 </ul>
 <h2><strong>DMA Information</strong></h2>
-<p><em>&lt;To be updated&gt;</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE08_Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener nofollow" target="_blank">Infosheet on MOE DMA Settings</a>
 </p>
+</li>
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Parent's User Guide for Default Option</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent's User Guide for Option A</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PLD/DMA Resources for Parents/CE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">Parent's User Guide for Option B</a>
+</p>
+</li>
+</ul>
 <h2><strong>Technical Support &amp; Service Centre Information</strong></h2>
 <p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
