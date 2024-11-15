@@ -85,7 +85,7 @@ MeExpression)&nbsp;is the first point of contact for support of the PLDs</p>
 <p>Servlink Technologies – Lenovo Authorised Service Centre
 <br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
 339407</p>
-<h4>How do students / customers get to the new service centre?</h4>
+<h4>How do students / customers get to the service centre?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>By MRT: </strong>The nearest MRT station is <strong>Bendemeer Station (Downtown Line)</strong>.
@@ -100,7 +100,7 @@ near CTHub</p>
 and parking is available at an hourly rate.</p>
 </li>
 </ul>
-<h4>What are the operating hours of the new service centre?</h4>
+<h4>What are the operating hours of the service centre?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Monday to Friday: 9:00 AM – 6:00 PM</p>
@@ -112,7 +112,7 @@ and parking is available at an hourly rate.</p>
 <p>Closed on Sundays and Public Holidays</p>
 </li>
 </ul>
-<h4>What are the contact details for the new service centre?</h4>
+<h4>What are the contact details for the service centre?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Hotline: +65 6817 1435</p>
