@@ -11,7 +11,7 @@ third_nav_title: For Parents
 <p>&lt;to be updated soon&gt;</p>
 </li>
 </ul>
-<p>Additional Information on DMA</p>
+<h4>Additional Information on DMA</h4>
 <p></p>
 <h2><strong>PLD Support</strong></h2>
 <p>Technical support will be provided to students through:</p>
