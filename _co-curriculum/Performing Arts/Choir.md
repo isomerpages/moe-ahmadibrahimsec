@@ -169,4 +169,9 @@ Choir and East Spring Chorale</p>
 </div>
 <p><strong>Gallery</strong>
 <br>Do follow us on Instagram for more updates and exciting news: <strong><a href="https://www.instagram.com/ai_choir/" rel="noopener" target="_blank">AI_Choir</a></strong>
+<br>
 </p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBpdmqaSmpzH8IPwQvwdXKElSbZD5kVNaeAeo6DB9QdLCRvqil48s5NfKuFMGHQ6gomBgGdqg2kJAb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
