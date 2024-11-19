@@ -246,3 +246,12 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 <p><strong>Ng Li Xuan, Terry Zhang</strong>. MEP40 ‘My Journey, Our Journey’
 – Chinese Music Virtual Ensemble Showcase</p>
 <p>Links</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Secondary School Posting Booklet [To be updated]</p>
+</li>
+<li>
+<p></p>
+</li>
+</ol>
+<p></p>
