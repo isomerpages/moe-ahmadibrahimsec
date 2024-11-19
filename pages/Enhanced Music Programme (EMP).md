@@ -10,8 +10,6 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe3hurlobFLCDcZdWeJ-LuaBK3CiVeLUUxCWt6teyAH-tKGcLjUeOT3R6PbVHDSw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong>Enhanced Music Programme (EMP)</strong>
-</p>
 <p>AISS is one of only four EMP (Enhanced Music Programme) schools in Singapore.
 We are also an O-Level Music Centre for students across Singapore who want
 to offer O-Level Music. Lower secondary students may enroll in our Music
@@ -181,8 +179,8 @@ Day concerts, and Combined Performing Arts concerts</p>
 <p>Combined Schools’ MEP/EMP Higher Education Career Fairs</p>
 </li>
 </ul>
-<p>Key features of the syllabus</p>
-<p>Our comprehensive curriculum caters to various interests and aptitude
+<p><strong><u>Key features of the syllabus</u></strong>
+<br>Our comprehensive curriculum caters to various interests and aptitude
 levels. Students benefit from the study of Western and Asian music, Jazz
 and Pop, music composition, and music theory. Additionally, students in
 the EMP will get opportunities to perform as soloists or in ensembles,
@@ -198,12 +196,13 @@ as solo and ensemble performance skills.</p>
 experience a wide range of musical activities in and outside of the classroom,
 in order to develop skills and competencies for more advanced studies in
 music, or to gain awareness of potential careers in Music.</p>
-<p>Selection Test Information</p>
+<p><strong><u>Selection Test Information</u></strong>
+</p>
 <p>We conduct auditions and interviews throughout the year as part of our
 talent identification process. Suitable candidates in Secondary 1 and 2
 can be accepted into the programme.</p>
-<p>Our Success Stories</p>
-<p>Since our inception in 2016, we have had many Music students who have
+<p><strong><u>Our Success Stories</u></strong>
+<br>Since our inception in 2016, we have had many Music students who have
 done exceptionally well and were successfully admitted into Music programmes
 in JCs and IHLs.</p>
 <p><strong>Adelyn Koh Xin Hui</strong>. Class of 2017. Talented young musician
@@ -227,12 +226,12 @@ and Band.</p>
 <p><strong>Wong Xin Hui Rachael</strong>. Class of 2020, NBSS. NAFA Foundation
 Programme (Music)</p>
 <p><strong>Lawrence Gabriel Angel. Class of 2021</strong>. NAFA (Music)</p>
-<p>Talent Development</p>
-<p>At AISS, we believe that every student should have an equal opportunity
+<p><strong><u>Talent Development</u></strong>
+<br>At AISS, we believe that every student should have an equal opportunity
 to develop their talents. We do talent identification and development through
-the General Music Programme as well as via the school’s AESPIRE concerts,
-and provide training and performance opportunities for anything from beatboxing
-to pen-tapping!</p>
+the Lower Secondary Music Programme as well as via the school’s AESPIRE
+concerts, and provide training and performance opportunities for anything
+from beatboxing to pen-tapping!</p>
 <p><strong>Nur Amirah Bte Rohaizad</strong>. Class of 2019. Represented Singapore
 at the Tokyo Child Aid Concert in Japan in 2018.</p>
 <p><strong>Kalaivani D/O Regupathy</strong>. Class of 2019. Represented Singapore
