@@ -35,7 +35,8 @@ and experiences outside the classroom, and a supportive whole-school musical
 culture.</p>
 <p>Join us to experience a unique musical journey!</p>
 <p></p>
-<p>Click here for more information!</p>
+<p><a href="https://ahmadibrahimsec.moe.edu.sg/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">Click Here</a> for
+more information!</p>
 </div>
 </details>
 </div>
@@ -58,12 +59,12 @@ activities to develop students’ confidence and appreciation for music.
 Students will be exposed to music from multicultural origins, to harness
 stronger awareness for global cultures, as well as Singapore’s own multicultural
 society. The following modules aim to support these endeavours:</p>
-<p>1. Stories We Sing –
+<p><strong><em>1. Stories We Sing – </em></strong>
 <br>What better way to develop an innate musical sense than to start with
 singing? Students will be exposed to foundational singing knowledge and
 techniques, and they will proceed to apply them through singing a selection
 of contemporary Singapore songs (sung in Chinese, Malay or Tamil languages).</p>
-<p>2. Guitar –
+<p><strong><em>2. Guitar – </em></strong>
 <br>Singing can always be spiced up with some instrumental accompaniment.
 Students will be introduced to the guitar, and learn of the instrument’s
 origins. They will then be equipped with the knowledge and skills of playing
@@ -73,14 +74,14 @@ basic chord progressions to accompany singing.</p>
 Music genre. Tapping on their pre-requisite knowledge and skills on singing
 and guitar-playing from Secondary One, students will bring them over to
 the following modules:</p>
-<p>1. Keyboard –
+<p><strong><em>1. Keyboard – </em></strong>
 <br>Students will learn about the origins and development of the keyboard.
 They will also be able to combine their knowledge of melodies (singing)
 and harmonies (guitar chords) and transfer them to keyboard playing. An
 updated list of Popular songs will be offered to the students to apply
 their singing and instrumental skills, as they present performances to
 their schoolmates and teachers</p>
-<p>2. Battle of the Bands –
+<p><strong><em>2. Battle of the Bands – </em></strong>
 <br>To sum up the students’ lower secondary music programme, we combine singing,
 guitar- and keyboard-playing, getting students to form a Pop band. Each
 band will arrange and perform a song cover from the song list provided
