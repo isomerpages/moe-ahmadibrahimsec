@@ -8,7 +8,7 @@ variant: tiptap
 <h2>1. Music</h2>
 <h3>About Us</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/MusicCoverImageReplacement.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/MusicCoverImageReplacement.jpg">
 </div>
 <p>We are a group of passionate Music educators who love our subject and
 love teaching it even more! We believe that Music is an avenue for catharsis
@@ -243,14 +243,13 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" src="/images/lowersecphoto.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/lowersecphoto.jpg">
 </div>
 <p>Music lessons extend to the rest of the AISS student body as well! We
 offer a comprehensive yet inclusive music programme that encourages students
 to engage actively in music-making, no matter their foundati</p>
 <p><strong>Secondary One</strong>
-</p>
-<p>At this level, students will be eased back into music lessons through
+<br>At this level, students will be eased back into music lessons through
 a series of thoughtfully curated modules. These modules are designed with
 activities to develop students’ confidence and appreciation for music.
 Students will be exposed to music from multicultural origins, to harness
@@ -267,9 +266,7 @@ Students will be introduced to the guitar, and learn of the instrument’s
 origins. They will then be equipped with the knowledge and skills of playing
 basic chord progressions to accompany singing.</p>
 <p><strong>Secondary Two</strong>
-</p>
-<p></p>
-<p>At this level, students will make music that point more towards the Popular
+<br>At this level, students will make music that point more towards the Popular
 Music genre. Tapping on their pre-requisite knowledge and skills on singing
 and guitar-playing from Secondary One, students will bring them over to
 the following modules:</p>
@@ -312,7 +309,8 @@ Instagram!</p>
 </p>
 <p>To view the EMP &amp; MEP Publicity Video, please click here:&nbsp;<strong><a href="https://youtu.be/B33j0mVWW3g" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/B33j0mVWW3g</a></strong>
 </p>
-<p>For more information about ‘O’ Level Music, please refer to: <strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/6085_y21_sy.pdf" rel="noopener" target="_blank">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/6085_y21_sy.pdf</a></strong>
+<p>For more information about ‘O’ Level Music, please refer to:
+<br><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf" rel="noopener nofollow" target="_blank">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf</a></strong>
 </p>
 <p>For more information on our EMP programme, please refer to the EMP poster
 below:</p>
