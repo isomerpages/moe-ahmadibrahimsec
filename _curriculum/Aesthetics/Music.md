@@ -128,8 +128,7 @@ Day concerts, and Combined Performing Arts concerts
 <br>- National MEP-EMP Camps and Showcase concerts
 <br>- MEP-EMP Higher Education Career Fairs</p>
 <p><strong><u>Key features of the syllabus</u></strong>
-</p>
-<p>Our comprehensive curriculum caters to various interests and aptitude
+<br>Our comprehensive curriculum caters to various interests and aptitude
 levels. Students benefit from the study of Western and Asian music, Jazz
 and Pop, music composition, and music theory. Additionally, students in
 the EMP will get opportunities to perform as soloists or in ensembles,
@@ -146,13 +145,11 @@ experience a wide range of musical activities in and outside of the classroom,
 in order to develop skills and competencies for more advanced studies in
 music, or to gain awareness of potential careers in Music.</p>
 <p><strong><u>Selection Test Information</u></strong>
-</p>
-<p>We conduct auditions and interviews throughout the year as part of our
+<br>We conduct auditions and interviews throughout the year as part of our
 talent identification process. Suitable candidates in Secondary 1 and 2
 can be accepted into the programme.</p>
 <p><strong><u>Our Success Stories</u></strong>
-</p>
-<p>Since our inception in 2016, we have had many Music students who have
+<br>Since our inception in 2016, we have had many Music students who have
 done exceptionally well and were successfully admitted into Music programmes
 in JCs and IHLs.</p>
 <p><strong>Adelyn Koh Xin Hui</strong>. Class of 2018. Talented young musician
@@ -176,12 +173,11 @@ and Band.&nbsp;</p>
 <p><strong>Wong Xin Hui Rachael</strong>. Class of 2020, NBSS. NAFA Foundation
 Programme (Music)</p>
 <p><strong><u>Talent Development</u></strong>
-</p>
-<p>At AISS, we believe that every student should have an equal opportunity
+<br>At AISS, we believe that every student should have an equal opportunity
 to develop their talents. We do talent identification and development through
-the General Music Programme as well as via the school’s AESPIRE concerts,
-and provide training and performance opportunities for anything from beatboxing
-to pen-tapping!</p>
+the Lower Secondary Music Programme as well as via the school’s AESPIRE
+concerts, and provide training and performance opportunities for anything
+from beatboxing to pen-tapping!</p>
 <p><strong>Nur Amirah Bte Rohaizad</strong>. Class of 2019. Represented Singapore
 at the Tokyo Child Aid Concert in Japan in 2018.</p>
 <p><strong>Kalaivani D/O Regupathy</strong>. Class of 2019. Represented Singapore
@@ -200,11 +196,11 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 <p>Secondary School Posting Booklet&nbsp;[<strong><em>To be updated</em></strong>]</p>
 </li>
 <li>
-<p><a href="http://go.gov.sg/musicelectiveprogramme" rel="noopener" target="_blank">MOE EMP Webpage</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener" target="_blank">MOE EMP Webpage</a>
 </p>
 </li>
 <li>
-<p><a href="http://go.gov.sg/enhancedmusicprogramme" rel="noopener" target="_blank">MOE MEP Webpage</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener" target="_blank">MOE MEP Webpage</a>
 </p>
 </li>
 <li>
@@ -233,8 +229,8 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </li>
 </ol>
 <p><strong><u>Contact details of relevant personnel</u></strong>
+<br>Ms Chow Pei Yan (Subject Head/Music) - <a href="mailto:chow_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_pei_yan@moe.edu.sg</a> 
 <br>Ms Amelia Dizon (Music Teacher) -&nbsp;<a href="mailto:amelia_y_dizon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amelia_y_dizon@moe.edu.sg</a>
-<br>Ms Carita Chew Meng (Music Teacher) -&nbsp;<a href="mailto:carita_chew_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carita_chew_meng@moe.edu.sg</a>
 <br>Mr Enzo Charles Victor Buttazzoni (Music Teacher) -&nbsp;<a href="mailto:enzo_charles_victor_buttazzoni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">enzo_charles_victor_buttazzoni@moe.edu.sg</a>
 </p>
 </div>
