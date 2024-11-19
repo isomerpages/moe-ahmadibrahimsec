@@ -77,6 +77,11 @@ music lessons, our students are exposed to a range of development and talent
 identification opportunities that allow them to participate in enrichment
 programmes, watch concerts and take part in performances throughout the
 year.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Activities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Enrichment Programmes and Workshops</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -179,8 +184,15 @@ Day concerts, and Combined Performing Arts concerts</p>
 <p>Combined Schools’ MEP/EMP Higher Education Career Fairs</p>
 </li>
 </ul>
-<p><strong><u>Key features of the syllabus</u></strong>
-<br>Our comprehensive curriculum caters to various interests and aptitude
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Key features of the syllabus</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Our comprehensive curriculum caters to various interests and aptitude
 levels. Students benefit from the study of Western and Asian music, Jazz
 and Pop, music composition, and music theory. Additionally, students in
 the EMP will get opportunities to perform as soloists or in ensembles,
@@ -196,13 +208,26 @@ as solo and ensemble performance skills.</p>
 experience a wide range of musical activities in and outside of the classroom,
 in order to develop skills and competencies for more advanced studies in
 music, or to gain awareness of potential careers in Music.</p>
-<p><strong><u>Selection Test Information</u></strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Selection Test Information</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>We conduct auditions and interviews throughout the year as part of our
 talent identification process. Suitable candidates in Secondary 1 and 2
 can be accepted into the programme.</p>
-<p><strong><u>Our Success Stories</u></strong>
-<br>Since our inception in 2016, we have had many Music students who have
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Our Success Stories</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Since our inception in 2016, we have had many Music students who have
 done exceptionally well and were successfully admitted into Music programmes
 in JCs and IHLs.</p>
 <p><strong>Adelyn Koh Xin Hui</strong>. Class of 2017. Talented young musician
@@ -226,8 +251,15 @@ and Band.</p>
 <p><strong>Wong Xin Hui Rachael</strong>. Class of 2020, NBSS. NAFA Foundation
 Programme (Music)</p>
 <p><strong>Lawrence Gabriel Angel. Class of 2021</strong>. NAFA (Music)</p>
-<p><strong><u>Talent Development</u></strong>
-<br>At AISS, we believe that every student should have an equal opportunity
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Talent Development</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>At AISS, we believe that every student should have an equal opportunity
 to develop their talents. We do talent identification and development through
 the Lower Secondary Music Programme as well as via the school’s AESPIRE
 concerts, and provide training and performance opportunities for anything
@@ -245,13 +277,15 @@ at Singer-Songwriters Showcase @ Esplanade Library.</p>
 SYF Celebrations Performance at Causeway Point Mall.</p>
 <p><strong>Ng Li Xuan, Terry Zhang</strong>. MEP40 ‘My Journey, Our Journey’
 – Chinese Music Virtual Ensemble Showcase</p>
-<p><strong><u>Links</u></strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Links</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
-<li>
-<p>Secondary School Posting Booklet <strong><em>[To be updated]</em></strong>
-</p>
-</li>
 <li>
 <p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener nofollow" target="_blank">MOE EMP Webpage</a>
 </p>
@@ -262,6 +296,10 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </li>
 <li>
 <p><a href="http://go.gov.sg/olmsyllabus" rel="noopener noreferrer nofollow" target="_blank">OLM Teaching and Learning Syllabus</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf" rel="noopener nofollow" target="_blank">OLM Exam Syllabus 2025</a>
 </p>
 </li>
 <li>
@@ -285,4 +323,30 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 <a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" rel="noopener noreferrer nofollow" target="_blank">YouTube</a>&nbsp;Channel</p>
 </li>
 </ol>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Contact details of relevant personnel</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Chow Pei Yan (Subject Head/Music) - <a rel="noopener noreferrer nofollow" target="_blank">chow_pei_yan@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Ms Amelia Dizon (Music Teacher) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">amelia_y_dizon@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Mr Enzo Charles Victor Buttazzoni (Music Teacher) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">enzo_charles_victor_buttazzoni@moe.edu.sg</a>
+</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
