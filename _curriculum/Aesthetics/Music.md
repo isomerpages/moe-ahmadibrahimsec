@@ -381,4 +381,10 @@ below:</p>
 </div>
 </details>
 </div>
+<h2>2. Enhanced Music Programme (EMP)</h2>
+<p><a href="https://www.ahmadibrahimsec.moe.edu.sg/signature-programmes/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">https://www.ahmadibrahimsec.moe.edu.sg/signature-programmes/enhanced-music-programme-emp/</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe3hurlobFLCDcZdWeJ-LuaBK3CiVeLUUxCWt6teyAH-tKGcLjUeOT3R6PbVHDSw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
