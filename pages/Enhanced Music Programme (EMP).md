@@ -33,22 +33,18 @@ in their craft.</p>
 <td rowspan="1" colspan="1">
 <p>Arrangement by
 <br><strong>Joseph Ace Teo</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performance by
 <br><strong>Darleen Hiap</strong>
 </p>
-<p><strong><br><br></strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performance by
 <br><strong>Jaden Ng</strong>
 </p>
-<p><strong><br><br></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
