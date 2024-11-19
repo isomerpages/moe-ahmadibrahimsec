@@ -124,8 +124,13 @@ variant: markdown
     <td class="tg-8ixl">Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-2bq1" rowspan="3">Music</td>
+    <td class="tg-2bq1" rowspan="4">Music</td>
+	</tr>
+  <tr>
+    <td class="tg-8ixl">Chow Pei Yan</td>
+    <td class="tg-8ixl">Subject Head/Music</td>
   </tr>
+  
   <tr>
     <td class="tg-8ixl">Amelia Y Dizon</td>
     <td class="tg-8ixl">Music Teacher</td>
