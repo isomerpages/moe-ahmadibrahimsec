@@ -92,7 +92,7 @@ and teachers.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>WHY STUDY MUSIC?</strong>
+<summary><strong>Why Study Music?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Music opens up multiple career pathways for students, not just in performing.
