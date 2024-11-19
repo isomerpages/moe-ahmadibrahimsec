@@ -245,13 +245,44 @@ at Singer-Songwriters Showcase @ Esplanade Library.</p>
 SYF Celebrations Performance at Causeway Point Mall.</p>
 <p><strong>Ng Li Xuan, Terry Zhang</strong>. MEP40 ‘My Journey, Our Journey’
 – Chinese Music Virtual Ensemble Showcase</p>
-<p>Links</p>
+<p><strong><u>Links</u></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary School Posting Booklet [To be updated]</p>
+<p>Secondary School Posting Booklet <strong><em>[To be updated]</em></strong>
+</p>
 </li>
 <li>
-<p></p>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener nofollow" target="_blank">MOE EMP Webpage</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener nofollow" target="_blank">MOE MEP Webpage</a>
+</p>
+</li>
+<li>
+<p><a href="http://go.gov.sg/olmsyllabus" rel="noopener noreferrer nofollow" target="_blank">OLM Teaching and Learning Syllabus</a>
+</p>
+</li>
+<li>
+<p><a href="http://go.gov.sg/empmepyoutubepage" rel="noopener noreferrer nofollow" target="_blank">EMP/MEP YouTube Page</a>
+</p>
+</li>
+<li>
+<p>[All Levels] EMP/MEP Publicity Videos:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=6dwp2ImDRjE</a>
+</p>
+</li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=T3IrEkM967w</a>&nbsp;</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Links to&nbsp;<a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;and&nbsp;
+<a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" rel="noopener noreferrer nofollow" target="_blank">YouTube</a>&nbsp;Channel</p>
 </li>
 </ol>
 <p></p>
