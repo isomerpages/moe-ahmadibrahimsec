@@ -4,15 +4,18 @@ permalink: /signature-programmes/enhanced-music-programme-emp/
 description: ""
 variant: tiptap
 ---
+<h2><strong>Enhanced Music Programme (EMP)</strong></h2>
 <div class="iframe-wrapper">
-<iframe height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fvideos%2F2804504003096936%2F&amp;show_text=false&amp;width=560"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe3hurlobFLCDcZdWeJ-LuaBK3CiVeLUUxCWt6teyAH-tKGcLjUeOT3R6PbVHDSw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3><strong>Enhanced Music Programme (EMP)</strong></h3>
+<p><strong>Enhanced Music Programme (EMP)</strong>
+</p>
+<p></p>
 <p>AISS is one of only four EMP (Enhanced Music Programme) schools in Singapore.
 We are also an O-Level Music Centre for students across Singapore who want
-to offer O-Level Music. As one of our school’s signature programmes, the
-AISS EMP is a four-year programme for Secondary One to Four students, culminating
-in the GCE ‘O’ Level Music examinations.</p>
+to offer O-Level Music. Lower secondary students may enroll in our Music
+Preparatory Course (MPC), which prepares them for the EMP at upper secondary,
+culminating in the GCE ‘O’ Level Music examinations.</p>
 <p>Our unique programme includes talent identification and development, mentorships
 and collaborations, opportunities for exposure and experiences outside
 the classroom, and a supportive whole-school musical culture. We believe
@@ -20,35 +23,39 @@ that music learning should encourage expression and experimentation and
 provide students with the resources they need to fully immerse themselves
 in their craft.</p>
 <p>Join us to experience an enriching musical journey!</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Arrangement by
-<br>Joseph Ace Teo
-<br>
-<br>
+<br><strong>Joseph Ace Teo</strong>
 </p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="160" width="280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kscdQ_7bd4U?wmode=transparent"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kscdQ_7bd4U?si=SxoLSIoixuAUAy0E"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performance by
-<br><strong>Darleen Hiap<br></strong>
-<br>
+<br><strong>Darleen Hiap</strong>
 </p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="160" width="280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t76xiEEpjo0?wmode=transparent"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t76xiEEpjo0?si=r6sTRhvk0dgLgCbw"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performance by
-<br><strong>Jaden Ng<br></strong>
-<br>
+<br><strong>Jaden Ng</strong>
 </p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="160" width="280&quot;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6_OdfGgs9ic?wmode=transparent"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6_OdfGgs9ic?si=Q7g4jAKSZSb8bbxh"></iframe>
 </div>
 </td>
 </tr>
@@ -56,17 +63,17 @@ in their craft.</p>
 <td rowspan="1" colspan="1">
 <p>Composition by
 <br><strong>Joseph Ace Teo</strong>
-<br>(<a href="https://flat.io/score/606c2b4fd22dd64269a31942-big-skem?sharingKey=b1e726defa0e3b8a6547591ae66f0bf6f7fabd820af9dff22b481961069076456557ff95df9688704cf733ed53bba007c17843bfc934f28bc86b7b900763c62c" rel="noopener" target="_blank">Link here</a>)</p>
+<br>(<a href="https://flat.io/score/606c2b4fd22dd64269a31942-big-skem?sharingKey=b1e726defa0e3b8a6547591ae66f0bf6f7fabd820af9dff22b481961069076456557ff95df9688704cf733ed53bba007c17843bfc934f28bc86b7b900763c62c" rel="noopener noreferrer nofollow" target="_blank">Link here</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Composition by
 <br><strong>Isaac Lee</strong>
-<br>(<a href="https://flat.io/score/606c29d9faceac74cb902bfb-interesting?sharingKey=1c147dd9c2668a38b4ee3e26ec2faf387acc0c3398028ae8cb49b6c09f0aeccd32811c0f95cb54f09250fe4294cdae13e2e40bbdf6f04944b16e8c39623a6495" rel="noopener" target="_blank">Link here</a>)</p>
+<br>(<a href="https://flat.io/score/606c29d9faceac74cb902bfb-interesting?sharingKey=1c147dd9c2668a38b4ee3e26ec2faf387acc0c3398028ae8cb49b6c09f0aeccd32811c0f95cb54f09250fe4294cdae13e2e40bbdf6f04944b16e8c39623a6495" rel="noopener noreferrer nofollow" target="_blank">Link here</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Composition by
 <br><strong>Rifqy Hady</strong>
-<br>(<a href="https://flat.io/score/6124b9c7fd63ef001391c7f8-saw-my-teacher-on-a-saturday?sharingKey=8d39a5aa2737a9fffb08944c485d2cd50205399d43a61e4f9be84e9a01bcbe210ca2e1af368362b64910c57721055efc5c4a12c8c95cf0dd250f70a0cca8249f" rel="noopener" target="_blank">Link here</a>)</p>
+<br>(<a href="https://flat.io/score/6124b9c7fd63ef001391c7f8-saw-my-teacher-on-a-saturday?sharingKey=8d39a5aa2737a9fffb08944c485d2cd50205399d43a61e4f9be84e9a01bcbe210ca2e1af368362b64910c57721055efc5c4a12c8c95cf0dd250f70a0cca8249f" rel="noopener noreferrer nofollow" target="_blank">Link here</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -78,9 +85,7 @@ music lessons, our students are exposed to a range of development and talent
 identification opportunities that allow them to participate in enrichment
 programmes, watch concerts and take part in performances throughout the
 year.</p>
-<h4></h4>
-<p><strong>Enrichment Programmes and Workshops</strong>
-</p>
+<h4>Enrichment Programmes and Workshops</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Live Sound and Songwriting Workshop with Singapore Polytechnic and Timothy
@@ -102,8 +107,7 @@ Rodrigues</p>
 <p>Concert outings to orchestral concerts, operas, etc.</p>
 </li>
 </ul>
-<p><strong>Collaborations</strong>
-</p>
+<h4>Collaborations</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Music Mentoring Programme with ACS(I)</p>
@@ -121,12 +125,11 @@ Rodrigues</p>
 <p>Composition Collaboration with National Junior College</p>
 </li>
 </ul>
-<p><strong>Performances, Showcases, Competitions</strong>
-</p>
+<h4>Performances, Showcases, Competitions</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Music Technology Performance at Public Service Transformation Awards Ceremony
-(PSTAC) [<a href="https://www.youtube.com/watch?v=GMFGk8bezGs" rel="noopener noreferrer nofollow" target="_blank">Link</a>]</p>
+(PSTAC) [<a href="https://www.youtube.com/watch?v=GMFGk8bezGs" rel="noopener nofollow" target="_blank">Link</a>]</p>
 </li>
 <li>
 <p>SMTA Music Festival and Chamber Music Competition</p>
@@ -149,38 +152,31 @@ at Esplanade Concert Hall</p>
 <p>MEP 40 Celebrations – virtual ensemble, compositions, performances</p>
 </li>
 </ul>
-<p><strong>Giving back to the community</strong>
-</p>
+<h4>Giving back to the community</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tan Tock Seng Hospital Art of Healing Programme [<a href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgXLPqsZKLZZlBsYFSviUeW0" rel="noopener noreferrer nofollow" target="_blank">Link</a>]</p>
+<p>Tan Tock Seng Hospital Art of Healing Programme [<a href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgXLPqsZKLZZlBsYFSviUeW0" rel="noopener nofollow" target="_blank">Link</a>]</p>
 </li>
 <li>
 <p>Tan Tock Seng Hospital Founder’s Day Celebration (invited performers)
-[<a href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgUdoenj2HCPsp_XxRk1pW9X" rel="noopener noreferrer nofollow" target="_blank">TTSH Performances for Founder’s Day</a>]</p>
+[<a href="https://www.youtube.com/playlist?list=PL2Hmk6-i6KgUdoenj2HCPsp_XxRk1pW9X" rel="noopener nofollow" target="_blank">TTSH Performances for Founder’s Day</a>]</p>
 </li>
 <li>
 <p>SchoolARTS@Seng Kang Hospital</p>
 </li>
 <li>
-<p>AESPIRE Lunchtime Concerts at AISS [<a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" rel="noopener noreferrer nofollow" target="_blank">YouTube channel</a>,&nbsp;
-<a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>]</p>
+<p>AESPIRE Lunchtime Concerts at AISS [<a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" rel="noopener nofollow" target="_blank">YouTube channel</a>,&nbsp;&nbsp;
+<a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener nofollow" target="_blank">Instagram</a>]</p>
 </li>
 <li>
 <p>Performances at the AI Achievement Day, National Day concerts, Teachers’
 Day concerts, and Combined Performing Arts concerts</p>
 </li>
 </ul>
-<p><strong>MOE-organised</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+<h4>MOE-organised</h4>
 <p>National Combined Schools’ MEP/EMP Camps and Showcase concerts</p>
-</li>
-<li>
 <p>Combined Schools’ MEP/EMP Higher Education Career Fairs</p>
-</li>
-</ul>
+<p></p>
 <h4>Key features of the syllabus</h4>
 <p>Our comprehensive curriculum caters to various interests and aptitude
 levels. Students benefit from the study of Western and Asian music, Jazz
@@ -198,10 +194,12 @@ as solo and ensemble performance skills.</p>
 experience a wide range of musical activities in and outside of the classroom,
 in order to develop skills and competencies for more advanced studies in
 music, or to gain awareness of potential careers in Music.</p>
+<p></p>
 <h4>Selection Test Information</h4>
 <p>We conduct auditions and interviews throughout the year as part of our
 talent identification process. Suitable candidates in Secondary 1 and 2
 can be accepted into the programme.</p>
+<p></p>
 <h4>Our Success Stories</h4>
 <p>Since our inception in 2016, we have had many Music students who have
 done exceptionally well and were successfully admitted into Music programmes
@@ -227,6 +225,7 @@ and Band.</p>
 <p><strong>Wong Xin Hui Rachael</strong>. Class of 2020, NBSS. NAFA Foundation
 Programme (Music)</p>
 <p><strong>Lawrence Gabriel Angel. Class of 2021</strong>. NAFA (Music)</p>
+<p></p>
 <h4>Talent Development</h4>
 <p>At AISS, we believe that every student should have an equal opportunity
 to develop their talents. We do talent identification and development through
@@ -249,14 +248,11 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 <h4>Links</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary School Posting Booklet&nbsp;[<strong><em>To be updated</em></strong>]</p>
-</li>
-<li>
-<p><a href="http://go.gov.sg/musicelectiveprogramme" rel="noopener noreferrer nofollow" target="_blank">MOE EMP Webpage</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener noreferrer nofollow" target="_blank">MOE EMP Webpage</a>
 </p>
 </li>
 <li>
-<p><a href="http://go.gov.sg/enhancedmusicprogramme" rel="noopener noreferrer nofollow" target="_blank">MOE MEP Webpage</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener noreferrer nofollow" target="_blank">MOE MEP Webpage</a>
 </p>
 </li>
 <li>
@@ -264,7 +260,7 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6085_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">OLM Exam Syllabus 2023</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">OLM Exam Syllabus 2025</a>
 </p>
 </li>
 <li>
@@ -273,36 +269,32 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </li>
 <li>
 <p>[All Levels] EMP/MEP Publicity Videos:</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.youtube.com/watch?v=6dwp2ImDRjE" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=6dwp2ImDRjE</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=6dwp2ImDRjE</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.youtube.com/watch?v=T3IrEkM967w" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=T3IrEkM967w</a>
-</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=T3IrEkM967w</a>&nbsp;</p>
 </li>
 </ul>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p>Links to&nbsp;<a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;and&nbsp;
-<a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" rel="noopener noreferrer nofollow" target="_blank">YouTube</a>&nbsp;Channel</p>
 </li>
 </ol>
+<p>Links to&nbsp;<a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;and&nbsp;
+<a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" rel="noopener noreferrer nofollow" target="_blank">YouTube</a>&nbsp;Channel</p>
+<p></p>
 <h4>Contact details of relevant personnel</h4>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Ms Amelia Dizon (Music Teacher) -&nbsp;<a href="mailto:amelia_y_dizon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amelia_y_dizon@moe.edu.sg</a>
+<p>Ms Chow Pei Yan (Subject Head/Music) - <a rel="noopener noreferrer nofollow" target="_blank">chow_pei_yan@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Ms Carita Chew Meng (Music Teacher) -&nbsp;<a href="mailto:carita_chew_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carita_chew_meng@moe.edu.sg</a>
+<p>Ms Amelia Dizon (Music Teacher) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">amelia_y_dizon@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Mr Enzo Charles Victor Buttazzoni (Music Teacher) -&nbsp;<a href="mailto:enzo_charles_victor_buttazzoni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">enzo_charles_victor_buttazzoni@moe.edu.sg</a>
+<p>Mr Enzo Charles Victor Buttazzoni (Music Teacher) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">enzo_charles_victor_buttazzoni@moe.edu.sg</a>
 </p>
 </li>
 </ul>
