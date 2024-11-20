@@ -194,22 +194,13 @@ as solo and ensemble performance skills.</p>
 experience a wide range of musical activities in and outside of the classroom,
 in order to develop skills and competencies for more advanced studies in
 music, or to gain awareness of potential careers in Music.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>Selection Test Information</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Selection Test Information</h4>
 <p>We conduct auditions and interviews throughout the year as part of our
 talent identification process. Suitable candidates in Secondary 1 and 2
 can be accepted into the programme.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>Our Success Stories</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Our Success Stories</h4>
 <p>Since our inception in 2016, we have had many Music students who have
 done exceptionally well and were successfully admitted into Music programmes
 in JCs and IHLs.</p>
@@ -234,19 +225,13 @@ and Band.</p>
 <p><strong>Wong Xin Hui Rachael</strong>. Class of 2020, NBSS. NAFA Foundation
 Programme (Music)</p>
 <p><strong>Lawrence Gabriel Angel. Class of 2021</strong>. NAFA (Music)</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>Talent Development</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Talent Development</h4>
 <p>At AISS, we believe that every student should have an equal opportunity
 to develop their talents. We do talent identification and development through
-the Lower Secondary Music Programme as well as via the school’s AESPIRE
-concerts, and provide training and performance opportunities for anything
-from beatboxing to pen-tapping!</p>
+the General Music Programme as well as via the school’s AESPIRE concerts,
+and provide training and performance opportunities for anything from beatboxing
+to pen-tapping!</p>
 <p><strong>Nur Amirah Bte Rohaizad</strong>. Class of 2019. Represented Singapore
 at the Tokyo Child Aid Concert in Japan in 2018.</p>
 <p><strong>Kalaivani D/O Regupathy</strong>. Class of 2019. Represented Singapore
@@ -260,21 +245,14 @@ at Singer-Songwriters Showcase @ Esplanade Library.</p>
 SYF Celebrations Performance at Causeway Point Mall.</p>
 <p><strong>Ng Li Xuan, Terry Zhang</strong>. MEP40 ‘My Journey, Our Journey’
 – Chinese Music Virtual Ensemble Showcase</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>Links</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4>Links</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener nofollow" target="_blank">MOE EMP Webpage</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener noreferrer nofollow" target="_blank">MOE EMP Webpage</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener nofollow" target="_blank">MOE MEP Webpage</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Music%20Programmes%20and%20Subject" rel="noopener noreferrer nofollow" target="_blank">MOE MEP Webpage</a>
 </p>
 </li>
 <li>
@@ -282,7 +260,7 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf" rel="noopener nofollow" target="_blank">OLM Exam Syllabus 2025</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">OLM Exam Syllabus 2025</a>
 </p>
 </li>
 <li>
@@ -301,19 +279,11 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </li>
 </ul>
 </li>
-<li>
+</ol>
 <p>Links to&nbsp;<a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;and&nbsp;
 <a href="https://www.youtube.com/channel/UCNVDpc5qHYYutsu8Kson5NA/videos" rel="noopener noreferrer nofollow" target="_blank">YouTube</a>&nbsp;Channel</p>
-</li>
-</ol>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>Contact details of relevant personnel</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Contact details of relevant personnel</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Chow Pei Yan (Subject Head/Music) - <a rel="noopener noreferrer nofollow" target="_blank">chow_pei_yan@moe.edu.sg</a>
@@ -328,8 +298,4 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </p>
 </li>
 </ul>
-<p></p>
-</div>
-</details>
-</div>
 <p></p>
