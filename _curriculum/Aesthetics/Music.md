@@ -35,7 +35,7 @@ and experiences outside the classroom, and a supportive whole-school musical
 culture.</p>
 <p>Join us to experience a unique musical journey!</p>
 <p></p>
-<p><a href="https://ahmadibrahimsec.moe.edu.sg/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">Click Here</a> for
+<p><a href="https://ahmadibrahimsec.moe.edu.sg/signature-programmes/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">Click Here</a> for
 more information!</p>
 </div>
 </details>
