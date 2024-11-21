@@ -52,10 +52,8 @@ get the opportunity to form connections with the community and gain a deeper
 appreciation of the environment. Through OLE, students develop a sense
 of rootedness and responsibility towards the community, contributing to
 their holistic development as individuals.</p>
-<p>&nbsp;</p>
 <p><strong>Tier 2</strong>
-</p>
-<p>&nbsp;As part of the school’s talent development, opportunities are extended
+<br>As part of the school’s talent development, opportunities are extended
 to students who have interest, attune to and have the aptitude for outdoor
 activities, to be Outdoor Leaders (OL).&nbsp; OL are provided with the
 opportunities to develop, engage and contribute to the community. &nbsp;&nbsp;</p>
