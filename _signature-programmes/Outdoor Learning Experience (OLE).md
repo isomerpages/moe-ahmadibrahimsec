@@ -2,19 +2,35 @@
 title: Outdoor Learning Experience (OLE)
 permalink: /signature-programmes/outdoor-learning-experience-ole/
 description: ""
+variant: tiptap
 ---
-Outdoor Learning Experience (OLE) is a holistic, school wide programs lead by the PE department, involving all teachers, introduced since year 2005. With the accordance as the school’s Learning for Programme (LLP) status starting in 2015, the learning outcomes and programmes have been reconceptualised, further developed and expanded.
-
-OLE is AISS’ signature programme as every AI student will experience it over their years in the school. The programme design covers three main domains with a three-tiered structure. The three main domains are Outdoor Education, Environmental Education and Personal &amp; Social Development. Tier one programme is a broad-based, developmental programme for all students that spans from Sec 1 to 3. Tier two programme provides further development opportunities for those with higher interests and abilities. Tier three programme focuses on developing Outdoor and Environmental Leaders who will champion the cause of environmental education and lead in outdoor learning.
-
-The Outdoor Education domain covers outdoor skills development and risks management. The activities are planned to challenge the individual beyond his/her comfort zone, requiring both physical and mental resilience to achieve success. We adopt the practice of Challenge by Choice for the participant, aiming at creating positive, memorable and successful experiences for the students.
-
-Environmental Education focuses on developing students’ knowledge about the historical, environmental aspects of the outdoor places, aesthetic appreciation of nature and the outdoors, understanding of its associated problems, awareness and motivation of how to help and contribute in solving these problems.
-
-Personal and Social Development (PSR) domain provides a framework for students to think and reflect on their learning experiences. The process of facilitated reflections provides a framework for students to check their affective and character development. They also develop critical thinking skills in the process.
-
-Over the years, OLE has provided the unique collective memories that define the AI identity and heritage as batches after batches of AI students still remember it years after they leave school.
-
-<strong>Our Programme was featured in SingTeach | Education Research for Teachers:</strong>
-
-*   [A Classroom Without Walls](https://singteach.nie.edu.sg/2017/12/08/issue63-classroom01/)
+<h4><strong>Outdoor Learning Experience (OLE) at Ahmad Ibrahim Secondary School (AISS)</strong></h4>
+<p>&nbsp;The Outdoor Learning Experience (OLE) at Ahmad Ibrahim Secondary
+School (AISS) is an integral part of the school's Learning for Life Programme
+(LLP), designed to provide students with a diverse range of experiences
+aimed at developing their social-emotional competencies and fostering strong
+values. Since its inception in 2005, OLE has been instrumental in creating
+collective memories for successive batches of AI students, shaping the
+school's identity and heritage.</p>
+<h4>&nbsp;<strong>Key Objectives</strong></h4>
+<p>&nbsp;The school’s LLP- Outdoor Learning Experience (OLE) is a broad-based
+developmental programme that develops our students’ strength of character
+through three main domains of <em><u>Outdoor Education; Personal and Social Development; and Environmental Awareness</u></em>.
+Through LLP, students are afforded the opportunity to engage with both
+natural and urban environments, from familiar surroundings to unexplored
+locations, while instilling a sense of responsibility towards the community
+and the environment.</p>
+<p>&nbsp;Our inclusive approach for OLE affords opportunities for all students
+including our visually impaired students; both abled and differently abled
+to participate, benefit, learn and grow. &nbsp;</p>
+<h4>LLP Framework</h4>
+<p></p>
+<p><strong>Our Programme was featured in SingTeach | Education Research for Teachers:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://singteach.nie.edu.sg/2017/12/08/issue63-classroom01/" rel="noopener noreferrer nofollow" target="_blank">A Classroom Without Walls</a>
+</p>
+</li>
+</ul>
+<p></p>
