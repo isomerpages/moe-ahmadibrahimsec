@@ -234,26 +234,23 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Senior Patrol Leader</strong> 
-<br>3RE AFABLE GREY ANTHONY BANZUELA
-<br>3ST KOH JIA WEI
-<br>
-<br><strong>Patrol Leader / Secretary</strong> 
-<br>3SE DARWISYH ARFAN BIN ABDUL JALIL
-<br>3ST LIAU KANG JIE
-<br>
-<br><strong>Patrol Leader / Quartermaster</strong> 
-<br>3SE AQEEL RASHAAD KHAN
-<br>3CA NEO XUAN MING
-<br>
-<br><strong>Assistant Patrol Leader</strong> 
-<br>3CA AHMAD IMTIYAZ BIN AZME
-<br>3EX SEE KAI LE REYES
-<br>2CA LIM ZHENG YIN
-<br>2CO MUHAMMAD ADEN MATEEN BIN ABDULLAH
-<br>2GR HADI RAYYAN ADI
-<br>2RE BENJAMIN LIM MING YING
-<br>2SE ONG XUAN LIANG, ISAAC</p>
+<p><strong>Senior Patrol Leader</strong>
+<br>S3-Resilience Afable Grey Anthony Banzuela
+<br>S3-Steadfastness Koh Jia Wei</p>
+<p><strong>Patrol Leader / Secretary</strong>
+<br>S3-Service Darwisyh Arfan Bin Abdul Jalil
+<br>S3-Steadfastness Liau Kang Jie</p>
+<p><strong>Patrol Leader / Quartermaster</strong>
+<br>S3-Care Neo Xuan Ming
+<br>S3-Service Aqeel Rashaad Khan</p>
+<p><strong>Assistant Patrol Leader</strong>
+<br>S3-Excellence See Kai Le Reyes
+<br>S3-Care Ahmad Imtiyaz Bin Azme
+<br>S2-Gratitude Hadi Rayyan Adi
+<br>S2-Care Lim Zheng Yin
+<br>S2-Resilience Benjamin Lim Ming Ying
+<br>S2-Service Ong Xuan Liang, Isaac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>S2-Courage Muhammad Aden Mateen Bin Abdullah</p>
 </div>
 </details>
 </div>
