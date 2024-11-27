@@ -15,34 +15,32 @@ to be a student leader and who is a cut above the rest. As individual Scouts,
 we work towards the Chief Commissioner’s Award which is conferred to the
 most outstanding and distinctive Scouts in recognition of their exemplary
 performance, dedication as well as services at the secondary school level.
-As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for
-sixteen consecutive years. The Frank Cooper Sands Award is an award which
-every Scout unit in Singapore strives to achieve excellence in.</p>
-<p></p>
+As a unit, we have been achieving the Frank Cooper Sands Award since 2004.
+The Frank Cooper Sands Award is an award which every Scout unit in Singapore
+strives to achieve excellence in.</p>
 <p>In Scouts CCA, we conduct training twice a week where Scouts experience
 many exciting and enriching activities and learn Scouting skills such as
-camping, pioneering, orienteering and outdoor cooking. We also organise
+camping, orienteering, pioneering and outdoor cooking. We also organise
 physical training during training to improve the fitness of Scouts and
 team-bonding games to further add the element of fun for Scouts.</p>
 <p>We organise inter-unit and inter-patrol competitions like Scout Lore Quest
 and cooking challenge to hone our Scouting knowledge and skills. Similarly,
 we also participate in courses, competitions and events like the Scout
-Leadership Training Course, Patrol Pioneering Challenge and Founder's Day
-Celebration organised by the North Area of the Singapore Scout Association.
-Furthermore, we also gather around campfires with Scouts from other units
-to celebrate achievements together and to forge stronger camaraderie.</p>
+Leadership Course, Patrol Pioneering Challenge and Founder’s Day Celebration
+organised by the North Area of the Singapore Scout Association. Furthermore,
+we also gather around campfires with Scouts from other units to celebrate
+achievements together and to forge stronger camaraderie.</p>
 <p>To do our part for society, we organise and participate in service-learning
 activities. We also raise funds during the annual Job Week to support Scout
-programmes and activities. In Job Week, Scouts take to the homes of residents
-all over Singapore to do jobs like cleaning, gardening, and tutoring, so
-as to learn the dignity of labour, value of honest work and belief in helping
+programmes and activities. In Job Week, Scouts take to the homes of family
+and friends to do jobs like cleaning, gardening, and tutoring, so as to
+learn the dignity of labour, value of honest work and the belief in helping
 others. As a result, Scouts can be developed into self-reliant, confident,
-responsible, and active citizens.</p>
-<p>Each year, we organise two camps, one in March and the other in June.
-Once every two years at year end, we co-organise a combined camp with the
-Girl Guides and embark on an overseas camping trip to meet Scouts from
-other countries. This is to allow Scouts to make new friends and learn
-new knowledge and skills from our counterparts.</p>
+responsible, and active citizens.&nbsp;</p>
+<p>Each year, we organise two camps, one in March and the other in September.
+Once every two years at year end, we embark on an overseas camping trip
+to meet Scouts from other countries. This is to allow Scouts to make new
+friends and learn new knowledge and skills from our counterparts.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -144,7 +142,7 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Award: Frank Cooper Sands (Gold with Honours Pennant) Award</p>
+<p>Unit Award: Frank Cooper Sands Award</p>
 </li>
 <li>
 <p>Individual Award: Chief Commissioner’s Award</p>
@@ -152,7 +150,7 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <li>
 <p>North Area Scout Lore Quest
 <br>- Highest Team Award: Silver
-<br>- Highest Individual Award: Silver</p>
+<br>- Highest Individual Award: Gold</p>
 </li>
 </ul>
 </div>
