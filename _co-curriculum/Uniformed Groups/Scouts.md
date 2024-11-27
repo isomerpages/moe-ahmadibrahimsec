@@ -161,107 +161,59 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <summary><strong>Participation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>AISS Weekly Morning Assembly</p>
-</li>
-<li>
-<p>AISS CCA Carnival</p>
-</li>
-<li>
-<p>Diamond Jubilee Donation Drive</p>
-</li>
-<li>
-<p>Shooting for Masters-At-Arms</p>
-</li>
-<li>
-<p>AISS Total Defence Day Commemoration Parade Segment</p>
-</li>
-<li>
-<p>Diamond Jubilee Challenge</p>
-</li>
-<li>
-<p>AISS Total Defence Day Celebration</p>
-</li>
-<li>
-<p>North Area Founder’s Day Celebration</p>
-</li>
-<li>
-<p>North Area Scout Leadership Training Course</p>
-</li>
-<li>
-<p>CPIB Anti-Corruption Badge Course</p>
-</li>
-<li>
-<p>Unit Community Service</p>
-</li>
-<li>
-<p>Standard First Aid Course + CPR AED Certification Course</p>
-</li>
-<li>
-<p>01 Raffles Scout Group Annual Show</p>
-</li>
-<li>
-<p>SPCA Free Pet Health Screening</p>
-</li>
-<li>
-<p>Job Week</p>
-</li>
-<li>
-<p>AISS Achievement Day Parade Segment</p>
-</li>
-<li>
-<p>One Star Kayaking Certification Course</p>
-</li>
-<li>
-<p>Beatty Beaver Scout Group 70th Anniversary Campfire</p>
-</li>
-<li>
-<p>Collector Proficiency Badge Course</p>
-</li>
-<li>
-<p>Istana Open House (National Day)</p>
-</li>
-<li>
-<p>AISS National Day Celebration Parade Segment</p>
-</li>
-<li>
-<p>National Day Parade Segment</p>
-</li>
-<li>
-<p>2006 Southern Cross Scout Troop 65th Anniversary Campfire</p>
-</li>
-<li>
-<p>Unit Training Camp</p>
-</li>
-<li>
-<p>AISS Scouts Honouring Session</p>
-</li>
-<li>
-<p>Jamboree On The Air - Jamboree On The Internet</p>
-</li>
-<li>
-<p>North Area Akela Award Ceremony</p>
-</li>
-<li>
-<p>Learning Journey to Airbus</p>
-</li>
-<li>
-<p>Commercial Flight Simulation Experience</p>
-</li>
-<li>
-<p>National Cub Scout Gang Show Finale</p>
-</li>
-<li>
-<p>Istana Open House (Deepavali)</p>
-</li>
-<li>
-<p>Chief Scout, Mdm Halimah Yacob, Farewell</p>
-</li>
-<li>
-<p>North Area Camporee to Malacca, Malaysia</p>
-</li>
-</ul>
+<p><strong>[unit level]</strong>
+<br>• Unit Community Service</p>
+<p>• Shooting for Master-At-Arms Badge Course</p>
+<p>• Founders’ Day Commemoration</p>
+<p>• Committee/PL/APL Handover Ceremony</p>
+<p>• Committee Training Camp</p>
+<p>• Thank You Badge for Parents &amp; Guardians</p>
+<p>• Unit Retreat</p>
+<p>• AIWS Got Talent</p>
+<p>• National Day Commemoration</p>
+<p>• Unit Training Camp
+<br>
+</p>
+<p><strong>[school level]</strong>
+</p>
+<p>• Weekly Morning Assembly</p>
+<p>• CCA Carnival cum Sec 1 Campfire</p>
+<p>• Scouts Honouring Session Run 1</p>
+<p>• Total Defence Day Commemoration Parade Segment</p>
+<p>• Total Defence Day Celebration</p>
+<p>• Achievement Day Parade Segment</p>
+<p>• National Day Celebration Parade Segment</p>
+<p>• Scouts Honouring Session Run 2</p>
+<p></p>
+<p><strong>[area level]</strong>
+</p>
+<p>• North Area Venture Foundation Course Run 1</p>
+<p>• North Area Scout Leadership Course Run 1</p>
+<p>• North Area Scout Leadership Course Run 3</p>
+<p>• Roadshow at North Area Akela Award Ceremony</p>
+<p>• North Area Online Scout Lore Quest</p>
+<p>• North Area Venture Foundation Course Run 2</p>
+<p></p>
+<p><strong>[national level]</strong>
+</p>
+<p>• Diamond Jubilee Challenge &amp; Fund-raising Launch</p>
+<p>• Chingay</p>
+<p>• Diamond Jubilee Challenge &amp; Fund-raising</p>
+<p>• Istana Open House (Chinese New Year)</p>
+<p>• Adiji Chief Scout cum Founder's Day Celebration</p>
+<p>• Appreciation Event for Istana Volunteers</p>
+<p>• Youth Water Ambassador Badge Course</p>
+<p>• Serigala Hike</p>
+<p>• Job Week</p>
+<p>• CPIB Anti-Corruption Badge Course</p>
+<p>• Standard First Aid + CPR AED Certification Course</p>
+<p>• 4th Singapore International Friendship Fiesta</p>
+<p>• Istana Open House (National Day)</p>
+<p>• National Day Parade Segment at the Padang</p>
+<p>• Jamboree On The Air - Jamboree On The Internet</p>
+<p>• Istana Open House (Deepavali)</p>
+<p>• Remembrance Day Service and National Education Tour</p>
+<p>• 11th National Patrol Camp</p>
 </div>
 </details>
 </div>
