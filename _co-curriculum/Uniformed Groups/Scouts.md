@@ -15,34 +15,32 @@ to be a student leader and who is a cut above the rest. As individual Scouts,
 we work towards the Chief Commissioner’s Award which is conferred to the
 most outstanding and distinctive Scouts in recognition of their exemplary
 performance, dedication as well as services at the secondary school level.
-As a unit, we have been achieving the Frank Cooper Sands (Gold) Award for
-sixteen consecutive years. The Frank Cooper Sands Award is an award which
-every Scout unit in Singapore strives to achieve excellence in.</p>
-<p></p>
+As a unit, we have been achieving the Frank Cooper Sands Award since 2004.
+The Frank Cooper Sands Award is an award which every Scout unit in Singapore
+strives to achieve excellence in.</p>
 <p>In Scouts CCA, we conduct training twice a week where Scouts experience
 many exciting and enriching activities and learn Scouting skills such as
-camping, pioneering, orienteering and outdoor cooking. We also organise
+camping, orienteering, pioneering and outdoor cooking. We also organise
 physical training during training to improve the fitness of Scouts and
 team-bonding games to further add the element of fun for Scouts.</p>
 <p>We organise inter-unit and inter-patrol competitions like Scout Lore Quest
 and cooking challenge to hone our Scouting knowledge and skills. Similarly,
 we also participate in courses, competitions and events like the Scout
-Leadership Training Course, Patrol Pioneering Challenge and Founder's Day
-Celebration organised by the North Area of the Singapore Scout Association.
-Furthermore, we also gather around campfires with Scouts from other units
-to celebrate achievements together and to forge stronger camaraderie.</p>
+Leadership Course, Patrol Pioneering Challenge and Founder’s Day Celebration
+organised by the North Area of the Singapore Scout Association. Furthermore,
+we also gather around campfires with Scouts from other units to celebrate
+achievements together and to forge stronger camaraderie.</p>
 <p>To do our part for society, we organise and participate in service-learning
 activities. We also raise funds during the annual Job Week to support Scout
-programmes and activities. In Job Week, Scouts take to the homes of residents
-all over Singapore to do jobs like cleaning, gardening, and tutoring, so
-as to learn the dignity of labour, value of honest work and belief in helping
+programmes and activities. In Job Week, Scouts take to the homes of family
+and friends to do jobs like cleaning, gardening, and tutoring, so as to
+learn the dignity of labour, value of honest work and the belief in helping
 others. As a result, Scouts can be developed into self-reliant, confident,
-responsible, and active citizens.</p>
-<p>Each year, we organise two camps, one in March and the other in June.
-Once every two years at year end, we co-organise a combined camp with the
-Girl Guides and embark on an overseas camping trip to meet Scouts from
-other countries. This is to allow Scouts to make new friends and learn
-new knowledge and skills from our counterparts.</p>
+responsible, and active citizens.&nbsp;</p>
+<p>Each year, we organise two camps, one in March and the other in September.
+Once every two years at year end, we embark on an overseas camping trip
+to meet Scouts from other countries. This is to allow Scouts to make new
+friends and learn new knowledge and skills from our counterparts.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -144,7 +142,7 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Award: Frank Cooper Sands (Gold with Honours Pennant) Award</p>
+<p>Unit Award: Frank Cooper Sands Award</p>
 </li>
 <li>
 <p>Individual Award: Chief Commissioner’s Award</p>
@@ -152,7 +150,7 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <li>
 <p>North Area Scout Lore Quest
 <br>- Highest Team Award: Silver
-<br>- Highest Individual Award: Silver</p>
+<br>- Highest Individual Award: Gold</p>
 </li>
 </ul>
 </div>
@@ -163,107 +161,59 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <summary><strong>Participation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>AISS Weekly Morning Assembly</p>
-</li>
-<li>
-<p>AISS CCA Carnival</p>
-</li>
-<li>
-<p>Diamond Jubilee Donation Drive</p>
-</li>
-<li>
-<p>Shooting for Masters-At-Arms</p>
-</li>
-<li>
-<p>AISS Total Defence Day Commemoration Parade Segment</p>
-</li>
-<li>
-<p>Diamond Jubilee Challenge</p>
-</li>
-<li>
-<p>AISS Total Defence Day Celebration</p>
-</li>
-<li>
-<p>North Area Founder’s Day Celebration</p>
-</li>
-<li>
-<p>North Area Scout Leadership Training Course</p>
-</li>
-<li>
-<p>CPIB Anti-Corruption Badge Course</p>
-</li>
-<li>
-<p>Unit Community Service</p>
-</li>
-<li>
-<p>Standard First Aid Course + CPR AED Certification Course</p>
-</li>
-<li>
-<p>01 Raffles Scout Group Annual Show</p>
-</li>
-<li>
-<p>SPCA Free Pet Health Screening</p>
-</li>
-<li>
-<p>Job Week</p>
-</li>
-<li>
-<p>AISS Achievement Day Parade Segment</p>
-</li>
-<li>
-<p>One Star Kayaking Certification Course</p>
-</li>
-<li>
-<p>Beatty Beaver Scout Group 70th Anniversary Campfire</p>
-</li>
-<li>
-<p>Collector Proficiency Badge Course</p>
-</li>
-<li>
-<p>Istana Open House (National Day)</p>
-</li>
-<li>
-<p>AISS National Day Celebration Parade Segment</p>
-</li>
-<li>
-<p>National Day Parade Segment</p>
-</li>
-<li>
-<p>2006 Southern Cross Scout Troop 65th Anniversary Campfire</p>
-</li>
-<li>
-<p>Unit Training Camp</p>
-</li>
-<li>
-<p>AISS Scouts Honouring Session</p>
-</li>
-<li>
-<p>Jamboree On The Air - Jamboree On The Internet</p>
-</li>
-<li>
-<p>North Area Akela Award Ceremony</p>
-</li>
-<li>
-<p>Learning Journey to Airbus</p>
-</li>
-<li>
-<p>Commercial Flight Simulation Experience</p>
-</li>
-<li>
-<p>National Cub Scout Gang Show Finale</p>
-</li>
-<li>
-<p>Istana Open House (Deepavali)</p>
-</li>
-<li>
-<p>Chief Scout, Mdm Halimah Yacob, Farewell</p>
-</li>
-<li>
-<p>North Area Camporee to Malacca, Malaysia</p>
-</li>
-</ul>
+<p><strong>[unit level]</strong>
+<br>• Unit Community Service</p>
+<p>• Shooting for Master-At-Arms Badge Course</p>
+<p>• Founders’ Day Commemoration</p>
+<p>• Committee/PL/APL Handover Ceremony</p>
+<p>• Committee Training Camp</p>
+<p>• Thank You Badge for Parents &amp; Guardians</p>
+<p>• Unit Retreat</p>
+<p>• AIWS Got Talent</p>
+<p>• National Day Commemoration</p>
+<p>• Unit Training Camp
+<br>
+</p>
+<p><strong>[school level]</strong>
+</p>
+<p>• Weekly Morning Assembly</p>
+<p>• CCA Carnival cum Sec 1 Campfire</p>
+<p>• Scouts Honouring Session Run 1</p>
+<p>• Total Defence Day Commemoration Parade Segment</p>
+<p>• Total Defence Day Celebration</p>
+<p>• Achievement Day Parade Segment</p>
+<p>• National Day Celebration Parade Segment</p>
+<p>• Scouts Honouring Session Run 2</p>
+<p></p>
+<p><strong>[area level]</strong>
+</p>
+<p>• North Area Venture Foundation Course Run 1</p>
+<p>• North Area Scout Leadership Course Run 1</p>
+<p>• North Area Scout Leadership Course Run 3</p>
+<p>• Roadshow at North Area Akela Award Ceremony</p>
+<p>• North Area Online Scout Lore Quest</p>
+<p>• North Area Venture Foundation Course Run 2</p>
+<p></p>
+<p><strong>[national level]</strong>
+</p>
+<p>• Diamond Jubilee Challenge &amp; Fund-raising Launch</p>
+<p>• Chingay</p>
+<p>• Diamond Jubilee Challenge &amp; Fund-raising</p>
+<p>• Istana Open House (Chinese New Year)</p>
+<p>• Adiji Chief Scout cum Founder's Day Celebration</p>
+<p>• Appreciation Event for Istana Volunteers</p>
+<p>• Youth Water Ambassador Badge Course</p>
+<p>• Serigala Hike</p>
+<p>• Job Week</p>
+<p>• CPIB Anti-Corruption Badge Course</p>
+<p>• Standard First Aid + CPR AED Certification Course</p>
+<p>• 4th Singapore International Friendship Fiesta</p>
+<p>• Istana Open House (National Day)</p>
+<p>• National Day Parade Segment at the Padang</p>
+<p>• Jamboree On The Air - Jamboree On The Internet</p>
+<p>• Istana Open House (Deepavali)</p>
+<p>• Remembrance Day Service and National Education Tour</p>
+<p>• 11th National Patrol Camp</p>
 </div>
 </details>
 </div>
@@ -284,26 +234,23 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Senior Patrol Leader</strong> 
-<br>3RE AFABLE GREY ANTHONY BANZUELA
-<br>3ST KOH JIA WEI
-<br>
-<br><strong>Patrol Leader / Secretary</strong> 
-<br>3SE DARWISYH ARFAN BIN ABDUL JALIL
-<br>3ST LIAU KANG JIE
-<br>
-<br><strong>Patrol Leader / Quartermaster</strong> 
-<br>3SE AQEEL RASHAAD KHAN
-<br>3CA NEO XUAN MING
-<br>
-<br><strong>Assistant Patrol Leader</strong> 
-<br>3CA AHMAD IMTIYAZ BIN AZME
-<br>3EX SEE KAI LE REYES
-<br>2CA LIM ZHENG YIN
-<br>2CO MUHAMMAD ADEN MATEEN BIN ABDULLAH
-<br>2GR HADI RAYYAN ADI
-<br>2RE BENJAMIN LIM MING YING
-<br>2SE ONG XUAN LIANG, ISAAC</p>
+<p><strong>Senior Patrol Leader</strong>
+<br>S3-Resilience Afable Grey Anthony Banzuela
+<br>S3-Steadfastness Koh Jia Wei</p>
+<p><strong>Patrol Leader / Secretary</strong>
+<br>S3-Service Darwisyh Arfan Bin Abdul Jalil
+<br>S3-Steadfastness Liau Kang Jie</p>
+<p><strong>Patrol Leader / Quartermaster</strong>
+<br>S3-Care Neo Xuan Ming
+<br>S3-Service Aqeel Rashaad Khan</p>
+<p><strong>Assistant Patrol Leader</strong>
+<br>S3-Excellence See Kai Le Reyes
+<br>S3-Care Ahmad Imtiyaz Bin Azme
+<br>S2-Gratitude Hadi Rayyan Adi
+<br>S2-Care Lim Zheng Yin
+<br>S2-Resilience Benjamin Lim Ming Ying
+<br>S2-Service Ong Xuan Liang, Isaac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>S2-Courage Muhammad Aden Mateen Bin Abdullah</p>
 </div>
 </details>
 </div>
@@ -323,6 +270,6 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6xEcCVqO3_J4M0W2Y2xA5nSMO-9TZAySfQH6rguENUFQ42mplu9E02TxMEFbVCavbtqStEhdb3hYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaR5xN53i63qFNB2tIUbWLys6eo3dNv2qNMTydpMDtP-zHxH4Dbei_Jn8bg8zpJNeneEJYCNyTUrrs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
