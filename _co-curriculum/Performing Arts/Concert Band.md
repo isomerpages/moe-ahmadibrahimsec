@@ -103,8 +103,9 @@ Top in Division</p>
 <p><strong>Wednesday</strong>
 <br>3.15pm to 5.45pm</p>
 <p><strong>Friday</strong>
-<br>2.30pm to 6.00pm</p>
-<p><strong><a href="http://gg.gg/AICBeCCA" rel="noopener noreferrer nofollow" target="">Live Schedule here</a></strong>
+<br>2.30pm to 6.00pm
+<br>
+<br>Live Schedule here <em>(* Will be updated soon)</em>
 </p>
 </div>
 </details>
