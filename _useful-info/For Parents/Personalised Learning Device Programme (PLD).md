@@ -25,7 +25,7 @@ and upgraded components like its CPU, RAM and storage. With 3 years of
 warranty and insurance coverage, it offers superb value for money and will
 provide students with many good years of learning and productivity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Lenovo 500e Chromebook Gen 4 (2025)" src="/images/Lenovo_500e_Chromebook_Gen_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Lenovo 500e Chromebook Gen 4 (2025)" src="/images/Lenovo_500e_Chromebook_Gen_4.jpg">
 </div>
 <h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
