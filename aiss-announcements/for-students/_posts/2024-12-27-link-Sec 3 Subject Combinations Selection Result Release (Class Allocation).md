@@ -1,6 +1,6 @@
 ---
-title: Sec 3 Subject Combinations Selection Result Release at 30th Oct 24 (3 PM)
-date: 2024-10-29
+title: Sec 3 Subject Combinations Selection Result Release (Class Allocation)
+date: 2024-12-27
 layout: link
 description: ""
 image: ""
