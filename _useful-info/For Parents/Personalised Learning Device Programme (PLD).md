@@ -25,7 +25,7 @@ and upgraded components like its CPU, RAM and storage. With 3 years of
 warranty and insurance coverage, it offers superb value for money and will
 provide students with many good years of learning and productivity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lenovo Chromebook PLD" src="/images/Useful Info/For Parents/Lenovo_Chromebook_Gen_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Lenovo 500e Chromebook Gen 4 (2025)" src="/images/Lenovo_500e_Chromebook_Gen_4.jpg">
 </div>
 <h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
@@ -62,11 +62,11 @@ for PLD”.</p>
 <h2><strong>Cyberwellness Resources for Parents</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PLD/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
+<p><a href="/files/PLD/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
+<p><a href="/files/PLD/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
 </p>
 </li>
 <li>
@@ -77,7 +77,14 @@ for PLD”.</p>
 <p><a href="/files/PLD/Resources_to_Support_Parents.pdf" rel="noopener nofollow" target="_blank">Resources to support parents</a>
 </p>
 </li>
+<li>
+<p><a href="/files/PLD/PLD_Mythbuster.pdf" rel="noopener nofollow" target="_blank">PLD Mythbusters</a>
+</p>
+</li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuAFKO6_2JFGboOO4oW5ak99Br0UPK36BiUDODQLsCGWvhcKlu-PGh3k079cTU5OqgeKDGwYWZj24D/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
 <h2><strong>DMA Information</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -235,5 +242,6 @@ and parking is available at an hourly rate.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
