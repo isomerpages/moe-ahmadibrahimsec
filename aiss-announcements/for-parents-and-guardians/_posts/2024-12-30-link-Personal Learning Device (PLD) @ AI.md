@@ -1,6 +1,6 @@
 ---
 title: Personal Learning Device (PLD) @ AI
-date: 2024-01-10
+date: 2024-12-30
 layout: link
 description: ""
 image: ""
