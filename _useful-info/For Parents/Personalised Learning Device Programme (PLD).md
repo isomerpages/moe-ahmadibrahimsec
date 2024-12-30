@@ -30,10 +30,9 @@ provide students with many good years of learning and productivity.</p>
 <h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/Guardians will receive a letter from our via Parents' Gateway
 or hardcopy with details about the purchase of PLD by md January.</p>
-<p></p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://go.gov.sg/edusaveformsgso">
 <img style="width: 80%;" height="auto" width="100%" alt="Important actions for Parents (PLD section)" src="/images/Useful Info/For Parents/pld_important_actions_for_parents_new.png">
-</div>
+</a>
 <p>To proceed with the purchase of the school-prescribed PLD, please consent
 for the <strong><u>purchase and authorization to collect PLD</u></strong> via
 the Parents Gateway (PG) notification.</p>
