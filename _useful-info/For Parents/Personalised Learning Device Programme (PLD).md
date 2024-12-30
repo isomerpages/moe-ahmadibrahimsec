@@ -28,10 +28,11 @@ provide students with many good years of learning and productivity.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="Lenovo 500e Chromebook Gen 4 (2025)" src="/images/Lenovo_500e_Chromebook_Gen_4.jpg">
 </div>
 <h2><strong>Important Actions For Parents</strong></h2>
-<p></p>
+<p>Parents/Guardians will receive a letter from our via Parents' Gateway
+or hardcopy with details about the purchase of PLD by md January.</p>
 <p>To proceed with the purchase of the school-prescribed PLD, please consent
-for the purchase and authorization to collect PLD via the Parents Gateway
-(PG) notification.</p>
+for the <strong><u>purchase and authorization to collect PLD</u></strong> via
+the Parents Gateway (PG) notification.</p>
 <p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
 students only), please submit the online Standing Order (SO) from via this
 link: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by <strong>22 January 2024</strong> if
