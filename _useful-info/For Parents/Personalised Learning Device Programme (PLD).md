@@ -81,6 +81,10 @@ for PLD”.</p>
 <p><a href="/files/PLD/PLD_Mythbuster.pdf" rel="noopener nofollow" target="_blank">PLD Mythbusters</a>
 </p>
 </li>
+<li>
+<p>Resources from MOE and other agencies (available on resources repository
+in Parents Gateway)</p>
+</li>
 </ul>
 <div class="iframe-wrapper">
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuAFKO6_2JFGboOO4oW5ak99Br0UPK36BiUDODQLsCGWvhcKlu-PGh3k079cTU5OqgeKDGwYWZj24D/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
