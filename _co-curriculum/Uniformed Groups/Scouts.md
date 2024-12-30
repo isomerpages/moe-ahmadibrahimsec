@@ -225,7 +225,10 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <p><strong>Wednesday</strong>
 <br>3.30 pm to 6.00 pm</p>
 <p><strong>Friday</strong>
-<br>2.30 pm to 5.30 pm</p>
+<br>2.30 pm to 5.30 pm
+<br>
+<br><a href="https://go.gov.sg/aiwscalendar" rel="noopener nofollow" target="_blank">Scouts Training Calendar</a>
+</p>
 </div>
 </details>
 </div>
