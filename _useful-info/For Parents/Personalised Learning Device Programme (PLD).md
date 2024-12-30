@@ -28,28 +28,16 @@ provide students with many good years of learning and productivity.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="Lenovo 500e Chromebook Gen 4 (2025)" src="/images/Lenovo_500e_Chromebook_Gen_4.jpg">
 </div>
 <h2><strong>Important Actions For Parents</strong></h2>
-<p>Parents/guardians will receive a letter from the school via Parents’ Gateway
-or hardcopy with details about the purchase of PLD by mid January.</p>
-<p>Please submit the following consent forms in order for the school to begin
-processing the purchase of a PLD for your child/ward.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Intent to Purchase PLD</p>
-</li>
-<li>
-<p>Edusave Withdrawal (for SC only)</p>
-</li>
-<li>
-<p>Authorisation to collect PLD</p>
-</li>
-<li>
-<p>Application for Subsidy (PR/IS)</p>
-</li>
-</ul>
-<p>Singapore Citizens, please make an online submission at&nbsp;<a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a>&nbsp;after
-the Parents’ Gateway notification.</p>
-<p>Permanent Residents/International Students, please submit the hardcopy
-letter to your child’s/ward’s Form Teacher.</p>
+<p></p>
+<p>To proceed with the purchase of the school-prescribed PLD, please consent
+for the purchase and authorization to collect PLD via the Parents Gateway
+(PG) notification.</p>
+<p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
+students only), please submit the online Standing Order (SO) from via this
+link: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by <strong>22 January 2024</strong> if
+you have not done so previously. If you are unable to submit the online
+form, please approach the school for assistance or to request for a hardcopy
+form.</p>
 <h2><strong>Financial Assistance</strong></h2>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
