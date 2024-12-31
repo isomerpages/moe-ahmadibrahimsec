@@ -30,9 +30,6 @@ provide students with many good years of learning and productivity.</p>
 <h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/Guardians will receive a letter from our via Parents' Gateway
 or hardcopy with details about the purchase of PLD by md January.</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/edusaveformsgso">
-<img style="width: 80%;" height="auto" width="100%" alt="Important actions for Parents (PLD section)" src="/images/Useful Info/For Parents/pld_important_actions_for_parents_new.png">
-</a>
 <p>To proceed with the purchase of the school-prescribed PLD, please consent
 for the <strong><u>purchase and authorization to collect PLD</u></strong> via
 the Parents Gateway (PG) notification.</p>
@@ -87,7 +84,7 @@ in Parents Gateway)</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuAFKO6_2JFGboOO4oW5ak99Br0UPK36BiUDODQLsCGWvhcKlu-PGh3k079cTU5OqgeKDGwYWZj24D/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuAFKO6_2JFGboOO4oW5ak99Br0UPK36BiUDODQLsCGWvhcKlu-PGh3k079cTU5OqgeKDGwYWZj24D/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <h2><strong>DMA Information</strong></h2>
 <ul data-tight="true" class="tight">
@@ -146,11 +143,6 @@ to loan to affected students as there are limited quantity.</p>
 <p>Lenovo will only do a fortnightly collection of all faulty devices from
 our school. The estimated turn-around time is 4 weeks repair and return
 from collection date (subject to vendor's availability).</p>
-</li>
-<li>
-<p>For faster turn-around on-site same-day repair (if spare part is available),
-parents can bring the faulty device directly to the Lenovo Service Centre
-@ Tai Seng Centre (Service Centre Number Call: 6871 4838).</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

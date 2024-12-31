@@ -70,11 +70,6 @@ to loan to affected students as there are limited quantity.</p>
 our school. The estimated turn-around time is 4 weeks repair and return
 from collection date (subject to vendor's availability).</p>
 </li>
-<li>
-<p>For faster turn-around on-site same-day repair (if spare part is available),
-parents can bring the faulty device directly to the Lenovo Service Centre
-@ Tai Seng Centre (Service Centre Number Call: 6871 4838).</p>
-</li>
 </ul>
 <h2><strong>School IT Support for Personal Learning Device (PLDs)</strong></h2>
 <ul data-tight="true" class="tight">
