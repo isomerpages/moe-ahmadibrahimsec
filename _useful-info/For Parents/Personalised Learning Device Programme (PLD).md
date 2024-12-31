@@ -29,7 +29,7 @@ provide students with many good years of learning and productivity.</p>
 </div>
 <h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/Guardians will receive a letter from our via Parents' Gateway
-or hardcopy with details about the purchase of PLD by md January.</p>
+or hardcopy with details about the purchase of PLD by mid January.</p>
 <p>To proceed with the purchase of the school-prescribed PLD, please consent
 for the <strong><u>purchase and authorization to collect PLD</u></strong> via
 the Parents Gateway (PG) notification.</p>
