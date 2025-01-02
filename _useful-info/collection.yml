@@ -2,7 +2,6 @@ collections:
   useful-info:
     output: true
     order:
-      - For Students/🎶 You're Invited to mosAIc! 🎶.md
       - For Students/.keep
       - For Students/Class & Exam Timetable.md
       - For Students/PLD Website for AISS Students.md
