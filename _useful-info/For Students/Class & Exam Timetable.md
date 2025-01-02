@@ -12,43 +12,48 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S1_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+</p>
 </li>
 <li>
-<p></p>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S1_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+</p>
 </li>
 </ul>
 <p><strong>Sec 2</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S2_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+</p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S2_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Sec 3</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S3_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+</p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S2_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Sec 4&amp;5</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S4_5_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+</p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S4_5_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+</p>
 </li>
 </ul>
 <p></p>
