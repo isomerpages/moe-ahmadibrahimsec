@@ -223,7 +223,7 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
-<br>3.30 pm to 5.30 pm</p>
+<br>3pm to 5.30 pm</p>
 <p><strong>Friday</strong>
 <br>2.30 pm to 5.30 pm
 <br>
