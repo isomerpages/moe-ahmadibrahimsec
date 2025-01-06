@@ -344,10 +344,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Yee Herng (Zest)
+<br><a href="tan_yee_herng_zest@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_yee_herng_zest@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nirmala d/o K Periyiah(Mrs Ganesan)
+<br><a href="nirmala_k_periyiah@moe.edu.sg" rel="noopener nofollow" target="_blank">nirmala_k_periyiah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
