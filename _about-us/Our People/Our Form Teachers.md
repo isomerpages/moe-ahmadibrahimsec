@@ -392,10 +392,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Fong Tjen Shan (Ryan)
+<br><a href="ryan_fong_tjen_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">ryan_fong_tjen_shan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ang Ping Ying
+<br><a href="ang_ping_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_ping_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -496,7 +500,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5N1</strong>
+<p><strong>5 Excellence</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
