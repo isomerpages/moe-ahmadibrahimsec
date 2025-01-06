@@ -482,10 +482,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Puah Shi Hui Silia
+<br><a href="puah_shi_hui_silia@moe.edu.sg" rel="noopener nofollow" target="_blank">puah_shi_hui_silia@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohamad Fauzi Bin Mohd Husin
+<br><a href="mohamed_fauzi_husin@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamed_fauzi_husin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
