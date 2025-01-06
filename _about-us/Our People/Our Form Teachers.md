@@ -376,10 +376,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chia Mei Lin Tania
+<br><a href="chia_mei_lin_tania@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_mei_lin_tania@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Saravanan S/O Govindan
+<br><a href="mailto:saravanan_govindan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saravanan_govindan_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
