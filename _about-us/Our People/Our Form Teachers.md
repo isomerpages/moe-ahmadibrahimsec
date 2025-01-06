@@ -268,10 +268,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Wiphaporn
+<br><a href="wiphaporn_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">wiphaporn_tan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Enzo Charles Victor Buttazzoni
+<br><a href="enzo_charles_victor_buttazzoni@moe.edu.sg" rel="noopener nofollow" target="_blank">enzo_charles_victor_buttazzoni@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -280,10 +284,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ho Jie Min, Melody
+<br><a href="ho_jie_min_melody@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_jie_min_melody@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
