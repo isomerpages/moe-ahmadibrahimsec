@@ -31,7 +31,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Pei Ting Doris
-<br><a href="lee_pei_ting_doris@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_pei_ting_doris@moe.edu.sg</a>
+<br><a href="mailto: lee_pei_ting_doris@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_pei_ting_doris@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
