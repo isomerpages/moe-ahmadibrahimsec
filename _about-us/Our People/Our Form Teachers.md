@@ -78,10 +78,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tow Swee Ai Emily
+<br><a href="tow_swee_ai_emily@moe.edu.sg" rel="noopener nofollow" target="_blank">tow_swee_ai_emily@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Siti Mariah Omar
+<br><a href="mailto:siti_mariah_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariah_omar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
