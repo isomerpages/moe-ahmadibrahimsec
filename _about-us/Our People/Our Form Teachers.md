@@ -328,10 +328,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ngui Lilian (Mrs Cheong)
+<br><a href="ngui_lilian@moe.edu.sg" rel="noopener nofollow" target="_blank">ngui_lilian@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm P Sarasvathi
+<br><a href="mailto:p_sarasvathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_sarasvathi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
