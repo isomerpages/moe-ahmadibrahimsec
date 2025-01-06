@@ -62,10 +62,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Amelia Y Dizon
+<br><a href="amelia_y_dizon@moe.edu.sg" rel="noopener nofollow" target="_blank">amelia_y_dizon@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Agnes Lim Siew Mei
+<br><a href="agnes_lim_siew_mei@moe.edu.sg" rel="noopener nofollow" target="_blank">agnes_lim_siew_mei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
