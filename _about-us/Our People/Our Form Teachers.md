@@ -452,10 +452,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Fitrah Binte Jamri
+<br><a href="fitrah_jamri@moe.edu.sg" rel="noopener nofollow" target="_blank">fitrah_jamri@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -464,10 +466,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Seah Yen Sin
+<br><a href="seah_yen_sin@moe.edu.sg" rel="noopener nofollow" target="_blank">seah_yen_sin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ang Xin Ru Ruby
+<br><a href="ang_xin_ru_ruby@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_xin_ru_ruby@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
