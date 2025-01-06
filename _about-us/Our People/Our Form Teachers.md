@@ -158,10 +158,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zhang Yaqi
+<br><a href="mailto:zhang_yaqi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yaqi_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Foo Hui Cheng
+<br><a href="mailto: foo_hui_cheng_candee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_hui_cheng_candee@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -170,10 +174,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chia
+<br><a href="mailto: chia_yun_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_yun_xin@moe.edu.sg</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Kasturi d/o Manoselvam (Mrs Vishwa)
+<br><a href="do_manoselvam_kasturi@moe.edu.sg" rel="noopener nofollow" target="_blank"> do_manoselvam_kasturi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,10 +190,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Noor Azizah Bte Ibrahim
+<br><a href="noor_azizah_ibrahim@moe.edu.sg" rel="noopener nofollow" target="_blank"> noor_azizah_ibrahim@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nurhumairah Bte Mohd Akip
+<br><a href="nurhumairah_mohd_akip@moe.edu.sg" rel="noopener nofollow" target="_blank">nurhumairah_mohd_akip@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
