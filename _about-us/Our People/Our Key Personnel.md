@@ -301,7 +301,7 @@ variant: tiptap
 <p>Mr Burton Sherlock Timothy Row</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / English Literature</p>
+<p>LT / English Literature</p>
 </td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ variant: tiptap
 <p>Mdm Chong Chew Luan Penny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Learning Needs (CVR)</p>
+<p>ST / Learning Needs (Covering)</p>
 </td>
 </tr>
 </tbody>
