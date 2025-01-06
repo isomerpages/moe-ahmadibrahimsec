@@ -360,10 +360,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Kang Li Choo Catherine(Mrs Leong)
+<br><a href="kang_li_choo_catherine@moe.edu.sg" rel="noopener nofollow" target="_blank">kang_li_choo_catherine@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ow Hui Mei Wendy
+<br><a href="ow_hui_mei_wendy@moe.edu.sg" rel="noopener nofollow" target="_blank">ow_hui_mei_wendy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
