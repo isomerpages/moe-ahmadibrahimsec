@@ -312,10 +312,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Daniel Chan Chong Weng
+<br><a href="daniel_chan_chong_weng@moe.edu.sg" rel="noopener nofollow" target="_blank">daniel_chan_chong_weng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ching Loo May
+<br><a href="ching_loo_may@moe.edu.sg" rel="noopener nofollow" target="_blank">ching_loo_may@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
