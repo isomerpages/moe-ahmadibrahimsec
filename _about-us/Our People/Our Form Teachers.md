@@ -94,7 +94,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Hanna Diyana Azahar
+<br><a href="mailto:hanna_diyana_azahar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hanna_diyana_azahar@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
