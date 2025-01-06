@@ -44,6 +44,14 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Latifah Bte Abdul Latiff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>SSD / HOD / YH / LH / SH</h3>
@@ -151,20 +159,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Goh Yuh Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Lower Sec</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Tay Mui Khim
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head Upper Sec</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Yuh Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head Lower Sec (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -177,18 +185,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Salmiah Bte Amin</p>
+<p>Mr Mohamed Imran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head / Lower Sec</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Imran</p>
+<p>Ms Siti Salmiah Bte Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head / Upper Sec</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hafizhah Jamel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / English Language (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -201,10 +217,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Wensheng</p>
+<p>Mdm Agnes Lim Siew Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Character &amp; Citizenship Education</p>
+<p>Subject Head / Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -247,6 +263,14 @@ variant: tiptap
 <p>Subject Head / Systems and Research</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Puah Shi Hui Silia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Well-Being (Covering)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Lead Teacher / Senior Teacher</h3>
@@ -285,7 +309,7 @@ variant: tiptap
 <p>Mdm Kang Li Choo Catherine (Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Chemistry</p>
+<p>ST / Science</p>
 </td>
 </tr>
 <tr>
@@ -318,6 +342,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Seah Yen Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chong Chew Luan Penny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Learning Needs (CVR)</p>
 </td>
 </tr>
 </tbody>
