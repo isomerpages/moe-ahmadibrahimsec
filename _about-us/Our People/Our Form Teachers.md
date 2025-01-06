@@ -206,10 +206,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng U-Ning Ruth
+<br><a href="ng_uning_ruth@moe.edu.sg" rel="noopener nofollow" target="_blank"> ng_uning_ruth@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Kang Yong Heng
+<br><a href="kang_yong_heng@moe.edu.sg" rel="noopener nofollow" target="_blank"> kang_yong_heng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
