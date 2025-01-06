@@ -110,10 +110,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Santhi Mutrawipillai Sanmu
+<br><a href="mailto:santhi_mutrawipillai_sanmu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_mutrawipillai_sanmu@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Boon Seng
+<br><a href="mailto:tan_boon_seng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_seng_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,10 +126,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Woon Sher Lin Sheralyn
+<br><a href="mailto:woon_sher_lin_sheralyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_sher_lin_sheralyn@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Marcus Lau Shao Yu
+<br><a href="mailto:marcus_lau_shao_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marcus_lau_shao_yu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
