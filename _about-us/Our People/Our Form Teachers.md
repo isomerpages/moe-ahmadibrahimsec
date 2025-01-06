@@ -142,10 +142,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Pei Pei Jennifer
+<br><a href="mailto:koh_pei_pei_jennifer@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pei_pei_jennifer@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chow Pei yan
+<br><a href="mailto:chow_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_pei_yan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
