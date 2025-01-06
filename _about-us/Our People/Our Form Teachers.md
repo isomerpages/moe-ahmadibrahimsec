@@ -436,10 +436,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Song Weina
+<br><a href="song_weina@moe.edu.sg" rel="noopener nofollow" target="_blank">song_weina@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Juliet Anne Cenzon Lleva
+<br><a href="juliet_anne_cenzon_lleva@moe.edu.sg" rel="noopener nofollow" target="_blank">juliet_anne_cenzon_lleva@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
