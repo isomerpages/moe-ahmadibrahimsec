@@ -212,7 +212,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kang Yong Heng
-<br><a href="kang_yong_heng@moe.edu.sg" rel="noopener nofollow" target="_blank"> kang_yong_heng@moe.edu.sg</a>
+<br><a href="kang_yong_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">kang_yong_heng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -252,10 +252,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wang Xuejuan
+<br><a href="wang_xuejuan@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_xuejuan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chennakesavalu Sheela
+<br><a href="chennakesavalu_sheela@moe.edu.sg" rel="noopener nofollow" target="_blank">chennakesavalu_sheela@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
