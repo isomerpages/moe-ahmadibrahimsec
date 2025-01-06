@@ -174,7 +174,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia
+<p>Mdm Chia Yun Xin
 <br><a href="mailto: chia_yun_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_yun_xin@moe.edu.sg</u></a>
 </p>
 </td>
@@ -487,7 +487,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Fauzi Bin Mohd Husin
+<p>Mr Mohamed Fauzi Bin Husin
 <br><a href="mailto: mohamed_fauzi_husin@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamed_fauzi_husin@moe.edu.sg</a>
 </p>
 </td>
