@@ -348,7 +348,7 @@ students, the passion for reading and exploration!
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/EL
+<p>Head of Department / English Language
 <br>
 </p>
 </td>
@@ -365,7 +365,7 @@ students, the passion for reading and exploration!
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/Lit
+<p>LT / English Literature
 <br>
 </p>
 </td>
@@ -377,12 +377,10 @@ students, the passion for reading and exploration!
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lilian Ngui
-<br>
-</p>
+<p>Mdm Hafizhah Jamel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Level Head / English Language (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -392,9 +390,7 @@ students, the passion for reading and exploration!
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hafizhah Jamel
-<br>
-</p>
+<p>Mdm Lilian Ngui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -569,6 +565,18 @@ students, the passion for reading and exploration!
 <td rowspan="1" colspan="1">
 <p>Ms Low Qiao Yuan</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>16</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Saravanan s/o Govindan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
