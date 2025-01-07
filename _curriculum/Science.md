@@ -1156,12 +1156,12 @@ the school proud by achieving the following awards:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Catherine Kang (Senior Teacher)</p>
+<p>Miss Agnes Lim Siew Mei (Subject Head / Chemistry)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Agnes Lim Siew Mei (Subject Head / Chemistry)</p>
+<p>Mdm Catherine Kang (Senior Teacher)</p>
 </td>
 </tr>
 <tr>
