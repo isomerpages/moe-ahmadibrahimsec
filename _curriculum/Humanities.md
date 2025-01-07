@@ -92,16 +92,6 @@ among students.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Liling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Theresa Ong Hwee Fang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wang Xuejuan</p>
 </td>
 </tr>
