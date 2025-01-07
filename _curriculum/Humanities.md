@@ -42,11 +42,6 @@ among students.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Wensheng (SH/ CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Doris Lee (ST/ Geography)</p>
 </td>
 </tr>
