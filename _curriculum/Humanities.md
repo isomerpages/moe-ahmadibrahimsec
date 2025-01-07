@@ -42,11 +42,6 @@ among students.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Wensheng (SH/ CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Doris Lee (ST/ Geography)</p>
 </td>
 </tr>
@@ -97,17 +92,12 @@ among students.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Liling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Theresa Ong Hwee Fang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wang Xuejuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ms Sim Pei Qi</p>
 </td>
 </tr>
 </tbody>
