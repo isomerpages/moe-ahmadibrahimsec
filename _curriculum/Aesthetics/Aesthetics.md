@@ -208,17 +208,9 @@ Nutrition &amp; Food Science (NFS); and Design &amp; Technology.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Nutrition &amp; Food Science</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Nirmala K Periyiah</p>
 </td>
@@ -243,17 +235,9 @@ Nutrition &amp; Food Science (NFS); and Design &amp; Technology.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Music</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Chow Pei Yan</p>
 </td>
@@ -275,17 +259,6 @@ Nutrition &amp; Food Science (NFS); and Design &amp; Technology.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
