@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S2_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/S3_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
