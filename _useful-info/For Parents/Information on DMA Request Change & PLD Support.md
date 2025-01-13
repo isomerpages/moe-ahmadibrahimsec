@@ -8,7 +8,8 @@ third_nav_title: For Parents
 <h2><strong>DMA Request Change Form</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>&lt;to be updated soon&gt;</p>
+<p><a href="https://go.gov.sg/aiss-dma-options" rel="noopener nofollow" target="_blank">https://go.gov.sg/aiss-dma-options</a>
+</p>
 </li>
 </ul>
 <h4>Additional Information on DMA</h4>
