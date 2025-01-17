@@ -109,10 +109,15 @@ Redzuan Bin Mohammad Hanip
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong> 
-<br>3.15 pm – 5.45 pm
-<br>
-<br><strong>Friday </strong>
-<br>2.30 pm – 5.00 pm</p>
+<br>3pm to 5pm</p>
+<p><strong>Friday </strong>
+<br>2.30pm to 5pm</p>
+<p><strong><em>Note:</em></strong><em> Cadet Leaders will end by 5.30pm.</em>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="border:solid 1px #777" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=bW9lLmVkdS5zZ192Y2c2M3FmbmJkNWRvZ3V0cG8xZG1zNmVhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5"></iframe>
+</div>
 </div>
 </details>
 </div>
@@ -174,8 +179,8 @@ Redzuan Bin Mohammad Hanip
 </p>
 <p>Ms Kasturi d/o Manoselvam
 <br>Mr Mohd Imran Ishak
-<br>Ms Bong Ming Le
-<br>Ms Siti Salmiah</p>
+<br>Ms Siti Salmiah
+<br>Mr Saravanan Govindan</p>
 </div>
 </details>
 </div>

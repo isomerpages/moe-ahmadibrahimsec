@@ -6,17 +6,17 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>Class Timetable</strong></h4>
-<p><em>*Timetable updated on 2nd January 2025</em>
+<p><em>*Timetable updated on 16 January 2025</em>
 </p>
 <p><strong>Sec 1</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S1_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec1_Odd.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S1_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec1_Even.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -24,11 +24,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S2_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec2_Odd.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S2_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec2_Even.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -36,11 +36,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S3_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec3_Odd.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S3_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec3_Even.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -48,11 +48,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S4_5_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec4_5_Odd.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S4_5_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec4_5_Even.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
