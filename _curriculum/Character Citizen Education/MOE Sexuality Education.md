@@ -848,18 +848,22 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<h3>Information For Parents</h3>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2024_Information_on_Sexuality_Education_in_Schools_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by <strong><u>31/01/2024</u></strong>.</p>
-<p>12. Parents who wish to opt their children out of the eTeens programme
-need to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2024_Information_on_Eteens_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by <strong><u>31/01/2024</u></strong>.</p>
-<p>13. Parents can contact the school at 6758 5384 (email: <strong><u>aiss@moe.edu.sg</u></strong>)
+<p></p>
+<h3><strong>Information For Parents</strong></h3>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <a href="/files/1__2025_Information_on_Sexuality_Education_in_Schools_2025__15_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed form is to be submitted by 31/01/2025.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="/files/2__2025_Information_on_Eteens_Programme__15_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
+The completed form is to be submitted by 31/01/2025.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6758
+5384 (email: <a rel="noopener noreferrer nofollow" target="_blank">aiss@moe.edu.sg</a>)
 for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
