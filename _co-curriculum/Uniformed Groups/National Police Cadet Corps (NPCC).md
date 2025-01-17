@@ -112,7 +112,8 @@ Redzuan Bin Mohammad Hanip
 <br>3pm to 5pm</p>
 <p><strong>Friday </strong>
 <br>2.30pm to 5pm</p>
-<p>Note: Cadet Leaders will end by 5.30pm.</p>
+<p><strong><em>Note:</em></strong><em> Cadet Leaders will end by 5.30pm.</em>
+</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="border:solid 1px #777" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=569&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=bW9lLmVkdS5zZ192Y2c2M3FmbmJkNWRvZ3V0cG8xZG1zNmVhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5"></iframe>
