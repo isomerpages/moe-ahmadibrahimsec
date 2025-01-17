@@ -289,7 +289,7 @@ as a male or female
 <br>• understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +315,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -461,7 +461,7 @@ is normal and one can recover from the experience
 family and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -496,7 +496,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -576,7 +576,7 @@ one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -618,7 +618,7 @@ with verbal ones, when communicating personal and emotional boundaries
 in a relationship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -651,7 +651,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -675,7 +675,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -749,7 +749,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -771,21 +771,22 @@ and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><u>eTeens Programme:</u></h4>
+<h4><strong><em><u>eTeens</u></em><u> Programme:</u></strong></h4>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
+by Health Promotion Board, in collaboration with the Ministry of Education,
+to provide Secondary 3 students with accurate information on STIs, HIV
+and protection from a health perspective. <em>eTeens</em> is conducted in
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+as decision-making, assertiveness and negotiation to say “no” to sex and
+negative peer pressure. They also learn that the impact of STIs/HIV extends
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
 <p></p>
-<p>8. <em>eTeens</em> is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education, to provide Secondary 3
-students with accurate information on STIs, HIV and protection from a health
-perspective. <em>eTeens</em> is conducted in two segments – a mass talk segment
-and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p>9. Students are taught skills such as decision-making, assertiveness and
-negotiation to say “no” to sex and negative peer pressure. They also learn
-that the impact of STIs/HIV extends beyond themselves and involves their
-family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.</p>
-<p></p>
-<p><strong>At AHMAD IBRAHIM Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
+<p><strong>At AHMAD IBRAHIM Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
