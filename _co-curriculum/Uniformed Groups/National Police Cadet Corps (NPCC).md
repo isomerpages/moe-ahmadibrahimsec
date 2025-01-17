@@ -116,7 +116,7 @@ Redzuan Bin Mohammad Hanip
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:solid 1px #777" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=bW9lLmVkdS5zZ192Y2c2M3FmbmJkNWRvZ3V0cG8xZG1zNmVhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5"></iframe>
+<iframe style="border:solid 1px #777" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=bW9lLmVkdS5zZ192Y2c2M3FmbmJkNWRvZ3V0cG8xZG1zNmVhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5"></iframe>
 </div>
 </div>
 </details>
