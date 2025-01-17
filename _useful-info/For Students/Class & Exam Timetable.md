@@ -48,11 +48,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S4_5_OW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec4_5_Odd.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/S4_5_EW___2025_Sem_1_Timetable_Class_2Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec4_5_Even.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
