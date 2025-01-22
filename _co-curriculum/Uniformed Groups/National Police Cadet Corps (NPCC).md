@@ -39,7 +39,7 @@ among the 123 participating schools. As AI NPCC continues to strive despite
 of all the challenges and obstacles, let’s aim for more remarkable accomplishments
 and reaching new heights together. Onwards, AI NPCC!
 <br>
-<br>AI NPCC Website: <a href="https://www.instagram.com/ai_npcc?igsh=MXQzbDNyNDBrcjFqNg%3D%3D&amp;utm_source=qr" rel="noopener nofollow" target="_blank">AI NPCC IG</a>
+<br><a href="https://www.instagram.com/ai_npcc?igsh=MXQzbDNyNDBrcjFqNg%3D%3D&amp;utm_source=qr" rel="noopener nofollow" target="_blank">AI NPCC IG</a>
 </p>
 </div>
 </details>
