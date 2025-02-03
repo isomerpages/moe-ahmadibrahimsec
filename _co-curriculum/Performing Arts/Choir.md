@@ -79,7 +79,7 @@ heart in singing, so that music in our soul can be heard by the universe.</p>
 Choir and East Spring Chorale</p>
 </li>
 <li>
-<p>Voices of Singapore Festival, 2019</p>
+<p>Voices of Singapore Festival</p>
 </li>
 <li>
 <p>SYF Competition</p>
