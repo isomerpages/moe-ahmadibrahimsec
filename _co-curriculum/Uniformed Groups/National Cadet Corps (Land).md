@@ -103,7 +103,9 @@ SYAFIQ BIN HANISS
 <p><strong>Wednesday<br></strong>3.30 - 5.30 PM</p>
 <p><strong>Friday<br></strong>2.30 - 5.30 PM (No Training on Friday, 16 Aug,
 23 Aug, 30 Aug)</p>
-<p>(Training sessions by HQ will be updated once details are released)</p>
+<p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1GxZmTpzz1PPMEFkNQglCbt_GLI19KSW27LwcbOQlVjM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Live schedule</a>
+</p>
 </div>
 </details>
 </div>
