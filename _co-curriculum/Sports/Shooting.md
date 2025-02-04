@@ -506,8 +506,8 @@ Aaron</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mr Luo Zhengyang (OIC)<br>Contact:&nbsp;<a href="mailto:luo_zhengyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">luo_zhengyang@moe.edu.sg</a></strong>
 </p>
-<p>Mr Mohamed Fauzi Bin Husin
-<br>Mr Tan Boon Seng</p>
+<p>Mr Mohamed Fauzi Bin Husin</p>
+<p>Mr Tan Boon Seng</p>
 <p>Mdm Nurhumairah Bte Mohd Akip</p>
 </div>
 </details>
