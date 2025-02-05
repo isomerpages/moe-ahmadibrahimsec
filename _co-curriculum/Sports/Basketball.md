@@ -83,10 +83,8 @@ going to continue to uphold and we will strive to keep it going.&nbsp;</p>
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Mdm Tay Liling (OIC)<br>Contact:&nbsp;<a href="mailto:tay_liling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tay_liling@moe.edu.sg</a></strong>
-</p>
-<p>Mr Daniel Chan Chong Weng
-<br>Ms Theresa Ong Hwee Fang
+<p><strong>Mr Daniel Chan Chong Weng (OIC)<br>Contact:&nbsp;<a href="mailto:daniel_chan_chong_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_chan_chong_weng@moe.edu.sg</a></strong> 
+<br>Ms Tsang Wing Han
 <br>Mr Zhang Xinwen</p>
 </div>
 </details>
