@@ -329,23 +329,6 @@ both offline and online</p>
 <p>Term 2 Week 5</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5><strong>SECONDARY 3</strong></h5>
@@ -480,23 +463,6 @@ and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -661,23 +627,6 @@ and act in alignment with our beliefs</p>
 <p>Term 3 Week 4</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>SECONDARY 5</strong></h4>
@@ -733,23 +682,6 @@ and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -818,20 +750,8 @@ of assertiveness and responsible decision-making</p>
 <p>Term 3 Week 2</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Information For Parents</strong></h3>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
