@@ -361,7 +361,7 @@ both offline and online</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -396,9 +396,6 @@ is important when entering into a dating relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mending a Broken Heart Lesson 1B
 <br>(60 mins)</p>
 </td>
@@ -431,9 +428,6 @@ family and friends are important pillars of support</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>When Respect Takes Centre Stage
 <br>Lesson 2
