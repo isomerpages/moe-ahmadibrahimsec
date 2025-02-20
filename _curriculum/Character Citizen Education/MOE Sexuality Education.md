@@ -81,7 +81,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<h4><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <p>At AHMAD IBRAHIM Secondary School, the following Sexuality Education lessons
 will be taught in <strong><u>2025</u></strong>:</p>
 <h5><strong>SECONDARY 1</strong></h5>
@@ -201,23 +201,6 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
