@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character Citizen Education
 variant: tiptap
 ---
-<h2>Citizenship Education (CE)</h2>
+<h2>Citizenship Education (CCE)</h2>
 <p>CCE is at the heart of education in Singapore. Through CCE, students learn
 values, social-emotional competencies, and develop character and citizenship
 dispositions that enable them to grow holistically and learn for life.</p>
