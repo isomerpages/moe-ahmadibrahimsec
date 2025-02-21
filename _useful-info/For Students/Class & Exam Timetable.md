@@ -57,6 +57,18 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
+<h4><strong>Learning Fiesta Week (T1W8) Timetable</strong></h4>
+<p><em>*Timetable updated on 19 February 2025</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 2</p>
+</li>
+<li>
+<p>Sec 4 &amp; 5</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
 <p><em>*Timetable will be updated nearer to the confirmed date.</em>
 </p>
