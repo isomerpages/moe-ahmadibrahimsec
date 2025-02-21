@@ -57,7 +57,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<h4><strong>Learning Fiesta Week (T1W8) Timetable</strong></h4>
+<h4><strong>Special Learning Fiesta Week (T1W8) Timetable</strong></h4>
 <p><em>*Timetable updated on 19 February 2025</em>
 </p>
 <ul data-tight="true" class="tight">
