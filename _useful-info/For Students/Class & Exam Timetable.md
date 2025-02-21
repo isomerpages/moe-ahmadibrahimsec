@@ -62,10 +62,12 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 2</p>
+<p><a href="/files/Timetable/AI Learning Fiesta/2025_T1W8_Learning_Fiesta_TT_Sec_2_classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
 </li>
 <li>
-<p>Sec 4 &amp; 5</p>
+<p><a href="/files/Timetable/AI Learning Fiesta/2025_T1W8_Learning_Fiesta_TT_Sec_4_and_5_classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
 </li>
 </ul>
 <p></p>
