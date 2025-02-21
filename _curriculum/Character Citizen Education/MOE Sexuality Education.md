@@ -81,7 +81,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<h4><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <p>At AHMAD IBRAHIM Secondary School, the following Sexuality Education lessons
 will be taught in <strong><u>2025</u></strong>:</p>
 <h5><strong>SECONDARY 1</strong></h5>
@@ -201,23 +201,6 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -346,23 +329,6 @@ both offline and online</p>
 <p>Term 2 Week 5</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5><strong>SECONDARY 3</strong></h5>
@@ -395,7 +361,7 @@ both offline and online</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -430,9 +396,6 @@ is important when entering into a dating relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mending a Broken Heart Lesson 1B
 <br>(60 mins)</p>
 </td>
@@ -466,9 +429,6 @@ family and friends are important pillars of support</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>When Respect Takes Centre Stage
 <br>Lesson 2
 <br>(60 mins)</p>
@@ -497,23 +457,6 @@ and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -678,23 +621,6 @@ and act in alignment with our beliefs</p>
 <p>Term 3 Week 4</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>SECONDARY 5</strong></h4>
@@ -750,23 +676,6 @@ and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -835,20 +744,8 @@ of assertiveness and responsible decision-making</p>
 <p>Term 3 Week 2</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Information For Parents</strong></h3>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality

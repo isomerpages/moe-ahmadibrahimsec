@@ -57,6 +57,20 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
+<h4><strong>Special Learning Fiesta Week (T1W8) Timetable</strong></h4>
+<p><em>*Timetable updated on 19 February 2025</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/2025_T1W8_Learning_Fiesta_TT_Sec_2_classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/AI Learning Fiesta/2025_T1W8_Learning_Fiesta_TT_Sec_4_and_5_classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
 <p><em>*Timetable will be updated nearer to the confirmed date.</em>
 </p>

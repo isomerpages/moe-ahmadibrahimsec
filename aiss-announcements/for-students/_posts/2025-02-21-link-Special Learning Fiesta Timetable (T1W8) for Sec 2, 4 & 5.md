@@ -1,6 +1,6 @@
 ---
-title: Checking of Scripts & Learning Fiesta Timetable (Week 6 & 7)
-date: 2024-10-09
+title: Special Learning Fiesta Timetable (T1W8) for Sec 2, 4 & 5
+date: 2025-02-21
 layout: link
 description: ""
 image: ""
