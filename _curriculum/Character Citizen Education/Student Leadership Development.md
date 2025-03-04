@@ -2,8 +2,8 @@
 title: Student Leadership Development
 permalink: /co-curriculum/cce/student-leadership-development/
 description: ""
-third_nav_title: Character Citizen Education
 variant: tiptap
+third_nav_title: Character Citizen Education
 ---
 <h4><strong>About Us</strong></h4>
 <p><strong>Vision<br></strong>At AISS, we aim to nurture our students with
