@@ -9,16 +9,17 @@ variant: tiptap
 <p>CCE is at the heart of education in Singapore. Through CCE, students learn
 values, social-emotional competencies, and develop character and citizenship
 dispositions that enable them to grow holistically and learn for life.</p>
+<p></p>
 <p>In AI, we value the holistic development of every student. The school
-has implemented the CCE curriculum to anchor AI students on a strong foundation
-of moral values, good character and resilience. This is in alignment to
-our mission to grow students with strength of character, nurture inquiring
+has implemented an enhanced CCE curriculum to anchor AI students on a strong
+foundation of moral values, good character and resilience. This is in alignment
+to our mission to grow students with strength of character, nurture inquiring
 and disciplined minds and inspiring them with courage to lead and serve.
 We will also encourage AI students to play a more active role as citizens
 of Singapore as they care, learn and excel for AI and for the nation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="CCE 2021 Curriculum Framework" src="/images/CCE/CCE_2021_Curriculum_Framework.png">
-</div>
+<p>
+<br>
+</p>
 <h4>Goals</h4>
 <p>CCE 2021 aims to inculcate AI students with <strong>good character</strong> who
 have a sound moral compass and a strong sense of right and wrong. The AI
