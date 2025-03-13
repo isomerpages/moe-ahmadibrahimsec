@@ -20,19 +20,29 @@ of Singapore as they care, learn and excel for AI and for the nation.</p>
 <p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_2021_Curriculum_Framework.png">
+</div>
+<p><em>CCE 2021 Curriculum Framework</em>
+</p>
+<p></p>
 <h4>Goals</h4>
-<p>CCE 2021 aims to inculcate AI students with <strong>good character</strong> who
+<p>CCE 2021 aims to inculcate AI students with <strong>good character </strong>who
 have a sound moral compass and a strong sense of right and wrong. The AI
 student will be able to think critically and ethically, be discerning in
-judgment and take responsibility for his/her own choices and actions.</p>
+judgment and take responsibility for his/her own choices and actions.
+<br>
+</p>
 <p>Students will also demonstrate <strong>resilience </strong>when faced with
 challenges and enhance their <strong>social- emotional well-being </strong>through
 a balanced sense of self and healthy relationships with their peers.</p>
+<p></p>
 <p>In addition, AI will promote <strong>active citizenship </strong>based
 on a sense of belonging to the nation, a sense of hope in themselves and
 the future, an awareness of the reality of Singapore’s vulnerabilities
 and constraints, and the will to act on improving the lives of others,
 and building a future for our nation.</p>
+<p></p>
 <p>Lastly, we aim to prepare AI students to be <strong>future ready </strong>by
 developing the dispositions of adaptability and lifelong learning so students
 will be able to navigate education and career pathways purposefully and
@@ -41,4 +51,7 @@ where CCE is enacted with intentionality. These include CCE lessons during
 curriculum time, key Student Development Experiences (SDEs) beyond the
 classroom, school-based initiatives, teachable moments during other subject
 lessons, and learning opportunities beyond school.</p>
+<p>
+<br>
+</p>
 <p></p>
