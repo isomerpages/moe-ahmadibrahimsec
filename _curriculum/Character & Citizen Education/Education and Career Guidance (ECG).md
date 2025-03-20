@@ -33,7 +33,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>The Education and Career Guidance (ECG) team organized a series of engaging
 activities throughout the year to help students explore future careers
 and post-secondary options aligned with Singapore’s economic needs. The
@@ -52,9 +52,6 @@ potential career paths while reinforcing the value of perseverance and
 creativity.</p>
 <p>Overall, the ECG programs empower students to dream big, aim high, and
 understand that with determination, a world of opportunities awaits.</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
