@@ -11,9 +11,6 @@ third_nav_title: Character & Citizen Education
 <summary>Total Defence Day (TDD)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Total_Defence_Day_Write_Up_pptx.jpg">
-</div>
 </div>
 </details>
 </div>
@@ -22,9 +19,6 @@ third_nav_title: Character & Citizen Education
 <summary>International Friendship Day</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_International_Friendship_Day_pptx.jpg">
-</div>
 </div>
 </details>
 </div>
@@ -41,9 +35,6 @@ third_nav_title: Character & Citizen Education
 <summary>National Day</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_National_Day_Write_Up_pptx.jpg">
-</div>
 </div>
 </details>
 </div>
@@ -81,9 +72,6 @@ of heritage and identity in shaping our collective future.</p>
 <summary>NRIC Presentation Ceremony</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_NRIC_Presentation_pptx.jpg">
-</div>
 </div>
 </details>
 </div>
@@ -92,9 +80,6 @@ of heritage and identity in shaping our collective future.</p>
 <summary>NS Engagement</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_NS_Sharing_pptx.jpg">
-</div>
 </div>
 </details>
 </div>
@@ -103,9 +88,6 @@ of heritage and identity in shaping our collective future.</p>
 <summary>Gratitude Project</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Gratitude_Project_pptx.jpg">
-</div>
 </div>
 </details>
 </div>
