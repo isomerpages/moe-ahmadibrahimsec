@@ -11,6 +11,9 @@ third_nav_title: Character & Citizen Education
 <summary>Total Defence Day (TDD)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Total_Defence_Day_Write_Up_pptx.jpg">
+</div>
 </div>
 </details>
 </div>
