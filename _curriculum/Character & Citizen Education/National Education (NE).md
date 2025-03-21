@@ -101,6 +101,9 @@ of heritage and identity in shaping our collective future.</p>
 <summary>NS Engagement</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_NS_Sharing.jpg">
+</div>
 </div>
 </details>
 </div>
