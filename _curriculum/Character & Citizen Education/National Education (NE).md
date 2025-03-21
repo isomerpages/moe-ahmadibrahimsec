@@ -22,6 +22,9 @@ third_nav_title: Character & Citizen Education
 <summary>International Friendship Day</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_International_Friendship_Day_Write_Up.jpg">
+</div>
 </div>
 </details>
 </div>
@@ -29,7 +32,8 @@ third_nav_title: Character & Citizen Education
 <details class="isomer-details">
 <summary>Racial Harmony Day</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><em>Contents coming up soon!</em>
+</p>
 </div>
 </details>
 </div>
@@ -38,6 +42,9 @@ third_nav_title: Character & Citizen Education
 <summary>National Day</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_National_Day_Write_Up.jpg">
+</div>
 </div>
 </details>
 </div>
@@ -66,7 +73,15 @@ exhibitions and programmes. This enriching experience provided our students
 with valuable perspectives on our nation’s history, reinforcing the importance
 of heritage and identity in shaping our collective future.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/S2_LJ1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/S2_LJ2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/S2_LJ3.jpg">
+</div>
 </div>
 </details>
 </div>
