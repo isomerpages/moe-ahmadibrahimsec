@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Character & Citizen Education
 variant: tiptap
 ---
-<p>The Education and Career Guidance (ECG) team organized a series of engaging
-activities throughout the year to help students explore future careers
-and post-secondary options aligned with Singapore’s economic needs. The
-Secondary 2 ECG Program focuses on career readiness, guiding students to
-reflect on their strengths, interests, and abilities, laying the foundation
-for informed decision-making.</p>
+<p>The <strong>Education and Career Guidance (ECG)</strong> team organized
+a series of engaging activities throughout the year to help students explore
+future careers and post-secondary options aligned with Singapore’s economic
+needs. The Secondary 2 ECG Program focuses on career readiness, guiding
+students to reflect on their strengths, interests, and abilities, laying
+the foundation for informed decision-making.</p>
 <p>Through immersive experiences like the visit to ExxonMobil, students are
 introduced to the world of STEM careers, discovering the role of photochemistry
 in daily life. These real-world connections help students see how their
