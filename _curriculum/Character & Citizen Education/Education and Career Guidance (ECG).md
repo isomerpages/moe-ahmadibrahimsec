@@ -23,3 +23,27 @@ potential career paths while reinforcing the value of perseverance and
 creativity.</p>
 <p>Overall, the ECG programs empower students to dream big, aim high, and
 understand that with determination, a world of opportunities awaits.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Screenshot_2025_03_20_172615.png">
+</div>
+<h4>Pitching their ideas @&nbsp;Marvel of Science &amp; Tech Hackathon</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ecg1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ecg2.jpg">
+</div>
+<h4>AeroBot Challenge</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ecg3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ecg4.jpg">
+</div>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
