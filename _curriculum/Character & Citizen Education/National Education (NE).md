@@ -123,6 +123,16 @@ of heritage and identity in shaping our collective future.</p>
 <summary>Values in Action (VIA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Value_In_Actions__Yearbook_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Value_In_Actions__Yearbook_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2024_Value_In_Actions__Yearbook_Page_3.jpg">
+</div>
+<p></p>
 </div>
 </details>
 </div>
@@ -130,7 +140,8 @@ of heritage and identity in shaping our collective future.</p>
 <details class="isomer-details">
 <summary>Integration Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><em>Contents coming up soon!</em>
+</p>
 </div>
 </details>
 </div>
