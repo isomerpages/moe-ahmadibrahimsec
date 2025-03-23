@@ -2,7 +2,7 @@
 title: Organisation Chart
 permalink: /co-curriculum/cce/organisation-chart/
 description: ""
-third_nav_title: Character Citizen Education
+third_nav_title: Character & Citizen Education
 variant: tiptap
 ---
 <h2>Organisation Chart</h2>
