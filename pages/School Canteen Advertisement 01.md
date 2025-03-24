@@ -82,7 +82,7 @@ to provide food sampling.</p>
 from <strong>March/April 2025</strong>.</p>
 </li>
 <li>
-<p>Closing date for Application:&nbsp;<strong>21 March 2025, 6pm</strong>.</p>
+<p>Closing date for Application:&nbsp;<strong>30 June 2025, 6pm</strong>.</p>
 </li>
 <li>
 <p>Please contact the school at <strong>6758 5384</strong> for any clarifications.</p>
