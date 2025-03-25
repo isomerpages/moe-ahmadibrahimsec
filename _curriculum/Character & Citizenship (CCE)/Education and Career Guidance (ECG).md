@@ -2,7 +2,7 @@
 title: Education and Career Guidance (ECG)
 permalink: /co-curriculum/cce/ecg/
 description: ""
-third_nav_title: Character & Citizen Education
+third_nav_title: Character & Citizenship (CCE)
 variant: tiptap
 ---
 <p>The <strong>Education and Career Guidance (ECG)</strong> team organized

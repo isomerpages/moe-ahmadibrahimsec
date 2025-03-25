@@ -3,7 +3,7 @@ title: Discipline
 permalink: /co-curriculum/cce/discipline/
 description: ""
 variant: tiptap
-third_nav_title: Character & Citizen Education
+third_nav_title: Character & Citizenship (CCE)
 ---
 <h3>Our Belief</h3>
 <p>Every child has something good waiting to appear, it just takes</p>

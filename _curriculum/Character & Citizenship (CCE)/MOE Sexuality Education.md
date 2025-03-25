@@ -2,7 +2,7 @@
 title: MOE Sexuality Education
 permalink: /co-curriculum/cce/sex-edu/
 description: ""
-third_nav_title: Character & Citizen Education
+third_nav_title: Character & Citizenship (CCE)
 variant: tiptap
 ---
 <h2><strong>MOE Sexuality Education in Schools</strong></h2>

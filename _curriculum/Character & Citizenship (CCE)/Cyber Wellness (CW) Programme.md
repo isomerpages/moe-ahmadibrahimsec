@@ -2,7 +2,7 @@
 title: Cyber Wellness (CW) Programme
 permalink: /co-curriculum/cce/cyberwellness/
 description: ""
-third_nav_title: Character & Citizen Education
+third_nav_title: Character & Citizenship (CCE)
 variant: tiptap
 ---
 <h2>Cyber Wellness (CW) Programme</h2>

@@ -3,7 +3,7 @@ title: National Education (NE)
 permalink: /national-education-ne/
 variant: tiptap
 description: ""
-third_nav_title: Character & Citizen Education
+third_nav_title: Character & Citizenship (CCE)
 ---
 <h2>National Education (NE)</h2>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">

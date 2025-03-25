@@ -2,7 +2,7 @@
 title: Overview
 permalink: /co-curriculum/cce/citizenship-education/
 description: ""
-third_nav_title: Character & Citizen Education
+third_nav_title: Character & Citizenship (CCE)
 variant: tiptap
 ---
 <h4><strong>Character and Citizenship Education CCE 2021</strong></h4>
