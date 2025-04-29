@@ -27,7 +27,7 @@ areas:</p>
 <br>3.Physical Health and Safety</p>
 <p><strong><u>Programmes</u></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Outdoor Learning Experience (OLE) 1,2,3</strong>
 </summary>
@@ -61,8 +61,6 @@ of Belonging through shared common experience</p>
 developing Character and enhancing environmental/cultural awareness.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sports Carnival</strong>
 </summary>
@@ -80,12 +78,10 @@ promotes class spirit. For the school’s 60<sup>th</sup> anniversary, the
 Fun Run encourages students to run 60 laps around the 100Plus Promenade
 at the Singapore Sports Hub as a class.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiWrA70k0GYH3B0Sx3u9Vlf5YQsX6LIyWBELx5oTJUeVc32X5AXXD53iFaafvN8rDkV7I0GV24lsp/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiWrA70k0GYH3B0Sx3u9Vlf5YQsX6LIyWBELx5oTJUeVc32X5AXXD53iFaafvN8rDkV7I0GV24lsp/embed?start=false&amp;amp;loop=false&amp;amp;delayms=5000"></iframe>
 </div>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Interclass games for all levels</strong>
 </summary>
@@ -98,8 +94,72 @@ Net Barrier and Invasion Games).</p>
 <p>Each module consists of 10 weeks (20 periods) of PE lessons in which the
 students learn the skills, rules and strategies in playing the games.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuggWOsLVLLkkLf9lbYsNmb1ciX7tvxhIIb9HZj5TBNm0vBsDS-evFYTzchmxU_zwcQ4pVE2O7hv9E/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuggWOsLVLLkkLf9lbYsNmb1ciX7tvxhIIb9HZj5TBNm0vBsDS-evFYTzchmxU_zwcQ4pVE2O7hv9E/embed?start=false&amp;amp;loop=false&amp;amp;delayms=5000"></iframe>
 </div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Safety Guidelines</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Students should:</strong>
+</p>
+<p><strong>1. General Safety</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wear appropriate PE attire and proper footwear for every lesson.</p>
+</li>
+<li>
+<p>Bring a water bottle and stay hydrated during all physical activities.</p>
+</li>
+<li>
+<p>Participate in warm-up and cool-down exercises to reduce the risk of injury.</p>
+</li>
+</ul>
+<p><strong>2. Equipment Use</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Use equipment only when given permission and under teacher supervision.</p>
+</li>
+<li>
+<p>Handle equipment properly and use it only for its intended purpose.</p>
+</li>
+<li>
+<p>Return all equipment to its proper place after use.</p>
+</li>
+</ul>
+<p><strong>3. Playing Area</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Check the area to ensure it is free of hazards such as furniture, debris,
+or sharp objects.</p>
+</li>
+<li>
+<p>Stay within the boundaries clearly marked by cones or lines.</p>
+</li>
+<li>
+<p>Be aware of your surroundings and watch out for other students.</p>
+</li>
+</ul>
+<p><strong>4. Conduct and Behavior</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Follow all instructions given by their respective PE teachers.</p>
+</li>
+<li>
+<p>Stay focused and on-task throughout the lesson.</p>
+</li>
+<li>
+<p>Respect the personal space of others, especially during contact activities.</p>
+</li>
+<li>
+<p>Report any injuries—no matter how minor—immediately to the teacher.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
