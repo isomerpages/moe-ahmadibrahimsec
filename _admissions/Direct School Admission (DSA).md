@@ -35,8 +35,6 @@ or</p>
 leadership capabilities.</p>
 <p>Primary 6 students who are interested in joining Ahmad Ibrahim Secondary
 School are encouraged to apply through the following DSA talent areas.</p>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,6 +93,9 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </table>
 <p><em><br>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Schedule" src="/images/Admission/DSA/aiss_dsa_sec_schedule.png">
+</div>
 <hr>
 <h3><strong>Application Procedures</strong></h3>
 <h4>Step 1: Submission of application form through DSA - Sec Portal</h4>
