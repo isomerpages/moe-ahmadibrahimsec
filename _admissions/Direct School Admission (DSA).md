@@ -289,8 +289,8 @@ a shared and meaningful goal.</p>
 </p>
 <h4><strong>Contact Us</strong></h4>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong>
-</p>
-<p><strong><u>For ALP (Critical Social Inquiry and Media Literacy) matters:<br></u></strong>Ms
+<br>
+<br><strong><u>For ALP (Critical Social Inquiry and Media Literacy) matters:<br></u></strong>Ms
 Andrea Lee Shu Qi
 <br>HOD / Humanities
 <br>Tel: 6594 9022
