@@ -24,15 +24,24 @@ wide range of school experiences.</p>
 <p>In line with our school’s focus on the holistic development of our students
 and to nurture the diversified talent areas, we are looking for students
 who</p>
-<p>a) have a keen interest in understanding societal issues and in harnessing
+<ul data-tight="true" class="tight">
+<li>
+<p>have a keen interest in understanding societal issues and in harnessing
 the media to generate an awareness of these issues and advocate for change,
 to make a difference in the lives of others, or</p>
-<p>b) have keen interest, disposition and ability in music (to take up the
-Enhanced Music Programme), or</p>
-<p>c) have good level of sports skills in Shooting and Track &amp; Field;
-or</p>
-<p>d) possess positive attitude, good communication skills and have demonstrated
+</li>
+<li>
+<p>have keen interest, disposition and ability in music (to take up the Enhanced
+Music Programme), or</p>
+</li>
+<li>
+<p>have good level of sports skills in Shooting and Track &amp; Field; or</p>
+</li>
+<li>
+<p>possess positive attitude, good communication skills and have demonstrated
 leadership capabilities.</p>
+</li>
+</ul>
 <p>Primary 6 students who are interested in joining Ahmad Ibrahim Secondary
 School are encouraged to apply through the following DSA talent areas.</p>
 <table style="minWidth: 50px">
@@ -243,7 +252,6 @@ the ALP.&nbsp;</p>
 air rifle and/or air pistol.
 <br>Seeking highly motivated individuals who strive for excellence and those
 that are able to perform under extreme pressure.
-<br>
 <br>(Students to pass the trial segment will have to stay for an interview
 session on the same day.)</p>
 </td>
@@ -276,8 +284,10 @@ a shared and meaningful goal.</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3><strong>Contact Us</strong></h3>
+<p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+<br>
+</p>
+<h4><strong>Contact Us</strong></h4>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong>
 </p>
 <p><strong><u>For ALP (Critical Social Inquiry and Media Literacy) matters:<br></u></strong>Ms
