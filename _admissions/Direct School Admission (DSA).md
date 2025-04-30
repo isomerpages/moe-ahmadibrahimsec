@@ -15,8 +15,8 @@ the schools’ academic and non-academic requirements, and the programmes
 available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
-related to the talent which they are selected for Year 1 - 4.</p>
-<p>
+related to the talent which they are selected for Year 1 - 4.
+<br>
 <br><strong><u>Talent Areas</u></strong> 
 <br>At Ahmad Ibrahim Secondary School, we aim to nurture our students into
 young ladies and gentlemen with the courage to lead and serve through a
@@ -91,7 +91,7 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </tr>
 </tbody>
 </table>
-<p><em><br>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em>
+<p><em>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DSA Schedule" src="/images/Admission/DSA/aiss_dsa_sec_schedule.png">
