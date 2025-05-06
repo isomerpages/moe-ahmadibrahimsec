@@ -400,7 +400,7 @@ from the arts training and many performance opportunities with the programme.</p
 <div class="isomer-image-wrapper">
 <img style="width: 32%;" height="auto" width="100%" src="/images/om18.png">
 </div>
-<p><strong>The art exhibition and our VI students are featured in Straits Times Life! Section, check it out -&nbsp;<a href="http://www.straitstimes.com/lifestyle/see-the-dreams-of-the-visually-impaired" rel="noopener" target="_blank">here</a></strong>
+<p><strong>The art exhibition and our VI students are featured in Straits Times Life! Section.</strong>
 </p>
 <p><strong>It’s a very meaningful experience visiting the exhibition, as it marks our students’ 2-year journey discovering about themselves and learning to express their hopes and dreams publicly.</strong>
 </p>
