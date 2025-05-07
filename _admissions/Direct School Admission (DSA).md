@@ -180,13 +180,13 @@ The dates available are:</p>
 </tbody>
 </table>
 <h4>Step 3: Outcome of Selection</h4>
-<p>You will be notified of the outcome by&nbsp;<strong>4 September 2025</strong>,
+<p>You will be notified of the outcome between&nbsp;<strong>25 August 2025</strong> to <strong>4 September 2025</strong>,
 informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>, <strong>put on&nbsp;Wait List</strong>,
 or&nbsp;<strong>Rejected</strong>. The decision of the Selection Panel
 is final.
 <br>
 <br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will
-receive notification on the School Preference Submission in&nbsp;<strong>October 2024</strong>.
+receive notification on the School Preference Submission in&nbsp;<strong>October 2025</strong>.
 <br>
 <br>Lastly, the DSA results will be released with the PSLE results.</p>
 <h4>Selection Criteria</h4>
