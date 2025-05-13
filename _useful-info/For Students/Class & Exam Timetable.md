@@ -6,6 +6,8 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
+<p><em>*Timetable updated on 13 May 2025</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetable/2025 Prelim Timetable/2025_Prelims_Timetable_N_Level__G1_.pdf" rel="noopener nofollow" target="_blank">Prelims N Level (G1)</a>
