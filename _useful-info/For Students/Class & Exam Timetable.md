@@ -6,8 +6,11 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
-<p><em>*Timetable will be updated nearer to the confirmed date.</em>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Class Timetable</strong></h4>
 <p><em>*Timetable updated on 24 January 2025</em>
@@ -76,4 +79,3 @@ variant: tiptap
 <h4><strong>Exam Timetable</strong></h4>
 <p><em>*Timetable will be updated nearer to the confirmed date.</em>
 </p>
-<p></p>
