@@ -5,6 +5,24 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
+<p><em>*Timetable updated on 13 May 2025</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2025 Prelim Timetable/2025_Prelims_Timetable_N_Level__G1_.pdf" rel="noopener nofollow" target="_blank">Prelims N Level (G1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 Prelim Timetable/2025_Prelims_Timetable_N_Level__G2_.pdf" rel="noopener nofollow" target="_blank">Prelims N Level (G2)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 Prelim Timetable/2025_Prelims_Timetable_O_Level__G3_.pdf" rel="noopener nofollow" target="_blank">Prelims O level (G3)</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>Class Timetable</strong></h4>
 <p><em>*Timetable updated on 24 January 2025</em>
 </p>
@@ -56,7 +74,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Special Learning Fiesta Week (T1W8) Timetable</strong></h4>
 <p><em>*Timetable updated on 19 February 2025</em>
 </p>
@@ -70,11 +87,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
-<p><em>*Timetable will be updated nearer to the confirmed date.</em>
-</p>
 <h4><strong>Exam Timetable</strong></h4>
 <p><em>*Timetable will be updated nearer to the confirmed date.</em>
 </p>
-<p></p>
