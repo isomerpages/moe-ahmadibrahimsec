@@ -5,6 +5,17 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<h4><strong>Special Timetables and Last Day of School Programme</strong></h4>
+<p><em>*Timetable updated on 23 May 2025</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
 <p><em>*Timetable updated on 13 May 2025</em>
 </p>
