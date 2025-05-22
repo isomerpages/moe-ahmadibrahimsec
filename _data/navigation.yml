@@ -21,5 +21,12 @@ links:
     collection: useful-info
   - title: Admissions
     collection: admissions
+  - title: For Students & Parents
+    url: /for-students/class-exam-timetable/
+    sublinks:
+      - title: For Students
+        url: /for-students/class-exam-timetable/
+      - title: For Parents
+        url: /for-parents/booklist-stationery-list/
   - title: Contact Us
     url: /contact-us/
