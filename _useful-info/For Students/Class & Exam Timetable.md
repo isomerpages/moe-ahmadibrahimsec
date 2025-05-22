@@ -10,10 +10,20 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Timetable/Special Timetables/2025_S1_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Timetable/Special Timetables/2025_S2_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/Special Timetables/2025_S3_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/Special Timetables/2025_S4_S5_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
 </li>
 </ul>
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
