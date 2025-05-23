@@ -21,7 +21,12 @@ links:
     collection: useful-info
   - title: Admissions
     collection: admissions
-  - title: Ordinary Miracles
-    url: /ordinary-miracles/
+  - title: For Students & Parents
+    url: /useful-info/for-students/class-exam-timetable/
+    sublinks:
+      - title: For Students
+        url: /useful-info/for-students/class-exam-timetable/
+      - title: For Parents
+        url: /useful-info/for-parents/booklist-stationery-list/
   - title: Contact Us
     url: /contact-us/
