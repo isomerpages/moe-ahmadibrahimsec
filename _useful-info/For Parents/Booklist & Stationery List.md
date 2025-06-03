@@ -12,7 +12,7 @@ are <em><a href="https://ahmadibrahimsec.moe.edu.sg/closure-of-sales-of-textbook
 </p>
 <ul>
 <li>
-<p><strong>Sec 1</strong> - <em>To be updated on later date</em>
+<p><a href="/files/Booklist/2025/S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 <br>
 </p>
 </li>
