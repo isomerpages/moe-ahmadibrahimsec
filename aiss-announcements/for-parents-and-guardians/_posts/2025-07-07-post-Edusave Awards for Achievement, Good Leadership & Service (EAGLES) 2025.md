@@ -33,7 +33,7 @@ world.</p>
 <p>After collating all nominations, a panel consisting of different school
 personnel will convene to shortlist the nominees.</p>
 <p>If you wish to nominate a deserving student or your child for the EAGLES
-(E21CC), please fill in the FormSG nomination form at <a href="https://go.gov.sg/aiss-echa-eagles-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aiss-echa-eagles-2025</a>  <strong>by 5pm, Friday, 18 July 2025</strong>.</p>
+(E21CC), please fill in the FormSG nomination form at <a href="https://go.gov.sg/aiss-echa-eagles-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aiss-echa-eagles-2025</a>  <strong>by 5 pm, Friday, 18 July 2025</strong>.</p>
 <p>For any queries, kindly contact Ms Andrea Lee at <a href="mailto:andrea_lee_shu_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrea_lee_shu_qi@moe.edu.sg</a>.</p>
 <p>We look forward to your nominations.</p>
 <p></p>
