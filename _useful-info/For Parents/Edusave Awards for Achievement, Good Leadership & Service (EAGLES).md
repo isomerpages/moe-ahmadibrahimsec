@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h3>Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) 2024</h3>
+<h3>Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) 2025</h3>
 <p>Dear Parent/Guardian,</p>
 <p>The Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES)
 was introduced in 2001 to recognise students' leadership qualities, excellence
