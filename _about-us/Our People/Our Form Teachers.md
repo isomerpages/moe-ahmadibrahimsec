@@ -383,8 +383,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ching Loo May
-<br><a href="mailto: ching_loo_may@moe.edu.sg" rel="noopener nofollow" target="_blank">ching_loo_may@moe.edu.sg</a>
+<p>Ms Lim Hui Hung
+<br><a href="mailto:lim_hui_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_hung@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
