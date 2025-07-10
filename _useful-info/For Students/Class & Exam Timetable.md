@@ -6,24 +6,20 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>Special Timetables and Last Day of School Programme</strong></h4>
-<p><em>*Timetable updated on 23 May 2025</em>
+<p><em>*Timetable updated on 11 July 2025</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/Special Timetables/2025_S1_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
-</p>
+<p></p>
 </li>
 <li>
-<p><a href="/files/Timetable/Special Timetables/2025_S2_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-</p>
+<p></p>
 </li>
 <li>
-<p><a href="/files/Timetable/Special Timetables/2025_S3_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-</p>
+<p></p>
 </li>
 <li>
-<p><a href="/files/Timetable/Special Timetables/2025_S4_S5_Special_Timetable_Classes.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
