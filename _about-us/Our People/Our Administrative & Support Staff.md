@@ -25,7 +25,7 @@ third_nav_title: Our People
 <p>Koh Sock Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ third_nav_title: Our People
 <p>Lim Soon Kiat, Louis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ third_nav_title: Our People
 <p>Mohammad Hafiz Bin Hairudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ third_nav_title: Our People
 <p>Abdul Aziz Bin Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ third_nav_title: Our People
 <p>Muhamad Halim Bin Talka</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ third_nav_title: Our People
 <p>Aslinah Bte Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ third_nav_title: Our People
 <p>Maznita Bte Montalib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ third_nav_title: Our People
 <p>Faizah Binte Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CSO</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ third_nav_title: Our People
 <p>Gay Poh Choo (Yvonne)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CSO</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ third_nav_title: Our People
 <p>Siti Nurjannah Binte Jamil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CSO</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ third_nav_title: Our People
 <p>Wong Tee Jeong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CSO</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ third_nav_title: Our People
 <p>Hang Hong Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Attendant</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ third_nav_title: Our People
 <p>Lau Kim Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Attendant</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ third_nav_title: Our People
 <p>Lian Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Attendant</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ third_nav_title: Our People
 <p>Parimalah d/o Krishnin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Attendant</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ third_nav_title: Our People
 <p>Weng Min Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior SEN Officer</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ third_nav_title: Our People
 <p>Koh Wen Jie (Chelsea)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ third_nav_title: Our People
 <p>Ong Kah Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Student Welfare Officer</p>
 </td>
 </tr>
 </tbody>
@@ -202,7 +202,7 @@ third_nav_title: Our People
 <p>Muhammad Sidiq Bin Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@ third_nav_title: Our People
 <p>Vickneswaran K Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ third_nav_title: Our People
 <p>Foong Chi Yow (Luke)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Library Asstistant</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ third_nav_title: Our People
 <p>Azmahwati&nbsp;Binte Amir Shahidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Printing Assistant</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ third_nav_title: Our People
 <p>Widya Binte Mohamad Mansor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Receptionist &amp; Admin Assistant</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +242,7 @@ third_nav_title: Our People
 <p>Sim Eng Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Security Officer</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +250,7 @@ third_nav_title: Our People
 <p>Mohd Amin Bin Hamin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Security Officer</p>
 </td>
 </tr>
 </tbody>
