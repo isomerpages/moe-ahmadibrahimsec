@@ -83,7 +83,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Emmanuel Devapragasam S/O Devadas
-<br><a href="mailto:emmanuel_devapragasam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emmanuel_devapragasam@schools.gov.sg</a>
+<br><a href="mailto:emmanuel_devapragasam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emmanuel_devapragasam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -212,12 +212,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kasturi d/o Manoselvam (Mrs Vishwa)
-<br><a href="mailto: do_manoselvam_kasturi@moe.edu.sg" rel="noopener nofollow" target="_blank"> do_manoselvam_kasturi@moe.edu.sg</a>
+<p>Ms Fara Lisa Binte Suati
+<br><a href="mailto:fara_lisa_suati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fara_lisa_suati@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Kasturi d/o Manoselvam (Mrs Vishwa)
+<br><a href="mailto: do_manoselvam_kasturi@moe.edu.sg" rel="noopener nofollow" target="_blank">do_manoselvam_kasturi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +229,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noor Azizah Bte Ibrahim
-<br><a href="mailto: noor_azizah_ibrahim@moe.edu.sg" rel="noopener nofollow" target="_blank"> noor_azizah_ibrahim@moe.edu.sg</a>
+<br><a href="mailto: noor_azizah_ibrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">noor_azizah_ibrahim@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,7 +271,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Li Yingying
+<br><a href="mailto:li_yingying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yingying_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -343,7 +347,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Loh Jia Cheng Desmond
+<br><a href="mailto:loh_jia_cheng_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jia_cheng_desmond@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
