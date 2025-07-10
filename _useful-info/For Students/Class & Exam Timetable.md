@@ -12,11 +12,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec1_Odd_24_Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S1_OW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec1_Even_24_Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S1_EW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -24,11 +24,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec2_Odd_24_Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S2_OW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec2_Even_24_Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S2_EW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -36,23 +36,23 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec3_Odd_24_Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S3_OW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec3_Even_24_Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S3_EW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
-<p><strong>Sec 4&amp;5</strong>
+<p><strong>Sec 4 &amp; 5</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec4_5_Odd_24_Jan.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S4_5_OW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025 Timetable Sem 1/Sec4_5_Even_24_Jan.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S4_5_EW_Sem_2_TT_Class.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
