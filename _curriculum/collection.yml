@@ -2,33 +2,13 @@ collections:
   curriculum:
     output: true
     order:
-      - Student Leadership Development.md
-      - Discipline.md
       - Our Curriculum.md
-      - English.md
-      - Mother Tongue/.keep
-      - Mother Tongue/About Us.md
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Tamil.md
-      - Mathematics.md
-      - Science.md
-      - Humanities.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
       - Aesthetics/Design & Technology.md
       - Aesthetics/Music.md
       - Aesthetics/Food & Nutrition Science.md
-      - Physical Education.md
-      - Visually Impaired/.keep
-      - Visually Impaired/Overview.md
-      - Visually Impaired/Model of Success.md
-      - Visually Impaired/Events.md
-      - Visually Impaired/PE.md
-      - Visually Impaired/Distinguished Students.md
-      - Visually Impaired/Media.md
-      - Computer Applications.md
       - Character & Citizenship (CCE)/.keep
       - Character & Citizenship (CCE)/Overview.md
       - Character & Citizenship (CCE)/National Education (NE).md
@@ -38,3 +18,23 @@ collections:
       - Character & Citizenship (CCE)/Family Education (FE).md
       - Character & Citizenship (CCE)/MOE Sexuality Education.md
       - Character & Citizenship (CCE)/Organisation Chart.md
+      - Computer Applications.md
+      - Discipline.md
+      - English.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue/.keep
+      - Mother Tongue/About Us.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Science.md
+      - Student Leadership Development.md
+      - Physical Education.md
+      - Visually Impaired/.keep
+      - Visually Impaired/Overview.md
+      - Visually Impaired/Model of Success.md
+      - Visually Impaired/Events.md
+      - Visually Impaired/PE.md
+      - Visually Impaired/Distinguished Students.md
+      - Visually Impaired/Media.md
