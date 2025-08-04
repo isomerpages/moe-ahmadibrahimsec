@@ -3,21 +3,33 @@ collections:
     output: true
     order:
       - Our Curriculum.md
-      - English.md
-      - Mother Tongue/.keep
-      - Mother Tongue/About Us.md
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Tamil.md
-      - Mathematics.md
-      - Science.md
-      - Humanities.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
       - Aesthetics/Design & Technology.md
       - Aesthetics/Music.md
       - Aesthetics/Food & Nutrition Science.md
+      - Character & Citizenship (CCE)/.keep
+      - Character & Citizenship (CCE)/Overview.md
+      - Character & Citizenship (CCE)/National Education (NE).md
+      - Character & Citizenship (CCE)/Cyber Wellness (CW) Programme.md
+      - Character & Citizenship (CCE)/Education and Career Guidance (ECG).md
+      - Character & Citizenship (CCE)/Mental Health (MH).md
+      - Character & Citizenship (CCE)/Family Education (FE).md
+      - Character & Citizenship (CCE)/MOE Sexuality Education.md
+      - Character & Citizenship (CCE)/Organisation Chart.md
+      - Computer Applications.md
+      - Discipline.md
+      - English.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue/.keep
+      - Mother Tongue/About Us.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Science.md
+      - Student Leadership Development.md
       - Physical Education.md
       - Visually Impaired/.keep
       - Visually Impaired/Overview.md
@@ -26,15 +38,3 @@ collections:
       - Visually Impaired/PE.md
       - Visually Impaired/Distinguished Students.md
       - Visually Impaired/Media.md
-      - Computer Applications.md
-      - Character & Citizenship (CCE)/.keep
-      - Character & Citizenship (CCE)/Overview.md
-      - Character & Citizenship (CCE)/National Education (NE).md
-      - Character & Citizenship (CCE)/Student Leadership Development.md
-      - Character & Citizenship (CCE)/Discipline.md
-      - Character & Citizenship (CCE)/Cyber Wellness (CW) Programme.md
-      - Character & Citizenship (CCE)/Education and Career Guidance (ECG).md
-      - Character & Citizenship (CCE)/Mental Health (MH).md
-      - Character & Citizenship (CCE)/Family Education (FE).md
-      - Character & Citizenship (CCE)/MOE Sexuality Education.md
-      - Character & Citizenship (CCE)/Organisation Chart.md
