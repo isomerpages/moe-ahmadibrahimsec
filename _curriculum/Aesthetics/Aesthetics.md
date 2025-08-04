@@ -235,7 +235,7 @@ Nutrition &amp; Food Science (NFS); and Design &amp; Technology.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,14 +243,6 @@ Nutrition &amp; Food Science (NFS); and Design &amp; Technology.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Amelia Y Dizon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Teacher</p>
 </td>
 </tr>
 <tr>
