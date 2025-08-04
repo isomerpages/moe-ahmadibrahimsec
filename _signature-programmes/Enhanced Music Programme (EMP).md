@@ -290,10 +290,6 @@ SYF Celebrations Performance at Causeway Point Mall.</p>
 </p>
 </li>
 <li>
-<p>Ms Amelia Dizon (Music Teacher) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">amelia_y_dizon@moe.edu.sg</a>
-</p>
-</li>
-<li>
 <p>Mr Enzo Charles Victor Buttazzoni (Music Teacher) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">enzo_charles_victor_buttazzoni@moe.edu.sg</a>
 </p>
 </li>
