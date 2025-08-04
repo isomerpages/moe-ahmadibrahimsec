@@ -138,7 +138,6 @@ other both on and off the dance floor.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mdm Fitrah Bte Jamri<br>Contact:&nbsp;<a href="mailto:fitrah_jamri@moe.edu.sg" rel="noopener noreferrer nofollow" target="">fitrah_jamri@moe.edu.sg</a></strong>
-<br>Mdm Amelia Y Dizon
 <br>Ms Ang Xin Ru Ruby</p>
 </div>
 </details>
