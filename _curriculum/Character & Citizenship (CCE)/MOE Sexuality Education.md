@@ -144,7 +144,7 @@ relationships, both online and offline
 in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -519,7 +519,7 @@ one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -561,7 +561,7 @@ with verbal ones, when communicating personal and emotional boundaries
 in a relationship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -594,7 +594,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
