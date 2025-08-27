@@ -5,6 +5,14 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<h4><strong>Exam Timetable</strong></h4>
+<p><em>*Timetable updated on 27 August 2025</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <h4><strong>Class Timetable</strong></h4>
 <p><em>*Timetable updated on 10 July 2025</em>
 </p>
@@ -86,6 +94,4 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Exam Timetable</strong></h4>
-<p><em>*Timetable will be updated nearer to the confirmed date.</em>
-</p>
+<p></p>
