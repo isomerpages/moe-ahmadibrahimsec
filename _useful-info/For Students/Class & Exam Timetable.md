@@ -10,7 +10,24 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Timetable/2025 EOY Timetable/2025_EOY_TT_Schedule___Sec1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 EOY Timetable/2025_EOY_TT_Schedule___Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 EOY Timetable/2025_EOY_TT_Schedule___Sec3E.pdf" rel="noopener nofollow" target="_blank">Sec 3E</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 EOY Timetable/2025_EOY_TT_Schedule___Sec3NA.pdf" rel="noopener nofollow" target="_blank">Sec 3NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 EOY Timetable/2025_EOY_TT_Schedule___Sec3NT.pdf" rel="noopener nofollow" target="_blank">Sec 3NT</a>
+</p>
 </li>
 </ul>
 <h4><strong>Class Timetable</strong></h4>
