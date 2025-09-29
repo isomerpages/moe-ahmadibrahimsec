@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>About Us</strong></h4>
+<p><strong>About Us</strong>
+</p>
 <p><strong>Vision<br></strong>At AISS, we aim to nurture our students with
 the strength of character to care, lead and serve.</p>
 <p><strong>Beliefs<br></strong>We believe that
@@ -19,6 +21,7 @@ the desired student outcomes, where a student leader in AI is a positive
 agent of change; is proactive and possesses adaptive, critical and inventive
 thinking; a confident communicator who empathizes and in so doing, better
 serves the community.</p>
+<p></p>
 <p><strong>Student Leadership Challenge Model by Kouzes and Posner</strong>
 <br>
 </p>
@@ -56,21 +59,23 @@ have learnt.
 <br>Student Councillors also actively reach out to their peers to hear their
 concerns and appropriate actions will be taken to address issues raised,
 as Student Councillors are constantly seeking to work with the School in
-improving the AI School experience for the student population.</p>
+improving the AI School experience for the student population.
+<br>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 4 Student Councillors from the 21st Student Council" src="/images/Co%20Curriculum/Student%20Leadership%20Development/student%20councillors%2021st.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLD_1.jpg">
 </div>
-<p>Sec 4 Student Councillors from the 21st Student Council</p>
 <p><strong>Peer Support Leaders<br></strong>Peer Support Leaders play an
 active role in the support for students’ mental well-being. They are guided
 by the Peer Support and Relationship Framework, which is shaped by three
 main areas: Peer Supporting, Peer Bonding and Peer Influencing.</p>
 <p>Peer Support Leaders aims to
 <br>• Provide emotional and physical support.
-<br>• <strong><u>Create awareness</u></strong> on mental wellness, exam stress
-and other societal issues.
-<br>• <strong><u>Engage the class</u></strong> through activities.
-<br>• Ensure a <strong><u>conducive and positive classroom culture</u></strong> for
+<br>•&nbsp;<u>Create awareness</u>&nbsp;on mental wellness, exam stress and
+other societal issues.
+<br>•&nbsp;<u>Engage the class</u>&nbsp;through activities.
+<br>• Ensure a&nbsp;<u>conducive and positive classroom culture</u>&nbsp;for
 all.
 <br>
 </p>
@@ -78,6 +83,10 @@ all.
 the socio-emotional well-being of the school and they undergo training
 to learn more advanced peer support skills such as befriending and bonding,
 managing challenging situations and self-management.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLD_2.jpg">
+</div>
 <p><strong>Class Leaders<br></strong>Class Chairpersons and Vice-Chairpersons
 work towards building a positive and conducive learning environment for
 their classmates. They help develop a sense of identity and belonging amongst
@@ -85,10 +94,9 @@ their classmates and strengthen class spirit through class-initiated and
 school activities. Through training programmes, Class Leaders develop leadership
 skills which enable them to be proactive in building good rapport with
 their peers and meeting the needs of their classes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Class Leaders Training Workshop" src="/images/Co%20Curriculum/Student%20Leadership%20Development/class%20leaders%20training%20workshop.jpg">
-</div>
-<p>Class Leaders Training Workshop</p>
+<p></p>
+<p><strong>Class Leaders Training Workshop</strong>
+</p>
 <p><strong>CCA Leaders<br></strong>CCA leaders play a vital role in ensuring
 that CCA activities are well-organized, engaging, and inclusive for all
 AI students. CCA Leaders support their peers in CCA and help forge meaningful
@@ -96,6 +104,7 @@ relationships while learning how to overcome challenges and undertake decision
 making skills. They work closely with their CCA teachers to plan and execute
 events, and are also responsible for mentoring and training younger members
 of their CCA, helping to create a culture of camaraderie and excellence.</p>
+<p></p>
 <p><strong>Outdoor Leaders<br></strong>Outdoor Leaders are the face of AISS’s
 Outdoor Learning Experience (OLE) programme. It is a leadership programme
 that encourages students to develop the interest and skills to serve the
@@ -104,7 +113,23 @@ are given the opportunity to develop qualities of leadership and responsibility
 and demonstrate decision-making skills by leading other students in sports
 and recreational activities. They epitomize the outdoor spirit in striving
 for excellence and rising to challenges.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Outdoor Leaders @ Sports Carnival 2023" src="/images/Co%20Curriculum/Student%20Leadership%20Development/outdoor%20leaders%20at%20sports%20carnival%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLD_3.jpg">
 </div>
-<p>Outdoor Leaders @ Sports Carnival 2023</p>
+<p></p>
+<p><strong>Community Youth Leaders (CYLs)</strong>
+<br>Community Youth Leaders serve as role models who champion care, service,
+and active citizenship within the school and wider community. They work
+to inspire their peers by organizing meaningful initiatives and cultivating
+a culture of empathy and responsibility. By leading projects and collaborations
+that serve the school and nation, CYLs strengthen bonds across different
+groups and deepen students’ sense of contribution to society. Through leadership
+training and authentic service opportunities, CYLs grow in confidence,
+resilience, and teamwork as they learn to lead with purpose and create
+a positive impact on those around them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLD_4.jpg">
+</div>
+<p></p>

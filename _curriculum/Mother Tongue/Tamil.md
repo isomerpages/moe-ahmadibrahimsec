@@ -3,77 +3,156 @@ title: Tamil
 permalink: /curriculum/mother-tongue/tamil-language-unit/
 description: ""
 third_nav_title: Mother Tongue
+variant: tiptap
 ---
-## Tamil
-
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">MT Cultural Day</label>
-<div>
-<p>The Tamil Language (TL) Unit together with CL and ML Units of AI celebrated the MT Cultural Day in May 2016. The Indian Students had the opportunity to know about the Indian Dance and the Indian musical instruments.</p>
-<p>(தமிழ்ப்பிரிவு மாணவர்கள் தாய்மொழிகளுக்கான இருவாரக் கொண்டாட்டத்தின் போது கோலாட்டம், கும்மி போன்ற இந்திய நடனங்களைப் பற்றியும் மிருதங்கம், கஞ்சிரா, தாளம் போன்ற இந்திய இசைக்கருவிகளைப் பற்றியும் அறிந்து கொள்வதற்கான வாய்ப்பைப் பெற்றனர்.)</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEhQmopQqwnj-sZeCiuxUAVm6v8eZz4VwGkU6vK_bWib_JjojMxxRy_-pJ32inZaAC3p_TqiVOZVS5/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h2>Tamil</h2>
+<p>At AISS, our Teaching &amp; Learning Unit sparks excellence in education,
+driving outstanding classroom practices and student achievements. We nurture
+a vibrant learning ecosystem where educators thrive, and students reach
+new heights.</p>
+<p>Our expert team provides cutting-edge support, resources, and growth opportunities
+for staff, ensuring teaching practices stay innovative, research-driven,
+and future-focused. Collaborating closely with subject leaders, we design
+immersive curricula, harness technology, and champion inclusive learning
+for diverse students.</p>
+<p>Through teamwork, reflection, and continuous growth, our Teaching &amp;
+Learning Unit fuels a lifelong learning culture, empowering students to
+succeed in an ever-changing world.</p>
+<p>The Tamil Language (TL) Unit is committed to nurturing a love for the
+Tamil language and culture among our students. Through a variety of engaging
+programmes, we aim to develop students’ linguistic proficiency while deepening
+their appreciation of Tamil heritage and values.</p>
+<h4><strong>Pongal Festival</strong></h4>
+<p>Our annual Pongal Festival celebration brings the vibrancy of Tamil traditions
+to life on campus. Students take part in activities such as traditional
+games, cultural performances, and exhibitions that showcase the significance
+of the harvest festival. The event provides an immersive experience that
+strengthens cultural identity and fosters unity within our school community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_pongal_festival.png">
 </div>
-</li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Programmes</label>
-<div>
-<p><strong>Parai (Drumming) workshop (2018)</strong></p>
-<p>In conjunction with Mother Tongue Fortnight for Sec 1 cohort, Tamil unit organised a workshop on performing arts, drumming. The drum called Parai is one of the oldest symbols in Tamil culture.&nbsp;</p>
-<p>It consists of a circular wooden frame with one end closed with cow skin membrane and the other end open. Together with Parai, students also learnt the history and the cultural aspect of the various types of Indian percussion instruments.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQHw2ab1NS3rosA4-7q8rZnIuauwVOTi27T-75KW_TeR2-w9UOdFBRpqzW_h4j5oy_Oafk61jaNnS7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_Pongal_festival_jallikattu.png">
 </div>
-</li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Competitions</label>
-<div>
-<p><strong>On line Story telling competition (2020)</strong></p>
-<p>It was a great opportunity indeed, for Tamil students when my Tamil teacher Mr Perumal sent us a message, encouraging us to participate in a short story telling competition organized by Association of Singapore Tamil Writers during the COVID-19 period. I took up that challenge and did my best. I wrote the story and narrated. It was a splendid opportunity competing with fellow students all over Singapore. Though it was challenging, I had an experience participating in a competition online for the every first time! Here is the link for one of our videos.</p>
-<p style="text-align: right;">-&nbsp;Boopalan Prithika , 3N1(SBB)</p>
-<p><iframe src="https://www.youtube.com/embed/wBQlVeLAt-g?controls=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-<p><strong>Translation Competition (2020)</strong></p>
-<p>Being bilingual is crucial for students in Singapore, in order to compete in the outside world and be the best among the others. It is an advantage to know more than one language. We the secondary three students took part in a Translating Competition organized by the Singapore Tamil Association on 11 January 2020 at Singapore National Library. This competition also enhanced our bilingual skills. It was heartening and an encouragement to us to receive certificates of participation.</p>
-<p>The translation competition was a very fruitful experience to me as I could practice my translation skills. The competing atmosphere gave me confidence and focus on task given. It was great to have a different outlook on tamil compositions too, as translation is not very widely used in classroom teaching as we are supposed to speak only in tamil during our tamil lessons.&nbsp;</p>
-<p>Overall, the experience was something very new and enjoyable for me.</p>
-<p style="text-align: right;">- Boopalan Prithika , 3N1(SBB) &amp; Ashuntha Rani DO Elvin Nathan, 3E2</p>
-<img src="/images/IMG_8531.jpg">
-<p><strong>Budding Writers Programme (2018)</strong></p>
-<p>Selected Tamil students participated in a Budding Writers, Artist and Poets programme which was an opportunity for them to explore their talents and flair for writing. It exposed them to local writers and scriptwriters so as to equip them with literary and creative writing techniques.</p>
-<p>The students were also exposed to local poets and poetry writing techniques and were immersed in poetry appreciation.</p>
-<p>John Rajan Kenisha Janet of 3E2 was awarded a silver award and a trophy.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCDm9BlS-MFvCg8NXaucGJpeisKsvXkFfIXFpQFOCd6-mf1cwPor-nLRg9-UoA3LRKrDn-19AqszjJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p><strong>&lsquo;Thamizhum Suvayiyum&rsquo; &ndash; Tamil Language Competition 2018</strong></p>
-<p>Our students, Heshwetha d/o Sivanandan (3E3) and Kalyaniambigai Magendran (3E4) did just that as part of a competition this year about the Tamil language and culture through everyday items found at home &ndash; food. As food is the &lsquo;spice&rsquo; of life, the competition literally involved identifying spices used in everyday cooking.</p>
-<p>The students were challenged to translate recipes, solve spice-related riddles, and identify Indian spices from the given Tamil names. In another part of the competition, students had to pick out the correct spices from a given shopping list.</p>
-<p>Our students competed with 14 other schools in the competition organised by the &lsquo;Valar Thamizh Iyakkam&rsquo; (Tamil Language Council) and clinched the Second Position!</p>
-<p>The school was awarded a trophy and the students each received a Kindle e-Reader.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7-MNP9z7hiZSNg3ZAtn0D5u0Z71T4jTrUaXOd2OMsYQm7RAy5Wf8L6bYa3Pxhz0V8Fz0znsX32syE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p><strong>&lsquo;TAMIL SHORT FILM MAKING&rsquo; &ndash; Workshop cum Competition</strong></p>
-<p>In conjunction with the Tamil Language Festival 2016 in April, Yishun Secondary Tamil unit organised a Tamil Short Film Making Competition cum Workshop for N2 secondary schools. 12 Secondary 2 Express Tamil students from our school participated. The objectives of the competition cum workshop were to encourage the creativity of students through the enhanced use of spoken and written Tamil in creating the short film and to create a platform for TL students to showcase their capabilities &amp; talents. Students were taught the basics of short film making such as storyboarding, scriptwriting, filming and editing. Thereafter, the students in a group of 5 was given a month to create their short film based on their chosen topic. They are to write their story ideas into a screenplay and shoot them shot by shot to visualize their film.<br /><br />The highlight for this year for Tamil Unit is our students&rsquo; excellent performance in this short film competition. Our pupils won first and second prize and emerged the overall champions for the competition and did our school proud.</p>
-<p><strong>Reflection of Students</strong></p>
-<p><em>"It provided us with the opportunity to hone and develop our talents and interests in drama. It was also a good motivation for us appreciate our Mother Tongue, Tamil."</em></p>
-<p style="text-align: right;">- Abbinesh (2E1), Olivia Surrthi (2E1), Divya (2E2), Jazlin Rose (2E4), Helena (2E4)</p>
-<p><em>"Short film making Workshop was a good platform for our us to build tour self- confidence, perfect our presentation skills, deliver our acting skills with style and nurturing us to be eloquent speakers."</em></p>
-<p style="text-align: right;">- Kavya (2E2), Ajay (2E2), Debesh (2E3), Daniel (2E1), Mukesh Kanna (2E2)</p>
-<p style="text-align: left;">&ldquo;To learn, love and live the language&rdquo; in our mind, Tamil Unit is proud to provide an authentic learning experiences to our students to develop them into youth to be confident in communicating and expressing themselves in Tamil.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXDF7Y3q-vpcQvmkICx-RHUq97qo2cGuzlNt7q9w4731ggrmVaYyKxW9EbZbGjOkVPBZ7gzuUkkCLJ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Mother Tongue Languages (MTL) Fortnight</strong></h4>
+<p>MTL Fortnight Unleashes Tamil's Vibrant Heritage</p>
+<p>The Tamil Language Unit proudly presents a dynamic series of activities
+that showcase the richness and beauty of the Tamil language. Students immerse
+themselves in captivating cultural experiences, including the traditional
+dance Oyilattam and Paraiattam performances. The drum called Parai is one
+of the oldest symbols in Tamil culture.&nbsp; It consists of a circular
+wooden frame with one end closed with cow skin membrane and the other end
+open. Together with Parai, students also learnt the history and the cultural
+aspect of the various types of Indian percussion instruments.</p>
+<p>In a modern twist, students explore Artificial Intelligence in Tamil,
+harnessing the power of GenAI to generate stunning images and craft engaging
+Comic Books. By delving into the world of comics and their distinctive
+features, students bring their creativity to life.</p>
+<p>These innovative programmes empower students to appreciate Tamil as a
+living, breathing heritage that transcends language barriers. The TL Unit's
+efforts inspire students to cherish and celebrate their cultural roots,
+fostering a deeper connection with the Tamil language and its timeless
+legacy.</p>
+<p>தமிழ்ப்பிரிவு மாணவர்கள் தாய்மொழிகளுக்கான இருவாரக் கொண்டாட்டத்தின் போது
+ஒயிலாட்டம், பறை போன்ற இந்திய நாட்டுப்புறக் கலைகளைப் பற்றியும் இக்காலத்திற்கேற்ப
+தமிழும் செயற்கை நுண்ணறிவுப் பற்றியும் ‘மின்னிலக்க கேலிச்சித்திரம்’ பற்றியும்
+அறிந்து கொள்வதற்கான வாய்ப்பைப் பெற்றனர்.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture_3_Parai.jpg">
 </div>
-</li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Learning Journey</label>
-<div>
-<p><strong>Visit to SPH / Tamil Murasu (2018)</strong></p>
-<p>Our Tamil students paid a visit to SPH on 21st Sept 2018 to have a first hand experience on News production and Journalism.</p>
-<p>The first part of the workshop gave the students the overview of the paper which they are reading every Thursday in school as part of our reading programme.</p>
-<p>They learned the history of the paper and the experiences of reporters. They had hands on sessions on interview skills and tips on report writing to encourage them to write.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOPqpcMh5bxXZtl4scXf5hEsv0KSG_L-zD8FCFN-V7SjgPCwHILQ-P3Qu9hn97kq7LmK8yQ4edeoye/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p><strong>MTL Symposium</strong></p>
-<p>In conjunction with SG50, Ahmad Ibrahim Sec School Tamil Unit organized a SG50 Project Work cum Oratorical Competition at inter school level.</p>
-<p>The competition aimed to arouse greater interest in Tamil Language as well as instil the values of appreciating our pioneer generation. It helped to develop oral proficiency and provided a good platform to develop students&rsquo; confidence in using Tamil in various communication situations, both formal and informal.</p>
-<p>This mini project competition involved 5 schools and the best projects from the competition were exhibited at the 2015 MTL Symposium held at Suntec City.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIyUz5-neknDetBlfyplKq-Y1V9Z_smOC6arkPBDt09_Cet7Jnjrc29a5qp2qMP15b2_zgSbcSwGID/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture__5_MTL_Cultural_Day_Animation.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Competitions and Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Naanum Oru Padaippaali (NOP) 2025</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>‘Budding Writers’ Programme in Tamil Language for Students in Secondary
+Schools</p>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Pongal Celebration</label>
-<div>
-<p>In line with Pongal Celebration the Tamil Unit organised Tamil Cultural Activity Day on 18 Jan 2019. The main highlight of this event is Pongal Exhibit Display Competition. The theme of this competition is Knowing and Appreciating Our Culture. With regards to this competition, we also invited two other schools to send their Secondary One Tamil Students to participate in this competition.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdsLxql1-Ci9YPtTbRfXzVTJ3npwvdW1jtza5DBQeM1unNGkzOFwBs8ZSf5Cq8IOQtcMJv12tEyVw-/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<li>
+<p>‘Budding Artistes’ Programme in Tamil Language for Secondary School students.</p>
+</li>
+</ol>
+<h4><strong>Nanum Oru Padaippali: Engaging with Local Writers</strong></h4>
+<p>Students enthusiastically participated in Nanum Oru Padaippali, an enriching
+literary program that nurtures creativity and appreciation for Tamil literature.
+The highlight of the event was yesterday’s session, where students had
+the unique opportunity to meet and interact with local writers.&nbsp; This
+meaningful engagement allowed students to gain insights into the writing
+process, understand the challenges and inspirations behind literary works,
+and seek guidance on honing their creative writing skills. The discussions
+were thought-provoking and inspiring, encouraging students to explore their
+own potential as budding writers.&nbsp;</p>
+<h4><strong>SG60 Tamil Book Festival 2025</strong></h4>
+<p>Our student Balakrishnan Krithik Sec 3Ex and Pranav has been selected
+as one of the top 6 prize winners in the SG60 Tamil Book Festival 2025.</p>
+<p>This festival is proudly organized by the Association of Singapore Tamil
+Writers with the support of National Arts Council, the Tamil Language Learning
+and Promotion Committee, the National Library Board and several other Tamil
+organizations.</p>
+<h4><strong>Tamil Youth Festival Digital Games Competition!</strong></h4>
+<p>Our students Gopalakrishnan Prasanna (1CO)and Baranidharan&nbsp;Arjun
+(1CO) &nbsp;have made it to the&nbsp;Grand Finals of Eduville’s மின்வழித்
+தமிழ்மொழி 2025 – <a rel="noopener noreferrer nofollow" target="_blank">Tamil Youth Festival Digital Games Competition!</a> They
+proudly secured 4th place!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7_SG_60_Book_fest.jpg">
 </div>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture8_Tamil_Youth_Festival_Digital_Games_Finals_of_Eduville.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>
+</details>
+</div>
+<h3></h3>
+<h4></h4>
+<p></p>

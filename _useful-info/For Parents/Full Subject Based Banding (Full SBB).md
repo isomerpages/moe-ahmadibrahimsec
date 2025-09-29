@@ -1,7 +1,8 @@
 ---
-title: Our Curriculum
-permalink: /curriculum/our-curriculum/
+title: Full Subject Based Banding (Full SBB)
+permalink: /useful-info/full-subject-based-banding/
 description: ""
+third_nav_title: For Parents
 variant: tiptap
 ---
 <h2>Full Subject Based Banding (Full SBB)</h2>
