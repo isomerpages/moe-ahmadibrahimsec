@@ -94,7 +94,7 @@ legacy.</p>
 </table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Students Competitions and Achievements</strong>
+<summary><strong>Competitions and Achievements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4><strong>Naanum Oru Padaippaali (NOP) 2025</strong></h4>
