@@ -110,14 +110,6 @@ taking these subjects at a more demanding level from the start of Secondary
 One is based on students' PSLE AL Score for each subject.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>For more information on how AISS will be implementing FSBB, you can contact
