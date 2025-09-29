@@ -13,10 +13,12 @@ of our students.</p>
 students learn each subject at the level that best caters to their overall
 strengths, interests and learning needs.</p>
 <p>What this means is that:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>There will no longer be separate Express, N(A), and N(T) courses, and
 our Secondary One students will be placed in&nbsp;mixed form classes&nbsp;where
 they can interact with peers of different strengths and interests.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>All lower secondary students will learn a set of common curriculum subjects
 together in their form classes. The common curriculum subjects includes
