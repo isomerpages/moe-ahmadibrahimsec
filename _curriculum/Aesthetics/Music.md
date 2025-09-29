@@ -24,17 +24,20 @@ skills.</p>
 <summary><strong>EMP and MPC</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>AISS is one of only four EMP (Enhanced Music Programme) schools in Singapore.
-We are also an O-Level Music Centre for students across Singapore who want
-to offer O-Level Music. Lower secondary students may enroll in our Music
-Preparatory Course (MPC), which prepares them for the EMP at upper secondary,
-culminating in the GCE ‘O’ Level Music examinations.</p>
-<p>Our unique programme includes talent identification and development, mentorships
-and collaborations with other institutions, myriad opportunities for exposure
-and experiences outside the classroom, and a supportive whole-school musical
-culture.</p>
-<p>Join us to experience a unique musical journey!</p>
-<p></p>
+<p>The Enhanced Music Programme (EMP) is a two-year upper secondary programme
+that allows students with musical potential, aptitude and passion to pursue
+a deeper study of music. AISS is one of only four schools in Singapore
+to offer the EMP and serves as an O-Level/G3 Music Centre for students
+from other schools across Singapore.</p>
+<p>Lower secondary students may enroll in our Music Preparatory Course (MPC),
+which prepares them for the EMP at upper secondary, culminating in the
+GCE ‘O’ Level/SEC G3 Music or Higher Music examinations.</p>
+<p>Our comprehensive curriculum caters to various interests and aptitude
+levels. Students benefit from the study of Western and Asian music, Jazz
+and Pop, music composition, and music theory. Additionally, students in
+the EMP will get opportunities to perform as soloists or in ensembles,
+benefit from music workshops and masterclasses, and attend learning journeys
+with local arts organisations and institutions.</p>
 <p><a href="https://ahmadibrahimsec.moe.edu.sg/signature-programmes/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">Click Here</a> for
 more information!</p>
 </div>
