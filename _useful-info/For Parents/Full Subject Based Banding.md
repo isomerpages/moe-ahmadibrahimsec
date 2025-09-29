@@ -6,20 +6,17 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h2>Full Subject Based Banding (Full SBB)</h2>
-<p>Full SBB&nbsp;is part of MOE&amp;#39;s ongoing efforts to nurture the
-joy of learning and develop multiple</p>
-<p>pathways to cater to the different strengths and interests of our students.</p>
+<p>Full SBB&nbsp;is part of MOE's ongoing efforts to nurture the joy of learning
+and develop multiple pathways to cater to the different strengths and interests
+of our students.</p>
 <p>With Full SBB, we are moving towards a secondary school education where
-students learn each</p>
-<p>subject at the level that best caters to their overall strengths, interests
-and learning needs.</p>
+students learn each subject at the level that best caters to their overall
+strengths, interests and learning needs.</p>
 <p>What this means is that:</p>
-<ol data-tight="true" class="tight">
-<li>
 <p>There will no longer be separate Express, N(A), and N(T) courses, and
 our Secondary One students will be placed in&nbsp;mixed form classes&nbsp;where
 they can interact with peers of different strengths and interests.</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>All lower secondary students will learn a set of common curriculum subjects
 together in their form classes. The common curriculum subjects includes
@@ -40,7 +37,7 @@ in these subjects at S1.</p>
 <p>At the end of Secondary Four, students will sit for the Singapore-Cambridge
 Secondary Education Certificate (SEC) examinations.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <p>For more information on Full SBB, please click<strong>&nbsp;</strong>
 <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">here</a><strong> </strong>to access the MOE Full SBB microsite.</p>
@@ -123,11 +120,7 @@ One is based on students' PSLE AL Score for each subject.</p>
 </tr>
 </tbody>
 </table>
-<p>For more information on FSBB, please visit&nbsp;<a href="http://www.moe.gov.sg/microsites/psle-fsbb" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/microsites/psle-fsbb</a>.</p>
 <p>For more information on how AISS will be implementing FSBB, you can contact
 us at&nbsp;<a href="mailto:aiss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aiss@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/sbb.jpg">
-</div>
 <p></p>
