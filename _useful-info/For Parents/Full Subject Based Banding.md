@@ -42,8 +42,8 @@ Secondary Education Certificate (SEC) examinations.</p>
 </li>
 </ol>
 <p></p>
-<p>For more information on Full SBB, please click<strong>&nbsp;here&nbsp;t</strong>o
-access the MOE Full SBB microsite.</p>
+<p>For more information on Full SBB, please click<strong>&nbsp;</strong>
+<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">here</a><strong> </strong>to access the MOE Full SBB microsite.</p>
 <h4>FSBB at Ahmad Ibrahim Secondary School in 2023</h4>
 <table style="minWidth: 50px">
 <colgroup>
