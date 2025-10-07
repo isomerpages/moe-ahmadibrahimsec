@@ -1,6 +1,6 @@
 ---
-title: AI E Open House 2024
-date: 2024-11-15
+title: AI E Open House 2025
+date: 2025-10-07
 layout: link
 description: ""
 image: ""
