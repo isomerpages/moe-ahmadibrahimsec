@@ -19,7 +19,9 @@ and Pop, music composition, and music theory. Additionally, students in
 the EMP will get opportunities to perform as soloists or in ensembles,
 benefit from music workshops and masterclasses, and attend learning journeys
 with local arts organisations and institutions.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdFabbNOzq0zTtI8mDaf-MriFum9O4RxXJBmSXikmqkfOffshE7UyFHgGpjCGdHw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
