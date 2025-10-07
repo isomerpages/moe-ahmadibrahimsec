@@ -6,21 +6,46 @@ variant: tiptap
 ---
 <h2><strong>E-Open House</strong></h2>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729617253838.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aiss_E_Open_House.jpg">
 </div>
-<p>Dear all!</p>
-<p>Registration for our E-Open House is now open.</p>
-<p>We are excited to invite you to our e-Open House on&nbsp;<strong>16th &amp; 23rd November 2024</strong>,
-from&nbsp;<strong>9:00 to 11:30 AM</strong>. The sessions will be held
-online via Zoom, and we would love for you to join us!</p>
-<p>This will be a great opportunity to learn more about what AI can offer
-our students as they embark on their secondary school journey. We’ll be
-happy to share insights about our programs, values, and the overall student
-experience at AI.</p>
-<p>We look forward to welcoming you!</p>
-<p><strong><a href="https://forms.moe.edu.sg/forms/od28Rx" rel="noopener nofollow" target="_blank">CLICK HERE</a>&nbsp;</strong>to
-register for our engagement session.
+<p></p>
+<p>Dear Parents and Guardians,</p>
+<p>Registration for our AISS E-Open House opens on&nbsp;<strong>Friday, 10th November 2025.</strong>&nbsp;This
+online session is designed to help you make an informed decision about
+your child's secondary education.</p>
+<p></p>
+<p><strong>Event Details:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Date:</strong>&nbsp;Saturday, 29th November 2025</p>
+</li>
+<li>
+<p><strong>Time:</strong>&nbsp;9:30 AM - 11:00 AM</p>
+</li>
+<li>
+<p><strong>Platform:</strong>&nbsp;Online via Microsoft Teams
+<br><em>(The joining link will be provided upon successful registration.)</em>
+</p>
+<p></p>
+</li>
+</ul>
+<p>During this virtual session, we will provide essential information on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Our Curriculum:</strong>&nbsp;The academic pathways that prepare
+students for future success.</p>
+</li>
+<li>
+<p><strong>Our Community:</strong>&nbsp;How our school values create a supportive
+environment.</p>
+</li>
+</ul>
+<p></p>
+<p>Secure your spot starting November 10th to discover if AISS is the right
+fit for your family!
 <br>
 <br>Follow <strong><a href="https://www.instagram.com/the_aiss_fire" rel="noopener nofollow" target="_blank">the_aiss_fire</a></strong> on
 Instagram and <strong><a href="https://www.facebook.com/theAIfire/" rel="noopener nofollow" target="_blank">the_AIfire</a> </strong>on
