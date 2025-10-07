@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <p></p>
 <p>Dear Parents and Guardians,</p>
-<p>Registration for our AISS E-Open House opens on&nbsp;<strong>Friday, 10th November 2025.</strong>&nbsp;This
+<p>Registration for our AISS E-Open House opens on&nbsp;<strong>Monday, 10th November 2025.</strong>&nbsp;This
 online session is designed to help you make an informed decision about
 your child's secondary education.</p>
 <p></p>
