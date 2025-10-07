@@ -5,21 +5,22 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h2>1. Music</h2>
+<h2>Music</h2>
 <h3>About Us</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/MusicCoverImageReplacement.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo1_AboutUs___Chow_Pei_Yan.jpg">
 </div>
 <p>We are a group of passionate Music educators who love our subject and
 love teaching it even more! We believe that Music is an avenue for catharsis
 and expression. It is also a great opportunity for our students to develop
-and unleash their creative potential.&nbsp;</p>
+and unleash their creative potential.</p>
 <p>At AISS, we believe that our students are musical, and have the ability
 to express themselves musically. Our comprehensive music curriculum aims
 to develop musical and extra-musical skills such as listening skills, singing
 and playing skills, fine motor skills, creative thinking skills, and social
 skills.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>EMP and MPC</strong>
 </summary>
@@ -29,71 +30,77 @@ that allows students with musical potential, aptitude and passion to pursue
 a deeper study of music. AISS is one of only four schools in Singapore
 to offer the EMP and serves as an O-Level/G3 Music Centre for students
 from other schools across Singapore.</p>
+<p></p>
 <p>Lower secondary students may enroll in our Music Preparatory Course (MPC),
 which prepares them for the EMP at upper secondary, culminating in the
 GCE ‘O’ Level/SEC G3 Music or Higher Music examinations.</p>
-<p>Our comprehensive curriculum caters to various interests and aptitude
-levels. Students benefit from the study of Western and Asian music, Jazz
-and Pop, music composition, and music theory. Additionally, students in
-the EMP will get opportunities to perform as soloists or in ensembles,
-benefit from music workshops and masterclasses, and attend learning journeys
-with local arts organisations and institutions.</p>
-<p><a href="https://ahmadibrahimsec.moe.edu.sg/signature-programmes/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">Click Here</a> for
+<p></p>
+<p>Click <a href="https://ahmadibrahimsec.moe.edu.sg/signature-programmes/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">here</a> for
 more information!</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Lower Secondary Music Syllabus</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/lowersecphoto.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo2_LowerSecMusic___Chow_Pei_Yan.jpg">
 </div>
 <p>Music lessons extend to the rest of the AISS student body as well! We
 offer a comprehensive yet inclusive music programme that encourages students
-to engage actively in music-making, no matter their foundati</p>
-<p><strong>Secondary One</strong>
-<br>At this level, students will be eased back into music lessons through
-a series of thoughtfully curated modules. These modules are designed with
-activities to develop students’ confidence and appreciation for music.
-Students will be exposed to music from multicultural origins, to harness
-stronger awareness for global cultures, as well as Singapore’s own multicultural
-society. The following modules aim to support these endeavours:</p>
-<p><strong><em>1. Stories We Sing – </em></strong>
-<br>What better way to develop an innate musical sense than to start with
-singing? Students will be exposed to foundational singing knowledge and
-techniques, and they will proceed to apply them through singing a selection
-of contemporary Singapore songs (sung in Chinese, Malay or Tamil languages).</p>
-<p><strong><em>2. Guitar – </em></strong>
-<br>Singing can always be spiced up with some instrumental accompaniment.
-Students will be introduced to the guitar, and learn of the instrument’s
-origins. They will then be equipped with the knowledge and skills of playing
-basic chord progressions to accompany singing.</p>
-<p><strong>Secondary Two</strong>
-<br>At this level, students will make music that point more towards the Popular
-Music genre. Tapping on their pre-requisite knowledge and skills on singing
-and guitar-playing from Secondary One, students will bring them over to
-the following modules:</p>
-<p><strong><em>1. Keyboard – </em></strong>
-<br>Students will learn about the origins and development of the keyboard.
-They will also be able to combine their knowledge of melodies (singing)
-and harmonies (guitar chords) and transfer them to keyboard playing. An
-updated list of Popular songs will be offered to the students to apply
-their singing and instrumental skills, as they present performances to
-their schoolmates and teachers</p>
-<p><strong><em>2. Battle of the Bands – </em></strong>
-<br>To sum up the students’ lower secondary music programme, we combine singing,
-guitar- and keyboard-playing, getting students to form a Pop band. Each
-band will arrange and perform a song cover from the song list provided
-in the Keyboard Module, preparing for their final showcase to their schoolmates
-and teachers.</p>
+to engage actively in music-making, no matter their foundation.</p>
+<p></p>
+<p>Our lower secondary music curriculum exposes students to music from various
+traditions and genres, from local and Southeast Asian music to jazz and
+contemporary popular styles. The curriculum is structured around four key
+modules designed to build core musical skills while fostering creativity,
+collaboration, and appreciation for different musical cultures.</p>
+<p></p>
+<p><strong>1. Stories We Sing –</strong>
+</p>
+<p>This module introduces students to the joy of music through singing. They
+will develop foundational vocal techniques and aural awareness, while also
+honing their rhythmic sense through body percussion.</p>
+<p></p>
+<p><strong>2. Guitar –</strong>
+</p>
+<p>To complement their vocal learning, students will explore playing on the
+guitar. This module equips them with basic chord progressions and strumming
+patterns, enabling them to accompany songs with an instrument.</p>
+<p></p>
+<p><strong>3. Keyboard –</strong>
+</p>
+<p>Students will explore basic keyboard techniques, learning to play both
+melodies and chords. This module helps deepen their understanding of harmony
+and melody, expanding their versatility as young musicians.</p>
+<p></p>
+<p><strong>4. Battle of the Bands –</strong>
+</p>
+<p>The curriculum culminates in a collaborative project, where students form
+pop bands, bringing together skills from previous modules – singing, guitar,
+and keyboard – to arrange and perform a cover of a song. Their final performance
+is showcased to peers and teachers, celebrating their musical journey and
+teamwork.</p>
+<p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>AESPIRE</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>AESPIRE is a schoolwide platform for both teachers and students who are
+interested in the arts to receive mentorship, work collaboratively with
+like-minded peers and gain experience in performing while showcasing their
+talent to a wider audience beyond the classroom. In 2025, AESPIRE: Youth
+Day Edition and AESPIRE: Educators’ Day Edition saw over ten captivating
+acts, ranging from solo piano, pop band, vocal duets to dance items.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo3_Aespire___Chow_Pei_Yan.jpg">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+</div>
+</details>
 <details class="isomer-details">
 <summary><strong>Why Study Music?</strong>
 </summary>
@@ -104,30 +111,20 @@ and composing, live sound, film music composition, conducting, music therapy
 and many others in future! Music also develops many transferable skills
 such as teamwork, perseverance, creativity, and discipline. Whatever your
 future aspirations, the study of music will help you get there!</p>
+<p></p>
 <p><strong>More Information</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/art_insta.jpg">
 </div>
 <p>For more information on the music modules and exciting experiences our
-students have in AI, please follow us&nbsp;<strong><a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener" target="_blank">@AESPIREAISS</a></strong> on
+students have in AI, please follow us <a href="https://www.instagram.com/aespireaiss/?hl=en" rel="noopener nofollow" target="_blank">@AESPIREAISS</a> on
 Instagram!</p>
-<p>To view our EMP video, please click here: <strong><a href="https://www.youtube.com/watch?v=xwD9n5WR0FI&amp;feature=emb_title" rel="noopener" target="_blank">https://www.youtube.com/watch?v=xwD9n5WR0FI&amp;feature=emb_title</a></strong>
-</p>
-<p>To view the EMP &amp; MEP Publicity Video, please click here:&nbsp;<strong><a href="https://youtu.be/B33j0mVWW3g" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/B33j0mVWW3g</a></strong>
-</p>
-<p>For more information about ‘O’ Level Music, please refer to:
-<br><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf" rel="noopener nofollow" target="_blank">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6085_y25_sy.pdf</a></strong>
-</p>
-<p>For more information on our EMP programme, please refer to the EMP poster
-below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/EMP%20programme.png">
-</div>
+<p></p>
+<p>For more information on the Enhanced Music Programme and Music Preparatory
+Course, please click <a href="https://ahmadibrahimsec.moe.edu.sg/signature-programmes/enhanced-music-programme-emp/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Organisation Chart</strong>
 </summary>
@@ -140,14 +137,10 @@ below:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name
-<br>
-</p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Designation
-<br>
-</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -160,19 +153,14 @@ below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enzo Charles Victor Buttazzoni
-<br>
-</p>
+<p>Enzo Charles Victor Buttazzoni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Teacher
-<br>
-</p>
+<p>Music Teacher</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 </div>
