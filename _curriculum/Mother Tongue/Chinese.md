@@ -177,26 +177,25 @@ are proud to clinch top awards for consecutive years.
 <br>三等奖</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WANG YI LIN</p>
-<p>CHLOE CHIA</p>
-<p>HEE PEI YING</p>
-<p>LAU QI YUE</p>
-<p>LOW YU EN</p>
+<p>WANG YI LIN
+<br>CHLOE CHIA
+<br>HEE PEI YING
+<br>LAU QI YUE
+<br>LOW YU EN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>王伊琳</p>
-<p>谢慜绚</p>
-<p>许沛滢</p>
-<p>刘祈玥</p>
-<p>刘妤恩</p>
+<p>王伊琳
+<br>谢慜绚
+<br>许沛滢
+<br>刘祈玥
+<br>刘妤恩</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Resilience</p>
-<p>3 Resilience</p>
-<p>3 Integrity</p>
-<p>3 Integrity</p>
-<p>3 Integrity</p>
-<p></p>
+<p>3 Resilience
+<br>3 Resilience
+<br>3 Integrity
+<br>3 Integrity
+<br>3 Integrity</p>
 </td>
 </tr>
 <tr>
