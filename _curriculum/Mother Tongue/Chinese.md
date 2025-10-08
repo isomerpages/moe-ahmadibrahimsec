@@ -103,6 +103,41 @@ are proud to clinch top awards for consecutive years.
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec
+<br>高年级组</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment Award
+<br>三等奖</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG YI LIN</p>
+<p>CHLOE CHIA</p>
+<p>HEE PEI YING</p>
+<p>LAU QI YUE</p>
+<p>LOW YU EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>王伊琳</p>
+<p>谢慜绚</p>
+<p>许沛滢</p>
+<p>刘祈玥</p>
+<p>刘妤恩</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+<p>3 Resilience</p>
+<p>3 Integrity</p>
+<p>3 Integrity</p>
+<p>3 Integrity</p>
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>2024</strong>
 </p>
