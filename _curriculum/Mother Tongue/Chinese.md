@@ -135,8 +135,12 @@ are proud to clinch top awards for consecutive years.
 <br>
 <br>每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生担任小记者，进行采访、撰写并编排精彩版面。近几年，AI
 代表队都很荣幸得到评审的认可，勇夺各奖项。</p>
-<p>
-<br><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpJ9i5OFNDLH5IF2i9-yD77fpw0Iu_CbPh-75exmek-BtfUmag_-VHgAi70Fez0_YW-8jb22-9X8gt/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p><strong><u>2024</u></strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKWymXJsGqYBl7MWDcoOO6eTYcY6PDfc33T3gvelVBw1x5-w50_EXZLWsC2-nKYJ4MoAnuFpEJsBHh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -147,7 +151,7 @@ are proud to clinch top awards for consecutive years.
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJJ481Of8QDMpOzdittti-i_RH36Btr0O2HX9HjoqxUlmdjYmvYIBP8YCxGuHRTh9PYfEUXnAYEgaf/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
-<p><strong><u>Award Winners </u></strong>
+<p><strong><u>Award Winners</u></strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -161,7 +165,8 @@ are proud to clinch top awards for consecutive years.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p><strong>2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Upper Sec
