@@ -85,17 +85,6 @@ for their Mother Tongue languages.</p>
 <p>9029</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zhang Xinwen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (CL) / Higher Chinese Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9032</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
@@ -116,7 +105,7 @@ for their Mother Tongue languages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ching Loo May</p>
+<p>Ms Lim Hui Hung</p>
 </td>
 </tr>
 <tr>
