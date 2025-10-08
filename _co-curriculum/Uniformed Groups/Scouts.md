@@ -238,22 +238,25 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Senior Patrol Leader</strong>
-<br>S3-Resilience Afable Grey Anthony Banzuela
-<br>S3-Steadfastness Koh Jia Wei</p>
+<br>BENJAMIN LIM MING YING (S3-SERVICE)
+<br>LIM ZHENG YIN (S3-INTEGRITY)</p>
 <p><strong>Patrol Leader / Secretary</strong>
-<br>S3-Service Darwisyh Arfan Bin Abdul Jalil
-<br>S3-Steadfastness Liau Kang Jie</p>
+<br>HADI RAYYAN ADI (S3-SERVICE)
+<br>YEO YI WEI (S2-COURAGE）</p>
 <p><strong>Patrol Leader / Quartermaster</strong>
-<br>S3-Care Neo Xuan Ming
-<br>S3-Service Aqeel Rashaad Khan</p>
+<br>DANIEL KHAN BIN MOHAMAD RIDWAN (S2-GRATITUDE)
+<br>SIM MING HAO (S2-INTEGRITY)</p>
+<p></p>
 <p><strong>Assistant Patrol Leader</strong>
-<br>S3-Excellence See Kai Le Reyes
-<br>S3-Care Ahmad Imtiyaz Bin Azme
-<br>S2-Gratitude Hadi Rayyan Adi
-<br>S2-Care Lim Zheng Yin
-<br>S2-Resilience Benjamin Lim Ming Ying
-<br>S2-Service Ong Xuan Liang, Isaac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>S2-Courage Muhammad Aden Mateen Bin Abdullah</p>
+<br>MUHAMMAD ADEN MATEEN BIN ABDULLAH (S3-STEADFASTNESS
+<br>MUHAMMAD AUDI BIN AZZRI (S3-SERVICE)
+<br>ONG XUAN LIANG, ISAAC (S3-STEADFASTNESS)
+<br>AIZ ARIAN BIN HERWANDY (S2-GRATITUDE)
+<br>CHOO CHEN KANG REAGAN (S2-INTEGRITY)
+<br>FOK XU YI (S2-EXCELLENCE)</p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
