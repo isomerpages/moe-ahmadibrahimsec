@@ -432,7 +432,7 @@ expression, Sec 3 students are brought on learning journeys to view local
 Chinese Language theatrical productions.</p>
 </li>
 </ul>
-<p>华文学习不仅限于课堂，语言的趣味与魅力也能在日常生活中被发现与体验。为了让学生更深入地感受华族文化的魅力，学校每年都会举办<strong>新年庆祝会</strong>与<strong>母语双周活动</strong>让学生通过多样的文化活动，体验传统与现代文化的融合。同时，为了培养学生对华文的欣赏能力，中三学生也会参加学习之旅，观赏本地华语舞台剧。</p>
+<p>华文学习不仅限于课堂，语言的趣味与魅力也能在日常生活中被发现与体验。为了让学生更深入地感受华族文化的魅力，学校每年都会举办新年庆祝会与母语双周活动让学生通过多样的文化活动，体验传统与现代文化的融合。同时，为了培养学生对华文的欣赏能力，中三学生也会参加学习之旅，观赏本地华语舞台剧。</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Appreciating Chinese through Professional Lenses</strong>
