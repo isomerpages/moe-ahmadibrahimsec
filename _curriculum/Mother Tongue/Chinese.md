@@ -77,13 +77,7 @@ Chinese Language theatrical productions.</p>
 <summary><strong>Secondary 3 Chinese Crosstalk Experience 相声</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Pic%201.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/Pic%203.jpg">
-</div>
 <p>Our Secondary 3 Express students were immersed in the traditional art
 form of Chinese culture-Cross Talk. A constant ripple of laughter and applause
 from the audience punctuated the performance, which featured various issues
@@ -92,10 +86,31 @@ from the everyday lives of Singaporeans.&nbsp;</p>
 style, presenting societal trends in a light-hearted manner. We hope that
 this alternative form of language expression will bring the language alive
 and promote students’ appreciation of the Chinese culture and the arts!</p>
+<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Pic%202.jpg">
 </div>
-<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Pic%201.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Pic%203.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -118,7 +133,7 @@ enjoyed this unique HBL experience!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Student Achievements 学生荣誉与成就</strong>
+<summary><strong>Student Achievements (External Competition) 学生荣誉与成就 （校外比赛）</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
@@ -127,14 +142,6 @@ enjoyed this unique HBL experience!</p>
 </p>
 </li>
 </ol>
-<p>Every year, selected students in Sec 2 and 3 Higher Chinese participate
-in Create Your Own Newspaper Competition, organised by Singapore Press
-Holdings. Students hone their Chinese language skills as they work as a
-team of journalist to produce professional newspaper articles. AI teams
-are proud to clinch top awards for consecutive years.
-<br>
-<br>每年，中二和中三高华班都派学生参加新加坡报业控股（SPH）举办的全国中学编采比赛。比赛中，学生担任小记者，进行采访、撰写并编排精彩版面。近几年，AI
-代表队都很荣幸得到评审的认可，勇夺各奖项。</p>
 <p><strong><u>2025</u></strong>
 </p>
 <div class="iframe-wrapper">
@@ -339,18 +346,13 @@ are proud to clinch top awards for consecutive years.
 </tbody>
 </table>
 <p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><strong><em>Text Recital Competition 全国中小学课文朗读比赛</em></strong>
 </p>
-<p>Every year, selected students in Sec 1 to Sec 3 cohort participate in
-Text Recital Competition, organised by Committee to promote Chinese Language
-Learning. Students hone their Chinese language reading skills to bring
-life to otherwise dry texts individually or in teams. AI students and teams
-are proud to clinch top awards for consecutive years.</p>
-<p>
-<br>每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI
-代表和团队都很荣幸得到评审的认可，勇夺铜奖和银奖。今年，我校的其中一位学生荣获金奖和优秀奖。</p>
-<p>
-<br><strong><em><u>Award Winners for 2024</u></em></strong>
+</li>
+</ol>
+<p><strong><em><u>Award Winners for 2024</u></em></strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
