@@ -20,6 +20,7 @@ draw connections between reading and writing, and hence find the satisfaction
 in applying what they learn, extended reading materials are integrated
 into the curriculum.</p>
 <p>读写是能够相辅相成的语言技能。为了让AI学生能够在阅读和写作之间灵活变通，我校为学生订阅课外读物，让他们学以致用，从中得到满足感。</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Writing in Secondary School 中学写作</strong>
 </summary>
@@ -27,7 +28,7 @@ into the curriculum.</p>
 <p>At secondary level, authentic learning is key in motivating students.
 Writing about things around them can be a motivation too. Therefore, ZbComma
 has been selected to complement writing lessons.</p>
-<p>活学活用，有助于激发学生的学习兴趣。贴近生活的真实性语料，其实能够激发学生的想象力。所以，我校订阅了收录新闻时事的读物《逗号》，让学生知天下事的当儿，也学习将真人真事改编融入自己作品之中的技巧.</p>
+<p>活学活用，有助于激发学生的学习兴趣。贴近生活的真实性语料，其实能够激发学生的想象力。所以，我校订阅了收录新闻时事的读物《逗号》，让学生知天下事的当儿，也学习将真人真事改编融入自己作品之中的技巧。</p>
 <p></p>
 <p><strong>Narrative Writing 记叙文写作</strong>
 </p>
@@ -44,22 +45,78 @@ experience.</p>
 </li>
 <li>
 <p>Sec 3 students: discursive writing skills through Process Writing lessons</p>
+<p></p>
 </li>
 </ul>
 <p>正所谓“授人以鱼，不如授之以渔”。为了提高AI学生独立思考的能力，我校教师每年都会针对不同的语文技能，培养学生自我评价的能力，增强他们使用华文华语的信心。</p>
 <p>• 通过互评与自评，中一学生将学习如何评价自己的说话内容</p>
 <p>• 通过过程式写作，中二学生将学习如何评价自己的记叙文</p>
 <p>• 通过过程式写作，中三学生将学习如何评价自己的议论文</p>
-<p></p>
-<p>To help AI students at different levels consolidate their learning, and
-also to cultivate a spirit of excellence, AI Chinese students who display
-flair in Chinese Language during our annual Chinese Writing Competition
-will receive prizes to acknowledge their strength. This competition is
-part of our Mother Tongue Language Prize Competition which aims to give
-such talents a sense of achievement.</p>
 </div>
 </details>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+</div>
+<p><strong>Joy in Chinese beyond the classroom 寓乐于课堂之外</strong>
+</p>
+<p>While Chinese can be learnt in the classroom, the fun and excitement of
+the language can also be experienced beyond the classroom.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To let students experience Chinese as a culture, students engage in cultural
+activities in our annual Chinese New Year Celebration, as well as CL Cultural
+Day.</p>
+</li>
+<li>
+<p>To help students appreciate Chinese language through different forms of
+expression, Sec 3 students are brought on learning journeys to view local
+Chinese Language theatrical productions.</p>
+</li>
+</ul>
+<p>华文学习不仅限于课堂，语言的趣味与魅力也能在日常生活中被发现与体验。为了让学生更深入地感受华族文化的魅力，学校每年都会举办新年庆祝会与母语双周活动让学生通过多样的文化活动，体验传统与现代文化的融合。同时，为了培养学生对华文的欣赏能力，中三学生也会参加学习之旅，观赏本地华语戏剧。</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Secondary 3 Chinese Crosstalk Experience 相声</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Pic%201.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Pic%203.jpg">
+</div>
+<p>Our Secondary 3 Express students were immersed in the traditional art
+form of Chinese culture-Cross Talk. A constant ripple of laughter and applause
+from the audience punctuated the performance, which featured various issues
+from the everyday lives of Singaporeans.&nbsp;</p>
+<p>Rich in puns and allusions, crosstalk is delivered in a rapid bantering
+style, presenting societal trends in a light-hearted manner. We hope that
+this alternative form of language expression will bring the language alive
+and promote students’ appreciation of the Chinese culture and the arts!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Pic%202.jpg">
+</div>
+<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Dialogue with Local Writer 作家访谈</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan “ 云端连线，坦抒己见”写作对话会</strong>
+</p>
+<p>During the circle breaker, while doing HBL, students had opportunities
+to take part in the exciting online activities. Our Chinese Language Department
+invited Ms Lin Rongchan, local writer and also lecturer at NIE, to have
+a live conversation with us on April 24. Focusing on her new Chinese short
+story, "Where are you going?" Ms Lin shared with us her source of inspiration
+and the writing journey. The characters in the story resonated with many
+of our AI students, and we were inspired to pay closer attention to people
+in their lives. All of us were energized by the interaction and definitely
+enjoyed this unique HBL experience!</p>
+<p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
+</div>
+</details>
 <details class="isomer-details">
 <summary><strong>Student Achievements 学生荣誉与成就</strong>
 </summary>
@@ -90,7 +147,7 @@ are proud to clinch top awards for consecutive years.
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJJ481Of8QDMpOzdittti-i_RH36Btr0O2HX9HjoqxUlmdjYmvYIBP8YCxGuHRTh9PYfEUXnAYEgaf/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
-<p><strong><u>Award Winners from Ahmad Ibrahim Secondary School<br>伊布拉欣中学得奖名单</u></strong>
+<p><strong><u>Award Winners </u></strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -277,16 +334,15 @@ are proud to clinch top awards for consecutive years.
 </tr>
 </tbody>
 </table>
-<hr>
-<p><strong><em>Text Recital Competition</em></strong>
+<p></p>
+<p><strong><em>Text Recital Competition 全国中小学课文朗读比赛</em></strong>
 </p>
 <p>Every year, selected students in Sec 1 to Sec 3 cohort participate in
 Text Recital Competition, organised by Committee to promote Chinese Language
 Learning. Students hone their Chinese language reading skills to bring
 life to otherwise dry texts individually or in teams. AI students and teams
 are proud to clinch top awards for consecutive years.</p>
-<p></p>
-<p><strong><em>全国中小学课文朗读比赛</em></strong>
+<p>
 <br>每年，我们都会派中一到中三学生参加推广华文委员会（CPCLL）举办的全国中小学课文朗读比赛。比赛中，学生使出浑身解数，通过此起彼伏的声音、生动的肢体语言，赋予了枯燥的课文新生命。近几年，AI
 代表和团队都很荣幸得到评审的认可，勇夺铜奖和银奖。今年，我校的其中一位学生荣获金奖和优秀奖。</p>
 <p>
@@ -448,66 +504,6 @@ are proud to clinch top awards for consecutive years.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_sX8lffYGn6XOqeDkfrUODh5M3m4GBAmsHAjRulDmelsoFVzMh5vzNt7jfH40o1ANoH-zv9AKFBVr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</div>
-</details>
-</div>
-<p><strong>Joy in Chinese beyond the classroom 寓乐于课堂之外</strong>
-</p>
-<p>While Chinese can be learnt in the classroom, the fun and excitement of
-the language can also be experienced beyond the classroom.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To let students experience Chinese as a culture, students engage in cultural
-activities in our annual Chinese New Year Celebration, as well as CL Cultural
-Day.</p>
-</li>
-<li>
-<p>To help students appreciate Chinese language through different forms of
-expression, Sec 3 students are brought on learning journeys to view local
-Chinese Language theatrical productions.</p>
-</li>
-</ul>
-<p>华文学习不仅限于课堂，语言的趣味与魅力也能在日常生活中被发现与体验。为了让学生更深入地感受华族文化的魅力，学校每年都会举办新年庆祝会与母语双周活动让学生通过多样的文化活动，体验传统与现代文化的融合。同时，为了培养学生对华文的欣赏能力，中三学生也会参加学习之旅，观赏本地华语戏剧。</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Appreciating Chinese through Professional Lenses</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Secondary 3 Chinese Crosstalk（相声）Experience</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Pic%201.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/Pic%203.jpg">
-</div>
-<p>Our Secondary 3 Express students were immersed in the traditional art
-form of Chinese culture-Cross Talk. A constant ripple of laughter and applause
-from the audience punctuated the performance, which featured various issues
-from the everyday lives of Singaporeans.&nbsp;</p>
-<p>Rich in puns and allusions, crosstalk is delivered in a rapid bantering
-style, presenting societal trends in a light-hearted manner. We hope that
-this alternative form of language expression will bring the language alive
-and promote students’ appreciation of the Chinese culture and the arts!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/Pic%202.jpg">
-</div>
-<p>我校的中三快捷学生有机会沉浸在华族传统艺术相声的愉悦氛围之中。相声演员以轻松幽默的方式呈现社会民生问题，观众在欢笑中了解其道理和意义。相声诙谐轻松、用词通俗易懂、形象鲜明，让学生们获益良多。我们希望通过这种“另类”的语言呈现方式，让华语活起来，让学生轻松学习华语，并促进学生对华族文化和艺术的了解。</p>
-<p></p>
-<p><strong>Online Dialogue with Local Writer, Ms Lin Rongchan</strong>
-</p>
-<p>“云端连线，坦抒己见”写作对话会</p>
-<p>阻断措施实施期间，学生们除了居家学习，还参加了精彩的网上活动。我校华文部在4月24日邀请本土青年作家、南洋理工大学国立教育学院讲师林容婵老师，和我们进行了一场别开生面的写作对话会。林老师声情并茂地分享了短篇小说新作《请问你要去哪里？》的缘起、构思，以及写作历程。林老师和学生充满互动，产生了感情的共鸣，也激起思维的火花。这场独特的居家学习体验后，大家都受益匪浅！</p>
-<p>During the circle breaker, while doing HBL, students had opportunities
-to take part in the exciting online activities. Our Chinese Language Department
-invited Ms Lin Rongchan, local writer and also lecturer at NIE, to have
-a live conversation with us on April 24. Focusing on her new Chinese short
-story, "Where are you going?" Ms Lin shared with us her source of inspiration
-and the writing journey. The characters in the story resonated with many
-of our AI students, and we were inspired to pay closer attention to people
-in their lives. All of us were energized by the interaction and definitely
-enjoyed this unique HBL experience!</p>
 </div>
 </details>
 </div>
