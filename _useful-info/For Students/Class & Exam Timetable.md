@@ -5,6 +5,24 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<h4><strong>T4W5 Class Timetable</strong></h4>
+<p><em>*Timetable updated on 10 October 2025</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S1_2025_T4W5.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S2_2025_T4W5.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/2025 Timetable Sem 2/S3_2025_T4W5.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>Exam Timetable</strong></h4>
 <p><em>*Timetable updated on 27 August 2025</em>
 </p>
