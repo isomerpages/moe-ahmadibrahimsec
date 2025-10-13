@@ -7,16 +7,17 @@ variant: tiptap
 ---
 <h2>Basketball</h2>
 <h3>About Us</h3>
-<p>Our Basketball team has always strived to do our best in all competitions.
-Even though sometimes training and meeting tough opponents we play our
-best, no matter what results we get we will still fight with all our very
-best until the end. Training camps, basketball clinics and competitions
-are some activities that our players go through annually.</p>
-<p>Potential leaders are given opportunities to lead the team with guidance
-from the teachers and coaches. As a result, since 2008, we have at least
-one team qualifying for the National competition, where the top 16 teams
-in Singapore compete annually, and it has been a record that we are definitely
-going to continue to uphold and we will strive to keep it going.&nbsp;</p>
+<p>At AISS Basketball, we believe in going All In with our Spirit Strong.
+We are committed to developing every player to reach their full potential,
+both on and off the court. Players have opportunities to analyse game statistics,
+develop practical game organisation skills, and take on leadership roles
+within the team. Players can also contribute to fitness programmes, ensuring
+the team stays in peak condition, and participate in publicity and outreach
+efforts to showcase team activities and achievements.</p>
+<p>Every session, drill, and game is an opportunity to learn, improve, and
+support one another. We focus on building skills and discipline, fostering
+teamwork, and nurturing leaders who are confident, resilient, and ready
+to rise to any challenge on the court of life.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Achievements</strong>
@@ -24,10 +25,24 @@ going to continue to uphold and we will strive to keep it going.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>NSG Basketball Championships (North Zone)</strong>
 </p>
-<p><strong><u>2023<br></u></strong>B Boys: Zone - 2nd Round
-<br>C Boys: Zone - 2nd Round</p>
-<p>B Girls: Zone - 3rd; National - 1st round
-<br>C Girls: Zone - 1st Round</p>
+<p><strong><u>2025</u></strong>
+</p>
+<p>B Boys: Zone – 1st Round</p>
+<p>C Boys: National League 3</p>
+<p>B Girls: Zone – 3rd place finish; National - 1st Round</p>
+<p>C Girls: National League 3</p>
+<p><strong><u>2024</u></strong>
+</p>
+<p>B Boys: Zone - 2nd Round</p>
+<p>C Boys: National League 3</p>
+<p>B Girls: Zone – 2nd Round</p>
+<p>C Girls: National League 3</p>
+<p><strong><u>2023</u></strong>
+</p>
+<p>B Boys: Zone - 2nd Round</p>
+<p>C Boys: Zone - 2nd Round</p>
+<p>B Girls: Zone – 3rd place finish; National - 1st round</p>
+<p>C Girls: Zone - 1st Round</p>
 <p><strong><u>2022<br></u></strong>B Boys: Zone - 1st Runner up
 <br>C Boys: Zone - 2nd Round</p>
 <p>B Girls: Zone - 2nd Round
@@ -69,12 +84,14 @@ going to continue to uphold and we will strive to keep it going.&nbsp;</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Boys Captain<br></strong>Ng Yong Le, Junius (4EX)
-<br>Sia Andy (2SE)
+<p><strong>Boys Captain<br></strong>Sia Andy</p>
+<p>Kommula Vaibhav Reddy (Vice-captain)</p>
+<p>Eugene Low Zhuo Feng (Vice-captain)
 <br>
 </p>
-<p><strong>Girls Captain<br></strong>Yip Pun Yin (4EX)
-<br>Dania Nurallysya Putri Mohamed Hizan (2RE)</p>
+<p><strong>Girls Captain<br></strong>Dania Nurallysya Putri Mohamed Hizan</p>
+<p>Kaley Chng Ya Qi (Vice-captain)</p>
+<p>Ng Xuan Wen (Vice-captain)</p>
 </div>
 </details>
 </div>
@@ -84,14 +101,14 @@ going to continue to uphold and we will strive to keep it going.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mr Daniel Chan Chong Weng (OIC)<br>Contact:&nbsp;<a href="mailto:daniel_chan_chong_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_chan_chong_weng@moe.edu.sg</a></strong> 
-<br>Ms Tsang Wing Han
-<br>Mr Zhang Xinwen</p>
+<br>Ms Tsang Wing Han</p>
+<p>Ms Lim Hui Hung</p>
 </div>
 </details>
 </div>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAsMB6mevMaZgOsddnBdIFwdse6UWwf4FI1slgxREo6QOajmceo4ImI_2zB_tv7-WQiJ5LrZs3L_OG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9DKpGzIFyyaEaL2fLhJ3AQ9efxakgYd9XHB1EQpQehg8VBfqxDnOqHzSKD2eW4SAoOtBZqYKCudAG/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
