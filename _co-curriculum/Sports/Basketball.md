@@ -109,6 +109,6 @@ to rise to any challenge on the court of life.</p>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAsMB6mevMaZgOsddnBdIFwdse6UWwf4FI1slgxREo6QOajmceo4ImI_2zB_tv7-WQiJ5LrZs3L_OG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9DKpGzIFyyaEaL2fLhJ3AQ9efxakgYd9XHB1EQpQehg8VBfqxDnOqHzSKD2eW4SAoOtBZqYKCudAG/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
