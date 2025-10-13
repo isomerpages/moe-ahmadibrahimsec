@@ -82,6 +82,11 @@ Outreach committees.</p>
 <p>Some of our activities include:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>2025 activities: Green Carnival (commemorate Earth Day ‘Planet vs Plastics’);
+Composting Workshop, ‘Farm to Table’ activity; Green Day in our Community
+(organised by Yishun Sec School), Sustainability Festival for SG60 at Northpoint.</p>
+</li>
+<li>
 <p>A CCA showcase during the annual Sec 1 CCA carnival, and exposure activities
 for sec 1 CCA orientation</p>
 </li>
@@ -90,8 +95,7 @@ for sec 1 CCA orientation</p>
 it on corner to recycled used books, re-use printed papers, spring cleaning
 services for staff, recycling of drink cans project, gardening projects,
 electrical audit where classrooms and facilities are checked to switch
-off the appliances. and CNY food donation drive for Sree Narayana Mission
-(Singapore)</p>
+off the appliances.</p>
 </li>
 <li>
 <p>Self-initiated learning and nature exploration hikes by GSC leaders, and
@@ -119,6 +123,11 @@ by Yeaptransport (Green Journeys)</p>
 <summary><strong>Achievements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>2025</u></strong>
+</p>
+<p>Interschool Eco Challenge 2024, organized by Green Journeys, supported
+by SH Eco Fund. Attained the Eco Commendation Award for a video.</p>
+<p></p>
 <p><strong><u>2019</u></strong><u><br></u>Documentary Making Competition:
 2nd Placing</p>
 <ul data-tight="true" class="tight">
