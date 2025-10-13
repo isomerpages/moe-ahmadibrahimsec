@@ -73,6 +73,9 @@ Day in 2024.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
+<p>SYF Arts Presentation 2025: Distinction</p>
+</li>
+<li>
 <p>Singapore International Band Festival Competition 2024 – Silver Award</p>
 </li>
 <li>
@@ -103,10 +106,7 @@ Top in Division</p>
 <p><strong>Wednesday</strong>
 <br>3.15pm to 5.45pm</p>
 <p><strong>Friday</strong>
-<br>2.30pm to 6.00pm
-<br>
-<br>Live Schedule here <em>(* Will be updated soon)</em>
-</p>
+<br>2.30pm to 6.00pm</p>
 </div>
 </details>
 </div>
@@ -115,8 +115,10 @@ Top in Division</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><em>To be updated</em>
-</p>
+<p>Drum Major: Nabil Eddryan Putra Nor Muliady (3 ST)</p>
+<p>Band Major (Admin): Irfan Bin Hakim (3 IN)</p>
+<p>Band Major (Music): Ea Jun Heng (3 RE)</p>
+<p>Head Recruit Officer: Wong Wei Wen (3 IN)</p>
 </div>
 </details>
 </div>
@@ -126,16 +128,16 @@ Top in Division</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Miss Chow Pei Yan (OIC)<br>Contact:&nbsp;<a href="mailto:chow_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chow_pei_yan@moe.edu.sg</a></strong>
-<br>Mdm Kanthiri Alasa
 <br>Ms Siti Mariah Binte Omar</p>
+<p>Mr Desmond Loh</p>
 </div>
 </details>
 </div>
 <p><strong>Gallery</strong>
 </p>
-<p>Do follow us on Instagram for more updates and exciting news: <a href="www.instagram.com/aiconcertband/" rel="noopener noreferrer nofollow" target="_blank"><u>AI Concert Band</u></a>
+<p>Do follow us on Instagram for more updates and exciting news: <a href="https://www.instagram.com/aiconcertband/" rel="noopener noreferrer nofollow" target="_blank"><u>AI Concert Band</u></a>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGep8K1Q9ZG-6I6vNTYgwfJ6q6GivppKbYO3bjYg2CqE7l3cShzyshFAoqZ_EhhA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBhg1i1dkHU8KpiYSU8WMbXCuUWxHlESJyq7M9dY__Efe4OPqlpvnao73b6F9XubIAeXoBWPoulrjw/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
