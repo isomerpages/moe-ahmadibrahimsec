@@ -18,6 +18,9 @@ In their journey to becoming a student athlete, we aim to inculcate in
 students the combined physical and emotional aptitudes that are required
 for success in the sport.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_09_02_152521___Zhengyang_Luo.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mission</strong>
@@ -479,7 +482,7 @@ Aaron</p>
 <summary><strong>Training Schedule</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Mondays &amp; Wednesdays<br></strong>3.00 pm - 5.00 pm</p>
+<p><strong>Wednesdays<br></strong>3.30 pm - 6.00 pm</p>
 <p><strong>Fridays<br></strong>1.30 pm - 4.30 PM</p>
 </div>
 </details>
@@ -514,9 +517,6 @@ Aaron</p>
 </div>
 <p><strong>Gallery</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjVT39CE2Ad_yMsmaQeN2WNuA5RFLrOrfoR3rTNKdMg-jzzLmYKOEIahi3JM9uZ7kLO_S6wJzls6l6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjVT39CE2Ad_yMsmaQeN2WNuA5RFLrOrfoR3rTNKdMg-jzzLmYKOEIahi3JM9uZ7kLO_S6wJzls6l6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
