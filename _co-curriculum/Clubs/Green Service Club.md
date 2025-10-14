@@ -163,7 +163,12 @@ the community.</p>
 </table>
 <blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="(Left to Right):  Mohamad Hyian Danish, Tok Le Qi and Chew Yu Zuo Deron" src="/images/GSC_2025_2026_top_ldrs___Swee_Ai_Emily_Tow__1_.jpg">
+</div>
 </blockquote>
+<p>Left to Right: <em>Vice-Chairperson 1/ Head of Gardening 2: </em><strong><em>Mohamad Hyian Danish</em></strong><em> (3 Ex in 2025). Chairperson / Head of Gardening 1: </em><strong><em>Tok Le Qi </em></strong><em>(3 Re in 2025). Vice-Chairperson 2 / Head of Outreach (Publicity): </em><strong><em>Chew Yu Zuo Deron</em></strong><em> (3 Se in 2025)</em>
+</p>
 <p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -343,7 +348,7 @@ by SH Eco Fund. Attained the Eco Commendation Award for a video.</p>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKgoX2TMJv4jvgXieyhy9HuCzMpyh4h6WeYWL-0FMxQzBVztw2WcvhyEuKHg66LtxP2sSs3OPx9w6V/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvdxVsbrShxxeLoiowmOz8b8yXf_c7tCN1CnvTmxslUSN_2iQjn9dP9t7owoT_FBeMnH_h5BjJ-4TV/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 <p></p>
