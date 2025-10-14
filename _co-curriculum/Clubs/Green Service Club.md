@@ -166,11 +166,6 @@ the community.</p>
 </blockquote>
 <p></p>
 <hr>
-<p></p>
-<blockquote>
-<p></p>
-</blockquote>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mission</strong>
