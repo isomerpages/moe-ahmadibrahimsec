@@ -88,6 +88,12 @@ and bring AI Football to be the best that it can be.</p>
 <summary><strong>Achievements/Participation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>2025</u></strong> 
+</p>
+<p>Participation in NSG</p>
+<p>B Division Boys: League 2B preliminary round second position;</p>
+<p>C Division Boys: League 3A Preliminary round second position;</p>
+<p>CCA Exchange with Dance</p>
 <p><strong><u>2024</u></strong> 
 <br>B Boys: National B Division Boys League 4 Championship: Runners-up C Boys:
 National C Division Boys League 2 Preliminary Round
