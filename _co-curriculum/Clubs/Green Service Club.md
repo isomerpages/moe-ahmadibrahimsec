@@ -14,50 +14,161 @@ Experiences (OLE) with heightened awareness about the environment and green
 efforts. Through this new CCA, Green Service Club, we aim to learn more,
 do more and also lead others to make contributions to the environment and
 the community.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>GSC EXCO</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson / Head of Gardening 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tok Le Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3RE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice- Chairperson 1 / Head of Gardening 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamad Hyian Danish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3EX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice- Chairperson 2 / Head of Outreach (Publicity)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chew Yu Zuo Deron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary 1 / attendance-taking (sec2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kieora Tok En Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2EX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary 2 / attendance-taking (sec1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Xin Rui Janelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2RE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Logistics 1 / Head of Urban Projects 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Si Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3CO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Logistics 2 / Presenters 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pan Min Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2RE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Attendance taking (OIC) - Sec 3/ Head of Urban Projects 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Sheng Jie Braden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Outreach (Publicity) 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Yun Xuan Crystal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3ST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Outreach (Publicity) 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kylie Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Gardening 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hee Song Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Urban Projects 1/ Head of Presenters 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mia Chiam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2IN</p>
+</td>
+</tr>
+</tbody>
+</table>
 <blockquote>
-<p><em>"My experience as a Chairperson in Green Service Club (GSC) has been incredibly enriching and educational for me. When I first became a chairperson in GSC, I was filled with nerves and hesitation every time I had to speak or present in front of the entire group. However, as time went on, I gained confidence and now I can speak comfortably in front of my CCA. Taking up a leadership role has allowed me to not only plan engaging activities for the CCA, but also taught me how to effectively collaborate with other EXCO members in leading the CCA as a whole. Moreover, being a part of GSC has helped me become more aware of the pressing environmental issues surrounding us and has provided me with valuable knowledge about the current state of our environment."</em>
-</p>
-<p><strong>- Thanakrit Yeo, Chairperson, 4 Co (2023 - 2024)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/green%20service%20club.JPG">
-</div>
-<p><strong><em><sub>Standing (Left to Right): Vice-Chairpersons</sub></em></strong><em><sub><br>Eden Tang Yi Xuan (3 In 2023) and Eva Leong Yu Hua (3 St 2023)<br></sub></em><strong><em><sub>Seated: Chairperson</sub></em></strong><em><sub><br>Thanakrit Yeo (3 Co 2023)</sub></em>
-</p>
+<p></p>
 </blockquote>
 <p></p>
 <hr>
 <p></p>
 <blockquote>
-<p><em>"Over the past three years with the Green Service Club (GSC), I've encountered significant challenges during projects like the Greenwave Initiative in 2022 and a demanding video project in 2023. </em>
-<br><em>Through these experiences, I've come to appreciate the importance of discipline, resilience, and perseverance in seeing projects through to completion. </em>
-<br><em>Beyond personal growth, my involvement in GSC has profoundly deepened my awareness of environmental issues and equipped me with invaluable knowledge about the state of our natural environment."</em>
-</p>
-<p><strong>– Cho Yuan, Chairperson, 3 Re (2024)</strong>
-</p>
-</blockquote>
 <p></p>
-<hr>
-<p></p>
-<blockquote>
-<p><em>"Being the Vice-Chairperson in GSC is challenging, yet manageable as I work along well with my fellow CCA leaders. </em>
-<br><em>Back in Sec 1, I was the enthusiastic member of my batch as I worked hard to learn more about my CCA, and also wished to hold a leadership position one day. However, when I took up the leadership role as a Vice-Chairperson, I realise that I was not as capable as I thought I’ll be to handle such responsibilities. </em>
-<br><em>However, I pressed on and learn the ropes. Then I realise that honing the leadership skills requires time and effort to attain the results that I wish to achieve. Handling my committee may be tough, but I knew I could strive towards my victory if I just take the first leap of faith."</em>
-</p>
-<p><strong>– Jovia Khoo Lin Ying, Vice-Chairperson/ Head Outreach-Audit, 3 Service (2024) </strong>
-<br>
-</p>
-</blockquote>
-<p></p>
-<hr>
-<p></p>
-<blockquote>
-<p><em>"Being the Vice-Chairperson of GSC has been incredibly challenging. I suffered many setbacks but I managed to push myself through. </em>
-<br><em>At the start of sec 1, I was very shy, but through the 3 years of CCA and with the help of my fellow EXCOs and members, my confidence grew. I am able to present in front of our GSC class, and also interact more with my juniors. This allows me to understand them better. Our activities are very interesting and fun, e.g. in our effort put into our gardening project, we were able to grow and harvested about 10kg of a vegetable (kang-kong). </em>
-<br><em>Being in GSC helps me understand the environmental issues faced by the world and also loaded me with important knowledge of our current state of environment."</em>
-</p>
-<p><strong>– Chow Wei Xuan, Vice- Chairperson/ Secretary, 3 Ca (2024)</strong>
-</p>
 </blockquote>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -184,10 +295,7 @@ by SH Eco Fund. Attained the Eco Commendation Award for a video.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
-<br>3.45 – 5.45 PM
-<br>
-<br><strong>Friday</strong>
-<br>2.00 – 4.00 PM</p>
+<br>3.45 – 5.45 PM</p>
 <p></p>
 <p><strong>Venue</strong>
 <br>S2-5 (main room) and S2-4</p>
