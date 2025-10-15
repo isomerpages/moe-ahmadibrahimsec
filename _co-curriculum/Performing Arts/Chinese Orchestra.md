@@ -80,6 +80,9 @@ and an evident spirit of unity.</p>
 <p>2025 Singapore Youth Festival – Certificate of Distinction</p>
 </li>
 <li>
+<p>2024 MosAIc successful performance at UCC, NUS</p>
+</li>
+<li>
 <p>2023 Singapore Youth Festival – Certificate of Distinction</p>
 </li>
 <li>
