@@ -56,13 +56,16 @@ heart in singing, so that music in our soul can be heard by the universe.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival 2017: Certificate of Distinction</p>
+<p>Singapore Youth Festival 2025 Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Singapore Youth Festival 2023: Certificate of Accomplishment</p>
 </li>
 <li>
 <p>Singapore Youth Festival 2019: Certificate of Distinction</p>
 </li>
 <li>
-<p>Singapore Youth Festival 2023: Certificate of Accomplishment</p>
+<p>Singapore Youth Festival 2017: Certificate of Distinction</p>
 </li>
 </ul>
 <p><strong>Recent Activities</strong>

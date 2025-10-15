@@ -75,8 +75,13 @@ and an evident spirit of unity.</p>
 <summary><strong>Achievements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025 Singapore Youth Festival – Certificate of Distinction</p>
+</li>
+<li>
+<p>2024 MosAIc successful performance at UCC, NUS</p>
+</li>
 <li>
 <p>2023 Singapore Youth Festival – Certificate of Distinction</p>
 </li>
@@ -144,14 +149,11 @@ of Accomplishment</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><u>Executive Committee</u></strong>
+<p><strong>Chairperson<br></strong>Wong Qiao Iin 3ST
 <br>
 </p>
-<p><strong>Chairperson<br></strong>Lim En Ting&nbsp;(3 Integrity)
-<br>
-</p>
-<p><strong>Vice-chairpersons<br></strong>Lian Yu Qi, Heidi (3 Integrity)</p>
-<p>Aloysius Lim Zing Lak (3 Care)</p>
+<p><strong>Vice-chairpersons<br></strong>Ong Jia Ying 3SE</p>
+<p>Ethan Chen Jun Xi 3RE</p>
 </div>
 </details>
 </div>
@@ -160,9 +162,13 @@ of Accomplishment</p>
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Ms Wang Xuejuan (OIC)<br>Contact: </strong><a href="mailto:wang_xuejuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_xuejuan@moe.edu.sg</a>
-<br><strong>Ms Ho Jie Min, Melody (2IC)<br>Contact:</strong>  <a href="mailto:ho_jie_min_melody@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jie_min_melody@moe.edu.sg</a>
-<br>Mdm Song Weina</p>
+<p><strong>Ms Wang Xuejuan (OIC)<br></strong>Contact:<strong> </strong>
+<a href="mailto:wang_xuejuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_xuejuan@moe.edu.sg</a>
+<br>Ms Ho Jie Min, Melody (2IC)<strong><br></strong>Contact: <a href="mailto:ho_jie_min_melody@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jie_min_melody@moe.edu.sg</a>
+</p>
+<p>Mdm Song Weina</p>
+<p>Contact: <a href="mailto:song_weina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">song_weina@moe.edu.sg</a>
+</p>
 </div>
 </details>
 </div>
@@ -172,6 +178,6 @@ of Accomplishment</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYBYpIoSsy9N_zX2Znt0od6HJ9SBS3A_REpkuAQmuHcYtH4qLOwrj4vgYj-1e_6-86mKHFBjvX4J6o/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9Dy13jNqJ_ZGbT0kDlenB7M_4U0EmpOvSezoQoafQ48mb-58vjVT_QkmMLXpV_g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaTduJMQy7bXXDXIlmy7rJsk6BKD4eRA6_vcS4PGDQ9x2JIqDTdv8KiQztpq36dQ/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
