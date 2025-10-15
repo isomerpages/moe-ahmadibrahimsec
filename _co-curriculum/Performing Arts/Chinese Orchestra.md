@@ -75,8 +75,10 @@ and an evident spirit of unity.</p>
 <summary><strong>Achievements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025 Singapore Youth Festival – Certificate of Distinction</p>
+</li>
 <li>
 <p>2023 Singapore Youth Festival – Certificate of Distinction</p>
 </li>
@@ -144,14 +146,11 @@ of Accomplishment</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><u>Executive Committee</u></strong>
+<p><strong>Chairperson<br></strong>Wong Qiao Iin 3ST
 <br>
 </p>
-<p><strong>Chairperson<br></strong>Lim En Ting&nbsp;(3 Integrity)
-<br>
-</p>
-<p><strong>Vice-chairpersons<br></strong>Lian Yu Qi, Heidi (3 Integrity)</p>
-<p>Aloysius Lim Zing Lak (3 Care)</p>
+<p><strong>Vice-chairpersons<br></strong>Ong Jia Ying 3SE</p>
+<p>Ethan Chen Jun Xi 3RE</p>
 </div>
 </details>
 </div>
@@ -160,9 +159,12 @@ of Accomplishment</p>
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Ms Wang Xuejuan (OIC)<br>Contact: </strong><a href="mailto:wang_xuejuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_xuejuan@moe.edu.sg</a>
-<br><strong>Ms Ho Jie Min, Melody (2IC)<br>Contact:</strong>  <a href="mailto:ho_jie_min_melody@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jie_min_melody@moe.edu.sg</a>
+<p><strong>Ms Wang Xuejuan (OIC)<br></strong>Contact:<strong> </strong>
+<a href="mailto:wang_xuejuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_xuejuan@moe.edu.sg</a>
+<br>Ms Ho Jie Min, Melody (2IC)<strong><br></strong>Contact: <a href="mailto:ho_jie_min_melody@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jie_min_melody@moe.edu.sg</a>
 <br>Mdm Song Weina</p>
+<p>Contact: <a href="mailto:song_weina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">song_weina@moe.edu.sg</a>
+</p>
 </div>
 </details>
 </div>
