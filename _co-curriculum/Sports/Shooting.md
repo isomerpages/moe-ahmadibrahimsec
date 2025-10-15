@@ -33,9 +33,23 @@ places emphasis on mental resilience and consistency.</p>
 <summary><strong>Achievements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><u>National Shooting Championships</u></strong>
+<p></p>
+<p><strong><u>2025 </u></strong>
 </p>
-<p><strong><u>2023<br></u>B Girls Rifle<br></strong>National: Champion</p>
+<p><strong>National Shooting Championships</strong>
+</p>
+<p>B DIV Air Rifle Women Individual 3<sup>rd</sup> placing</p>
+<p></p>
+<p><strong><u>2024</u></strong>
+</p>
+<p><strong>National Shooting Championships</strong>
+</p>
+<p>B DIV Girls Divisional Title 2<sup>nd</sup> placing</p>
+<p>B DIV Air Rifle Women Individual Champion</p>
+<p>B DIV Air Rifle Women Individual 2<sup>nd</sup> placing</p>
+<p></p>
+<p><strong><u>2023<br></u>B Girls Rifle National: Champion</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Wee Xuan, Wichelle</p>
@@ -84,6 +98,7 @@ places emphasis on mental resilience and consistency.</p>
 <p>Erinna Qusyairah Binte Eddy Amin</p>
 </li>
 </ul>
+<p></p>
 <p><strong>B Girls Pistol<br></strong>National: Champion</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -123,48 +138,50 @@ places emphasis on mental resilience and consistency.</p>
 <p>Lin Yuxuan</p>
 </li>
 </ul>
+<p></p>
 <p><strong>B Boys Rifle<br></strong>Air Rifle Men Rank 15</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Toh Jin An, Brandon</p>
 </li>
 </ul>
-<p><strong>B Boys Pistol<br></strong>
+<p><strong>B Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Girls Rifle<br></strong>
+<p><strong>C Girls Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Girls Pistol<br></strong>
+<p><strong>C Girls Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Rifle<br></strong>
+<p><strong>C Boys Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Pistol<br></strong>
+<p><strong>C Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong><u>2022<br></u>B Girls Rifle<br></strong>
+<p></p>
+<p><strong><u>2022<br></u>B Girls Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -186,14 +203,14 @@ places emphasis on mental resilience and consistency.</p>
 <p>Aragon Janna Francheska Cabillo</p>
 </li>
 </ul>
-<p><strong>B Boys Rifle<br></strong>
+<p><strong>B Boys Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>B Boys Pistol<br></strong>
+<p><strong>B Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -215,27 +232,28 @@ places emphasis on mental resilience and consistency.</p>
 <p>Qusyairah Binte Eddy Amin</p>
 </li>
 </ul>
-<p><strong>C Girls Pistol<br></strong>
+<p><strong>C Girls Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Rifle<br></strong>
+<p><strong>C Boys Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Pistol<br></strong>
+<p><strong>C Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
+<p></p>
 <p><strong><u>2021<br></u>B Girls Rifle<br></strong>National: 4th</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -251,111 +269,113 @@ places emphasis on mental resilience and consistency.</p>
 <p>Chong Xue Min</p>
 </li>
 </ul>
-<p><strong>B Girls Pistol<br></strong>
+<p><strong>B Girls Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>B Boys Rifle<br></strong>
+<p><strong>B Boys Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>B Boys Pistol<br></strong>
+<p><strong>B Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Girls Rifle<br></strong>
+<p><strong>C Girls Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Girls Pistol<br></strong>
+<p><strong>C Girls Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Rifle<br></strong>
+<p><strong>C Boys Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Pistol<br></strong>
+<p><strong>C Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong><u>2020<br></u>B Girls Rifle<br></strong>
+<p></p>
+<p><strong><u>2020<br></u>B Girls Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>B Girls Pistol<br></strong>
+<p><strong>B Girls Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>B Boys Rifle<br></strong>
+<p><strong>B Boys Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>B Boys Pistol<br></strong>
+<p><strong>B Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Girls Rifle<br></strong>
+<p><strong>C Girls Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Girls Pistol<br></strong>
+<p><strong>C Girls Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Rifle<br></strong>
+<p><strong>C Boys Rifle</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
-<p><strong>C Boys Pistol<br></strong>
+<p><strong>C Boys Pistol</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>N.A</p>
 </li>
 </ul>
+<p></p>
 <p><strong><u>2019<br></u>B Girls<br></strong>Individual: Elisabeth Anne
 Lawrence, 3rd Placing
 <br>Team: 2nd Placing</p>
@@ -421,15 +441,18 @@ Lawrence, 3rd Placing
 <p>Aragon Janna Francheska Cabillo</p>
 </li>
 </ul>
+<p></p>
 <p><strong><u>2018<br></u></strong>- Individual 1st for 'B' Div Air Pistol
 Men :&nbsp;Bryon Lim Guan Jie
 <br>- Team 3rd for 'C' Div Air Rifle Women
 <br>- Team 3rd for 'B' Div Air Rifle Men
 <br>- Team 4th for 'B' Div Air Pistol Men</p>
+<p></p>
 <p><strong>2017<br></strong>- Individual 1st for ‘C’ Div Air Pistol Women:
 Choong Yuki
 <br>- Individual 1st for ‘B’ Div Air Rifle Women : Lee Kelli-Ann
 <br>- Individual 4th for 'B' Div Air Pistol Men : Bryon Lim Guan Jie</p>
+<p></p>
 <p><strong>2016</strong>
 </p>
 <p>- Individual 3rd for ‘C’ Div Air Rifle Men : Lutfi Bin Mohamed Zulnizan&nbsp;</p>
