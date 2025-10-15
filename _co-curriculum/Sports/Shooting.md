@@ -6,7 +6,6 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>Shooting</h2>
-<p></p>
 <h3>About Us</h3>
 <p>Shooting is a collective group of competitive and recreational sporting
 activities involving tests of proficiency in accuracy, precision and speed
