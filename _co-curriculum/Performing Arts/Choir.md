@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Choir</h2>
 <h3>About Us</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Co%20Curriculum/Choir/choir-banner.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Co%20Curriculum/Choir/choir-banner.jpg">
 </div>
 <p>AI Choir is a mixed youth choir with young and enthusiastic singers, who
 all share the same passion for music. Practices are held twice a week where
