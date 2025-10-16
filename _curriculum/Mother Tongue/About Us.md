@@ -39,9 +39,8 @@ instil in them not only linguistic mastery but also a deep sense of identity
 and pride. By embracing bilingualism, our students don’t just learn their
 Mother Tongue — they live it.</p>
 <p></p>
-<ul>
-<li>
-<p>Organisation Chart</p>
+<p><strong><u>Organisation Chart</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -180,18 +179,6 @@ Mother Tongue — they live it.</p>
 <p>Dr Komathy Vayapuri</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p></p>
