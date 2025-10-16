@@ -116,45 +116,45 @@ Choir and East Spring Chorale</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Chairperson:</strong>
 </p>
-<p>Koh Ching Voon (S3-Excellence)
+<p>Long Yi Lin - 3EX
 <br>
 </p>
 <p><strong>Vice-Chairperson:</strong>
 </p>
-<p>Guee Shao Han (S3-Excellence)
+<p>Kum Yu Fung Joel - 3ST
 <br>
 </p>
 <p><strong>Student Conductor:</strong>
 </p>
-<p>Jaison Liana Elezabath (S3-Service)
+<p>Kaydon Kan Yongxuan - 3IN
 <br>
 </p>
 <p><strong>Secretary:</strong>
 </p>
-<p>Ng Xin Yu, Isabelle (S3-Excellence)
+<p>Ng Mun Hei Vincy - 3CA
 <br>
 </p>
 <p><strong>Librarian:</strong>
 </p>
-<p>Tan Yu Lin (S3-Steadfastness)
+<p>Chew Lay Ern Amelia - 2RE
 <br>
 </p>
 <p><strong>Soprano Section Leaders:</strong>
 </p>
-<p>Yeo Yun Xi Desiree (S3-Service)</p>
-<p>Putri Anggerik Lestari Binte Maslan (S3-Service)
+<p>Baskar Mithra - 3EX</p>
+<p>Lim Zhi Ling, Nicha - 2ST
 <br>
 </p>
 <p><strong>Alto Section Leaders:</strong>
 </p>
-<p>Long Yi Lin (S2-Steadfastness)</p>
-<p>Kellen Tan Xuan Ting (S2-Service)
+<p>Kellen Tan Xuan Ting - 3RE</p>
+<p>Lim Shin Ying - 2RE
 <br>
 </p>
 <p><strong>Tenor and bass section leader:</strong>
 </p>
-<p>Kum Yu Fung Joel (S2-Service)</p>
-<p>Kaydon Kan Yongxuan (S2-Excellence)</p>
+<p>Kum Yu Fung Joel - 3ST</p>
+<p>Chor Wu Han - 3ST</p>
 </div>
 </details>
 </div>
