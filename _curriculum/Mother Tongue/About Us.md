@@ -7,36 +7,43 @@ variant: tiptap
 ---
 <h2>Mother Tongue</h2>
 <h3>About Us</h3>
-<p>The department consists of 3 language units: Chinese, Malay and Tamil.
-Our school offers Higher Mother Tongue Languages as well. Higher Chinese
-is taught in our school whereas the Higher Malay and Higher Tamil students
-attend lessons at the various Language Centres. The department aims to
-develop all our students to be cultured individuals who are articulate
-and confident speakers.</p>
-<ul>
-<li>
-<p>Philosophy</p>
+<p>At the heart of our Mother Tongue Languages (MTL) Department are three
+dynamic language units — Chinese, Malay, and Tamil — each dedicated to
+nurturing a love for language and culture in our students. We also offer
+Higher Mother Tongue Languages (HMTL) for students eager to deepen their
+proficiency and appreciation of their heritage. Higher Chinese and Higher
+Malay are taught in our school, while Higher Tamil students attend lessons
+at the respective Language Centres.</p>
+<p>At the heart of what we do is a simple belief: every language tells a
+story — one that connects us to our roots, our families, and our culture.
+We hope to nurture students who are confident, expressive, and proud of
+who they are.</p>
+<p></p>
+<h4>Philosophy</h4>
+<blockquote>
 <p><strong>“To learn, love and live the language”</strong>
 </p>
-<p>Through the provision of a rich curriculum and authentic learning experiences,
-the Mother Tongue Languages Department is committed to develop our students
-into youths who are confident in communicating and expressing themselves
-in their MTLs. Cultural values and knowledge are two other important components
-of language learning.</p>
-<p>The Chinese, Malay and Tamil Units teach the respective Mother Tongue
-languages as practical and living languages, imparting values and developing
-the students’ cultural identities at the same time. We believe in nurturing
-a bilingual identity in our students, and strive to inspire in them a love
-for their Mother Tongue languages.</p>
-<p>CL: 乐学善用：学得开心，用得舒心
-<br>ML: Bahasa disanjung, budaya dijunjung
-<br>TL: கற்போம்! நேசிப்போம்!&nbsp;வாழும்மொழி ஆக்குவோம்!</p>
-</li>
+<p><strong>乐学善用</strong>
+<br><strong>Bahasa disanjung, budaya dijunjung </strong>
+<br><strong>கற்போம்! நேசிப்போம்!&nbsp;வாழும்மொழி ஆக்குவோம்!</strong>
+</p>
+</blockquote>
+<p>We believe every language carries the heartbeat of a culture. Through
+a rich and authentic curriculum, our department brings languages to life
+— beyond the classroom walls. From interactive lessons and storytelling
+to cultural celebrations and immersive experiences, we aim to make learning
+meaningful, relevant, and fun.</p>
+<p>Our Chinese, Malay, and Tamil Units see language as a bridge — connecting
+our students to their roots, their community, and the world. We seek to
+instil in them not only linguistic mastery but also a deep sense of identity
+and pride. By embracing bilingualism, our students don’t just learn their
+Mother Tongue — they live it.</p>
+<p></p>
+<ul>
 <li>
 <p>Organisation Chart</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -48,9 +55,6 @@ for their Mother Tongue languages.</p>
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Ext No.</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,9 +62,6 @@ for their Mother Tongue languages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD of Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9035</p>
 </td>
 </tr>
 <tr>
@@ -70,19 +71,13 @@ for their Mother Tongue languages.</p>
 <td rowspan="1" colspan="1">
 <p>Subject Head, Chinese Language&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>9035</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr B Vinayagam</p>
+<p>Dr Chennakesavalu Sheela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil Language Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9029</p>
 </td>
 </tr>
 </tbody>
@@ -100,7 +95,7 @@ for their Mother Tongue languages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Yuh Ping (YH LS (Int))</p>
+<p>Mdm Goh Yuh Ping (YH/LS)</p>
 </td>
 </tr>
 <tr>
@@ -182,17 +177,17 @@ for their Mother Tongue languages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chennakesavalu Sheela</p>
+<p>Dr Komathy Vayapuri</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Komathy</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sathappan Meyyappan</p>
+<p></p>
 </td>
 </tr>
 </tbody>
