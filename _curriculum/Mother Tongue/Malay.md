@@ -11,10 +11,14 @@ variant: tiptap
 <p>About Us</p>
 <p><strong>“Bahasa dijunjung, budaya disanjung”</strong>
 </p>
-<p>Language learning and culture appreciation are two main foci that the
-Malay Language Unit strives to provide for the ML students in AI. We aspire
-to develop our students into proud and confident speaker of the Malay Language,
-individuals who love their mother tongue and appreciate their culture.</p>
+<p>At the Malay Language Unit, we believe that language is more than just
+communication — it is the heartbeat of culture, identity, and community.
+Our programmes are thoughtfully designed to ignite a love for the Malay
+language and deepen students’ appreciation of their rich cultural heritage.
+Through engaging lessons, immersive experiences, and creative expression,
+we nurture confident, articulate individuals who take pride in their mother
+tongue and carry it forward with purpose and passion.</p>
+<p></p>
 </li>
 <li>
 <p>MT Cultural Day</p>
@@ -59,52 +63,7 @@ on 18 April 2016</p>
 </p>
 <p><strong><a href="http://tinyurl.com/ML4N2016newspaperarticle" rel="noopener noreferrer nofollow" target="_blank">http://tinyurl.com/ML4N2016newspaperarticle</a></strong>
 </p>
-</li>
-<li>
-<p>Overseas Immersion Programme</p>
-<p><strong>ML Cultural Trip to Pulau Langkawi<br></strong><em>Planting Seeds of Love for the Malay Language and Culture in the Jewel Of Kedah</em>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDeltmgXIyW8VcXq14k3gPX2VnvjwLJrFJeWH_NmyhpzFB6rmKnvvw1nTyHUtBCqUbjgsmABdXlzwP/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
-<p>“I am speechless! The paddy fields and the island view from this airplane…
-this sight is almost magical!” quipped Harith Syafiq from 3N1, after our
-plane landed on Pulau Langkawi. Through the 5D4N trip, students were exposed
-to the rich cultural heritage of this island that was once a vassal of
-the ancient kingdom of Thailand.</p>
-<p>At Laman Padi, a rice museum, students learnt how the very grains that
-they normally take for granted involves heavy toil in order to produce.
-At Mardi Agro Technology Park, a modern fruit farm, students were treated
-to a tram ride around the fruit plantation, and feasted on a buffet of
-local fruits. Students also forged new bonds when they interacted with
-their local peers from Sekolah Menengah Kampung Ayer Hangat, through a
-friendly match of traditional kampong games and a chit-chat session.</p>
-<p>This trip planted seeds of change and nurtured love for the Malay language
-and culture in our students, opening windows of opportunities for them
-to widen their horizons.</p>
-<p>Visit our students’ blogs at&nbsp;<strong><a href="http://aiss2018langkawi.weebly.com/" rel="noopener" target="_blank">http://aiss2018langkawi.weebly.com</a></strong>&nbsp;to
-view their experiences.</p>
-<p><strong>ML Cultural Trip to Bandung</strong>
-</p>
-<p>Bandung, the flower city of West Java, Indonesia was the destination of
-our Malay Language Cultural Immersion Programme last year. The 5D4N programme
-from 30 October to 3 November 2016 aimed to provide students with various
-authentic learning experiences and endless opportunities for deeper learning.
-Throughout the 5 days, our students, with iPads in hand, were busy capturing
-and recording their learnings, engaging locals in interviews and documenting
-them in their blogs.</p>
-<p>Favourites among the students were the trip to Tangkuban Perahu and SMKN
-11 Bandung. Tangkuban Perahu offered the amazing panoramic scenery of the
-mountainous area surrounding Kawah Ratu (Queen’s crater). The legend of
-Sangkuriang, a story behind the existence of Tangkuban Perahu itself was
-by itself also a great takeaway.</p>
-<p>SMKN 11 Bandung, on the other hand, offered us their warm friendship,
-cultural learning experiences and opportunities for meaningful interactions.
-From the students there, our students learnt about traditional musical
-instruments, like the ‘angklung’ and ‘gamelan’.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeMImVDTOwuhvZ7IpucqnIzB3J1mQvVcPzFwnK6SkpinHXAMAeSQKLM3ffVVOlrgxYsq5tTFFQkXEg/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
+<p></p>
 </li>
 <li>
 <p>Competitions</p>
