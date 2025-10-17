@@ -9,7 +9,7 @@ variant: tiptap
 <ul>
 <li>
 <p>About Us</p>
-<p><strong>“Bahasa dijunjung, budaya disanjung”</strong>
+<p><strong>BAHASA DIJUNJUNG, BUDAYA DI SANGJUNG</strong>
 </p>
 <p>At the Malay Language Unit, we believe that language is more than just
 communication — it is the heartbeat of culture, identity, and community.
@@ -21,7 +21,8 @@ tongue and carry it forward with purpose and passion.</p>
 <p></p>
 </li>
 <li>
-<p>MT Cultural Day</p>
+<p><strong>MT CULTURAL DAY</strong>
+</p>
 <p><strong>Mother Tongue Cultural Day: Celebrating Language, Heritage, and Identity</strong>
 <br>The air buzzed with excitement as the rhythmic beat of <em>dikir barat</em> and
 graceful moves of <em>silat</em> took centre stage during this year’s Mother
@@ -45,6 +46,7 @@ keindahan warisan bangsa. Irama <em>dikir barat</em> menyatukan suara mereka,
 manakala gerak langkah <em>silat</em> menonjolkan jati diri dan disiplin.
 Suasana yang meriah ini menyemai rasa bangga dan cinta terhadap bahasa
 serta warisan yang menjadi kebanggaan bersama.</p>
+<p></p>
 </li>
 <li>
 <p>Learning Journey</p>
@@ -66,7 +68,8 @@ on 18 April 2016</p>
 <p></p>
 </li>
 <li>
-<p>Competitions</p>
+<p><strong>COMPETITIONS</strong>
+</p>
 <p>We believe every student can excel and everyone wants to give their best.
 To help our students grow and develop, we will ensure that they are given
 the exposure and opportunity that they need. In recent years, we have organised
@@ -85,6 +88,7 @@ stretch their ablility and to reach for the sky.</p>
 <li>
 <p>National Essay Writing Competition Berita Harian’s Kem Obor (Journalism
 Camp)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>BAHAS 4PM: MALAY DEBATE COMPETITION 2019</strong>
@@ -118,6 +122,9 @@ dalam diri setiap pelajar, pasti kita akan berjuang sekali lagi!</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQptLrxgOra_JF69iRUZgITyhLBRD0fRZJoJpUCC4BsubWxnk0ZaVO_jJqvTwthWgG8cVGEX1gb2KCR/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
+<p></p>
+</li>
+<li>
 <p><strong>NATIONAL SAHIBBA COMPETITION 2019</strong>
 </p>
 <p>4 Sec 2 Malay Language students participated in the annual Sahibba Competition
@@ -140,6 +147,9 @@ and I realise that learning Malay Language can be so much fun” –Dinie Maisar
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTk9wY1WKpwmfEMLIL6SX3DhVs0hkxX78IGb-eBxyHuEMEIUihPJFQuZPtv-ZfPvFjtWGEAiurYTai_/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
+<p></p>
+</li>
+<li>
 <p><strong>NATIONAL ESSAY WRITING COMPETITION</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -153,6 +163,7 @@ of our students did the school proud by emerging among the Top 33 in a
 National Level Creative Essay Writing Competition.&nbsp;</p>
 <p>The two talented writers are Nazurah Zulkiflee of 1E3 (left) and Nur Izzati
 bte Mohamed of 4N1.</p>
+<p></p>
 <p><strong>NATIONAL SAHIBBA COMPETITION 2016</strong>
 </p>
 <p>At the National Sahibba (Malay Scrabble) Competition 2016, represented
@@ -162,9 +173,11 @@ as North Zone runners-up.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLfNXPz_HJx5U1Bk2d3qHxWHyty2dua2q-1aZxMpuLGMyLFrGHQ5S3lNrqXaSqLOvKEHGpUOOXKRoG/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
+<p></p>
 </li>
-<li>
-<p>Hari Raya Celebration</p>
+</ul>
+<p><strong>HARI RAYA CELEBRATION</strong>
+</p>
 <p>Hari Raya has always been the best time for students to showcase their
 talents on stage. Apart from sharing the wonderful vibes of the festive
 occassion, it also provides our students an opportunity to showcase various
@@ -172,9 +185,7 @@ Malay cultures to the school community.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLt3cA-f8zynbeZm-Bqkn4Wpv5aFRDE9lt3cBGaXlVVLiZf2VCsky_1vufGYe7-1dFDpk9LMd6UWz3/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
-</li>
-<li>
-<p>Malay Language Month</p>
+<p></p>
 <p><strong>RAKAN BAHASA 2019</strong>
 </p>
 <div class="iframe-wrapper">
@@ -229,32 +240,5 @@ bersama di samping mempelajari strategi-strategi untuk menjadi yakin apabila
 berbual dengan orang ramai. Mereka juga dikehendaki untuk menjalani beberapa
 sesi latihan agar mereka besedia untuk berinteraksi dengan orang ramai
 dan juga berkongsi informasi yang telah dipelajari di muzium itu.&nbsp;</p>
-<p><strong>SEMARAK BUDAYA – Celebrating the Malay Language Month</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnyCMsw5cSHMgdm973qmN0PwpnLo21mjsZ61CLctVOG_dqhZyOOnFyQoLbjmdkuzZnJF8ia-ccMzYh/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
-<p>The Malay Language Month is an annual event to celebrate the love of the
-Malay Language amongst the native speakers. This year, about our ML students
-took part in an event organised by Nee Soon East Community Club. The Bulan
-Bahasa event is more of an inter-racial event where different races come
-together to celebrate our Singaporean heritage and identity. It also aims
-to inspire our younger generation to use their mother tongue more.</p>
-<p>As part of the annual Bulan Bahasa (Malay Language Month) 2018 celebration,
-our students took part in SEMARAK BUDAYA, an event organised by Nee Soon
-GRC’s Malay Activity Executive Committee (MAEC) on 15 September 2018.&nbsp;</p>
-<p>This event allowed the Malay community to embrace the beauty of the Malay
-language and the uniqueness of the culture through various cultural, arts
-and language activities. Our Sec 1 and Sec 3 students took turn to host
-members of the public who flooded our booth where we displayed a traditional
-Malay game called ‘congkak’. While the young visitors were eager to learn
-the game from our students, the older ones were also very excited to engage
-in one-on-one friendly battles, while reminiscing old memories. Our special
-guest on that day was Profesor Muhammad Faishal and Mr Louis Ng Kok Kwang
-who did not want to miss the chance to have a little showdown themselves.
-<br>Our Sec 2N1 students on the other hand took to the stage that day to present
-a poem entitled READ, sharing and reminding the audiences about the joy
-and importance of reading.</p>
-</li>
-</ul>
+<p></p>
 <p></p>
