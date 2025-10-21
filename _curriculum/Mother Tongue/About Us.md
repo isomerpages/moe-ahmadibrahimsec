@@ -57,7 +57,7 @@ Mother Tongue — they live it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr R Azmann B A Rahman</p>
+<p>Mr R Azmann B Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD of Mother Tongue</p>
