@@ -117,7 +117,8 @@ letter from our school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
-<br>Please refer to <a href="/files/Booklist/2025/Pacific_Bookstores_Online_Purchase_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">purchase guide</a>.</p>
+<br>Please refer to <a href="/files/Booklist/2026/pacific_bookstore_purchase_guide.pdf" rel="noopener nofollow" target="_blank">purchase guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.euniforms.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.euniforms.com.sg/</a>
@@ -171,7 +172,7 @@ letter from our school.</p>
 <br>Local delivery charge of <strong>$14.90</strong> applies.
 <br>
 </p>
-<p>2) Self-Collection at School <strong>(Appointment required)</strong>
+<p>2) Self-Collection at School <strong>(Refer to available dates online)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
