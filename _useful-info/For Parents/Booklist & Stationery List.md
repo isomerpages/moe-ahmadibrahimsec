@@ -5,39 +5,36 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>Booklist &amp; Stationery List (2025)</h3>
+<h3>Booklist &amp; Stationery List (2026)</h3>
+<p><em>(Updated on Wednesday, 22th October 2025)</em>
+</p>
 <ul>
 <li>
-<p><a href="/files/Booklist/2025/S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
-<br>
+<p>Sec 1 <em>(To be updated in a later date)</em>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-<br>
+<p><strong><a href="/files/Booklist/2026/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-<br>
+<p><strong><a href="/files/Booklist/2026/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Sec 4:</strong>
-<br><a href="/files/Booklist/2025/S4__EXP_.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 - Express</a>
-<br><a href="/files/Booklist/2025/S4__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 - Normal Academic</a>
-<br><a href="/files/Booklist/2025/S4__NA_SBB_.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 - Normal Academic (SBB)</a>
-<br><a href="/files/Booklist/2025/S4__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 - Normal Technical</a>
-<br><a href="/files/Booklist/2025/S4__NT_SBB_.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 - Normal Technical (SBB)</a>
-<br>
+<p><strong><a href="/files/Booklist/2026/S4.pdf" rel="noopener nofollow" target="_blank">Sec 4</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/S5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a>
+<p><strong><a href="/files/Booklist/2026/S5__NA_.pdf" rel="noopener nofollow" target="_blank">Sec 5</a></strong>
 </p>
 </li>
 </ul>
-<h4><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2025</strong></h4>
+<h4><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2026</strong></h4>
+<blockquote>
+<p><em>With immediate effect, the school will not be issuing printed copies of booklists. Please download the booklist from the school website.</em>
+</p>
+</blockquote>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -45,11 +42,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The school textbooks and attire can be purchased from our approved vendors
-either online* or directly at the school during specified dates (see walk-in
-purchase). &nbsp;
-<br>
-<br>Students are advised to purchase school textbooks from our school bookshop
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The textbooks and attire can be purchased from our approved vendors either
+online* or directly at the school during specified dates (see walk-in purchase).</p>
+<p></p>
+<p>Students are advised to purchase school textbooks from our school bookshop
 vendor to ensure the correct editions and titles are selected as prescribed
 by the school.
 <br>
