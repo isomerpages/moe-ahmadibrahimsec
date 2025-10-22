@@ -279,7 +279,7 @@ altered, worn or ironed.</p>
 <br>Email: <a href="general@bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">general@bluestag.sg</a>
 </p>
 <p></p>
-<p><strong><em>PE Attire are also available for purchase from School Bookshop, and Chop Kong Chong's retail outlet at Sembawang Shopping Centre, wef from 11 Jan 25 - Nov 25, during their operating hours</em><br><br><em>Online purchase directly from <a href="http://www.bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">www.bluestag.sg</a> will still be available throughout the year.</em></strong>
+<p><strong><em>PE Attire are also available for purchase from School Bookshop, and Chop Kong Chong's retail outlet at Sembawang Shopping Centre.</em><br><br><em>Online purchase directly from <a href="http://www.bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">www.bluestag.sg</a> will still be available throughout the year.</em></strong>
 </p>
 <p></p>
 </td>
@@ -288,29 +288,7 @@ altered, worn or ironed.</p>
 </table>
 <p><strong>NB: *Online purchase is not available for MOE FAS and School Based FAS students</strong>
 </p>
-<p></p>
-<h4><strong>Walk-In Purchase</strong></h4>
-<p>As part of safe management measures, the school strongly encourages appointments
-to be made for walk-in purchase of textbooks. Those with scheduled appointment
-will receive priority at the bookstore. Those who walk-in without an appointment
-will have to wait for the next available opening.
-<br>
-<br>Appointments can made at our vendor <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">website</a>. The appointment system
-will be available <strong><u>from 13 Nov</u></strong>.
-<br>
-<br>The user guide for the appointment system is attached.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Booklist/2025/Pacific_Bookstores_eAppointment_Guide.pdf" rel="noopener nofollow" target="_blank">eAppointment Guide</a>
-</p>
-</li>
-</ul>
-<p><strong>NB: E-appointment is not required for school attire.</strong>
-</p>
-<p>Please refer to the available dates for walk-in purchase in school at
-the table below.</p>
-<p><strong><u>Payment Mode:</u></strong>
-</p>
+<h4><strong>Payment Mode</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -372,6 +350,4 @@ the table below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/school_bookstore_walk_in_appointment.png">
 </div>
-<p>* Onsite/walk-in purchase will not be available at Pacific Bookstores
-Headquarters.
-<br>** Onsite/walk-in purchase will not be available at Blue Stag Headquarters.</p>
+<p></p>
