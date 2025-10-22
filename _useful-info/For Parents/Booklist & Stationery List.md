@@ -345,9 +345,8 @@ altered, worn or ironed.</p>
 </tbody>
 </table>
 <p><strong><u>Available Dates for Walk-in Purchase in School:</u></strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/school_bookstore_walk_in_appointment.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/2026_walk_in_purchase_in_school.png">
 </div>
 <p></p>
