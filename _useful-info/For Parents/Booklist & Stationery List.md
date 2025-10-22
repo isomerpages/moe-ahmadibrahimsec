@@ -134,7 +134,7 @@ letter from our school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th Nov to 14th Dec</p>
+<p>6th Nov to 13th Dec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ongoing</p>
