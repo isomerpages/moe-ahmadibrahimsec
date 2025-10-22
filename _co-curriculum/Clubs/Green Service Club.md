@@ -295,9 +295,9 @@ by SH Eco Fund. Attained the Eco Commendation Award for a video.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
 </p>
-<p>3 – 5 PM</p>
+<p>3 pm to 5 pm</p>
 <p><strong>Friday</strong>&nbsp;</p>
-<p>2 to 4 pm</p>
+<p>2 pm to 4 pm</p>
 <p><strong>Venue</strong>
 </p>
 <p>S2-5 (main room) and S2-4</p>
