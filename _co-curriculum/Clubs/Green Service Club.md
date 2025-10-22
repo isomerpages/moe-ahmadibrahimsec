@@ -176,9 +176,8 @@ the community.</p>
 <summary><strong>Mission</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To take&nbsp;<strong>Action</strong>&nbsp;for a common cause;
-<br>To show&nbsp;<strong>Concern</strong>&nbsp;for the common good;
-<br>To create&nbsp;<strong>Experience</strong>&nbsp;for the common population.</p>
+<p>To care for the Environment in promoting sustainable living and green
+habits</p>
 </div>
 </details>
 </div>
@@ -295,10 +294,13 @@ by SH Eco Fund. Attained the Eco Commendation Award for a video.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
-<br>3.45 – 5.45 PM</p>
-<p></p>
+</p>
+<p>3 pm to 5 pm</p>
+<p><strong>Friday</strong>&nbsp;</p>
+<p>2 pm to 4 pm</p>
 <p><strong>Venue</strong>
-<br>S2-5 (main room) and S2-4</p>
+</p>
+<p>S2-5 (main room) and S2-4</p>
 </div>
 </details>
 </div>
@@ -315,8 +317,7 @@ by SH Eco Fund. Attained the Eco Commendation Award for a video.</p>
 <br><strong>Vice- Chairperson 2/ Secretary</strong>
 <br>Chow Wei Xuan, 3 Care
 <br><strong>Head- Logistics</strong>
-<br>Felix Cheam Kai Hao, 3 Steadfastness</p>
-<p>
+<br>Felix Cheam Kai Hao, 3 Steadfastness
 <br><strong>Assistant Head Outreach-Audit</strong>
 <br>Klaivert Soo, 2 Steadfastness
 <br><strong>Head Recycling</strong>
