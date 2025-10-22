@@ -5,39 +5,36 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>Booklist &amp; Stationery List (2025)</h3>
+<h3>Booklist &amp; Stationery List (2026)</h3>
+<p><em>(Updated on Wednesday, 22th October 2025)</em>
+</p>
 <ul>
 <li>
-<p><a href="/files/Booklist/2025/S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
-<br>
+<p>Sec 1 <em>(To be updated in a later date)</em>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-<br>
+<p><strong><a href="/files/Booklist/2026/S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-<br>
+<p><strong><a href="/files/Booklist/2026/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Sec 4:</strong>
-<br><a href="/files/Booklist/2025/S4__EXP_.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 - Express</a>
-<br><a href="/files/Booklist/2025/S4__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 - Normal Academic</a>
-<br><a href="/files/Booklist/2025/S4__NA_SBB_.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 - Normal Academic (SBB)</a>
-<br><a href="/files/Booklist/2025/S4__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 - Normal Technical</a>
-<br><a href="/files/Booklist/2025/S4__NT_SBB_.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 - Normal Technical (SBB)</a>
-<br>
+<p><strong><a href="/files/Booklist/2026/S4.pdf" rel="noopener nofollow" target="_blank">Sec 4</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/S5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a>
+<p><strong><a href="/files/Booklist/2026/S5__NA_.pdf" rel="noopener nofollow" target="_blank">Sec 5</a></strong>
 </p>
 </li>
 </ul>
-<h4><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2025</strong></h4>
+<h4><strong>End-of-Year Sales and Collection of Textbooks and School Attire for Sec 2 to 5 Students of Academic Year 2026</strong></h4>
+<blockquote>
+<p><em>With immediate effect, the school will not be issuing printed copies of booklists. Please download the booklist from the school website.</em>
+</p>
+</blockquote>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -45,11 +42,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The school textbooks and attire can be purchased from our approved vendors
-either online* or directly at the school during specified dates (see walk-in
-purchase). &nbsp;
-<br>
-<br>Students are advised to purchase school textbooks from our school bookshop
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The textbooks and attire can be purchased from our approved vendors either
+online* or directly at the school during specified dates (see walk-in purchase).</p>
+<p></p>
+<p>Students are advised to purchase school textbooks from our school bookshop
 vendor to ensure the correct editions and titles are selected as prescribed
 by the school.
 <br>
@@ -116,7 +117,8 @@ letter from our school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
-<br>Please refer to <a href="/files/Booklist/2025/Pacific_Bookstores_Online_Purchase_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">purchase guide</a>.</p>
+<br>Please refer to <a href="/files/Booklist/2026/pacific_bookstore_purchase_guide.pdf" rel="noopener nofollow" target="_blank">purchase guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.euniforms.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.euniforms.com.sg/</a>
@@ -133,7 +135,7 @@ letter from our school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th Nov to 14th Dec</p>
+<p>6th Nov to 13th Dec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ongoing</p>
@@ -170,7 +172,7 @@ letter from our school.</p>
 <br>Local delivery charge of <strong>$14.90</strong> applies.
 <br>
 </p>
-<p>2) Self-Collection at School <strong>(Appointment required)</strong>
+<p>2) Self-Collection at School <strong>(Refer to available dates online)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,7 +279,7 @@ altered, worn or ironed.</p>
 <br>Email: <a href="general@bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">general@bluestag.sg</a>
 </p>
 <p></p>
-<p><strong><em>PE Attire are also available for purchase from School Bookshop, and Chop Kong Chong's retail outlet at Sembawang Shopping Centre, wef from 11 Jan 25 - Nov 25, during their operating hours</em><br><br><em>Online purchase directly from <a href="http://www.bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">www.bluestag.sg</a> will still be available throughout the year.</em></strong>
+<p><strong><em>PE Attire are also available for purchase from School Bookshop, and Chop Kong Chong's retail outlet at Sembawang Shopping Centre.</em><br><br><em>Online purchase directly from <a href="http://www.bluestag.sg" rel="noopener noreferrer nofollow" target="_blank">www.bluestag.sg</a> will still be available throughout the year.</em></strong>
 </p>
 <p></p>
 </td>
@@ -286,29 +288,7 @@ altered, worn or ironed.</p>
 </table>
 <p><strong>NB: *Online purchase is not available for MOE FAS and School Based FAS students</strong>
 </p>
-<p></p>
-<h4><strong>Walk-In Purchase</strong></h4>
-<p>As part of safe management measures, the school strongly encourages appointments
-to be made for walk-in purchase of textbooks. Those with scheduled appointment
-will receive priority at the bookstore. Those who walk-in without an appointment
-will have to wait for the next available opening.
-<br>
-<br>Appointments can made at our vendor <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">website</a>. The appointment system
-will be available <strong><u>from 13 Nov</u></strong>.
-<br>
-<br>The user guide for the appointment system is attached.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Booklist/2025/Pacific_Bookstores_eAppointment_Guide.pdf" rel="noopener nofollow" target="_blank">eAppointment Guide</a>
-</p>
-</li>
-</ul>
-<p><strong>NB: E-appointment is not required for school attire.</strong>
-</p>
-<p>Please refer to the available dates for walk-in purchase in school at
-the table below.</p>
-<p><strong><u>Payment Mode:</u></strong>
-</p>
+<h4><strong>Payment Mode</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -365,11 +345,8 @@ the table below.</p>
 </tbody>
 </table>
 <p><strong><u>Available Dates for Walk-in Purchase in School:</u></strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/school_bookstore_walk_in_appointment.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/2026_walk_in_purchase_in_school.png">
 </div>
-<p>* Onsite/walk-in purchase will not be available at Pacific Bookstores
-Headquarters.
-<br>** Onsite/walk-in purchase will not be available at Blue Stag Headquarters.</p>
+<p></p>

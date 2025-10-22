@@ -1,7 +1,7 @@
 ---
 title: End of Year Sales of Textbooks and School Attire for Sec 2 to 5 Students
-  of Academic Year 2024
-date: 2023-11-23
+  of Academic Year 2026
+date: 2025-10-22
 layout: link
 description: ""
 image: ""
