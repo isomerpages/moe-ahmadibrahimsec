@@ -2,23 +2,39 @@
 title: School Canteen
 permalink: /useful-info/school-canteen/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>School Stalls</h3>
-
-There are currently 5 food stalls and 1 drink/snack stall at our school.
-<table style="width:100%">
+<p>There are currently 5 food stalls and 1 drink/snack stall at our school.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="width:30%">Type of food</th>
-<th style="width:40%">Closing Date</th>
-<th style="width:40%">Detail Requirement</th>
+<th rowspan="1" colspan="1">
+<p>Type of food</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Detail Requirement</p>
+</th>
 </tr>
 <tr>
-
+<td rowspan="1" colspan="1">
+<p>Chinese stall selling Chinese noodles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 December 2025, 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apply here</p>
+</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr></tbody></table>
+</tbody>
+</table>
+<p></p>
