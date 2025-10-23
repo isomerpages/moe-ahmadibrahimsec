@@ -32,7 +32,8 @@ variant: tiptap
 <p>31 December 2025, 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apply here</p>
+<p><a href="https://ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement-01/" rel="noopener nofollow" target="_blank">Apply here</a>
+</p>
 </td>
 </tr>
 </tbody>
