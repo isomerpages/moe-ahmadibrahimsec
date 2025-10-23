@@ -47,7 +47,8 @@ hours</p>
 </ol>
 <h4>Application Procedure</h4>
 <p>Application form is available at our General Office (751 Yishun Ave 7,
-Singapore 768928) or can be downloaded here</p>
+Singapore 768928) or can be downloaded <strong><a href="/files/Admin/canteen_application_form_2025.pdf" rel="noopener nofollow" target="_blank">here</a></strong>
+</p>
 <p>Interested applicants must submit the following documents:</p>
 <ul data-tight="true" class="tight">
 <li>
