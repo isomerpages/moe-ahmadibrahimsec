@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement-01/
 description: ""
 variant: tiptap
 ---
-<h3>Ahmad Ibrahim Secondary School has vacancy for Chinese stall selling Chinese noodles (eg. Wanton mee, minced meat noodle)  </h3>
+<h3>Ahmad Ibrahim Secondary School has vacancy for Chinese stall selling Chinese noodles (eg. Wanton mee, minced meat noodle)</h3>
 <h4>Criteria</h4>
 <p>Applicants should meet the following criteria:</p>
 <ol data-tight="true" class="tight">
