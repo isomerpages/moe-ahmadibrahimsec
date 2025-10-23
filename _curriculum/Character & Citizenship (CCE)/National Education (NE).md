@@ -146,8 +146,10 @@ of heritage and identity in shaping our collective future.</p>
 <details class="isomer-details">
 <summary>Integration Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><em>Contents coming up soon!</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated_program_for_school_Website__1_.jpg">
+</div>
 </div>
 </details>
 </div>
