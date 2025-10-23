@@ -6,7 +6,7 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3>Booklist &amp; Stationery List (2026)</h3>
-<p><em>(Updated on Wednesday, 22th October 2025)</em>
+<p><em>(Updated on Thursday, 23rd October 2025)</em>
 </p>
 <ul>
 <li>
@@ -18,11 +18,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2026/S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
+<p><strong><a href="/files/Booklist/2026/S3_updated_231025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Booklist/2026/S4.pdf" rel="noopener nofollow" target="_blank">Sec 4</a></strong>
+<p><strong><a href="/files/Booklist/2026/S4_updated_231025.pdf" rel="noopener nofollow" target="_blank">Sec 4</a></strong>
 </p>
 </li>
 <li>
