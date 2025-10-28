@@ -125,9 +125,10 @@ of heritage and identity in shaping our collective future.</p>
 <p>The Gratitude Project allows Secondary 1 students to show appreciation
 to their primary school teachers. The Secondary 1 students were engaged
 in writing&nbsp;their messages of gratitude and designing the cards.</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/graditude_2025.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
