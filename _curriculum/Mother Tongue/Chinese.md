@@ -14,7 +14,7 @@ language proficiency while deepening their appreciation and understanding
 of Chinese culture and values. We aim to inspire in them a lifelong love
 for the Chinese language and a lasting respect for their cultural heritage.</p>
 <p>秉持“乐学善用”的理念，华文组致力于培养自信从容、善于表达且具有文化底蕴的学生。我们通过多元而富有意义的学习活动，帮助学生在掌握扎实语言能力的同时，深化对中华文化与价值观的理解与认同，从而引导他们热爱华文、欣赏文化，并培养终身学习的态度。</p>
-<h4><strong>Learning Chinese Beyond the Classroom 课堂之外的学习体验</strong></h4>
+<h4>Learning Chinese Beyond the Classroom 课堂之外的学习体验</h4>
 <p>The joy of learning Chinese extends far beyond the classroom, coming alive
 through meaningful real-world experiences. Students immerse themselves
 in cultural practices during our annual Chinese New Year celebrations and
@@ -77,7 +77,7 @@ the classroom.</p>
 <summary><strong>Theatre Experience 戏剧观赏</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>“Moonlit City” musical  音乐剧《城里的月光》</strong>
+<p><strong>“Moonlit City” musical 音乐剧《城里的月光》</strong>
 </p>
 <p><em>The Moonlight in the City</em> is an original Mandarin musical inspired
 by eight classic songs by veteran musician Chen Jiaming. It tells the timeless
