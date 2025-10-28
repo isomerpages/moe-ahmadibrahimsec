@@ -6,72 +6,27 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 <h2>Chinese</h2>
-<p><strong>Learning Chinese Language in AI</strong>
+<p>Guided by the principle of “Joyful Learners, Proficient Users”, the Chinese
+Language Unit is committed to nurturing students who are confident, expressive,
+and culturally grounded. Through a diverse and meaningful curriculum, we
+provide a positive and engaging learning environment that strengthens students’
+language proficiency while deepening their appreciation and understanding
+of Chinese culture and values. We aim to inspire in them a lifelong love
+for the Chinese language and a lasting respect for their cultural heritage.</p>
+<p>秉持“乐学善用”的理念，华文组致力于培养自信从容、善于表达且具有文化底蕴的学生。我们通过多元而富有意义的学习活动，帮助学生在掌握扎实语言能力的同时，深化对中华文化与价值观的理解与认同，从而引导他们热爱华文、欣赏文化，并树立终身学习的态度。</p>
+<h4><strong>Learning Chinese Beyond the Classroom 课堂之外的学习体验</strong></h4>
+<p>The joy of learning Chinese extends far beyond the classroom, coming alive
+through meaningful real-world experiences. Students immerse themselves
+in cultural practices during our annual Chinese New Year celebrations and
+Chinese Cultural Day, gaining a first-hand appreciation for the dynamic
+interplay between tradition and modernity. Additionally, our Secondary
+3 students embark on learning journeys to local Chinese theatre productions,
+where they witness the expressive power of the language in action, further
+cultivating a passion for Chinese and a deeper appreciation for its cultural
+richness.</p>
+<p>学习华文的乐趣，不仅在于课堂的研习，更在于生活的体验与应用。每年，学校都会举办新年庆祝会与母语双周活动让学生通过多样的文化活动，体验传统与现代文化的融合。此外，中三学生也将踏上学习之旅，走进本地华语剧场，借此机会深化对华文的热爱与对文化的欣赏。</p>
+<p><strong>Enrichment Activities</strong>
 </p>
-<p>By integrating the MOE syllabus with other carefully selected materials
-and deliberately designed learning activities, we bring AI students to
-discover joy in their Chinese Language learning experience with our differentiated
-school-based curriculum:</p>
-<p>为了寓学于乐，我校配合教育部华文课程，精心挑选适合学生水平的课外读物，并设计一系列学习活动，让学生学以致用。通过这个教学策略，老师们一步一步引导不同程度的学生学习，循序渐进地提高学生的华文水平。</p>
-<p><strong>Joy in Chinese in the classroom 寓乐于课堂之中</strong>
-</p>
-<p>Reading and writing are fundamental to language learning. To help AI students
-draw connections between reading and writing, and hence find the satisfaction
-in applying what they learn, extended reading materials are integrated
-into the curriculum.</p>
-<p>读写是能够相辅相成的语言技能。为了让AI学生能够在阅读和写作之间灵活变通，我校为学生订阅课外读物，让他们学以致用，从中得到满足感。</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Writing in Secondary School 中学写作</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>At secondary level, authentic learning is key in motivating students.
-Writing about things around them can be a motivation too. Therefore, ZbComma
-has been selected to complement writing lessons.</p>
-<p>活学活用，有助于激发学生的学习兴趣。贴近生活的真实性语料，其实能够激发学生的想象力。所以，我校订阅了收录新闻时事的读物《逗号》，让学生知天下事的当儿，也学习将真人真事改编融入自己作品之中的技巧。</p>
-<p></p>
-<p><strong>Narrative Writing 记叙文写作</strong>
-</p>
-<p>As the saying goes, “teach a man to fish and you feed him for a lifetime”.
-To develop AI students into confident self-regulated adults, they are guided
-to evaluate oral and writing pieces throughout 4 years of Chinese Language
-experience.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec 1 students: oral evaluation lessons</p>
-</li>
-<li>
-<p>Sec 2 students: narrative writing skills Process Writing lessons</p>
-</li>
-<li>
-<p>Sec 3 students: discursive writing skills through Process Writing lessons</p>
-<p></p>
-</li>
-</ul>
-<p>正所谓“授人以鱼，不如授之以渔”。为了提高AI学生独立思考的能力，我校教师每年都会针对不同的语文技能，培养学生自我评价的能力，增强他们使用华文华语的信心。</p>
-<p>• 通过互评与自评，中一学生将学习如何评价自己的说话内容</p>
-<p>• 通过过程式写作，中二学生将学习如何评价自己的记叙文</p>
-<p>• 通过过程式写作，中三学生将学习如何评价自己的议论文</p>
-</div>
-</details>
-</div>
-<p><strong>Joy in Chinese beyond the classroom 寓乐于课堂之外</strong>
-</p>
-<p>While Chinese can be learnt in the classroom, the fun and excitement of
-the language can also be experienced beyond the classroom.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To let students experience Chinese as a culture, students engage in cultural
-activities in our annual Chinese New Year Celebration, as well as CL Cultural
-Day.</p>
-</li>
-<li>
-<p>To help students appreciate Chinese language through different forms of
-expression, Sec 3 students are brought on learning journeys to view local
-Chinese Language theatrical productions.</p>
-</li>
-</ul>
-<p>华文学习不仅限于课堂，语言的趣味与魅力也能在日常生活中被发现与体验。为了让学生更深入地感受华族文化的魅力，学校每年都会举办新年庆祝会与母语双周活动让学生通过多样的文化活动，体验传统与现代文化的融合。同时，为了培养学生对华文的欣赏能力，中三学生也会参加学习之旅，观赏本地华语戏剧。</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Secondary 3 Chinese Crosstalk Experience 相声</strong>
