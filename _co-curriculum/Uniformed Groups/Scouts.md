@@ -244,7 +244,7 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <br>HADI RAYYAN ADI (S3-SERVICE)
 <br>YEO YI WEI (S2-COURAGE）</p>
 <p><strong>Patrol Leader / Quartermaster</strong>
-<br>DANIEL KHAN BIN MOHAMAD RIDWAN (S2-GRATITUDE)
+<br>DANIEL JAVILLONAR HARDI (S2-CARE)
 <br>SIM MING HAO (S2-INTEGRITY)</p>
 <p></p>
 <p><strong>Assistant Patrol Leader</strong>
