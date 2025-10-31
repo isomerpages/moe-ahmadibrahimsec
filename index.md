@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website Banner/ai2019-072732.jpg
+      background: /images/Website Banner/school_banner_edit.jpg
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
