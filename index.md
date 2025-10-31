@@ -40,7 +40,7 @@ sections:
       image: /images/s2 alp4.jpeg
       alt: Image alt text
   - infopic:
-      title: Enhance Music Programme (EMP)
+      title: Enhanced Music Programme (EMP)
       subtitle: Signature Programme
       description: Music learning should encourage expression and experimentation and
         provide students with the resources they need to fully immerse
