@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website Banner/ai2019-072732.jpg
+      background: /images/Website Banner/school_banner_edit.jpg
   - resources:
       title: AISS Announcements
       subtitle: Latest News and Highlights
@@ -40,7 +40,7 @@ sections:
       image: /images/s2 alp4.jpeg
       alt: Image alt text
   - infopic:
-      title: Enhance Music Programme (EMP)
+      title: Enhanced Music Programme (EMP)
       subtitle: Signature Programme
       description: Music learning should encourage expression and experimentation and
         provide students with the resources they need to fully immerse
