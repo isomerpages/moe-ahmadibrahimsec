@@ -15,22 +15,15 @@ variant: tiptap
 </p>
 <p>Sec 1 students will be introduced to the field of Drawing and explore
 it as a method of ideation and visualisation. To broaden students’ interest
-in other areas of Art, there will be a project on Traditional Craft and
-also a Film-making workshop to give them a variety of skills in different
-media.</p>
-<p><strong>Sec 2E/NA</strong>
+in other areas of Art, there will be learning journeys to Art museums to
+give students a broader understanding of Art.</p>
+<p><strong>Sec 2 Level - Full Subject Based Banding (FSBB)</strong>
 </p>
 <p>Sec 2 students will learn to paint and also learn more about Artists and
-their famous Artworks. There will be a learning journey to one of the Art
-Museums in Singapore to actually look at authentic artworks. The major
-project for the year will be on Animation. Students will create their own
-30 second animation that allows them to express their original ideas.</p>
+their famous Artworks. The major project for the year will be on Animation.
+Students will create their own 30 second animation that allows them to
+express their original ideas.</p>
 <p></p>
-<p><strong>Sec 2NT</strong>
-</p>
-<p>Learning also comes in the form of play and games. For example, using
-their Personal Learning Device (PLD), students can create their own video
-diary on their thoughts about their world.</p>
 <p><strong>Sec 3 Level</strong>
 </p>
 <p>All 3 streams will be offered Art. For all Sec 3 Art classes, numbers
@@ -49,13 +42,9 @@ art.</p>
 <p><strong>Art Enrichment:</strong>
 </p>
 <p>We believe the classroom is not the only way to understand and learn about
-art. Hence, the Art Unit has incorporated an Annual Art Camp into the Upper
-Sec Curriculum to foster greater understanding of the visual art. Last
-year during June Holidays, the Sec 3E/NA art pupils had a two day one night
-art camp where they experienced 6km of art walk, meet-the-artist session
-and Environmental art. This year, students will continue to be exposed
-to the art scene in Singapore, such as the visit to the annual Art Stage
-held at Marina Bay Sand.</p>
+art. Hence, the Art Unit has incorporated artist workshops (like the images
+of the ceramic workshop below) and visits to the Esplanade to enhance students'
+knowledge of the Arts in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" src="/images/CeramicsMrAhmad01.jpg">
 </div>
@@ -118,7 +107,7 @@ decision on their post-secondary options.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woon Sher Lin Sheralyn</p>
+<p>Ms Woon Sher Lin Sheralyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Art</p>
@@ -130,6 +119,14 @@ decision on their post-secondary options.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Teacher&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fara Lisa Suati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Teacher</p>
 </td>
 </tr>
 </tbody>

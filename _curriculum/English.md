@@ -15,18 +15,17 @@ the beauty of the language while at the same time be critical thinkers
 who can convey their opinions with heart and soul.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Creative Writing Camp 2024 and ELL Festival 2024 - To Infinity and Beyond!&nbsp;</strong>
+<summary><strong>Creative Writing Camp 2024 and ELIT(E) Fest - Recycled Tales and Upcycled Dreams&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>During the June holidays, selected interested students participated in
-our annual Creative Writing Camp, with experiences and workshops led by
-teachers and professionals from the writing industry. In Term 3, ELL Festival
-took place with various activities to engage students' curiosity about
-the English Language and literary pursuits.&nbsp;</p>
-<p>Do check out their works here at our online publication, <a href="https://sites.google.com/moe.edu.sg/contemplations2024/home" rel="noopener nofollow" target="_blank">ContemplAtIons 2024</a>!&nbsp;</p>
-<p>In addition, you may also enjoy reading the thoughtful and creative essays
-by students who achieved Gold and Silver awards at the Queens Commonwealth
-Essay Competition, also hosted on the website!&nbsp;</p>
+<p>"The theme&nbsp;<strong>“Recycled Tales &amp; Upcycled Dreams”</strong>&nbsp;guided
+both the Creative Writing Camp held in June, and ELIT(E) Fest this year,
+inspiring students to think creatively about what sustainability could
+mean in different ways. The Creative Writing Camp culminated in the online
+publication&nbsp;<em>ContemplAtIons</em>, a platform where students showcased
+original works that reflected creativity and depth of thought. Do take
+a look at their works&nbsp;<a href="https://go.gov.sg/contemplations2025" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 </div>
 </details>
 </div>

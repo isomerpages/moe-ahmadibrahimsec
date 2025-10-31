@@ -8,16 +8,17 @@ variant: tiptap
 <h2>Robotics Club</h2>
 <h3>About Us</h3>
 <p>(AI)² Robotics Club is envisioned to equip students with essential skills
-that will better prepare them for the 21st century. The club aims to ignite
-the students’ interests and passion in pursuing STEM (Science, Technology,
-Engineering and Mathematics) related disciplines, through the learning
-of robotics skills using Lego® Mindstorm EV3 robotics kit. Students will
-learn to work collaboratively to solve increasingly complex problems, honing
-their problem solving skills and acquire good social skills in the process.
-The club will provide a number of opportunities for the students to participate,
-present and showcase their talents in both intra- and inter-school competitions.
-Through these exposures, the club aims to build confidence and resilience
-in the students.</p>
+for the 21st century. The club seeks to spark students’ interest and passion
+in STEM (Science, Technology, Engineering, and Mathematics) through hands-on
+learning in robotics and coding, using the Lego® Spike Prime robotics kit
+and DJI Tello drones.</p>
+<p>Students will collaborate in teams to tackle increasingly complex challenges,
+strengthening their problem-solving abilities while developing important
+social and interpersonal skills. The club also offers multiple platforms
+for students to participate in, present, and showcase their talents through
+both intra- and inter-school competitions.</p>
+<p>Through these rich learning experiences, the club aims to nurture confidence,
+resilience, and a growth mindset in every member.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mission Statement</strong>
@@ -39,7 +40,7 @@ and tinkerers.</p>
 <br>2.30– 4:30 pm
 <br>
 <br><strong>Venue</strong>
-<br>Computer Lab 2 – Coding Programme
+<br>Computer Lab 2 – Spike Prime (Intermediate) Programme / Drone Programme&nbsp;
 <br>Computer Lab 1 – First LEGO League training</p>
 </div>
 </details>
@@ -49,12 +50,12 @@ and tinkerers.</p>
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Chairperson </strong>
-<br>Radhakrishnan Adhithishri (3 Resilience)
+<p><strong>Chairperson</strong>
+<br>3 Excellence LIU WEI EN, NATHANIEL
 <br>
-<br><strong>Vice-Chairpersons </strong>
-<br>Tam Bao Shan (3 Resilience)
-<br>Noel Soe (3 Integrity)</p>
+<br><strong>Vice</strong>-<strong>Chairpersons</strong>
+<br>3 Integrity HEE PEI YING
+<br>3 Excellence LOH ZI EN, DAWN</p>
 </div>
 </details>
 </div>
@@ -128,6 +129,7 @@ and tinkerers.</p>
 <p><strong>Mr Yeu Chee Wee Thomas (OIC)</strong>
 <br><strong>Contact:&nbsp;<a href="mailto:yeu_chee_wee_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yeu_chee_wee_thomas@moe.edu.sg</a></strong>
 <br>Ms Seah Yen Sin (Xie Yanxin)</p>
+<p>Dr Komathy Vayapuri</p>
 </div>
 </details>
 </div>
