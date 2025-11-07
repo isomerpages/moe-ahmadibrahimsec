@@ -49,6 +49,14 @@ fit for your family!
 <br>
 <br>Follow <strong><a href="https://www.instagram.com/the_aiss_fire" rel="noopener nofollow" target="_blank">the_aiss_fire</a></strong> on
 Instagram and <strong><a href="https://www.facebook.com/theAIfire/" rel="noopener nofollow" target="_blank">the_AIfire</a> </strong>on
-Facebook for more information about AI.</p>
-<p></p>
+Facebook for more information about AI.
+<br>
+<br><strong>Explore Our School</strong>
+<br>Use the interactive map below to familiarise yourself with our school
+grounds.
+<br>Click on the icons to view classrooms, facilities, and key locations around
+the school.</p>
+<div class="iframe-wrapper">
+<iframe height="555" width="910" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpwvM8YlKBq_mbanT1XXO8TuILQWuWTWFh6aoRyQk9eheZlTlkBbsp4xD9M_YAAJj-q_CcwU4suigj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
