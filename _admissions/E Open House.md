@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>E-Open House</strong></h2>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISS_Open_House.png">
 </div>
