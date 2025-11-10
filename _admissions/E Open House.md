@@ -8,9 +8,8 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aiss_E_Open_House.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISS_Open_House.png">
 </div>
-<p></p>
 <p>Dear Parents and Guardians,</p>
 <p>Registration for our AISS E-Open House is open! This online session is
 designed to help you make an informed decision about your child's secondary
