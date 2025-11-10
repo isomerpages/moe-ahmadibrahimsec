@@ -12,10 +12,15 @@ variant: tiptap
 </div>
 <p></p>
 <p>Dear Parents and Guardians,</p>
-<p>Registration for our AISS E-Open House opens on&nbsp;<strong>Monday, 10th November 2025.</strong>&nbsp;This
-online session is designed to help you make an informed decision about
-your child's secondary education.</p>
-<p></p>
+<p>Registration for our AISS E-Open House is open! This online session is
+designed to help you make an informed decision about your child's secondary
+education.</p>
+<p>To register, please go to <strong><a href="https://go.gov.sg/registeraiepenhouse2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/registeraiepenhouse2025</a></strong> or
+scan the QR Code below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISS_E_Open_House_Registration_2025_QR.png">
+</div>
+<p>&nbsp;</p>
 <p><strong>Event Details:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -26,8 +31,8 @@ your child's secondary education.</p>
 <p><strong>Time:</strong>&nbsp;9:30 AM - 11:00 AM</p>
 </li>
 <li>
-<p><strong>Platform:</strong>&nbsp;Online via Microsoft Teams
-<br><em>(The joining link will be provided upon successful registration.)</em>
+<p><strong>Platform:</strong>&nbsp;Online via Microsoft Teams</p>
+<p><em>(The joining link will be provided upon successful registration.)</em>
 </p>
 <p></p>
 </li>
