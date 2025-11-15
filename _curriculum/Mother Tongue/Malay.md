@@ -6,18 +6,24 @@ third_nav_title: Mother Tongue
 variant: tiptap
 ---
 <h2>Malay</h2>
+<p></p>
+<h4><strong>BAHASA DIJUNJUNG, BUDAYA DI SANGJUNG</strong></h4>
+<blockquote>
+<p>Empowered by Language, Enriched by Culture</p>
+</blockquote>
+<p>Memupuk minat dan menanamkan kasih terhadap bahasa dan budaya merupakan
+teras usaha Unit Bahasa Melayu Sekolah Menengah Ahmad Ibrahim. Bagi kami,
+bahasa bukan sekadar alat komunikasi, tetapi nadi budaya, jati diri, dan
+komuniti. Program-program kami dirancang dengan teliti untuk menyalakan
+kecintaan terhadap bahasa Melayu serta memperkukuh penghargaan murid terhadap
+warisan budaya yang kaya. Melalui pembelajaran yang bermakna, pengalaman
+yang mendalam, dan ruang untuk berkarya, kami membimbing murid menjadi
+penutur yang yakin, petah, dan berbangga dengan bahasa ibunda mereka —
+seterusnya menghayatinya dengan penuh tujuan dan kesungguhan.</p>
+<p><em>At the Malay Language Unit, we believe that language is more than just communication — it is the heartbeat of culture, identity, and community. Our programmes are thoughtfully designed to ignite a love for the Malay language and deepen students’ appreciation of their rich cultural heritage. Through engaging lessons, immersive experiences, and creative expression, we nurture confident, articulate individuals who take pride in their mother tongue and carry it forward with purpose and passion.</em>
+</p>
 <ul>
 <li>
-<p>About Us</p>
-<p><strong>BAHASA DIJUNJUNG, BUDAYA DI SANGJUNG</strong>
-</p>
-<p>At the Malay Language Unit, we believe that language is more than just
-communication — it is the heartbeat of culture, identity, and community.
-Our programmes are thoughtfully designed to ignite a love for the Malay
-language and deepen students’ appreciation of their rich cultural heritage.
-Through engaging lessons, immersive experiences, and creative expression,
-we nurture confident, articulate individuals who take pride in their mother
-tongue and carry it forward with purpose and passion.</p>
 <p></p>
 <h4><strong>MEMUPUK CINTA, MENYEMAI KASIH</strong></h4>
 <blockquote>
@@ -51,6 +57,9 @@ serta warisan yang menjadi kebanggaan bersama.</p>
 </blockquote>
 <p><strong>Menjejak Trend di Kampung Glam</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kg_glam.jpg">
+</div>
 <p>Para pelajar Menengah 2 berpeluang mengalami pembelajaran autentik melalui
 satu pengembaraan budaya yang menyeronokkan ke Kampung Glam! Lawatan ini
 bukan sekadar berjalan-jalan di kawasan warisan yang bersejarah — tetapi
@@ -86,6 +95,10 @@ mereka.</p>
 <p></p>
 <p><strong>Menghayati Sejarah: Bahasa Melayu Bersemarak di Pentas</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
+</div>
 <p>Para pelajar Menengah 3 telah berpeluang menyaksikan pementasan teater
 Yusof - Portrait of a President di Esplanade Theatre. Pementasan ini telah
 memberikan peluang autentik kepada pelajar untuk meneroka bahasa, budaya,
@@ -119,7 +132,7 @@ pembelajaran dalam kalangan anak muda.</p>
 <p><em>Students experience history unfolding on stage through veteran actors and a talented ensemble, guided by Singapore’s top creative minds. They learnt how language, storytelling, and performance intersect to bring history to life, creating a rich, immersive learning experience that connects classroom concepts with real-world culture.</em>
 </p>
 <p></p>
-<h4>MENGASAH POTENSI, MENGGILAP PRESTASI, MENJEJAK KECEMERLANGAN </h4>
+<h4>MENGASAH POTENSI, MENGGILAP PRESTASI, MENJEJAK KECEMERLANGAN</h4>
 <blockquote>
 <p>Unlocking potential, inspiring achievement, striving for excellence</p>
 </blockquote>
@@ -165,6 +178,9 @@ bakat serta minat mereka dalam dunia kesusasteraan dan seni visual.</p>
 <p></p>
 <p><strong>PERTANDINGAN BAHAS 4PM - MENYEMAI KATA, MENYALA JIWA</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.png">
+</div>
 <p>Pada 26 April, <strong>Nur Nabilah Yasmin (4ST)</strong>, <strong>Nur Dhiya Alesya (4Ex)</strong>, <strong>Sri Anggun Adlina (3Co)</strong> dan <strong>Nur Elis Qalisha (3Gr)</strong> dengan
 bangganya mewakili sekolah dalam <strong>Pertandingan Bahas 4PM</strong>.</p>
 <p>Dalam minggu-minggu menjelang pertandingan, pasukan ini mencurahkan sepenuh
@@ -189,6 +205,9 @@ makna sebenar dedikasi, semangat, dan kerjasama sepasukan.</p>
 <p></p>
 <p><strong>PERTANDINGAN SAHIBBA SEKOLAH ZON UTARA 2025 - MENYERLAHKAN BAHASA DAN STRATEGI</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
 <p>Pada 15 Mei 2025, Sekolah Menengah Ahmad Ibrahim telah mengambil bahagian
 buat julung kalinya dalam Pertandingan Sahibba Sekolah Zon Utara, yang
 telah diadakan di Sekolah Menengah Pei Hwa. Sekolah diwakili oleh empat
