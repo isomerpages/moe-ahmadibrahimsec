@@ -6,39 +6,35 @@ third_nav_title: Mother Tongue
 variant: tiptap
 ---
 <h2>Malay</h2>
+<p></p>
+<h4><strong>BAHASA DIJUNJUNG, BUDAYA DI SANGJUNG</strong></h4>
+<blockquote>
+<p>Empowered by Language, Enriched by Culture</p>
+</blockquote>
+<p>Memupuk minat dan menanamkan kasih terhadap bahasa dan budaya merupakan
+teras usaha Unit Bahasa Melayu Sekolah Menengah Ahmad Ibrahim. Bagi kami,
+bahasa bukan sekadar alat komunikasi, tetapi nadi budaya, jati diri, dan
+komuniti. Program-program kami dirancang dengan teliti untuk menyalakan
+kecintaan terhadap bahasa Melayu serta memperkukuh penghargaan murid terhadap
+warisan budaya yang kaya. Melalui pembelajaran yang bermakna, pengalaman
+yang mendalam, dan ruang untuk berkarya, kami membimbing murid menjadi
+penutur yang yakin, petah, dan berbangga dengan bahasa ibunda mereka —
+seterusnya menghayatinya dengan penuh tujuan dan kesungguhan.</p>
+<p><em>At the Malay Language Unit, we believe that language is more than just communication — it is the heartbeat of culture, identity, and community. Our programmes are thoughtfully designed to ignite a love for the Malay language and deepen students’ appreciation of their rich cultural heritage. Through engaging lessons, immersive experiences, and creative expression, we nurture confident, articulate individuals who take pride in their mother tongue and carry it forward with purpose and passion.</em>
+</p>
 <ul>
 <li>
-<p>About Us</p>
-<p><strong>BAHASA DIJUNJUNG, BUDAYA DI SANGJUNG</strong>
-</p>
-<p>At the Malay Language Unit, we believe that language is more than just
-communication — it is the heartbeat of culture, identity, and community.
-Our programmes are thoughtfully designed to ignite a love for the Malay
-language and deepen students’ appreciation of their rich cultural heritage.
-Through engaging lessons, immersive experiences, and creative expression,
-we nurture confident, articulate individuals who take pride in their mother
-tongue and carry it forward with purpose and passion.</p>
 <p></p>
-</li>
-<li>
-<p><strong>MT CULTURAL DAY</strong>
-</p>
-<p><strong>Mother Tongue Cultural Day: Celebrating Language, Heritage, and Identity</strong>
-<br>The air buzzed with excitement as the rhythmic beat of <em>dikir barat</em> and
-graceful moves of <em>silat</em> took centre stage during this year’s Mother
-Tongue Cultural Day. Designed to bring the Malay language to life, the
-event offered immersive workshops where students experienced culture through
-movement, music, and language. From <em>dikir barat</em> harmonies to <em>silat</em> stances,
-students discovered pride in their heritage and confidence in self-expression—a
-day that celebrated identity, teamwork, and the living beauty of the Malay
-language.</p>
-<p></p>
+<h4><strong>MEMUPUK CINTA, MENYEMAI KASIH</strong></h4>
+<blockquote>
+<p>Sowing Wonder, Growing Identity</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_Cultural_2025.png">
 </div>
 <p></p>
-<p><strong>Hari Budaya Bahasa Ibunda: Menyemai Cinta terhadap Bahasa dan Warisan</strong>
-<br>Hari Budaya Bahasa Ibunda tahun ini diraikan dengan penuh semangat apabila
+<p><strong>Hari Kebudayaan Melayu: Menyemai Cinta terhadap Bahasa dan Warisan</strong>
+<br>Hari Kebudayaan Melayu tahun ini diraikan dengan penuh semangat apabila
 pelajar menyertai bengkel <em>dikir barat</em> dan <em>silat</em> yang sarat
 dengan nilai budaya. Melalui aktiviti interaktif ini, pelajar bukan sahaja
 belajar menggunakan bahasa Melayu dengan lebih yakin, tetapi juga mengenali
@@ -47,198 +43,204 @@ manakala gerak langkah <em>silat</em> menonjolkan jati diri dan disiplin.
 Suasana yang meriah ini menyemai rasa bangga dan cinta terhadap bahasa
 serta warisan yang menjadi kebanggaan bersama.</p>
 <p></p>
-</li>
-<li>
-<p>Learning Journey</p>
-<p>Earlier in the year, some of our 4N students had the chance to witness
-the production work of a local Malay TV drama. The behind-the-scene experience
-was indeed a very enriching one. To top it up, students were given the
-opportunity to mingle with and interview the TV stars.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtiZZz3vOGH4J5bGvWLAawhiAiXdb4XEx2JQe20MIVAVQRkN9G6ReQe5N8cS2NaATnyqW1MTIcpdjQ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
-<p>The students came back and penned their experience down. Their writing
-was then submitted to i3 GenG, Berita Harian’s students weekly publication.</p>
-<p>The article written by Nuruljannah (4N1) and Muhd Faris (4N2) was published
-on 18 April 2016</p>
-<p><strong>Read the full article:</strong>
+<p><strong><em>Mother Tongue Cultural Day: Celebrating Language, Heritage, and Identity</em></strong><em><br>The air buzzed with excitement as the rhythmic beat of dikir barat and graceful moves of silat took centre stage during this year’s Mother Tongue Cultural Day. Designed to bring the Malay language to life, the event offered immersive workshops where students experienced culture through movement, music, and language. From dikir barat harmonies to silat stances, students discovered pride in their heritage and confidence in self-expression—a day that celebrated identity, teamwork, and the living beauty of the Malay language.</em>
 </p>
-<p><strong><a href="http://tinyurl.com/ML4N2016newspaperarticle" rel="noopener noreferrer nofollow" target="_blank">http://tinyurl.com/ML4N2016newspaperarticle</a></strong>
-</p>
-<p></p>
-</li>
-<li>
-<p><strong>COMPETITIONS</strong>
-</p>
-<p>We believe every student can excel and everyone wants to give their best.
-To help our students grow and develop, we will ensure that they are given
-the exposure and opportunity that they need. In recent years, we have organised
-and also taken part in various competitions to challenge our students to
-stretch their ablility and to reach for the sky.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>AISS Essay Writing Competition</p>
-</li>
-<li>
-<p>AISS Malay Language &amp; Culture Quiz</p>
-</li>
-<li>
-<p>National Malay Language Scrabble Competition</p>
-</li>
-<li>
-<p>National Essay Writing Competition Berita Harian’s Kem Obor (Journalism
-Camp)</p>
 <p></p>
 </li>
 </ul>
-<p><strong>BAHAS 4PM: MALAY DEBATE COMPETITION 2019</strong>
-</p>
-<p>On 23rd February 2019, 4 students from Sec 2 ML students represented AI
-in a debate competition.&nbsp;</p>
-<p>Their positivity radiates throughout the competition, not letting any
-challenges or their inexperience to hamper their belief that they are capable
-to be on par with the rest of the schools. Despite being one of the youngest
-group of students competing in this national competition, our students
-displayed great courage and perseverance in achieving their goals for this
-competition. They embraced the challenges confidently and understood the
-importance of working together to ensure that they are able to give their
-competitors a good fight.&nbsp;</p>
-<p>Coupled with the experience that they have garnered from this competition
-as well as the qualities embodied in Mr Ahmad Ibrahim, next year would
-be yet another experience for them.</p>
-<p>“Sekolah Menengah Ahmad Ibrahim,
-<br>Tidak akan menyerah kalah!”</p>
-<p>Itulah LAUNGAN semangat pelajar AI sebelum mengorak langkah ke dewan perdebatan.&nbsp;</p>
-<p>Tanggal 23 Februari merupakan percubaan AI dalam petandingan bahas 4PM
-setelah sekian lama menyepi. 4 pelajar dari menengah dua telah berganding
-bahu untuk memastikan mereka dapat memberikan perlawanan yang sengit terhadap
-kumpulan kumpulan yang handal dari merata Singapura. Walaupun pelajar AI
-mungkin belum lagi mantap dari segi persembahan dan pengolahan isi bebanding
-dengan sekolah- skolah yang lebih berpengalaman, sikap tidak berputus asa
-dan kekal berjuang kian membara dalam jiwa mereka. Yang penting, pengalaman
-yang diraih memang tiada tolok bandingnya. Tahun hadapan, berbekalkan dengan
-pengalaman yang baru diraih dan sikap Encik Ahmad Ibrahim yang terpahat
-dalam diri setiap pelajar, pasti kita akan berjuang sekali lagi!</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQptLrxgOra_JF69iRUZgITyhLBRD0fRZJoJpUCC4BsubWxnk0ZaVO_jJqvTwthWgG8cVGEX1gb2KCR/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
+<h4><strong>JAUH PERJALANAN, LUAS PEMANDANGAN</strong></h4>
+<blockquote>
+<p>The more you seek, the more you understand</p>
+</blockquote>
+<blockquote>
 <p></p>
-</li>
-<li>
-<p><strong>NATIONAL SAHIBBA COMPETITION 2019</strong>
-</p>
-<p>4 Sec 2 Malay Language students participated in the annual Sahibba Competition
-that was held in Woodgrove Secondary School.&nbsp;</p>
-<p>1) Reflection by students</p>
-<p>“North Zone Malay Language Scrabble Competition was held at Woodgrove
-Secondary School. This is the first time I took part in this competition.
-My experience at this competition was an enjoyable and a memorable one.
-I made new friends with other schools. We did not qualified to the next
-round. I will not give up and will practise hard for next year’s competition”
-– Farhan Aliff (2E1)</p>
-<p>“After the competition, I have learnt that there is always room for improvement
-and I will strive to do better next year” – Noor Hakim (2E1)</p>
-<p>“This competition was so fun. It challenges my thinking and spelling skills.
-I made new friends and gained a lot from this experience. I was so hesitant
-to join this competition at first because I was too scared of competing
-against other schools. I am really thankful to be given this opportunity
-and I realise that learning Malay Language can be so much fun” –Dinie Maisarah
-(2E4)</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTk9wY1WKpwmfEMLIL6SX3DhVs0hkxX78IGb-eBxyHuEMEIUihPJFQuZPtv-ZfPvFjtWGEAiurYTai_/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
-<p></p>
-</li>
-<li>
-<p><strong>NATIONAL ESSAY WRITING COMPETITION</strong>
+</blockquote>
+<p><strong>Menjejak Trend di Kampung Glam</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/ML%20National%20Essay%20Writing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kg_glam.jpg">
 </div>
-<p>Excelling at national stage brings about a lot of joy and satisfaction.
-It creates self-confidence and develop the desire to persist and strive
-for the best.&nbsp;</p>
-<p>In the previous National Essay Writing Competition organised by EDN Limited,&nbsp;two
-of our students did the school proud by emerging among the Top 33 in a
-National Level Creative Essay Writing Competition.&nbsp;</p>
-<p>The two talented writers are Nazurah Zulkiflee of 1E3 (left) and Nur Izzati
-bte Mohamed of 4N1.</p>
+<p>Para pelajar Menengah 2 berpeluang mengalami pembelajaran autentik melalui
+satu pengembaraan budaya yang menyeronokkan ke Kampung Glam! Lawatan ini
+bukan sekadar berjalan-jalan di kawasan warisan yang bersejarah — tetapi
+menjadi satu pengalaman bermakna yang membuka mata mereka tentang bagaimana
+tradisi dan kemodenan bergabung dalam dunia masa kini.</p>
+<p>Berbekalkan rasa ingin tahu dan semangat kreatif, para pelajar meneroka
+tema “Trend”. Mereka menjelajah lorong-lorong yang berwarna-warni, merakam
+gambar di kedai-kedai yang unik, dan memerhatikan bagaimana warisan Melayu
+terus berkembang melalui makanan, fesyen dan seni. Ada juga yang berinteraksi
+dengan pemilik kedai tempatan dalam Bahasa Melayu untuk mengetahui bagaimana
+kawasan ini telah berubah — di mana dahulunya kedai kain tradisional, kini
+menjadi kafe moden dan butik bergaya!</p>
+<p>Melalui aktiviti seperti pencarian trend terkini, temu bual ringkas dan
+sesi refleksi, para pelajar mempelajari bagaimana bahasa memainkan peranan
+penting dalam mencorakkan budaya dan identiti. Suasana meriah di Haji Lane,
+aroma hidangan tradisional, serta kisah-kisah menarik daripada penduduk
+tempatan menjadikan lawatan ini satu pengalaman yang sukar dilupakan.</p>
+<p>Pada akhir lawatan, para pelajar bukan sahaja pulang dengan gambar dan
+nota, tetapi juga dengan inspirasi baharu — bahawa bahasa tidak terhad
+kepada buku teks, sebaliknya hidup dan berkembang dalam dunia di sekeliling
+mereka.</p>
 <p></p>
-<p><strong>NATIONAL SAHIBBA COMPETITION 2016</strong>
+<p><strong><em>Exploring Trends at Kampung Glam</em></strong>
 </p>
-<p>At the National Sahibba (Malay Scrabble) Competition 2016, represented
-by Muhammad Ifir Haiqel (3E1), Melissa bte Abd Latiff (3E3), Zarhidah bte
-Baharuddin (3N2), Zahara bte Abd Rashid (3N2) did AI proud by emerging
-as North Zone runners-up.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLfNXPz_HJx5U1Bk2d3qHxWHyty2dua2q-1aZxMpuLGMyLFrGHQ5S3lNrqXaSqLOvKEHGpUOOXKRoG/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
+<p><em>Our Secondary 2 Malay Language students took learning beyond the classroom with an exciting cultural adventure to Kampung Glam! The trip, held during their Mother Tongue lessons, was more than just a walk through one of Singapore’s most vibrant heritage districts — it was an eye-opening exploration of how tradition and modernity blend in today’s world.</em>
+</p>
+<p><em>Armed with curiosity and creativity, students set out to discover the theme of “Trends”. They roamed the colourful streets, snapped photos of unique shopfronts, and observed how the Malay heritage continues to evolve through food, fashion and art. Some even chatted with local shop owners in Malay to find out how the area has transformed over the years — from traditional textile stores to trendy cafés and boutique shops!</em>
+</p>
+<p><em>Through activities like trend mapping, mini-interviews and reflection circles, students learned how language breathes life into culture and identity. The buzz of Haji Lane, the aroma of traditional dishes, and the rich storytelling from locals all came together to make this journey an unforgettable one.</em>
+</p>
+<p><em>By the end of the trip, students didn’t just return with photos and notes — they returned inspired, realising that language isn’t confined to textbooks, but lives and thrives in the world around them.</em>
+</p>
 <p></p>
-</li>
-</ul>
-<p><strong>HARI RAYA CELEBRATION</strong>
+<p><strong>Menghayati Sejarah: Bahasa Melayu Bersemarak di Pentas</strong>
 </p>
-<p>Hari Raya has always been the best time for students to showcase their
-talents on stage. Apart from sharing the wonderful vibes of the festive
-occassion, it also provides our students an opportunity to showcase various
-Malay cultures to the school community.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLt3cA-f8zynbeZm-Bqkn4Wpv5aFRDE9lt3cBGaXlVVLiZf2VCsky_1vufGYe7-1dFDpk9LMd6UWz3/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
 <p></p>
-<p><strong>RAKAN BAHASA 2019</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeABRUXm6rRJlkbvdUOaxTcDBIPPiAGOVuhvD_7-s0nhQuor9TJX2UQclZMJy9BYdztWd4esMxvdpN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
-<p>Dinie Maisarah and Nur Hazimah from 2E4 (2019) was recently appointed
-as the Rakan Bahasa (Friends of the Malay Language). At this year’s Malay
-Language Month, these Rakan Bahasa will be given opportunities to engage
-in deeper learning through various language activities such as the Newsmaker
-Competition and also undergo guide training at the Asian Civilisation Museum.</p>
-<p>I) Appointment Ceremony
-<br>They attended the Appointment Ceremony of Malay Language Rakan Bahasa
-(Friends of the Language) on 13th April. This annual event organised by
-the Malay Language Council of Singapore recognises students who have shown
-a keen interest in the learning and usage of the Mother Tongue.&nbsp;</p>
-<p>II) Newsmaker Competition
-<br>They also took part in the Newsmaker Competition on 23rd May, where they
-can further put in practice their knowledge of Critical Social Inquiry
-(CSI) and media literacy. Both students were presented the opportunity
-to research on local topics relating to Singapore as well as using applying
-their expertise in video making ad video-editing from their ICT lessons.&nbsp;</p>
-<p>III) Guide Training at Asian Civilisation Museum
-<br>Dinie and Hazimah were given the opportunity to collaborate with other
-students from different schools; to learn and explore the museum with other
-students as well as to prep themselves as guides for the upcoming Malay
-Language Month on 7 September. Students will then be given the opportunity
-to interact with members of the public and showcase their capabilities
-of being bilingual in explaining the terms and information regarding the
-museum.</p>
-<p>Dinie Maisarah and Nur Hazimah dari kelas 2E4 (2019) baru-baru ini telah
-dilantik sebagai Rakan Bahasa. Berbekalkan ilmu yang bakal diraih daripada
-program-program yang akan diadakan oleh Majlis Bahasa Melayu Singapura,
-Rakan Bahasa ini akan diberikan peluang untuk menonjolkan bakat dan mengasah
-minat mereka terhadap Bahasa Melayu. Antara program-program yang akan dihadiri
-oleh pelajar ialah Pertandingan Newsmaker dan sesi latihan di Muzium Tamadun
-Asia.</p>
-<p>I) Majlis Pelantikan Rakan Bahasa
-<br>Tanggal 13 April, Dinie Maisarah and Nur Hazimah dari kelas 2E4 (2019)
-telah menghadiri Majlis Pelantikan Rakan Bahasa. Majlis ini telah dianjurkan
-oleh Majlis Bahasa Melayu Singapura untuk para pelajar yang menunjukkan
-minat dalam subjek Bahasa Melayu.</p>
-<p>II) Pertandingan Newsmaker
-<br>Mereka juga telah mengambil bahagian dalam Pertandingan Newsmaker yang
-telah diadakan pada 23 Mei. Pertandingan ini telah memberikan peluang kepada
-pelajar untuk membuat kajian mengenai topik-topik berkaitan dengan Singapura
-dan juga menonjolkan kepakaran mereka dalam kemahiran penyuntingan video
-yang telah diperoleh daripada kelas ICT mereka.&nbsp;</p>
-<p>III) Sesi latihan di Muzium Tamadun Asia
-<br>Dinie Maisarah and Nur Hazimah juga berpeluang untuk bekerjasama dengan
-pelajar-pelajar daripada sekolah-sekolah yang lain agar dapat menimba ilmu
-bersama di samping mempelajari strategi-strategi untuk menjadi yakin apabila
-berbual dengan orang ramai. Mereka juga dikehendaki untuk menjalani beberapa
-sesi latihan agar mereka besedia untuk berinteraksi dengan orang ramai
-dan juga berkongsi informasi yang telah dipelajari di muzium itu.&nbsp;</p>
+<p>Para pelajar Menengah 3 telah berpeluang menyaksikan pementasan teater
+Yusof - Portrait of a President di Esplanade Theatre. Pementasan ini telah
+memberikan peluang autentik kepada pelajar untuk meneroka bahasa, budaya,
+dan identiti di luar bilik darjah.</p>
+<p>Berlatarbelakangkan tahun 1961, pementasan ini mengisahkan presiden pertama
+Singapura, Inche' Yusof Ishak, ketika beliau menyampaikan ucapan bersejarah
+pada Perhimpunan Hari Kebangsaan dan memimpin sebuah negara muda yang sedang
+mengalami perubahan. Bermula dari hari-harinya di Utusan Melayu, memperjuangkan
+suara masyarakat Melayu, sehingga memimpin Singapura melalui proses penyatuan,
+pemisahan, dan kemerdekaan, Yusof menghadapi persoalan tentang bangsa,
+identiti, dan perpaduan nasional. Pelajar menyaksikan bagaimana pemimpin
+luar biasa ini mengimbangi pengorbanan peribadi dengan kepercayaan teguh
+bahawa kepemimpinan adalah tentang perkhidmatan, maruah, keadilan, dan
+perpaduan — nilai-nilai yang membentuk negara.</p>
+<p>Pelajar menyaksikan sejarah dihidupkan semula di pentas melalui para pelakon
+Singapura yang berbakat dan dikemudikan oleh kumpulan kreatif terkemuka
+Singapura. Mereka mempelajari bagaimana bahasa, penceritaan, dan persembahan
+bersatu untuk menyampaikan sejarah hidup bagi mewujudkan pengalaman pembelajaran
+yang kaya dan mendalam.</p>
+<p>Lawatan teater ini telah mencetuskan sesi perbincangan dan penghargaan
+yang lebih mendalam terhadap bahasa dan budaya melayu serta sejarah Singapura
+lalu membuktikan bahawa pengalaman yang autentik mampu menyemarakkan semangat
+pembelajaran dalam kalangan anak muda.</p>
+<p></p>
+<p><strong><em>Step Into History: Malay Language Comes Alive on Stage</em></strong>
+</p>
+<p><em>Our Secondary 3 Malay Language students embark on a memorable cultural experience with a theatre outing to watch Yusof - Portrait of a President at the Esplanade Theatre. This programme brings Malay language and Singapore history to life, offering students an authentic opportunity to explore language, culture, and identity beyond the classroom.</em>
+</p>
+<p><em>Set in 1961, the play follows Singapore’s first president, Yusof Ishak, as he delivers his landmark speech at the National Day Mass Rally and navigates a young nation on the cusp of change. From his early days at Utusan Melayu, championing the voice of the Malay community, to leading Singapore through merger, separation, and independence, Yusof faces questions of race, identity, and national unity. Students witness how this extraordinary leader balanced personal sacrifices with a steadfast belief that leadership is about service, dignity, justice, and unity — ideals that helped shape the nation.</em>
+</p>
+<p><em>Students experience history unfolding on stage through veteran actors and a talented ensemble, guided by Singapore’s top creative minds. They learnt how language, storytelling, and performance intersect to bring history to life, creating a rich, immersive learning experience that connects classroom concepts with real-world culture.</em>
+</p>
+<p></p>
+<h4>MENGASAH POTENSI, MENGGILAP PRESTASI, MENJEJAK KECEMERLANGAN</h4>
+<blockquote>
+<p>Unlocking potential, inspiring achievement, striving for excellence</p>
+</blockquote>
+<p></p>
+<p><strong>SAYEMBARA CEPREN</strong>
+</p>
+<p>Peraduan Sayembara Cerpen merupakan pertandingan menulis karangan yang
+diadakan setiap tahun bagi pelajar-pelajar Bahasa Melayu Lanjutan, G2 dan
+G3 (Menengah 1 hingga 5). Setiap peringkat dan aliran diberikan tema yang
+berbeza untuk menguji daya imaginasi dan keupayaan pelajar menulis dengan
+gaya tersendiri.</p>
+<p>Pelajar digalakkan untuk menggunakan frasa berbunga, ungkapan menarik
+serta peribahasa bagi memperindah penulisan kreatif mereka. Objektif utama
+pertandingan ini adalah untuk melahirkan pelajar yang mampu menghasilkan
+karangan yang kreatif, imaginatif dan berunsur nilai murni berdasarkan
+tema yang diberikan.</p>
+<p>Sebanyak tiga orang pemenang dipilih bagi setiap aliran sebagai pengiktirafan
+terhadap hasil penulisan terbaik mereka.</p>
+<p>Selain pertandingan menulis cerpen, pelajar Menengah 2G1 serta pelajar
+Menengah 3 dan 4 Normal Teknikal turut mengambil bahagian dalam peraduan
+menghasilkan poster yang menonjolkan kreativiti dan mesej yang padat.</p>
+<p>Buat julung-julung kalinya pada tahun ini, pelajar Menengah 1G1 turut
+diberi peluang untuk menyerlahkan bakat mereka melalui peraduan menghasilkan
+komik. Komik tersebut dihasilkan sama ada melalui lukisan tangan ataupun
+platform digital seperti Canva, membolehkan pelajar mengekspresikan imaginasi
+mereka dalam bentuk visual dan naratif yang menarik.</p>
+<p>Melalui pelbagai bentuk pertandingan ini, pelajar bukan sahaja dapat mengasah
+kemahiran berbahasa dan berfikir secara kreatif, tetapi juga menonjolkan
+bakat serta minat mereka dalam dunia kesusasteraan dan seni visual.</p>
+<p></p>
+<p><strong><em>CREATIVE ESSAY WRITING COMPETITION</em></strong>
+</p>
+<p><em>The “Sayembara Cerpen” Competition is an annual writing contest organized for Higher Malay Language, G2 and G3 students (Secondary 1 to 5). Each level and stream is given a different theme to test students’ imagination and ability to write in their own unique style. Students are encouraged to use expressive phrases, vivid language and Malay proverbs to enhance their creative writing. The main objective of this competition is to nurture students who can produce creative, imaginative and value-based compositions based on the given theme.</em>
+</p>
+<p><em>A total of three winners are selected from each stream to recognize the best pieces of writing.</em>
+</p>
+<p><em>In addition to the writing competition, Secondary 2G1 students as well as Secondary 3 and 4 Normal Technical students participated in a poster design contest, showcasing creativity and impactful messages.&nbsp;</em>
+</p>
+<p><em>For the first time this year, Secondary 1G1 students were given the opportunity to display their talent through a comic creation competition. The comics were produced either through hand-drawn illustrations or digital platforms such as Canva, allowing students to express their imagination through engaging visuals and narratives.</em>
+</p>
+<p><em>Through these various competitions, students not only sharpen their language and creative thinking skills but also demonstrate their talent and passion for literature and visual arts.</em>
+</p>
+<p></p>
+<p><strong>PERTANDINGAN BAHAS 4PM - MENYEMAI KATA, MENYALA JIWA</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.png">
+</div>
+<p>Pada 26 April, <strong>Nur Nabilah Yasmin (4ST)</strong>, <strong>Nur Dhiya Alesya (4Ex)</strong>, <strong>Sri Anggun Adlina (3Co)</strong> dan <strong>Nur Elis Qalisha (3Gr)</strong> dengan
+bangganya mewakili sekolah dalam <strong>Pertandingan Bahas 4PM</strong>.</p>
+<p>Dalam minggu-minggu menjelang pertandingan, pasukan ini mencurahkan sepenuh
+usaha dan komitmen dalam membuat kajian, merancang hujah serta memperhalus
+gaya penyampaian mereka. Petang-petang yang panjang diisi dengan sesi perbincangan
+idea, mencabar pandangan antara satu sama lain dan memperkukuh keyakinan
+diri. Melalui proses ini, mereka bukan sahaja menajamkan kemahiran berdebat,
+tetapi juga belajar berfikir dengan pantas, bertutur dengan yakin, serta
+mempercayai kekuatan rakan sepasukan.</p>
+<p>Pengalaman ini telah memupuk penghargaan yang lebih mendalam terhadap
+keindahan dan kehebatan bahasa Melayu — serta mengingatkan mereka tentang
+makna sebenar dedikasi, semangat, dan kerjasama sepasukan.</p>
+<p></p>
+<p><strong><em>4PM Malay Debate Competition - Ideas in Action, Minds Ablaze</em></strong>
+</p>
+<p><em>On 26 April, </em><strong><em>Nur Nabilah Yasmin (4ST)</em></strong><em>, </em><strong><em>Nur Dhiya Alesya (4Ex)</em></strong><em>, </em><strong><em>Sri Anggun Adlina (3Co)</em></strong><em> and </em><strong><em>Nur Elis Qalisha (3Gr)</em></strong><em> proudly represented the school at the </em><strong><em>4PM Malay Language Debate Competition</em></strong><em>.</em>
+</p>
+<p><em>In the weeks leading up to the competition, the team poured their hearts into researching, planning, and perfecting their arguments. Late afternoons were spent exchanging ideas, challenging one another’s viewpoints, and refining their delivery. Through this process, they not only sharpened their debating skills but also learnt to think on their feet, speak with confidence, and trust in one another’s strengths.</em>
+</p>
+<p><em>Through this experience, it deepened their appreciation for the beauty and power of the Malay language — and reminded them what dedication, passion, and teamwork can achieve.</em>
+</p>
+<p></p>
+<p><strong>PERTANDINGAN SAHIBBA SEKOLAH ZON UTARA 2025 - MENYERLAHKAN BAHASA DAN STRATEGI</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<p>Pada 15 Mei 2025, Sekolah Menengah Ahmad Ibrahim telah mengambil bahagian
+buat julung kalinya dalam Pertandingan Sahibba Sekolah Zon Utara, yang
+telah diadakan di Sekolah Menengah Pei Hwa. Sekolah diwakili oleh empat
+orang pelajar Bahasa Melayu Lanjutan yang dengan bangganya menyahut cabaran
+bersaing bersama rakan-rakan dari sekolah lain di Zon Utara.</p>
+<p>Walaupun pelajar kami tidak berjaya meraih tempat teratas, mereka telah
+menunjukkan tumpuan, penglibatan dan usaha yang sangat membanggakan sepanjang
+pertandingan. Bagi mereka, ini merupakan pengalaman baharu yang mencabar
+kemampuan perbendaharaan kata dan pemikiran strategik dalam suasana pertandingan
+sebenar.</p>
+<p>Yang lebih penting, para peserta menyatakan bahawa ini merupakan satu
+pengalaman yang menyeronokkan dan amat bermakna, dan mereka berbangga kerana
+dapat mewakili sekolah. Semangat mereka amat menggalakkan, malah mereka
+sudah tidak sabar untuk menyertai semula pertandingan ini pada tahun hadapan
+dengan persiapan yang lebih rapi.</p>
+<p>Kami berasa bangga dengan semangat dan komitmen yang ditunjukkan oleh
+mereka, dan berharap dapat melatih lebih ramai bakat Sahibba dalam kalangan
+pelajar pada masa akan datang.
+<br>
+</p>
+<p><strong><em>North Zone Malay Scrabble Competition 2025: Showcasing Language and Strategy</em></strong>
+</p>
+<p><em>On 15 May 2025, Ahmad Ibrahim Secondary School participated for the very first time in the </em><strong><em>North Zone Malay Scrabble Competition (Sahibba)</em></strong><em>, held at </em><strong><em>Pei Hwa Secondary School</em></strong><em>. Representing the school were four students – two from </em><strong><em>Sec 1HML</em></strong><em> and two from </em><strong><em>Sec 2HML</em></strong><em> – who proudly took on the challenge among peers from across the North Zone.</em>
+</p>
+<p><em>Although our students did not place in the top ranks, they displayed </em><strong><em>commendable focus, engagement, and effort</em></strong><em> throughout the competition. For many of them, this was a new experience that pushed them out of their comfort zones and tested both their vocabulary knowledge and strategic thinking under time pressure.</em>
+</p>
+<p><em>More importantly, the students shared that it was a </em><strong><em>fun and valuable learning experience</em></strong><em>, and they were proud to represent the school. Their enthusiasm was infectious – they’ve already expressed excitement to return next year, stronger and better.</em>
+</p>
+<p><em>We are proud of their character and commitment, and look forward to grooming more Sahibba talents in the years ahead.</em>
+</p>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
 <p></p>
