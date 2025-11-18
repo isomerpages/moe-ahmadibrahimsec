@@ -9,9 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" src="/images/scout%20logo.jpg">
 </div>
-<p>
-<br>
-</p>
 <h4>About Us</h4>
 <p>Ahmad Ibrahim Warriors Scout Group has been active since 1967. We envision
 each Scout to be a gentleman clean in thought, word and deed, who strives
