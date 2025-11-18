@@ -9,34 +9,44 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" src="/images/scout%20logo.jpg">
 </div>
+<p>
+<br>
+</p>
+<h4>About Us</h4>
 <p>Ahmad Ibrahim Warriors Scout Group has been active since 1967. We envision
 each Scout to be a gentleman clean in thought, word and deed, who strives
 to be a student leader and who is a cut above the rest. As individual Scouts,
-we work towards the Chief Commissioner’s Award which is conferred to the
-most outstanding and distinctive Scouts in recognition of their exemplary
-performance, dedication as well as services at the secondary school level.
-As a unit, we have been achieving the Frank Cooper Sands Award since 2004.
-The Frank Cooper Sands Award is an award which every Scout unit in Singapore
-strives to achieve excellence in.</p>
+we work towards the Chief Scout’s Award (Scout) (formerly known as the
+Commissioner’s Award) which is conferred to the most outstanding and exemplary
+Scouts at the secondary school level, in recognition of their excellent
+performance and dedication to the Scout movement, in terms of leadership,
+skills development, and community service. As a unit, we have been achieving
+the Frank Cooper Sands Award since 2004. The Frank Cooper Sands Award is
+an award which every Scout unit in Singapore strives to achieve excellence
+in.</p>
+<p></p>
 <p>In Scouts CCA, we conduct training twice a week where Scouts experience
 many exciting and enriching activities and learn Scouting skills such as
 camping, orienteering, pioneering and outdoor cooking. We also organise
 physical training during training to improve the fitness of Scouts and
 team-bonding games to further add the element of fun for Scouts.</p>
+<p></p>
 <p>We organise inter-unit and inter-patrol competitions like Scout Lore Quest
 and cooking challenge to hone our Scouting knowledge and skills. Similarly,
 we also participate in courses, competitions and events like the Scout
 Leadership Course, Patrol Pioneering Challenge and Founder’s Day Celebration
 organised by the North Area of the Singapore Scout Association. Furthermore,
 we also gather around campfires with Scouts from other units to celebrate
-achievements together and to forge stronger camaraderie.</p>
+achievements together and to forge stronger camaraderie.&nbsp;</p>
+<p></p>
 <p>To do our part for society, we organise and participate in service-learning
 activities. We also raise funds during the annual Job Week to support Scout
 programmes and activities. In Job Week, Scouts take to the homes of family
 and friends to do jobs like cleaning, gardening, and tutoring, so as to
 learn the dignity of labour, value of honest work and the belief in helping
 others. As a result, Scouts can be developed into self-reliant, confident,
-responsible, and active citizens.&nbsp;</p>
+responsible, and active citizens.&nbsp;&nbsp;</p>
+<p></p>
 <p>Each year, we organise two camps, one in March and the other in September.
 Once every two years at year end, we embark on an overseas camping trip
 to meet Scouts from other countries. This is to allow Scouts to make new
@@ -63,9 +73,9 @@ be a student leader who is a cut above the rest.
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In Scouting, Scouts learn four core skills:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Camping which includes Campfire</p>
+<p>Camping with Campfire</p>
 </li>
 <li>
 <p>Hiking, Exploration and Orienteering</p>
@@ -74,12 +84,11 @@ be a student leader who is a cut above the rest.
 <p>Knots and Pioneering</p>
 </li>
 <li>
-<p>Cooking and Outdoor Survival
-<br>
-</p>
+<p>Cooking and Outdoor Survival</p>
 </li>
 </ul>
-<p>This is done through the eight elements of the Scout Method:</p>
+<p>
+<br>This is done through the eight elements of the Scout Method:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Scout Promise and Law</p>
@@ -112,26 +121,20 @@ be a student leader who is a cut above the rest.
 <p>Scouts’ hands are trained for wonders, with the ability to set up tents
 and structures necessary for surviving in the outdoors. Working in accordance
 with nature, Scouts improvise and make use of their surroundings to meet
-their needs while protecting them.
-<br>
-</p>
+their needs while protecting them.</p>
 <h3>Orienteering</h3>
 <p>Navigating with a map in one hand and a compass in the other, Scouts identify
 checkpoints and significant landmarks, and orientate themselves based on
 these points, allowing them to explore unfamiliar territory with ease while
-hiking.
-<br>
-</p>
+hiking.</p>
 <h3>Pioneering</h3>
 <p>With nimble fingers and rugged hands, Scouts construct miniature wooden
 models, transforming them into life-sized bridges, swings and kitchens
-using mere wooden spars and manila ropes.
-<br>
-</p>
+using mere wooden spars and manila ropes.</p>
 <h3>Outdoor Cooking</h3>
 <p>From sourcing dried leaves and twigs, to building and maintaining a fire,
-to putting small pieces of chicken to roast over a self-made cooking pit,
-this is part of the outdoor cooking skill set that every Scout possesses.</p>
+to putting raw food to roast over a self-made cooking pit, this is part
+of the outdoor cooking skill set that every Scout possesses.</p>
 </div>
 </details>
 </div>
@@ -140,19 +143,22 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <summary><strong>Achievements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Unit Award: Frank Cooper Sands Award</p>
 </li>
 <li>
-<p>Individual Award: Chief Commissioner’s Award</p>
+<p>Individual Award: Chief Scout’s Award (Scout)</p>
 </li>
 <li>
 <p>North Area Scout Lore Quest
 <br>- Highest Team Award: Silver
-<br>- Highest Individual Award: Gold</p>
+<br>- Highest Individual Award: Gold&nbsp;&nbsp;</p>
 </li>
 </ul>
+<p>
+<br>
+</p>
 </div>
 </details>
 </div>
@@ -161,61 +167,152 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <summary><strong>Participation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>[unit level]</strong>
-<br>• Unit Community Service</p>
-<p>• Shooting for Master-At-Arms Badge Course</p>
-<p>• Founders’ Day Commemoration</p>
-<p>• Committee/PL/APL Handover Ceremony</p>
-<p>• Committee Training Camp</p>
-<p>• Thank You Badge for Parents &amp; Guardians</p>
-<p>• Unit Retreat</p>
-<p>• AIWS Got Talent</p>
-<p>• National Day Commemoration</p>
-<p>• Unit Training Camp
-<br>
+<p><strong>[Unit Level]</strong>
 </p>
-<p><strong>[school level]</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Community Service</p>
+</li>
+<li>
+<p>Founders’ Day Commemoration</p>
+</li>
+<li>
+<p>Committee/PL/APL Handover Ceremony</p>
+</li>
+<li>
+<p>AIWS Leadership Course</p>
+</li>
+<li>
+<p>Unit Retreat</p>
+</li>
+<li>
+<p>AIWS Got Talent</p>
+</li>
+<li>
+<p>National Day Commemoration</p>
+</li>
+<li>
+<p>Unit Training Camp</p>
+</li>
+</ul>
+<p><strong>[School Level]</strong>
 </p>
-<p>• Weekly Morning Assembly</p>
-<p>• CCA Carnival cum Sec 1 Campfire</p>
-<p>• Scouts Honouring Session Run 1</p>
-<p>• Total Defence Day Commemoration Parade Segment</p>
-<p>• Total Defence Day Celebration</p>
-<p>• Achievement Day Parade Segment</p>
-<p>• National Day Celebration Parade Segment</p>
-<p>• Scouts Honouring Session Run 2</p>
-<p></p>
-<p><strong>[area level]</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekly Morning Assembly</p>
+</li>
+<li>
+<p>CCA Exposure and UG Performance cum Sec 1 Campfire</p>
+</li>
+<li>
+<p>Scouts Honouring Session Run 1</p>
+</li>
+<li>
+<p>Shooting for Master-At-Arms Badge Course</p>
+</li>
+<li>
+<p>Total Defence Day Commemoration Parade Segment</p>
+</li>
+<li>
+<p>Achievement Day Parade Segment</p>
+</li>
+<li>
+<p>1 Star Kayaking Certification Course</p>
+</li>
+<li>
+<p>Standard First Aid + CPR AED Certification Course (Blended)</p>
+</li>
+<li>
+<p>Scouts Honouring Session Run 2</p>
+</li>
+<li>
+<p>National Day Celebration Parade Segment</p>
+</li>
+</ul>
+<p><strong>[Area Level]</strong>
 </p>
-<p>• North Area Venture Foundation Course Run 1</p>
-<p>• North Area Scout Leadership Course Run 1</p>
-<p>• North Area Scout Leadership Course Run 3</p>
-<p>• Roadshow at North Area Akela Award Ceremony</p>
-<p>• North Area Online Scout Lore Quest</p>
-<p>• North Area Venture Foundation Course Run 2</p>
-<p></p>
-<p><strong>[national level]</strong>
+<ul>
+<li>
+<p>North Area Founder's Day Celebration Hike</p>
+</li>
+<li>
+<p>North Area Scout Leadership Course Run 1</p>
+</li>
+<li>
+<p>North Area Cub Scout Leadership Course Run 1</p>
+</li>
+<li>
+<p>Roadshow at North Area Chief Scout's Award (Cub) Ceremony&nbsp;</p>
+</li>
+<li>
+<p>North Area Online Scout Lore Quest</p>
+</li>
+<li>
+<p>North Area Venture Foundation Course Run 3</p>
+</li>
+</ul>
+<p><strong>[National Level]</strong>
 </p>
-<p>• Diamond Jubilee Challenge &amp; Fund-raising Launch</p>
-<p>• Chingay</p>
-<p>• Diamond Jubilee Challenge &amp; Fund-raising</p>
-<p>• Istana Open House (Chinese New Year)</p>
-<p>• Adiji Chief Scout cum Founder's Day Celebration</p>
-<p>• Appreciation Event for Istana Volunteers</p>
-<p>• Youth Water Ambassador Badge Course</p>
-<p>• Serigala Hike</p>
-<p>• Job Week</p>
-<p>• CPIB Anti-Corruption Badge Course</p>
-<p>• Standard First Aid + CPR AED Certification Course</p>
-<p>• 4th Singapore International Friendship Fiesta</p>
-<p>• Istana Open House (National Day)</p>
-<p>• National Day Parade Segment at the Padang</p>
-<p>• Jamboree On The Air - Jamboree On The Internet</p>
-<p>• Istana Open House (Deepavali)</p>
-<p>• Remembrance Day Service and National Education Tour</p>
-<p>• 11th National Patrol Camp</p>
+<ul>
+<li>
+<p>Chingay</p>
+</li>
+<li>
+<p>Diamond Jubilee Challenge Launch &amp; Fireside Chat</p>
+</li>
+<li>
+<p>Diamond Jubilee Challenge &amp; Fund-raising</p>
+</li>
+<li>
+<p>Istana Open House (Chinese New Year)</p>
+</li>
+<li>
+<p>Thank You Badge for Parents &amp; Guardians</p>
+</li>
+<li>
+<p>Singapore Anti-Narcotics Association Badge Course</p>
+</li>
+<li>
+<p>Job Week</p>
+</li>
+<li>
+<p>National Day Parade Segment @Padang</p>
+</li>
+<li>
+<p>Learning Journey to Singapore Youth Flying Club</p>
+</li>
+<li>
+<p>CPIB Anti-Corruption Badge Course</p>
+</li>
+<li>
+<p>Fox 60th Anniversary Campfire</p>
+</li>
+<li>
+<p>Chief Scout's Award (Scout) Ceremony</p>
+</li>
+<li>
+<p>Istana Open House (National Day)</p>
+</li>
+<li>
+<p>Jamboree On The Air - Jamboree On The Internet</p>
+</li>
+<li>
+<p>Istana Open House (Deepavali)</p>
+</li>
+<li>
+<p>Combined Learning with Cub Scouts and Hosting of International Scout</p>
+</li>
+<li>
+<p>SG60 Singapore International Jamboree</p>
+</li>
+</ul>
 </div>
 </details>
+</div>
+<p><strong>Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaR5xN53i63qFNB2tIUbWLys6eo3dNv2qNMTydpMDtP-zHxH4Dbei_Jn8bg8zpJNeneEJYCNyTUrrs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -238,25 +335,61 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Senior Patrol Leader</strong>
-<br>BENJAMIN LIM MING YING (S3-SERVICE)
-<br>LIM ZHENG YIN (S3-INTEGRITY)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>S3-Integrity Lim Zheng Yin</p>
+</li>
+<li>
+<p>S3-Service Benjamin Lim Ming Ying</p>
+</li>
+</ul>
 <p><strong>Patrol Leader / Secretary</strong>
-<br>HADI RAYYAN ADI (S3-SERVICE)
-<br>YEO YI WEI (S2-COURAGE）</p>
-<p><strong>Patrol Leader / Quartermaster</strong>
-<br>DANIEL JAVILLONAR HARDI (S2-CARE)
-<br>SIM MING HAO (S2-INTEGRITY)</p>
-<p></p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>S3-Service Hadi Rayyan Adi</p>
+</li>
+</ul>
+<p><strong>Assistant Patrol Leader / Secretary</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>S2-Courage Yeo Yi Wei</p>
+</li>
+</ul>
+<p><strong>Assistant Patrol Leader / Quartermaster</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>S2-Care Daniel Javillonar Hardi</p>
+</li>
+<li>
+<p>S2-Integrity Sim Ming Hao</p>
+</li>
+</ul>
 <p><strong>Assistant Patrol Leader</strong>
-<br>MUHAMMAD ADEN MATEEN BIN ABDULLAH (S3-STEADFASTNESS
-<br>MUHAMMAD AUDI BIN AZZRI (S3-SERVICE)
-<br>ONG XUAN LIANG, ISAAC (S3-STEADFASTNESS)
-<br>AIZ ARIAN BIN HERWANDY (S2-GRATITUDE)
-<br>CHOO CHEN KANG REAGAN (S2-INTEGRITY)
-<br>FOK XU YI (S2-EXCELLENCE)</p>
-<p></p>
-<p></p>
-<p></p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>S3-Steadfastness Ong Xuan Liang, Isaac</p>
+</li>
+<li>
+<p>S3-Steadfastness Muhammad Aden Mateen Bin Abdullah</p>
+</li>
+<li>
+<p>S3-Service Muhammad Audi Bin Azzri&nbsp;</p>
+</li>
+<li>
+<p>S2-Integrity Choo Chen Kang Reagan</p>
+</li>
+<li>
+<p>S2-Excellence Fok Xu Yi&nbsp;</p>
+</li>
+<li>
+<p>S2-Gratitude Aiz Arian Bin Herwandy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
@@ -272,10 +405,5 @@ this is part of the outdoor cooking skill set that every Scout possesses.</p>
 <br>Ms Low Qiao Yuan</p>
 </div>
 </details>
-</div>
-<p><strong>Gallery</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaR5xN53i63qFNB2tIUbWLys6eo3dNv2qNMTydpMDtP-zHxH4Dbei_Jn8bg8zpJNeneEJYCNyTUrrs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
