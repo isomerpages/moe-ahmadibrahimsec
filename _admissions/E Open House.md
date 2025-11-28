@@ -9,17 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISS_Open_House.png">
 </div>
 <p>Dear Parents and Guardians,</p>
-<p>Registration for our AISS E-Open House is open! This online session is
-designed to help you make an informed decision about your child's secondary
-education.</p>
-<p>To register, please go to <strong><a href="https://go.gov.sg/registeraiepenhouse2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/registeraiepenhouse2025</a></strong> or
-scan the QR Code below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISS_E_Open_House_Registration_2025_QR.png">
-</div>
-<p>&nbsp;</p>
-<p><strong>Event Details:</strong>
-</p>
+<p>Come join our e-Open House and find out more about our school. Details
+are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Date:</strong>&nbsp;Saturday, 29th November 2025</p>
@@ -28,13 +19,16 @@ scan the QR Code below:</p>
 <p><strong>Time:</strong>&nbsp;9:30 AM - 11:00 AM</p>
 </li>
 <li>
-<p><strong>Platform:</strong>&nbsp;Online via Microsoft Teams</p>
-<p><em>(The joining link will be provided upon successful registration.)</em>
-</p>
-<p></p>
+<p><strong>Platform:</strong>&nbsp;Online via Microsoft Teams.</p>
 </li>
 </ul>
-<p>During this virtual session, we will provide essential information on:</p>
+<p>To join us, please go to <strong><a href="https://go.gov.sg/registeraiepenhouse2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aiepenhouse2025</a></strong> or
+scan the QR Code below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Black_and_White_Modern_Scan_QR_Code_Poster_20251129_000540_0000.jpg">
+</div>
+<p>&nbsp;During this virtual session, we will provide essential information
+on:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Our Curriculum:</strong>&nbsp;The academic pathways that prepare
@@ -45,9 +39,7 @@ students for future success.</p>
 environment.</p>
 </li>
 </ul>
-<p></p>
-<p>Secure your spot starting November 10th to discover if AISS is the right
-fit for your family!
+<p>Join us and find out if AISS is the right fit for your child!
 <br>
 <br><strong>Explore Our School</strong>
 <br>Use the interactive map below to familiarise yourself with our school
