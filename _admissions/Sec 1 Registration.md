@@ -4,14 +4,15 @@ permalink: /useful-info/sec-1-registration/
 description: ""
 variant: tiptap
 ---
+<h4>Sec 1 Registration Information</h4>
 <p>Dear Parents/Guardians and Secondary 1 Students,</p>
 <p>Welcome to Ahmad Ibrahim Secondary School!</p>
 <p>Congratulations to all our new students on your posting to the AI Family.
 This new phase marks an exciting step in your holistic development, and
 we are happy to welcome you into our caring AI community.</p>
 <p>Important information for Secondary One Registration:</p>
-<p>1. The registration process is fully online. Students do not need to report
-in person on the Registration Day.</p>
+<p>1. The registration process is fully online. Students <strong><u>do not need</u></strong> to
+report in person on the Registration Day.</p>
 <p>2. A Parent Gateway (PG) message will be sent to parents after 5pm on
 S1 School Posting Day, directing parents to our Sec 1 Registration website
 and relevant information.</p>
