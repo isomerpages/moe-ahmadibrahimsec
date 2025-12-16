@@ -1,6 +1,6 @@
 ---
-title: N Levels Results Day
-permalink: /n-levels-results-day/
+title: N Levels Results Release Day
+permalink: /n-levels-results-release-day/
 date: 2025-12-16
 layout: post
 description: ""
