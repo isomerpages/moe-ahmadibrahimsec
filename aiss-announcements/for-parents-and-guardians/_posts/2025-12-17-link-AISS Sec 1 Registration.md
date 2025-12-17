@@ -1,6 +1,6 @@
 ---
-title: AISS Sec 1 Registration (2024)
-date: 2024-12-10
+title: AISS Sec 1 Registration
+date: 2025-12-17
 layout: link
 description: ""
 image: ""
