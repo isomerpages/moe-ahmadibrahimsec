@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p>Sec 1 <em>(To be updated in a later date)</em>
+<p><strong><a href="/files/Booklist/2026/S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a></strong>
 </p>
 </li>
 <li>
