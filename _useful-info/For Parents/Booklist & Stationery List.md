@@ -6,11 +6,11 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3>Booklist &amp; Stationery List (2026)</h3>
-<p><em>(Updated on Thursday, 23rd October 2025)</em>
+<p><em>(Updated on Monday, 22nd December 2025)</em>
 </p>
 <ul>
 <li>
-<p>Sec 1 <em>(To be updated in a later date)</em>
+<p><strong><a href="/files/Booklist/2026/S1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a></strong>
 </p>
 </li>
 <li>
