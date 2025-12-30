@@ -30,17 +30,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Resilience</strong>
+<p><strong>1-01</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Pei Ting Doris
-<br><a href="mailto: lee_pei_ting_doris@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_pei_ting_doris@moe.edu.sg</a>
+<p>Mdm Phua Meng Hong
+<br><a href="mailto: phua_meng_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">phua_meng_hong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Syakira Binte Zamri
-<br><a href="mailto: nur_syakira_zamri@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_syakira_zamri@moe.edu.sg</a>
+<p>Ms Fara Lisa Binte Suati
+<br><a href="fara_lisa_suati@moe.edu.sg" rel="noopener nofollow" target="_blank">fara_lisa_suati@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,16 +49,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Integrity</strong>
+<p><strong>1-02</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Qi Qin, Gary
-<br><a href="mailto: gary_ng_qi_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">gary_ng_qi_qin@moe.edu.sg</a>
+<p>Ms Tan Wiphaporn
+<br><a href="wiphaporn_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">wiphaporn_tan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Komathy D/O Vayapuri
+<p>Ms Fong Yuen Han
 <br><a href="mailto: Komathy_Vayapuri@moe.edu.sg" rel="noopener nofollow" target="_blank">Komathy_Vayapuri@moe.edu.sg</a>
 </p>
 </td>
@@ -68,16 +68,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Steadfastness</strong>
+<p><strong>1-03</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Lim Siew Mei
-<br><a href="mailto: agnes_lim_siew_mei@moe.edu.sg" rel="noopener nofollow" target="_blank">agnes_lim_siew_mei@moe.edu.sg</a>
+<p>Mr Mohamed Izwan Bin Abdul Manan
+<br><a href="mohamed_izwan_abdul_manan@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamed_izwan_abdul_manan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Emmanuel Devapragasam S/O Devadas
+<p>Ms Ang Xin Ru Ruby
 <br><a href="mailto:emmanuel_devapragasam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emmanuel_devapragasam@moe.edu.sg</a>
 </p>
 </td>
@@ -87,16 +87,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Excellence</strong>
+<p><strong>1-04</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tow Swee Ai Emily
+<p>Ms Mak Ying Shi
 <br><a href="mailto: tow_swee_ai_emily@moe.edu.sg" rel="noopener nofollow" target="_blank">tow_swee_ai_emily@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Mariah Omar
+<p>Mr Mohamad Fauzi Bin Mohd Husin
 <br><a href="mailto: siti_mariah_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariah_omar@moe.edu.sg</a>
 </p>
 </td>
@@ -106,16 +106,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Service</strong>
+<p><strong>1-05</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hanna Diyana Azahar
+<p>Ms Rozilawati Bte Rahim
 <br><a href="mailto: hanna_diyana_azahar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hanna_diyana_azahar@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Weng Xiaohong
+<p>Ms Ow Hui Mei Wendy
 <br><a href="mailto: Weng_Xiaohong@moe.edu.sg" rel="noopener nofollow" target="_blank">Weng_Xiaohong@moe.edu.sg</a>
 </p>
 </td>
@@ -125,16 +125,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Care</strong>
+<p><strong>1-06</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Santhi Mutrawipillai Sanmu
+<p>Mr Teo Chee Siong
 <br><a href="mailto: santhi_mutrawipillai_sanmu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_mutrawipillai_sanmu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Boon Seng
+<p>Ms Ng U-Ning Ruth
 <br><a href="mailto: tan_boon_seng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_seng_a@moe.edu.sg</a>
 </p>
 </td>
@@ -144,16 +144,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Courage</strong>
+<p><strong>1-07</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Woon Sher Lin Sheralyn
+<p>Mr Enzo Charles Victor Buttazzoni
 <br><a href="mailto: woon_sher_lin_sheralyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_sher_lin_sheralyn@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus Lau Shao Yu
+<p>Ms Nurhumairah Bte Mohd Akip
 <br><a href="mailto: marcus_lau_shao_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marcus_lau_shao_yu@moe.edu.sg</a>
 </p>
 </td>
@@ -163,16 +163,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Gratitude</strong>
+<p><strong>1-08</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Pei Pei Jennifer
+<p>Mdm Seah Yen Sin
 <br><a href="mailto: koh_pei_pei_jennifer@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pei_pei_jennifer@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chow Pei yan
+<p>Ms Lim Hui Hung
 <br><a href="mailto: chow_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_pei_yan@moe.edu.sg</a>
 </p>
 </td>
@@ -182,17 +182,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Resilience</strong>
+<p><strong>2-01</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Yaqi
+<p>Mdm Lee Pei Ting Doris
 <br><a href="mailto: zhang_yaqi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yaqi_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Hui Cheng
-<br><a href="mailto: foo_hui_cheng_candee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_hui_cheng_candee@moe.edu.sg</u></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2-02</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Qi Qin, Gary
+<br><a href="mailto: chia_yun_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_yun_xin@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Komathy D/O Vayapuri
+<br><a href="mailto:fara_lisa_suati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fara_lisa_suati@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,37 +218,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Integrity</strong>
+<p><strong>2-03</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Yun Xin
-<br><a href="mailto: chia_yun_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_yun_xin@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fara Lisa Binte Suati
-<br><a href="mailto:fara_lisa_suati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fara_lisa_suati@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kasturi d/o Manoselvam (Mrs Vishwa)
-<br><a href="mailto: do_manoselvam_kasturi@moe.edu.sg" rel="noopener nofollow" target="_blank">do_manoselvam_kasturi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2 Steadfastness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noor Azizah Bte Ibrahim
+<p>Mdm Ngui Lilian (Mrs Cheong)
 <br><a href="mailto: noor_azizah_ibrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">noor_azizah_ibrahim@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhumairah Bte Mohd Akip
+<p>Ms Lim Hui Ning
 <br><a href="mailto: nurhumairah_mohd_akip@moe.edu.sg" rel="noopener nofollow" target="_blank">nurhumairah_mohd_akip@moe.edu.sg</a>
 </p>
 </td>
@@ -241,16 +237,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Excellence</strong>
+<p><strong>2-04</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng U-Ning Ruth
+<p>Ms Tow Swee Ai Emily
 <br><a href="mailto: ng_uning_ruth@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_uning_ruth@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kang Yong Heng
+<p>Ms Kee Bee Hwa (Ji Meihua)
 <br><a href="mailto: kang_yong_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">kang_yong_heng@moe.edu.sg</a>
 </p>
 </td>
@@ -260,18 +256,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Service</strong>
+<p><strong>2-05</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azlin Bte Abdul Majid
+<p>Ms Hanna Diyana Binte Azahar
 <br><a href="mailto: azlin_abdul_majid@moe.edu.sg" rel="noopener nofollow" target="_blank">azlin_abdul_majid@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Yingying
-<br><a href="mailto:li_yingying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yingying_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -279,18 +273,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Care</strong>
+<p><strong>2-06</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farhanah Binte Abdullah Sani
+<p>Mdm Santhi d/o Mutrawipillai Sanmugum
 <br><a href="mailto: farhanah_abdullah_sani@moe.edu.sg" rel="noopener nofollow" target="_blank">farhanah_abdullah_sani@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Pei Qi
-<br><a href="mailto: Sim_Pei_Qi@moe.edu.sg" rel="noopener nofollow" target="_blank">Sim_Pei_Qi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -298,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Courage</strong>
+<p><strong>2-07</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +309,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Gratitude</strong>
+<p><strong>2-08</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -336,7 +328,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Resilience</strong>
+<p><strong>3-01</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,7 +347,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Integrity</strong>
+<p><strong>3-02</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,7 +364,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Steadfastness</strong>
+<p><strong>3-03</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -391,7 +383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Excellence</strong>
+<p><strong>3-04</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -410,7 +402,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Service</strong>
+<p><strong>3-05</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -429,7 +421,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Care</strong>
+<p><strong>3-06</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,7 +440,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Courage</strong>
+<p><strong>3-07</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -467,7 +459,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Gratitude</strong>
+<p><strong>3-08</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -486,7 +478,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Resilience</strong>
+<p><strong>4-01</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -503,7 +495,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Integrity</strong>
+<p><strong>4-02</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -520,7 +512,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Steadfastness</strong>
+<p><strong>4-03</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,7 +531,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Excellence</strong>
+<p><strong>4-04</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -556,7 +548,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Service</strong>
+<p><strong>4-05</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -575,7 +567,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Care</strong>
+<p><strong>4-06</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -594,7 +586,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Courage</strong>
+<p><strong>4-07</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -613,7 +605,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Gratitude</strong>
+<p><strong>4-08</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -625,23 +617,6 @@ variant: tiptap
 <p>Mr Mohamed Izwan Bin Abdul Manan
 <br><a href="mailto: mohamed_izwan_abdul_manan@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamed_izwan_abdul_manan@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Excellence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Khoo Tee Mian
-<br><a href="mailto: khoo_tee_mian@moe.edu.sg" rel="noopener nofollow" target="_blank">khoo_tee_mian@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
