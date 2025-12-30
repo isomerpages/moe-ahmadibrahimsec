@@ -128,8 +128,8 @@ and tinkerers.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Mr Yeu Chee Wee Thomas (OIC)</strong>
 <br><strong>Contact:&nbsp;<a href="mailto:yeu_chee_wee_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yeu_chee_wee_thomas@moe.edu.sg</a></strong>
-<br>Ms Seah Yen Sin (Xie Yanxin)</p>
-<p>Dr Komathy Vayapuri</p>
+<br>Mdm Komathy Vayapuri
+<br>Mdm Khoo Tee Mian</p>
 </div>
 </details>
 </div>
