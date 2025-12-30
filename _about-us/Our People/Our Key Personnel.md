@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Au Yee Kuan</p>
+<p>Mr Lee Hang Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -87,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nah Ser Yen</p>
+<p>Mdm A'bidah Binte Abdul Gafoor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / English Language</p>
@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liang Peiyun</p>
+<p>Mr Tan Thiam Hock (Phillip)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Mathematics</p>
@@ -143,6 +143,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Toh Wei Xiong, Tommy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department / Student Management (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Goh Yuh Ping</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,15 +169,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rozilawati Bte Rahim</p>
+<p>Tan Wiphaporn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Lower Sec</p>
+<p>Assistant Year Head / Lower Sec (Covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Imran</p>
+<p>Mr Mohamed Imran Bin Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head / Lower Sec</p>
@@ -188,7 +196,7 @@ variant: tiptap
 <p>Ms Hafizhah Jamel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / English Language (Covering)</p>
+<p>Level Head / English Language</p>
 </td>
 </tr>
 <tr>
@@ -201,10 +209,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Lim Siew Mei</p>
+<p>Ms Mak Ying Shi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Chemistry</p>
+<p>Subject Head / 21CC</p>
 </td>
 </tr>
 <tr>
@@ -217,15 +225,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tommy Toh Wei Xiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Co-Curricular Activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kang Yong Heng</p>
+<p>Mdm Normohaida Mohamed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Design &amp; Technology</p>
@@ -252,7 +252,7 @@ variant: tiptap
 <p>Mdm Puah Shi Hui Silia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student Well-Being (Covering)</p>
+<p>Subject Head / Student Well-Being</p>
 </td>
 </tr>
 </tbody>
@@ -271,14 +271,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Latifah Noorahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LT / Physics</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -306,14 +298,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Sok Gek (Mrs Foo)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Teo Chee Siong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,7 +317,7 @@ variant: tiptap
 <p>Mdm Chong Chew Luan Penny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Learning Needs (Covering)</p>
+<p>ST / Learning Needs (Educational Support)</p>
 </td>
 </tr>
 </tbody>
