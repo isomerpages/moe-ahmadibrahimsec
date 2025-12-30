@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr M Siva Balan</p>
+<p>Ms Agnes Lim Siew Mei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department / Character &amp; Citizenship Education</p>
