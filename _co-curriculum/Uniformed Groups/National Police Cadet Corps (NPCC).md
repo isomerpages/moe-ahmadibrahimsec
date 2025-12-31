@@ -177,10 +177,10 @@ Redzuan Bin Mohammad Hanip
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Ow Hui Mei Wendy (OIC)<br>Contact:&nbsp;<a href="mailto:ow_hui_mei_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ow_hui_mei_wendy@moe.edu.sg</a></strong>
 </p>
-<p>Ms Kasturi d/o Manoselvam
-<br>Mr Mohd Imran Ishak
-<br>Ms Siti Salmiah
-<br>Mr Saravanan Govindan</p>
+<p>Mr Mohamed Imran Bin Ishak</p>
+<p>Ms Kasturi d/o Manoselvam</p>
+<p>Mr Saravanan Govindan
+<br>Ms Siti Salmiah</p>
 </div>
 </details>
 </div>
