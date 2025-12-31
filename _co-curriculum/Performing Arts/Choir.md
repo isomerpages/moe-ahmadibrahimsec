@@ -167,6 +167,7 @@ Choir and East Spring Chorale</p>
 </p>
 <p>Ms Foo Hui Cheng Candee
 <br>Ms Tan Wiphaporn</p>
+<p>Mdm Farhanah Binte Abdullah Sani</p>
 </div>
 </details>
 </div>
