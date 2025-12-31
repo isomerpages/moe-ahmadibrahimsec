@@ -165,11 +165,11 @@ Day Parade at the Padang:
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Mdm Hafizhah Jamel (OIC)<br>Contact:&nbsp;<a href="mailto:hafizhah_jamel@moe.edu.sg" rel="noopener noreferrer nofollow" target="">hafizhah_jamel@moe.edu.sg</a></strong>
+<p><strong>Ms P Sarasvathi (OIC)<br>Contact:&nbsp;</strong><a href="mailto:p_sarasvathi@moe.edu.sg" rel="noopener nofollow" target="_blank">p_sarasvathi@moe.edu.sg</a>
 </p>
 <p>Ms Chia Yun Xin
-<br>Ms Ching Loo May
 <br>Mr Tan Yee Herng Zest</p>
+<p>Mdm Hafizhah Jamel</p>
 </div>
 </details>
 </div>
