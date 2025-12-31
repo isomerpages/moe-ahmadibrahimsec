@@ -164,11 +164,11 @@ SYAFIQ BIN HANISS
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Miss Nur Syakira Binte Zamri<br>Contact:&nbsp;<a href="mailto:nur_syakira_zamri@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nur_syakira_zamri@moe.edu.sg</a></strong>
+<p><strong>Mr Marcus Lau Shao Yu <br>Contact:&nbsp;<a href="mailto:nur_syakira_zamri@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nur_syakira_zamri@moe.edu.sg</a></strong>
 </p>
 <p>Ms Jennifer Koh Pei Pei
-<br>Mr Marcus Lau Shao Yu
-<br>Mr Chong Wensheng</p>
+<br>Ms Nur Syakira Binte Zamri
+<br>Ms Kee Bee Hua</p>
 </div>
 </details>
 </div>
