@@ -127,9 +127,9 @@ Top in Division</p>
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Miss Chow Pei Yan (OIC)<br>Contact:&nbsp;<a href="mailto:chow_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chow_pei_yan@moe.edu.sg</a></strong>
-<br>Ms Siti Mariah Binte Omar</p>
-<p>Mr Desmond Loh</p>
+<p><strong>Ms Rozilawati Binte Rahim (OIC)<br>Contact:&nbsp;<a href="mailto:rozilawati_rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">rozilawati_rahim@moe.edu.sg</a></strong>
+<br>Mdm Low Sok Gek</p>
+<p>Ms Lim Hui Ning</p>
 </div>
 </details>
 </div>
