@@ -169,18 +169,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Wiphaporn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head / Lower Sec (Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamed Imran Bin Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head / Lower Sec</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wiphaporn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / Lower Sec (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -197,6 +197,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head / English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Yun Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / Mathematics (Covering)</p>
 </td>
 </tr>
 <tr>
