@@ -162,8 +162,8 @@ of Accomplishment</p>
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Ms Wang Xuejuan (OIC)<br></strong>Contact:<strong> </strong>
-<a href="mailto:wang_xuejuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_xuejuan@moe.edu.sg</a>
+<p><strong>Ms Chow Pei Yan (OIC)<br></strong>Contact:<strong> </strong>
+<a href="mailto:chow_pei_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">chow_pei_yan@moe.edu.sg</a>
 <br>Ms Ho Jie Min, Melody (2IC)<strong><br></strong>Contact: <a href="mailto:ho_jie_min_melody@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jie_min_melody@moe.edu.sg</a>
 </p>
 <p>Mdm Song Weina</p>
