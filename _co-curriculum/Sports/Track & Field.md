@@ -486,9 +486,9 @@ Division Girls
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Mdm Puah Shi Hui Silia&nbsp;(OIC)<br>Contact:&nbsp;<a href="mailto:puah_shi_hui_silia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">puah_shi_hui_silia@moe.edu.sg</a></strong>
-<br>Mdm Chennakesavalu Sheela
-<br>Mr Mohamed Izwan Bin Abdul Manan
+<p><strong>Mr Mohamed Izwan Bin Abdul Manan&nbsp;(OIC)<br>Contact:&nbsp;<a href="mailto:mohamed_izwan_abdul_manan@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamed_izwan_abdul_manan@moe.edu.sg</a></strong>
+<br>Mdm Puah Shi Hui Silia</p>
+<p>Mdm Chennakesavalu Sheela
 <br>Mdm Ngui Lilian</p>
 </div>
 </details>

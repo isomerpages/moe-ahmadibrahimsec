@@ -30,7 +30,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Soon Kiat, Louis</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -58,6 +58,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Sidiq Bin Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +126,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Tee Jeong</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
@@ -166,7 +174,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Wen Jie (Chelsea)</p>
+<p>Siti Zulaiha Binte Khairi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -199,7 +215,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Sidiq Bin Abdullah</p>
+<p>Vickneswaran K Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -207,7 +223,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vickneswaran K Subramaniam</p>
+<p>Ng Teck Jin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -219,14 +235,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Asstistant</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Azmahwati&nbsp;Binte Amir Shahidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Printing Assistant</p>
 </td>
 </tr>
 <tr>

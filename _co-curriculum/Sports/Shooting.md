@@ -34,7 +34,7 @@ places emphasis on mental resilience and consistency.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong><u>2025 </u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <p><strong>National Shooting Championships</strong>
 </p>
@@ -546,10 +546,10 @@ Ronald Seah Khai Feng</p>
 <summary><strong>Teachers In Charge</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Mr Luo Zhengyang (OIC)<br>Contact:&nbsp;<a href="mailto:luo_zhengyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">luo_zhengyang@moe.edu.sg</a></strong>
+<p><strong>Mr Rajkumar Raghavan (OIC)<br>Contact:&nbsp;<a href="mailto:rajakumar_raghavan@moe.edu.sg" rel="noopener nofollow" target="_blank">rajakumar_raghavan@moe.edu.sg</a></strong>
 </p>
-<p>Mr Mohamed Fauzi Bin Husin</p>
 <p>Mr Tan Boon Seng</p>
+<p>Mr Mohamed Fauzi Bin Husin</p>
 <p>Mdm Nurhumairah Bte Mohd Akip</p>
 </div>
 </details>
