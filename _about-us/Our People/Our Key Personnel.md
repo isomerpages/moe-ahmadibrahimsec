@@ -201,6 +201,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Chia Yun Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / Mathematics (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Woon Sher Lin Sheralyn</p>
 </td>
 <td rowspan="1" colspan="1">
