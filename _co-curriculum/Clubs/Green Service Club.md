@@ -339,10 +339,8 @@ by SH Eco Fund. Attained the Eco Commendation Award for a video.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Tow Swee Ai Emily (OIC)<br>Contact:&nbsp;<a href="mailto:tow_swee_ai_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tow_swee_ai_emily@moe.edu.sg </a></strong>
-<br>Mdm Khoo Tee Mian
 <br>Mr Ng Qi Qin, Gary (Wu Qiqin)
-<br>
-</p>
+<br>Ms Zhang Yaqi</p>
 </div>
 </details>
 </div>
