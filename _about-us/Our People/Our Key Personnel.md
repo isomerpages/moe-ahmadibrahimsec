@@ -169,18 +169,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Wiphaporn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head / Lower Sec (Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamed Imran Bin Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head / Lower Sec</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wiphaporn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / Lower Sec (Covering)</p>
 </td>
 </tr>
 <tr>
