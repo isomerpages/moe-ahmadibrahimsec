@@ -234,7 +234,7 @@ third_nav_title: Our People
 <p>Foong Chi Yow (Luke)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Asstistant</p>
+<p>Library Assistant</p>
 </td>
 </tr>
 <tr>
