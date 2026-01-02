@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.ahmadibrahimsec.moe.edu.sg/files/Student%20Handbook/Student_Handbook_2026.pdf
+external: https://www.ahmadibrahimsec.moe.edu.sg/student-handbook/
 ---
