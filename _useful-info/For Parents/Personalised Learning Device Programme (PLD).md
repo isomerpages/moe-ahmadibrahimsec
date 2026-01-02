@@ -19,7 +19,7 @@ in teaching and learning. The use of the personal learning devices for
 teaching and learning will support the development of digital literacies
 in our students as well as develop them as self-directed and collaborative
 learners.</p>
-<p>AISS has selected the ASUS Chromebook as its PLD offering for 2024. Despite
+<p>AISS has selected the ASUS Chromebook as its PLD offering for 2026. Despite
 its small size, it is feature packed with a responsive touchscreen and
 upgraded components like its Corning Gorilla Glass for the display, CPU,
 RAM and storage. With 4 years of warranty and insurance coverage, it offers
