@@ -141,7 +141,7 @@ to loan to affected students as there are limited quantity.</p>
 <h4>Note:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lenovo will only do a fortnightly collection of all faulty devices from
+<p>Asus will only do a fortnightly collection of all faulty devices from
 our school. The estimated turn-around time is 4 weeks repair and return
 from collection date (subject to vendor's availability).</p>
 </li>
