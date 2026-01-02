@@ -19,14 +19,19 @@ in teaching and learning. The use of the personal learning devices for
 teaching and learning will support the development of digital literacies
 in our students as well as develop them as self-directed and collaborative
 learners.</p>
-<p>AISS has selected the Lenovo Chromebook as its PLD offering since 2021.
-Despite its small size, it is feature packed with a responsive touchscreen
-and upgraded components like its CPU, RAM and storage. With 3 years of
-warranty and insurance coverage, it offers superb value for money and will
-provide students with many good years of learning and productivity.</p>
+<p>AISS has selected the ASUS Chromebook as its PLD offering for 2026. Despite
+its small size, it is feature packed with a responsive touchscreen and
+upgraded components like its Corning Gorilla Glass for the display, CPU,
+RAM and storage. With 4 years of warranty and insurance coverage, it offers
+superb value for money and will provide students with many good years of
+learning and productivity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Lenovo 500e Chromebook Gen 4 (2025)" src="/images/Lenovo_500e_Chromebook_Gen_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLDP_2026.jpg">
 </div>
+<p>
+<br>
+<br>
+</p>
 <h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/Guardians will receive a letter from our via Parents' Gateway
 or hardcopy with details about the purchase of PLD by mid January.</p>
@@ -34,20 +39,16 @@ or hardcopy with details about the purchase of PLD by mid January.</p>
 for the <strong><u>purchase and authorization to collect PLD</u></strong> via
 the Parents Gateway (PG) notification.</p>
 <p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
-students only), please submit the online Standing Order (SO) from via this
-link: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by <strong>22 January 2024</strong> if
-you have not done so previously. If you are unable to submit the online
-form, please approach the school for assistance or to request for a hardcopy
-form.</p>
+students only), please submit the online Standing Order (SO) using the
+link sent in parent gateway, if you have not done so previously. If you
+are unable to submit the online form, please approach the school for assistance
+or to request for a hardcopy form.</p>
 <h2><strong>Financial Assistance</strong></h2>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
 automatically qualify for these subsidies and do not need to take any action.</p>
 <p>Permanent Residents (PR) and International Students (IS) who need support
-can apply for subsidies, particularly those whose Gross Household Income
-(GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your
-child qualifies for a subsidy, please submit Annex D “Application for Subsidy
-for PLD”.</p>
+can approach General Office for assistance.</p>
 <h2><strong>Cyberwellness Resources for Parents</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -67,11 +68,11 @@ for PLD”.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
+<p><a href="/files/PLD/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
+<p><a href="/files/PLD/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
 </p>
 </li>
 <li>
@@ -140,7 +141,7 @@ to loan to affected students as there are limited quantity.</p>
 <h4>Note:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lenovo will only do a fortnightly collection of all faulty devices from
+<p>Asus will only do a fortnightly collection of all faulty devices from
 our school. The estimated turn-around time is 4 weeks repair and return
 from collection date (subject to vendor's availability).</p>
 </li>
@@ -148,10 +149,12 @@ from collection date (subject to vendor's availability).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lenovo Service Centre" src="/images/Lenovo_Service_Centre__New_.png">
 </div>
-<h4>Service Centre Location:</h4>
+<h4>For Existing Students with Lenovo:</h4>
 <p>Servlink Technologies – Lenovo Authorised Service Centre
 <br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
-339407</p>
+339407
+<br>Hotline: +65 68171435
+<br>Email: Svcctr@servlink.com.sg</p>
 <h4>How do students / customers get to the service centre?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -218,9 +221,9 @@ and parking is available at an hourly rate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Soon Jiat, Louis
+<p>-
 <br>Administrative Executive
-<br><a href="mailto:lim_soon_kiat_louis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soon_kiat_louis@schools.gov.sg</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,9 +233,8 @@ and parking is available at an hourly rate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Elisha
-<br>ICT Associate
-<br><a href="elisha_ruth_cabaltera_zamudio@moe.edu.sg" rel="noopener nofollow" target="_blank">elisha_ruth_cabaltera_zamudio@moe.edu.sg</a>
+<p>Mr Muhammad Sidiq ICT Associate
+<br><a href="muhammad_sidiq_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_sidiq_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
