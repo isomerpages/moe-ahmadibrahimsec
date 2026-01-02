@@ -34,20 +34,16 @@ or hardcopy with details about the purchase of PLD by mid January.</p>
 for the <strong><u>purchase and authorization to collect PLD</u></strong> via
 the Parents Gateway (PG) notification.</p>
 <p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
-students only), please submit the online Standing Order (SO) from via this
-link: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by <strong>22 January 2024</strong> if
-you have not done so previously. If you are unable to submit the online
-form, please approach the school for assistance or to request for a hardcopy
-form.</p>
+students only), please submit the online Standing Order (SO) using the
+link sent in parent gateway, if you have not done so previously. If you
+are unable to submit the online form, please approach the school for assistance
+or to request for a hardcopy form.</p>
 <h2><strong>Financial Assistance</strong></h2>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
 automatically qualify for these subsidies and do not need to take any action.</p>
 <p>Permanent Residents (PR) and International Students (IS) who need support
-can apply for subsidies, particularly those whose Gross Household Income
-(GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your
-child qualifies for a subsidy, please submit Annex D “Application for Subsidy
-for PLD”.</p>
+can approach General Office for assistance.</p>
 <h2><strong>Cyberwellness Resources for Parents</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
