@@ -28,6 +28,12 @@ learning and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLDP_2026.jpg">
 </div>
+<h2><strong>Service Centre</strong></h2>
+<p>
+<br><strong>JK Technology<br>61 Kaki Bukit Avenue 1 #02-13<br>Shun Li Industrial Park<br>Singapore 417943</strong>
+<br>
+<br>
+</p>
 <h2><strong>Important Actions For Parents</strong></h2>
 <p>Parents/Guardians will receive a letter from our via Parents' Gateway
 or hardcopy with details about the purchase of PLD by mid January.</p>
