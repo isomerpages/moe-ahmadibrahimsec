@@ -28,9 +28,7 @@ learning and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLDP_2026.jpg">
 </div>
-<h2><strong>Service Centre</strong></h2>
 <p>
-<br><strong>JK Technology<br>61 Kaki Bukit Avenue 1 #02-13<br>Shun Li Industrial Park<br>Singapore 417943</strong>
 <br>
 <br>
 </p>
@@ -151,10 +149,12 @@ from collection date (subject to vendor's availability).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lenovo Service Centre" src="/images/Lenovo_Service_Centre__New_.png">
 </div>
-<h4>Service Centre Location:</h4>
+<h4>For Existing Students with Lenovo:</h4>
 <p>Servlink Technologies – Lenovo Authorised Service Centre
 <br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
-339407</p>
+339407
+<br>Hotline: +65 68171435
+<br>Email: Svcctr@servlink.com.sg</p>
 <h4>How do students / customers get to the service centre?</h4>
 <ul data-tight="true" class="tight">
 <li>
