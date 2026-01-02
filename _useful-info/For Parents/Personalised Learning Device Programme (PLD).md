@@ -68,11 +68,11 @@ can approach General Office for assistance.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
+<p><a href="/files/PLD/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
+<p><a href="/files/PLD/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
 </p>
 </li>
 <li>
