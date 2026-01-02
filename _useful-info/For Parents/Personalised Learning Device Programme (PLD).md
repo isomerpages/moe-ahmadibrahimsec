@@ -221,9 +221,9 @@ and parking is available at an hourly rate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Soon Jiat, Louis
+<p>-
 <br>Administrative Executive
-<br><a href="mailto:lim_soon_kiat_louis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soon_kiat_louis@schools.gov.sg</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,9 +233,8 @@ and parking is available at an hourly rate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Elisha
-<br>ICT Associate
-<br><a href="elisha_ruth_cabaltera_zamudio@moe.edu.sg" rel="noopener nofollow" target="_blank">elisha_ruth_cabaltera_zamudio@moe.edu.sg</a>
+<p>Mr Muhammad Sidiq ICT Associate
+<br><a href="muhammad_sidiq_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_sidiq_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
