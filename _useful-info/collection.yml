@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - For Students/Student Handbook.md
       - For Students/.keep
       - For Students/Class & Exam Timetable.md
       - For Students/PLD Website for AISS Students.md
