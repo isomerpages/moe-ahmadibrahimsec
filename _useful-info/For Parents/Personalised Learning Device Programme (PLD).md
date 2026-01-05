@@ -39,10 +39,10 @@ or hardcopy with details about the purchase of PLD by mid January.</p>
 for the <strong><u>purchase and authorization to collect PLD</u></strong> via
 the Parents Gateway (PG) notification.</p>
 <p>Parents who want to use Edusave funds for the PLD (for Singapore citizens
-students only), please submit the online Standing Order (SO) using the
-link sent in parent gateway, if you have not done so previously. If you
-are unable to submit the online form, please approach the school for assistance
-or to request for a hardcopy form.</p>
+students only), please <strong>submit the online Standing Order (SO) using the link sent in parent gateway</strong>,
+if you have not done so previously. If you are unable to submit the online
+form, please approach the school for assistance or to request for a hardcopy
+form.</p>
 <h2><strong>Financial Assistance</strong></h2>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
