@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fong Yuen Han
-<br>
+<br><a href="fong_yuen_han@moe.edu.sg" rel="noopener nofollow" target="_blank">fong_yuen_han@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +247,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kee Bee Hwa (Ji Meihua)
-<br>
+<br><a href="kee_bee_hwa@moe.edu.sg" rel="noopener nofollow" target="_blank">kee_bee_hwa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,6 +401,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Normohaida Mohamed Noor
+<br><a href="normohaida_mohamed_noor@moe.edu.sg" rel="noopener nofollow" target="_blank">normohaida_mohamed_noor@moe.edu.sg</a> 
 <br>
 </p>
 </td>
