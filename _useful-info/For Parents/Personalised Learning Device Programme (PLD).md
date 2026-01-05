@@ -144,34 +144,62 @@ to loan to affected students as there are limited quantity.</p>
 <p>Asus will only do a fortnightly collection of all faulty devices from
 our school. The estimated turn-around time is 4 weeks repair and return
 from collection date (subject to vendor's availability).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/ASUS_Service_Centre.jpg">
+</div>
+<p>
+<br>
+</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lenovo Service Centre" src="/images/Lenovo_Service_Centre__New_.png">
-</div>
-<h4>For Existing Students with Lenovo:</h4>
-<p>Servlink Technologies – Lenovo Authorised Service Centre
-<br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
-339407
-<br>Hotline: +65 68171435
-<br>Email: Svcctr@servlink.com.sg</p>
 <h4>How do students / customers get to the service centre?</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>By MRT: </strong>The nearest MRT station is <strong>Bendemeer Station (Downtown Line)</strong>.
-It’s about a 5-minute walk to CTHub from the station.</p>
-</li>
-<li>
-<p><strong>By Bus: </strong>Bus services <strong>13, 23, 67, 125, and 133 </strong>stop
-near CTHub</p>
-</li>
-<li>
-<p><strong>By Car: </strong>CTHub offers parking facilities. Enter via <strong>Kallang Avenue</strong>,
-and parking is available at an hourly rate.</p>
+<p>•<strong>By MRT: </strong>The nearest MRT station is <strong>Kaki Bukit Station(Downtown Line)</strong>.
+It’s about 5-minute walk to Shun Li Industrial from the station.</p>
+<p>•<strong>By Bus: </strong>Bus Services<strong> 5,15,58,59 and 87 </strong>stop
+near Shun Li Industrial Park</p>
+<p>•<strong>By Car: </strong>Shun Li Industrial Park offers parking facilities,
+Enter via <strong>Kaki Bukit Avenue 1</strong>, and parking is available
+at an hourly rate.</p>
 </li>
 </ul>
 <h4>What are the operating hours of the service centre?</h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>Monday to Friday: 9:00 AM – 6:30 PM</p>
+</li>
+<li>
+<p>Saturday &amp; Sunday: Closed</p>
+</li>
+<li>
+<p>Closed on Public Holidays</p>
+</li>
+</ul>
+<h4>What are the contact details for the service centre?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hotline: +65 6841 6868</p>
+</li>
+<li>
+<p>Email: <a href="info@jktech.com.sg" rel="noopener nofollow" target="_blank">info@jktech.com.sg</a>
+<br>
+</p>
+</li>
+</ul>
+<h4>For Existing Students with Lenovo PLD:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Servlink Technologies – Lenovo Authorised Service Centre
+<br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
+339407
+<br>Hotline: +65 68171435
+<br>Email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+<br>
+</p>
+<p>Operating hours:</p>
+</li>
 <li>
 <p>Monday to Friday: 9:00 AM – 6:00 PM</p>
 </li>
@@ -180,16 +208,6 @@ and parking is available at an hourly rate.</p>
 </li>
 <li>
 <p>Closed on Sundays and Public Holidays</p>
-</li>
-</ul>
-<h4>What are the contact details for the service centre?</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Hotline: +65 6817 1435</p>
-</li>
-<li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
-</p>
 </li>
 </ul>
 <h2><strong>Frequently Asked Questions and Answers</strong></h2>
@@ -233,7 +251,8 @@ and parking is available at an hourly rate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Sidiq ICT Associate
+<p>Mr Muhammad Sidiq
+<br>ICT Associate
 <br><a href="muhammad_sidiq_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_sidiq_abdullah@moe.edu.sg</a>
 </p>
 </td>
