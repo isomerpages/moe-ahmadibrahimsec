@@ -143,7 +143,12 @@ to loan to affected students as there are limited quantity.</p>
 <li>
 <p>Asus will only do a fortnightly collection of all faulty devices from
 our school. The estimated turn-around time is 4 weeks repair and return
-from collection date (subject to vendor's availability).
+from collection date (subject to vendor's availability).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Info/For Parents/ASUS_Service_Centre.jpg">
+</div>
+<p>
 <br>
 </p>
 </li>
@@ -190,7 +195,19 @@ at an hourly rate.</p>
 <br>Address:<strong> </strong>2 Kallang Avenue #09-01, CTHub 1, Singapore
 339407
 <br>Hotline: +65 68171435
-<br>Email: Svcctr@servlink.com.sg</p>
+<br>Email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+<br>
+</p>
+<p>Operating hours:</p>
+</li>
+<li>
+<p>Monday to Friday: 9:00 AM – 6:00 PM</p>
+</li>
+<li>
+<p>Saturday: 9:00 AM – 1:00 PM</p>
+</li>
+<li>
+<p>Closed on Sundays and Public Holidays</p>
 </li>
 </ul>
 <h2><strong>Frequently Asked Questions and Answers</strong></h2>
