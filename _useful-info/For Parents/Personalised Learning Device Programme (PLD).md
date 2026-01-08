@@ -52,6 +52,10 @@ can approach General Office for assistance.</p>
 <h2><strong>Cyberwellness Resources for Parents</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/PLD/AI___Edtech.pdf" rel="noopener nofollow" target="_blank">AI &amp; Edtech</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit</a>
 </p>
 </li>
