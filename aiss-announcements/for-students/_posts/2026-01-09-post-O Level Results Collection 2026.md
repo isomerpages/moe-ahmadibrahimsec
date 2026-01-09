@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>O Level Results Collection - 14 January 2026</strong>
+<p><strong>O Level Results Collection </strong>
 </p>
-<p>O Level examination results will be released on Wednesday, 14 January
-2026.</p>
+<p>O Level examination results will be released on<strong> Wednesday, 14 January 2026.</strong>
+</p>
 <p><strong>Collection Details:</strong>
 </p>
 <ul data-tight="true" class="tight">
