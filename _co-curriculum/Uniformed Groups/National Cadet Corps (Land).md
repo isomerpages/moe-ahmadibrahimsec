@@ -100,11 +100,10 @@ SYAFIQ BIN HANISS
 <summary><strong>Training Schedule</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Wednesday<br></strong>3.30 - 5.30 PM</p>
-<p><strong>Friday<br></strong>2.30 - 5.30 PM (No Training on Friday, 16 Aug,
-23 Aug, 30 Aug)</p>
+<p><strong>Wednesday<br></strong>3.00 - 5.00 PM</p>
+<p><strong>Friday<br></strong>2.30 - 5.30 PM</p>
 <p></p>
-<p><a href="https://docs.google.com/spreadsheets/d/1GxZmTpzz1PPMEFkNQglCbt_GLI19KSW27LwcbOQlVjM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Live schedule</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1ubcNd9kqSRlrmPS_Ca7n2p4rz9N9I9FuTu9Hs08h-Hg/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">Live Schedule</a>
 </p>
 </div>
 </details>
