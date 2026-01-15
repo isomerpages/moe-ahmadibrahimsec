@@ -92,7 +92,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Mak Ying Shi
-<br><a href="mak_ying_shi@schools.gov.sg" rel="noopener nofollow" target="_blank">mak_ying_shi@moe.edu.sg </a>
+<br><a href="mak_ying_shi@schools.gov.sg" rel="noopener nofollow" target="_blank">mak_ying_shi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
