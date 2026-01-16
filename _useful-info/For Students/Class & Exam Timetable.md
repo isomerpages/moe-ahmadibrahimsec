@@ -12,11 +12,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_1_Odd_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_1_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_1_Even_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_1_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -24,11 +24,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_2_Odd_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_2_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_2_Even_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_2_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -36,11 +36,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_3_Odd_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_3_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_3_Even_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_3_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
@@ -48,11 +48,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_4_Odd_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_4_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_4_Even_Week_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
+<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_4_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
 </p>
 </li>
 </ul>
