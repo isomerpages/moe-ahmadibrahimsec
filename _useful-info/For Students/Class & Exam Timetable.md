@@ -6,7 +6,7 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>Class Timetable</strong></h4>
-<p><em>*Timetable updated on 6 January 2026</em>
+<p><em>*Timetable updated on 16 January 2026</em>
 </p>
 <p><strong>Sec 1</strong>
 </p>
