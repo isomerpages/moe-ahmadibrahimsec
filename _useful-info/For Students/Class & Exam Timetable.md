@@ -6,56 +6,16 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>Class Timetable</strong></h4>
-<p><em>*Timetable updated on 6 January 2026</em>
+<p><em>*Timetable updated on 16 January 2026</em>
 </p>
-<p><strong>Sec 1</strong>
+<p><strong>Guide to view AISS Classes Timetables</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_1_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
+<p>(1) Click on the link <a href="https://aiss.edupage.org/timetable/" rel="noopener noreferrer nofollow" target="_blank">https://aiss.edupage.org/timetable/</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_1_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
-</p>
-</li>
-</ul>
-<p><strong>Sec 2</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_2_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_2_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
-</p>
-</li>
-</ul>
-<p><strong>Sec 3</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_3_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_3_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
-</p>
-</li>
-</ul>
-<p><strong>Sec 4 &amp; 5</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_4_Odd_Week.pdf" rel="noopener nofollow" target="_blank">Odd Week</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/2026 Timetable Sem 1/Sec_4_Even_Week.pdf" rel="noopener nofollow" target="_blank">Even Week</a>
-</p>
-</li>
-</ul>
+<p>(2) Click on ‘Classes’ on top left corner of screen and select the class
+timetable.</p>
+<p>(3) Click on ‘left/right’ on top left corner of screen to alternate between
+odd and even week timetable.</p>
 <h4><strong>Exam Timetable</strong></h4>
 <p><em>*Timetable to be updated closer to exam date</em>
 </p>
