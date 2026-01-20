@@ -64,7 +64,8 @@ and reaching new heights together. Onwards, AI NPCC!
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Unit Overall Proficiency Award (UOPA) </strong>
-<br>2016 : Gold Award
+<br>2025: Gold Award</p>
+<p>2016 : Gold Award
 <br>2017 : Gold Award
 <br>2018 : Gold Award
 <br>2019 : Gold Award
@@ -75,7 +76,8 @@ and reaching new heights together. Onwards, AI NPCC!
 <br>2024 : Gold Award
 <br>
 <br><strong>Best Unit Cadet </strong>
-<br>2012 : SSG Li Jian Xing &amp; SSG Nur Aqilah Diyanah
+<br>2025: SSG (NPCC) Ng Yu Xuan Constance &amp; SSG (NPCC)</p>
+<p>2012 : SSG Li Jian Xing &amp; SSG Nur Aqilah Diyanah
 <br>2013 : SSG Md Shahirul Shukor &amp; SSG Sen Shu Hui
 <br>2014 : SSG Adam Malik &amp; SSG Soh Yu Qi
 <br>2015 : SSG Jet Law &amp; SSG Vivian Quek
@@ -90,7 +92,9 @@ Romi Sofhian
 <br>2024: SSG Ong Yi Nuo Angelina (Wang Yinuo) &amp; SSG Mohammad Khairyl
 Redzuan Bin Mohammad Hanip
 <br><strong><br>SPF-NPCC Badge Awardee</strong> 
-<br>2017 : SI Kwok Si-yang
+<br>2025: SI (NPCC) Amanda Liew Jing Xi &amp; SSG (NPCC) Magsino Pio Martin
+Gracia</p>
+<p>2017 : SI Kwok Si-yang
 <br>2018 : SSG Wang Le Chen
 <br>2020 : SI Ho Zheng Yang Xanthus
 <br>2021 : SI Tan Cinn Yui
