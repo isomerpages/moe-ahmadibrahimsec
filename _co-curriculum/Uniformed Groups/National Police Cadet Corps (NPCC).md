@@ -52,7 +52,7 @@ and reaching new heights together. Onwards, AI NPCC!
 <blockquote>
 <p><em>“Through my journey in NPCC, I was faced&nbsp; with many challenges that helped develop my leadership skills and teamwork. Every experience builds a sense of responsibility and discipline in me. As I reflect on this journey, I deeply appreciate the friendships I made along the way, the support I received from those around me and&nbsp; the meaningful lessons I learned that will guide me in my future endeavours. I truly have no regret choosing NPCC as my first option!”</em>
 </p>
-<p><strong>-SGT (NPCC) AMANDA LIEW JING XI, 3 Excellence (2024)</strong>
+<p><strong>- SI (NPCC) AMANDA LIEW JING XI, 4 Excellence (2025)</strong>
 </p>
 </blockquote>
 </div>
@@ -116,7 +116,7 @@ Redzuan Bin Mohammad Hanip
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:solid 1px #777" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=bW9lLmVkdS5zZ192Y2c2M3FmbmJkNWRvZ3V0cG8xZG1zNmVhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:solid 1px #777" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=bW9lLmVkdS5zZ192Y2c2M3FmbmJkNWRvZ3V0cG8xZG1zNmVhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5"></iframe>
 </div>
 </div>
 </details>
@@ -126,21 +126,28 @@ Redzuan Bin Mohammad Hanip
 <summary><strong>Student Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>AISS NPCC Unit Executive Committee 24/25 </strong>
+<p><strong>AISS NPCC Unit Executive Committee 25/26 </strong>
 <br><strong>Chairman</strong>
-<br>CPL (NPCC) AMANDA LIEW JING XI
+<br>SGT (NPCC) Balakrishnan Krithik
 <br><strong>Vice-Chairman</strong>
-<br>CPL (NPCC) MAGSINO PIO MARTIN GARCIA
+<br>SGT (NPCC) Aaliyah Binte Abdul Mohsin
 <br><strong>Secretary</strong>
 <br>CPL (NPCC) KDYS TAN ROSEANNE
 <br>
 <br><strong>Training Unit </strong>
 <br><strong>Head, Training</strong>
-<br>CPL (NPCC) NG YU XUAN CONSTANCE
+<br>SGT (NPCC) Ang Jun Kai
 <br><strong>Member</strong>
 <br>CPL (NPCC) SAKINAH BINTE SHEIKH IDRIS
-<br>CPL (NPCC) EUGENE CHEOK JIA RUI
-<br>
+<br>CPL (NPCC) EUGENE CHEOK JIA RUI</p>
+<p></p>
+<p><strong>Head, Recreation</strong>
+<br>SGT (NPCC) Siti Nur Batrisya Binte Herman</p>
+<p></p>
+<p><strong>Head, Media &amp; Publicity</strong>
+</p>
+<p>SGT (NPCC) Rishban S/O Bala Murugan</p>
+<p>
 <br><strong>Head, Testing</strong>
 <br>CPL (NPCC) AHMAD ZAQY BIN JASNI
 <br><strong>Member</strong>
@@ -165,8 +172,7 @@ Redzuan Bin Mohammad Hanip
 <br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR
 <br>
 <br><strong>Logistic Department Quarter Master</strong>
-<br>CPL (NPCC) NAURUS ZINNEERA
-<br>CPL (NPCC) NUR ARYA TAQIAH BINTE MOHAMAD NOOR AZHAR</p>
+<br>SGT (NPCC) Somsak Martin Hidayat</p>
 </div>
 </details>
 </div>
@@ -187,6 +193,6 @@ Redzuan Bin Mohammad Hanip
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXIeCrEw6er6O_0Xd_WMu7ZRRSzgg9VheWtFSuKePKoYt7mmNmawC_8PgkvrvfkLU0v5Yf-1QQ92CN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXIeCrEw6er6O_0Xd_WMu7ZRRSzgg9VheWtFSuKePKoYt7mmNmawC_8PgkvrvfkLU0v5Yf-1QQ92CN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
