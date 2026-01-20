@@ -142,7 +142,8 @@ Redzuan Bin Mohammad Hanip
 <br>CPL (NPCC) EUGENE CHEOK JIA RUI</p>
 <p></p>
 <p><strong>Head, Recreation</strong>
-<br>SGT (NPCC) Siti Nur Batrisya Binte Herman</p>
+</p>
+<p>SGT (NPCC) Siti Nur Batrisya Binte Herman</p>
 <p></p>
 <p><strong>Head, Media &amp; Publicity</strong>
 </p>
