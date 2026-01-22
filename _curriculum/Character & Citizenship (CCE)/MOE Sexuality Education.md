@@ -16,7 +16,7 @@ encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are to:&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
@@ -29,7 +29,7 @@ matters.</p>
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
@@ -74,8 +74,7 @@ responsibly.&nbsp; Given the pressures faced by the middle adolescent from
 within themselves and from peers, it is important to build a strong sense
 of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
-<p>&nbsp;</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
+<p>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
@@ -83,7 +82,7 @@ which are of prime concern at this age.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
-<p>At AHMAD IBRAHIM SECONDARY SCHOOL, the following Sexuality Education lessons
+<p>At Ahmad Ibrahim Secondary School, the following Sexuality Education lessons
 will be taught in <strong><u>2026</u></strong>:</p>
 <h5><strong>SECONDARY 1</strong></h5>
 <table style="minWidth: 125px">
@@ -188,7 +187,6 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
@@ -254,14 +252,11 @@ as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
-<p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
-<p>&nbsp;</p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding of
@@ -291,7 +286,7 @@ and safety.</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
@@ -316,7 +311,6 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect and
@@ -377,13 +371,13 @@ well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
 entering into a dating relationship.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception
 and identity have an impact on our self-esteem and how we interact with
 others and the choices we make, both online and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that expectations
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand that expectations
 of oneself and others may differ and can affect one’s emotions, thoughts
 and behaviours</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise what healthy
@@ -409,7 +403,7 @@ and others, and that grief and loss due to rejections and broken relationships
 is normal and that one can recover from the experience. They will learn
 that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building
@@ -449,7 +443,7 @@ never justifiable and they can seek help in times of need.</p>
 importance of being informed of social and moral issues of the day and
 the need to reflect on these issues, and weigh them against our own moral
 standpoints as we form our perspectives about them</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand that
 we strengthen our character when we commit to sound values-based viewpoints
 (e.g. respect for life) and decisions, and speak and act in alignment with
 our beliefs</p>
@@ -552,7 +546,7 @@ harm to our mental and emotional well-being</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance of ensuring
 that non-verbal messages match with verbal ones, when communicating personal
 and emotional boundaries in a relationship</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 9</p>
@@ -661,7 +655,6 @@ of showing respect to the opposite sex by using appropriate words and actions.
 Students will examine personal boundaries from different perspectives and
 learn the importance of making sound values-based decisions and acting
 in consideration of the well-being of themselves and others.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>understand that we strengthen our character when we commit to sound values-based
@@ -724,13 +717,11 @@ on:</p>
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
 and impact</p>
-<p>&nbsp;</p>
 <p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
 assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
 way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
@@ -744,7 +735,6 @@ way, including avenues for help-seeking.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
 of a risky situation by applying skills of assertiveness and responsible
 decision-making</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 2</p>
