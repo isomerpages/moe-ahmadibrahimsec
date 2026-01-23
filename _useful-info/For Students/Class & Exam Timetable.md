@@ -16,24 +16,37 @@ variant: tiptap
 timetable.</p>
 <p>(3) Click on ‘left/right’ on top left corner of screen to alternate between
 odd and even week timetable.</p>
-<h4><strong>Exam Timetable</strong></h4>
-<p><em>*Timetable to be updated closer to exam date</em>
+<h4><strong>Weighted Assessment (WA)</strong></h4>
+<p><strong>Scope &amp; Format Specifications</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1</p>
+<p><a href="https://docs.google.com/document/d/1qK07sTlkEfv0PVVCystVwxYMrBXJ1iLH/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
 </li>
 <li>
-<p>Sec 2</p>
+<p><a href="https://docs.google.com/document/d/13j-nZV31O_J1v42S9ugZsv90Yr7noNPG/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
 </li>
 <li>
-<p>Sec 3EX</p>
+<p><a href="https://docs.google.com/document/d/1aV5cIWU0o59m8g9CzT2RwARGofvUImmP/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+</ul>
+<p><strong>Timetable</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/document/d/1r3iXoQz5nnMZCR9C3o3JIsGcfewzFg_U/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
 </li>
 <li>
-<p>Sec 3NA</p>
+<p><a href="https://docs.google.com/document/d/1wXBZ0HJCRH94D2g-Ee6FNCYqX2Jzw_eH/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
 </li>
 <li>
-<p>Sec 3NT</p>
+<p><a href="https://docs.google.com/document/d/1pPCipq-45odk3Y-PRtMyw1tYK7vb0mWl/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
 </li>
 </ul>
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
