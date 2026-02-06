@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2><strong><u>Student Management</u></strong></h2>
-<p>&nbsp;</p>
 <h4><strong><u>Belief of Student Management in AISS</u></strong></h4>
 <p>Our student management believes every student deserves to learn in a safe
 and supportive environment, and we must foster a growth-oriented atmosphere
@@ -177,7 +176,7 @@ as Class C controlled drugs under the Misuse of Drugs Act 1973 (MDA) for
 six months, pending introduction of more fit-for-purpose legislation.</p>
 <p>For such cases, schools will mete out school-based consequences, <strong><u>in addition</u></strong> to
 the consequences meted out by the authorities.</p>
-<h4>&nbsp;<strong>Penalty and School Based Consequence for Possession, Use and Purchase of Etomidate E-vaporisers:</strong></h4>
+<h4><strong>Penalty and School Based Consequence for Possession, Use and Purchase of Etomidate E-vaporisers:</strong></h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -264,7 +263,7 @@ testing and supervision</p>
 </tr>
 </tbody>
 </table>
-<h4>&nbsp;<strong>Penalty and School Based Consequence for Possession, Use and Purchase of E-vaporisers:</strong></h4>
+<h4><strong>Penalty and School Based Consequence for Possession, Use and Purchase of E-vaporisers:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
