@@ -42,7 +42,7 @@ consequences, in addition to the consequences meted out by the authorities.</p>
 etomidate), Sexual Misconduct, Assault, Fighting, Gangsterism, Severe bullying
 and other illegal/criminal offences under s424 or offences which result
 in grievous hurt.</p>
-<p>&nbsp;Examples of very serious (egregious) and serious offences:</p>
+<p>Examples of very serious (egregious) and serious offences:</p>
 <p>Substance Abuse, Vaping, Vaping (Etomidate), Pornography, Leaving school
 grounds without permission, Truancy, Assault, Bullying, Fighting, Gangsterism,
 Sexual Misconduct</p>
@@ -52,11 +52,9 @@ Sexual Misconduct</p>
 learning, affect school discipline, or show a lack of responsibility. While
 these offences may not be severe, they are taken seriously as they impact
 the learning environment and the well-being of the school community.</p>
-<p>&nbsp;</p>
 <p>Examples of minor offences:</p>
 <p>Latecoming, Skipping classes, Negligent Damage of Property, Playful/uncooperative
 behaviour, Online misconduct, Improper attire and grooming.</p>
-<p>&nbsp;</p>
 <p>If the student commits multiple minor offences despite warnings/reminders,
 it could also be reported as “Open Defiance” under Serious Offence.</p>
 <h4><strong><u>Baseline Disciplinary Consequences</u></strong></h4>
@@ -231,8 +229,7 @@ to six months)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Second-</p>
-<p>time offenders</p>
+<p>Second-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory six-month supervision with drug
@@ -313,8 +310,7 @@ and/or</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Second-</p>
-<p>time offenders</p>
+<p>Second-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory three-month rehabilitation programme</p>
