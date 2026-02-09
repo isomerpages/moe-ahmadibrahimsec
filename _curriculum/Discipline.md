@@ -40,19 +40,17 @@ consequences, in addition to the consequences meted out by the authorities.</p>
 <p><strong>Very serious</strong> offences include Drug Abuse, Vaping (with
 etomidate), Sexual Misconduct, Assault, Fighting, Gangsterism, Severe bullying
 and other illegal/criminal offences under s424 or offences which result
-in grievous hurt.</p>
-<p>Examples of very serious (egregious) and serious offences:</p>
-<p>Substance Abuse, Vaping, Vaping (Etomidate), Pornography, Leaving school
+in grievous hurt. Examples of very serious (egregious) and serious offences:
+Substance Abuse, Vaping, Vaping (Etomidate), Pornography, Leaving school
 grounds without permission, Truancy, Assault, Bullying, Fighting, Gangsterism,
-Sexual Misconduct</p>
-<p>Arson, Cybersecurity Violations, Trespassing, Vandalism</p>
-<p>Open Defiance to School Leaders/Teachers/Staff.</p>
+Sexual Misconduct, Arson, Cybersecurity Violations, Trespassing, Vandalism,
+Open Defiance to School Leaders/Teachers/Staff.</p>
 <p><strong>Minor</strong> offences in school refer to behaviours that disrupt
 learning, affect school discipline, or show a lack of responsibility. While
 these offences may not be severe, they are taken seriously as they impact
 the learning environment and the well-being of the school community.</p>
 <p>Examples of minor offences:</p>
-<p>Latecoming, Skipping classes, Negligent Damage of Property, Playful/uncooperative
+<p>Late-coming, Skipping classes, Negligent Damage of Property, Playful/uncooperative
 behaviour, Online misconduct, Improper attire and grooming.</p>
 <p>If the student commits multiple minor offences despite warnings/reminders,
 it could also be reported as “Open Defiance” under Serious Offence.</p>
