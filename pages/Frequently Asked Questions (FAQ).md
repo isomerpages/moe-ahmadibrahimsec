@@ -17,7 +17,7 @@ Sec 1 Registration Day in our school
 Sembawang Road, S(758459) Tel: 6753 1489,&nbsp;Website:&nbsp;<a href="http://www.euniforms.com.sg/" rel="noopener noreferrer nofollow" target="">http://www.euniforms.com.sg</a>
 </p>
 <p>Q. <strong>May I know the prices for school uniforms, books and stationery?</strong>
-<br>A. Please refer to&nbsp;<strong><a href="/partnerships/school-matters" rel="noopener noreferrer nofollow" target="">Uniform prices, Book list and stationery list</a></strong>
+<br>A. Please refer to&nbsp;<strong><a href="https://www.ahmadibrahimsec.moe.edu.sg/useful-info/for-parents/booklist-stationery-list/" rel="noopener noreferrer nofollow" target="">Uniform prices, Book list and stationery list</a></strong>
 </p>
 <p>Q. <strong>When are the school terms/ school holidays?<br></strong>A. Please
 visit <a href="https://www.moe.gov.sg/calendar" rel="noopener noreferrer nofollow" target="_blank">School terms and holidays</a>
