@@ -24,7 +24,7 @@ visit <a href="https://www.moe.gov.sg/calendar" rel="noopener noreferrer nofollo
 </p>
 <h4>Finance Matters</h4>
 <p>Q. <strong>Where can I learn more about school fees matters?<br></strong>A.
-Please visit <a href="https://www.moe.gov.sg/education/secondary" rel="noopener noreferrer nofollow" target="">https://www.moe.gov.sg/education/secondary</a>
+Please visit <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
 </p>
 <p>Q. <strong>How do I make payments?<br></strong>A. - For cheque payment,
 either post the cheques or call into our General Office. Please make cheques
