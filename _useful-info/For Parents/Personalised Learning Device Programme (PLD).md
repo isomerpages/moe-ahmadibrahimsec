@@ -56,7 +56,7 @@ can approach General Office for assistance.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit</a>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">Parent Kit</a>
 </p>
 </li>
 <li>
@@ -89,7 +89,7 @@ in Parents Gateway)</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuAFKO6_2JFGboOO4oW5ak99Br0UPK36BiUDODQLsCGWvhcKlu-PGh3k079cTU5OqgeKDGwYWZj24D/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuAFKO6_2JFGboOO4oW5ak99Br0UPK36BiUDODQLsCGWvhcKlu-PGh3k079cTU5OqgeKDGwYWZj24D/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <h2><strong>DMA Information</strong></h2>
 <ul data-tight="true" class="tight">
