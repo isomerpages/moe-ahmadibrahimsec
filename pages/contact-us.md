@@ -18,6 +18,9 @@ locations:
       - days: Eve of Public Holidays
         time: 7.00am - 12.00pm
         description: Eve of Chinese New Year, Christmas & New Year
+      - days: Teacher Day and Youth Day
+        time: 7.00am - 5.00pm
+        description: ""
     maps_link: https://www.google.com/maps?ll=1.436431,103.82998&z=16&t=m&hl=en-US&gl=SG&mapclient=embed&cid=10388065619390831962
     title: Address
 contacts:
