@@ -182,7 +182,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Siti Amalia Azmy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
