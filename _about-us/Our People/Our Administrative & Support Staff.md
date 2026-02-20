@@ -30,7 +30,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Muhamad Firdaus Jamalludin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -126,7 +126,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Widya Mohamad Mansor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
@@ -239,7 +239,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Widya Binte Mohamad Mansor</p>
+<p>Nurhidayat Mohamed Yunos</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Receptionist &amp; Admin Assistant</p>
