@@ -382,7 +382,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeu Chee Wee Thomas
-<br><a href="mailto:azlin_abdul_majid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azlin_abdul_majid@moe.edu.sg</a>
+<br><a href="mailto:yeu_chee_wee_thomas@moe.edu.sg" rel="noopener nofollow" target="_blank">yeu_chee_wee_thomas@moe.edu.sg </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
