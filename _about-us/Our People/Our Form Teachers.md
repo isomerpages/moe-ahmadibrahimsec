@@ -353,7 +353,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kasturi D/O Manoselvam (Mrs Vishwa)</p>
-<p><a href="mailto:do_manoselvam_kasturi@moe.edu.sg" rel="noopener nofollow" target="_blank">do_manoselvam_kasturi@moe.edu.sg </a>
+<p><a href="mailto:do_manoselvam_kasturi@moe.edu.sg" rel="noopener nofollow" target="_blank">do_manoselvam_kasturi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
