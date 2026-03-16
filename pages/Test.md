@@ -1,6 +1,6 @@
 ---
-title: test
-permalink: /permalink/
+title: Test
+permalink: /test/
 variant: tiptap
 description: ""
 ---
