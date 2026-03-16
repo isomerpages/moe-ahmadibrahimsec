@@ -21,15 +21,19 @@ odd and even week timetable.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/document/d/1qK07sTlkEfv0PVVCystVwxYMrBXJ1iLH/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/2026 Examination Timetable/Website__Scope___Format_Specs_WA2___Sec_1_docx.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/13j-nZV31O_J1v42S9ugZsv90Yr7noNPG/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/2026 Examination Timetable/Website__Scope___Format_Specs_WA2___Sec_2_docx.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1aV5cIWU0o59m8g9CzT2RwARGofvUImmP/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/2026 Examination Timetable/Website__Scope___Format_Specs_WA2__Sec_3_docx.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 Examination Timetable/Website__Scope___Format_Specs_WA2__Sec_4_5_docx.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </li>
 </ul>
@@ -37,15 +41,19 @@ odd and even week timetable.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/document/d/1r3iXoQz5nnMZCR9C3o3JIsGcfewzFg_U/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/2026 Examination Timetable/2026_Sec_1_WA2_TT_docx.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1wXBZ0HJCRH94D2g-Ee6FNCYqX2Jzw_eH/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/2026 Examination Timetable/2026_Sec_2_WA2_TT_docx.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1pPCipq-45odk3Y-PRtMyw1tYK7vb0mWl/edit?usp=sharing&amp;ouid=107193081116088591062&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/2026 Examination Timetable/2026_Sec_3_WA2_TT_docx.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 Examination Timetable/2026_Sec_4___5_WA2_TT_docx.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </li>
 </ul>
