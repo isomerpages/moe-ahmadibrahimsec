@@ -231,7 +231,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Izza Liyana Binte Abdul Majid</p>
+<p>Siti Suryani Binte Zaini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
