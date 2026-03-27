@@ -191,7 +191,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Jovene Tan Shi Yi
+<br><a href="mailto:jovene_tan_shi_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_ting_doris@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -228,7 +230,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Hui Ning
-<br><a href="lim_hui_ning@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_hui_ning@schools.gov.sg</a>
+<br><a href="lim_hui_ning@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_hui_ning@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,7 +267,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Chen Zexuan
+<br><a href="chen_zexuan@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_zexuan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -318,7 +322,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Maybelle Ong Hui Leng
+<br><a href="maybelle_ong_hui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">maybelle_ong_hui_leng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -441,8 +447,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rajakumar s/o Raghavan
-<br><a href="mailto:rajakumar_raghavan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajakumar_raghavan@moe.edu.sg</a>
+<p>Ms Tam Ye Ting
+<br><a href="tam_ye_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">tam_ye_ting@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
