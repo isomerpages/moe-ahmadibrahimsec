@@ -45,7 +45,7 @@ odd and even week timetable.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Examination Timetable/2026_Sec_2_WA2_TT_docx.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/2026 Examination Timetable/2026_Sec_2_WA2_TT_updated.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
@@ -53,7 +53,7 @@ odd and even week timetable.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Examination Timetable/2026_Sec_4___5_WA2_TT_docx.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="/files/2026 Examination Timetable/2026_Sec_4___5_WA2_TT_updated.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </li>
 </ul>
