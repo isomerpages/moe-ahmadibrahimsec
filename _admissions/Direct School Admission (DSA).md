@@ -4,7 +4,7 @@ permalink: /about-us/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h3><strong>DSA-Sec Exercise 2025</strong></h3>
+<h3><strong>DSA-Sec Exercise 2026</strong></h3>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move
 towards a more flexible and broad-based education system. Under the DSA-Sec
 Exercise, schools will be able to select a percentage of their students
@@ -35,7 +35,8 @@ to make a difference in the lives of others, or</p>
 Music Programme), or</p>
 </li>
 <li>
-<p>have good level of sports skills in Shooting and Track &amp; Field; or</p>
+<p>have good level of sports skills in Basketball (Girls only), Shooting
+and Track &amp; Field; or</p>
 </li>
 <li>
 <p>possess positive attitude, good communication skills and have demonstrated
@@ -72,6 +73,14 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performing Arts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball (Girls only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports and Games</p>
 </td>
 </tr>
 <tr>
