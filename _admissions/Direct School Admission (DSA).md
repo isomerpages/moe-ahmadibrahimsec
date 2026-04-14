@@ -115,8 +115,9 @@ School are encouraged to apply through the following DSA talent areas.</p>
 <h3><strong>Application Procedures</strong></h3>
 <h4>Step 1: Submission of application form through DSA - Sec Portal</h4>
 <p>Application for DSA-Sec can be submitted through online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11 am to 3 June 2025, 3 pm</strong>.
-For more details, please refer to MOE website -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+The application is free-of-charge and will be open from<strong> 6 May 2026 to 2 June 2026</strong>.
+For more details, please refer to MOE website -&nbsp;www.moe.gov.sg/dsa-sec
+-&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>For applicants studying in MOE mainstream primary schools: Only one parent's
 SingPass is needed to log in. If parent / guardian is unable to apply online,
@@ -128,7 +129,7 @@ the DSA-Sec Portal.</p>
 </p>
 <p></p>
 <h4>Step 2: Attending Auditions/Trials/Tests and Interview Sessions</h4>
-<p>Shortlisted applicants will be notified by <strong>4 July 2025</strong> to
+<p>Shortlisted applicants will be notified by <strong>10 July 2026</strong> to
 attend the selection trial.</p>
 <p>In the event that you are unable to attend the session on the given date,
 please call us at <strong>6758 5384</strong> in advance to make a new appointment.
@@ -145,7 +146,8 @@ The dates available are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 23 July 2025 to 6 Aug 2025</p>
+<p>Between<strong> 22 July 2026 to 5 Aug 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -168,8 +170,7 @@ The dates available are:</p>
 <p>School Uniform</p>
 </li>
 <li>
-<p>PE Attire&nbsp;<em>(For Shooting and Track &amp; Field)</em>
-</p>
+<p>PE Attire (For Basketball Girls, Shooting and Track &amp; Field)</p>
 </li>
 </ul>
 </td>
@@ -186,13 +187,13 @@ The dates available are:</p>
 </tbody>
 </table>
 <h4>Step 3: Outcome of Selection</h4>
-<p>You will be notified of the outcome between&nbsp;<strong>25 August 2025</strong> to <strong>4 September 2025</strong>,
-informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>, <strong>put on&nbsp;Wait List</strong>,
+<p>You will be notified of the outcome by&nbsp;<strong>17 September 2026</strong>,
+informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>,<strong> put on&nbsp;Wait List</strong>,
 or&nbsp;<strong>Rejected</strong>. The decision of the Selection Panel
 is final.
 <br>
 <br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will
-receive notification on the School Preference Submission in&nbsp;<strong>October 2025</strong>.
+receive notification on the School Preference Submission in&nbsp;<strong>October 2026</strong>.
 <br>
 <br>Lastly, the DSA results will be released with the PSLE results.</p>
 <h4>Selection Criteria</h4>
