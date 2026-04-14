@@ -227,11 +227,10 @@ receive notification on the School Preference Submission in&nbsp;<strong>October
 <p>learning how to use the media purposefully, to generate an awareness of
 societal issues and advocate for change, to make a difference in the lives
 of others.</p>
-<p></p>
-</li>
-</ul>
 <p>Student’s aptitude in leading inquiry and advocacy projects related to
 the ALP.&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -245,23 +244,20 @@ the ALP.&nbsp;</p>
 </li>
 <li>
 <p>Keen interest in music</p>
-<p></p>
-</li>
-</ul>
 <p>(The music session includes playing two own-choice music pieces, a written
 test and an interview)</p>
-<ul data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p>Proficiency in performing on an instrument and music theory knowledge
 (equivalent to Grade 4 ABRSM)</p>
 </li>
 <li>
 <p>Keen interest in music (to take up the Enhanced Music Programme)</p>
-</li>
-</ul>
-<p></p>
 <p>(The selection trial comprises a performance of one piece of the applicant's
 choice, a listening test and an interview.)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -278,8 +274,7 @@ Games</p>
 <p>Students should be physically fit and able to independently handle the
 air rifle and/or air pistol. Seeking highly motivated individuals who strive
 for excellence and those that are able to perform under extreme pressure.</p>
-<p>
-<br>(Students to pass the trial segment will have to stay for an interview
+<p>(Students to pass the trial segment will have to stay for an interview
 session on the same day.)</p>
 </li>
 </ul>
@@ -290,12 +285,26 @@ session on the same day.)</p>
 <p>Track &amp; Field&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Students should be physically fit, possess a good level of sports skills,
-demonstrate leadership qualities, and display strong character traits.
-<br>Those who meet the criteria during the selection trial will be informed
-by the teacher-in-charge on the same day.
-<br>If they have cleared the trial, they will proceed for an interview session
-immediately after.</p>
+and demonstrate strong interest and potential in athletics. They should
+also display positive character traits such as discipline, resilience,
+teamwork and leadership potential.</p>
+</li>
+<li>
+<p>Applicants will undergo a selection trial to assess their athletic abilities
+and potential across several track and field activities. Students who meet
+the required standards during the trial will be informed by the teacher-in-charge
+on the same day and will proceed to a short interview session to assess
+their attitude, commitment and team mindset.</p>
+</li>
+<li>
+<p>Students admitted through this pathway are expected to demonstrate commitment
+to regular training and contribute positively to the team culture of the
+Track and Field CCA.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -303,12 +312,40 @@ immediately after.</p>
 <p>Community Youth Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess positive attitude, good character and have demonstrated leadership
+capabilities</p>
+</li>
+<li>
 <p>Students should possess a strong commitment to creating positive change
 that benefits others, along with a keen interest in serving the school
-and the community.
-<br>They should demonstrate good communication skills, leadership capabilities,
-and the ability to inspire, motivate, and unite others toward achieving
-a shared and meaningful goal.</p>
+and the community. They should demonstrate good communication skills, leadership
+capabilities, and the ability to inspire, motivate, and unite others toward
+achieving a shared and meaningful goal.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball (Girls only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should be physically fit, possess a good level of basketball
+skills, and display strong character traits.</p>
+</li>
+<li>
+<p>Those who meet the criteria during the selection trial will be informed
+by the teacher-in-charge on the same day and they will proceed for an interview
+session immediately after.</p>
+</li>
+<li>
+<p>Interested applicants to submit their P5 NAPFA test results.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
