@@ -356,23 +356,24 @@ session immediately after.</p>
 <h4><strong>Contact Us</strong></h4>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong>
 <br>
-<br><strong><u>For ALP (Critical Social Inquiry and Media Literacy) matters:<br></u></strong>Ms
+<br><strong><u>For ALP (Critical Social Inquiry and Media Literacy) matters:<br></u></strong>Ms.
 Andrea Lee Shu Qi
 <br>HOD / Humanities
 <br>Tel: 6594 9022
 <br>
 <br>Or
 <br>
-<br>Mr Mohamed Imran Bin Ishak
+<br>Mr. Mohamed Imran Bin Ishak
 <br>Assistant Year Head / Lower Sec
 <br>Tel: 6594 9036</p>
-<p><strong><u>For Music matters:<br></u></strong>Ms Chow Pei Yan
+<p><strong><u>For Music matters:<br></u></strong>Ms. Chow Pei Yan
 <br>Subject Head / Music
 <br>Tel: 6594 9038</p>
-<p><strong><u>For Sports &amp; Games matters:<br></u></strong>Mr Tommy Toh
-<br>Subject Head / CCA
+<p><strong><u>For Sports &amp; Games matters:<br></u></strong>Mr. Rudy Irawan
+Bin Samat
+<br>HOD / CCA
 <br>Tel: 6594 9047</p>
-<p><strong><u>For Community Youth Leadership matters:<br></u></strong>Ms
+<p><strong><u>For Community Youth Leadership matters:<br></u></strong>Ms.
 Tsang Wing Han
 <br>Subject Head / Systems &amp; Research
 <br>Tel: 6594 9047</p>
