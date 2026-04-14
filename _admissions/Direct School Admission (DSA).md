@@ -227,6 +227,7 @@ receive notification on the School Preference Submission in&nbsp;<strong>October
 <p>learning how to use the media purposefully, to generate an awareness of
 societal issues and advocate for change, to make a difference in the lives
 of others.</p>
+<p></p>
 </li>
 </ul>
 <p>Student’s aptitude in leading inquiry and advocacy projects related to
@@ -244,10 +245,23 @@ the ALP.&nbsp;</p>
 </li>
 <li>
 <p>Keen interest in music</p>
+<p></p>
 </li>
 </ul>
-<p><em>(The music session includes playing two own-choice music pieces, a written test and an interview)</em>
-</p>
+<p>(The music session includes playing two own-choice music pieces, a written
+test and an interview)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Proficiency in performing on an instrument and music theory knowledge
+(equivalent to Grade 4 ABRSM)</p>
+</li>
+<li>
+<p>Keen interest in music (to take up the Enhanced Music Programme)</p>
+</li>
+</ul>
+<p></p>
+<p>(The selection trial comprises a performance of one piece of the applicant's
+choice, a listening test and an interview.)</p>
 </td>
 </tr>
 <tr>
@@ -255,12 +269,20 @@ the ALP.&nbsp;</p>
 <p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students' potential to excel and contribute to the school's Sports &amp;
+Games</p>
+</li>
+<li>
 <p>Students should be physically fit and able to independently handle the
-air rifle and/or air pistol.
-<br>Seeking highly motivated individuals who strive for excellence and those
-that are able to perform under extreme pressure.
+air rifle and/or air pistol. Seeking highly motivated individuals who strive
+for excellence and those that are able to perform under extreme pressure.</p>
+<p>
 <br>(Students to pass the trial segment will have to stay for an interview
 session on the same day.)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
