@@ -368,11 +368,11 @@ Andrea Lee Shu Qi
 <br>Tel: 6594 9036</p>
 <p><strong><u>For Music matters:<br></u></strong>Ms. Chow Pei Yan
 <br>Subject Head / Music
-<br>Tel: 6594 9038</p>
+<br>Tel: 6594 9030</p>
 <p><strong><u>For Sports &amp; Games matters:<br></u></strong>Mr. Rudy Irawan
 Bin Samat
 <br>HOD / CCA
-<br>Tel: 6594 9047</p>
+<br>Tel: 6594 9016</p>
 <p><strong><u>For Community Youth Leadership matters:<br></u></strong>Ms.
 Tsang Wing Han
 <br>Subject Head / Systems &amp; Research
