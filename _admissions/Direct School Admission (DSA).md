@@ -240,15 +240,6 @@ the ALP.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Minimum of Grade 4 ABRSM or equivalent in music (practical and theory)</p>
-</li>
-<li>
-<p>Keen interest in music</p>
-<p>(The music session includes playing two own-choice music pieces, a written
-test and an interview)</p>
-<p></p>
-</li>
-<li>
 <p>Proficiency in performing on an instrument and music theory knowledge
 (equivalent to Grade 4 ABRSM)</p>
 </li>
