@@ -262,6 +262,27 @@ choice, a listening test and an interview.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Basketball (Girls only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should be physically fit, possess a good level of basketball
+skills, and display strong character traits.</p>
+</li>
+<li>
+<p>Those who meet the criteria during the selection trial will be informed
+by the teacher-in-charge on the same day and they will proceed for an interview
+session immediately after.</p>
+</li>
+<li>
+<p>Interested applicants to submit their P5 NAPFA test results.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,27 +344,6 @@ that benefits others, along with a keen interest in serving the school
 and the community. They should demonstrate good communication skills, leadership
 capabilities, and the ability to inspire, motivate, and unite others toward
 achieving a shared and meaningful goal.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball (Girls only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should be physically fit, possess a good level of basketball
-skills, and display strong character traits.</p>
-</li>
-<li>
-<p>Those who meet the criteria during the selection trial will be informed
-by the teacher-in-charge on the same day and they will proceed for an interview
-session immediately after.</p>
-</li>
-<li>
-<p>Interested applicants to submit their P5 NAPFA test results.</p>
 </li>
 </ul>
 </td>
