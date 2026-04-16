@@ -4,7 +4,7 @@ permalink: /about-us/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h3><strong>DSA-Sec Exercise 2025</strong></h3>
+<h3><strong>DSA-Sec Exercise 2026</strong></h3>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move
 towards a more flexible and broad-based education system. Under the DSA-Sec
 Exercise, schools will be able to select a percentage of their students
@@ -35,7 +35,8 @@ to make a difference in the lives of others, or</p>
 Music Programme), or</p>
 </li>
 <li>
-<p>have good level of sports skills in Shooting and Track &amp; Field; or</p>
+<p>have good level of sports skills in Basketball (Girls only), Shooting
+and Track &amp; Field; or</p>
 </li>
 <li>
 <p>possess positive attitude, good communication skills and have demonstrated
@@ -76,6 +77,14 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Basketball (Girls only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports and Games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,15 +111,13 @@ School are encouraged to apply through the following DSA talent areas.</p>
 </table>
 <p><em>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DSA Schedule" src="/images/Admission/DSA/aiss_dsa_sec_schedule.png">
-</div>
 <hr>
 <h3><strong>Application Procedures</strong></h3>
 <h4>Step 1: Submission of application form through DSA - Sec Portal</h4>
 <p>Application for DSA-Sec can be submitted through online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11 am to 3 June 2025, 3 pm</strong>.
-For more details, please refer to MOE website -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+The application is free-of-charge and will be open from<strong> 6 May 2026 to 2 June 2026</strong>.
+For more details, please refer to MOE website -&nbsp;www.moe.gov.sg/dsa-sec
+-&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>For applicants studying in MOE mainstream primary schools: Only one parent's
 SingPass is needed to log in. If parent / guardian is unable to apply online,
@@ -122,7 +129,7 @@ the DSA-Sec Portal.</p>
 </p>
 <p></p>
 <h4>Step 2: Attending Auditions/Trials/Tests and Interview Sessions</h4>
-<p>Shortlisted applicants will be notified by <strong>4 July 2025</strong> to
+<p>Shortlisted applicants will be notified by <strong>10 July 2026</strong> to
 attend the selection trial.</p>
 <p>In the event that you are unable to attend the session on the given date,
 please call us at <strong>6758 5384</strong> in advance to make a new appointment.
@@ -139,7 +146,8 @@ The dates available are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 23 July 2025 to 6 Aug 2025</p>
+<p>Between<strong> 22 July 2026 to 5 Aug 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -162,8 +170,7 @@ The dates available are:</p>
 <p>School Uniform</p>
 </li>
 <li>
-<p>PE Attire&nbsp;<em>(For Shooting and Track &amp; Field)</em>
-</p>
+<p>PE Attire (For Basketball Girls, Shooting and Track &amp; Field)</p>
 </li>
 </ul>
 </td>
@@ -180,13 +187,13 @@ The dates available are:</p>
 </tbody>
 </table>
 <h4>Step 3: Outcome of Selection</h4>
-<p>You will be notified of the outcome between&nbsp;<strong>25 August 2025</strong> to <strong>4 September 2025</strong>,
-informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>, <strong>put on&nbsp;Wait List</strong>,
+<p>You will be notified of the outcome by&nbsp;<strong>17 September 2026</strong>,
+informing you that your selection outcome is either&nbsp;<strong>Confirmed Offer</strong>,<strong> put on&nbsp;Wait List</strong>,
 or&nbsp;<strong>Rejected</strong>. The decision of the Selection Panel
 is final.
 <br>
 <br>Students who are given&nbsp;<strong>Confirmed Offer</strong>&nbsp;or&nbsp;<strong>Wait List</strong>&nbsp;will
-receive notification on the School Preference Submission in&nbsp;<strong>October 2025</strong>.
+receive notification on the School Preference Submission in&nbsp;<strong>October 2026</strong>.
 <br>
 <br>Lastly, the DSA results will be released with the PSLE results.</p>
 <h4>Selection Criteria</h4>
@@ -220,10 +227,10 @@ receive notification on the School Preference Submission in&nbsp;<strong>October
 <p>learning how to use the media purposefully, to generate an awareness of
 societal issues and advocate for change, to make a difference in the lives
 of others.</p>
-</li>
-</ul>
 <p>Student’s aptitude in leading inquiry and advocacy projects related to
 the ALP.&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -233,14 +240,36 @@ the ALP.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Minimum of Grade 4 ABRSM or equivalent in music (practical and theory)</p>
+<p>Proficiency in performing on an instrument and music theory knowledge
+(equivalent to Grade 4 ABRSM)</p>
 </li>
 <li>
-<p>Keen interest in music</p>
+<p>Keen interest in music (to take up the Enhanced Music Programme)</p>
+<p>(The selection trial comprises a performance of one piece of the applicant's
+choice, a listening test and an interview.)</p>
 </li>
 </ul>
-<p><em>(The music session includes playing two own-choice music pieces, a written test and an interview)</em>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball (Girls only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should be physically fit, possess a good level of basketball
+skills, and display strong character traits.</p>
+</li>
+<li>
+<p>Those who meet the criteria during the selection trial will be informed
+by the teacher-in-charge on the same day and they will proceed for an interview
+session immediately after.</p>
+</li>
+<li>
+<p>Interested applicants to submit their P4 and P6 NAPFA test results.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -248,12 +277,19 @@ the ALP.&nbsp;</p>
 <p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students' potential to excel and contribute to the school's Sports &amp;
+Games</p>
+</li>
+<li>
 <p>Students should be physically fit and able to independently handle the
-air rifle and/or air pistol.
-<br>Seeking highly motivated individuals who strive for excellence and those
-that are able to perform under extreme pressure.
-<br>(Students to pass the trial segment will have to stay for an interview
+air rifle and/or air pistol. Seeking highly motivated individuals who strive
+for excellence and those that are able to perform under extreme pressure.</p>
+<p>(Students to pass the trial segment will have to stay for an interview
 session on the same day.)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -261,12 +297,26 @@ session on the same day.)</p>
 <p>Track &amp; Field&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Students should be physically fit, possess a good level of sports skills,
-demonstrate leadership qualities, and display strong character traits.
-<br>Those who meet the criteria during the selection trial will be informed
-by the teacher-in-charge on the same day.
-<br>If they have cleared the trial, they will proceed for an interview session
-immediately after.</p>
+and demonstrate strong interest and potential in athletics. They should
+also display positive character traits such as discipline, resilience,
+teamwork and leadership potential.</p>
+</li>
+<li>
+<p>Applicants will undergo a selection trial to assess their athletic abilities
+and potential across several track and field activities. Students who meet
+the required standards during the trial will be informed by the teacher-in-charge
+on the same day and will proceed to a short interview session to assess
+their attitude, commitment and team mindset.</p>
+</li>
+<li>
+<p>Students admitted through this pathway are expected to demonstrate commitment
+to regular training and contribute positively to the team culture of the
+Track and Field CCA.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -274,12 +324,19 @@ immediately after.</p>
 <p>Community Youth Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess positive attitude, good character and have demonstrated leadership
+capabilities</p>
+</li>
+<li>
 <p>Students should possess a strong commitment to creating positive change
 that benefits others, along with a keen interest in serving the school
-and the community.
-<br>They should demonstrate good communication skills, leadership capabilities,
-and the ability to inspire, motivate, and unite others toward achieving
-a shared and meaningful goal.</p>
+and the community. They should demonstrate good communication skills, leadership
+capabilities, and the ability to inspire, motivate, and unite others toward
+achieving a shared and meaningful goal.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -290,23 +347,24 @@ a shared and meaningful goal.</p>
 <h4><strong>Contact Us</strong></h4>
 <p><strong>For further clarifications, you may contact any of the following teachers:</strong>
 <br>
-<br><strong><u>For ALP (Critical Social Inquiry and Media Literacy) matters:<br></u></strong>Ms
+<br><strong><u>For ALP (Critical Social Inquiry and Media Literacy) matters:<br></u></strong>Ms.
 Andrea Lee Shu Qi
 <br>HOD / Humanities
 <br>Tel: 6594 9022
 <br>
 <br>Or
 <br>
-<br>Mr Mohamed Imran Bin Ishak
+<br>Mr. Mohamed Imran Bin Ishak
 <br>Assistant Year Head / Lower Sec
 <br>Tel: 6594 9036</p>
-<p><strong><u>For Music matters:<br></u></strong>Ms Chow Pei Yan
+<p><strong><u>For Music matters:<br></u></strong>Ms. Chow Pei Yan
 <br>Subject Head / Music
-<br>Tel: 6594 9038</p>
-<p><strong><u>For Sports &amp; Games matters:<br></u></strong>Mr Tommy Toh
-<br>Subject Head / CCA
-<br>Tel: 6594 9047</p>
-<p><strong><u>For Community Youth Leadership matters:<br></u></strong>Ms
+<br>Tel: 6594 9030</p>
+<p><strong><u>For Sports &amp; Games matters:<br></u></strong>Mr. Rudy Irawan
+Bin Samat
+<br>HOD / CCA
+<br>Tel: 6594 9016</p>
+<p><strong><u>For Community Youth Leadership matters:<br></u></strong>Ms.
 Tsang Wing Han
 <br>Subject Head / Systems &amp; Research
 <br>Tel: 6594 9047</p>
