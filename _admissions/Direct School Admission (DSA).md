@@ -267,7 +267,7 @@ by the teacher-in-charge on the same day and they will proceed for an interview
 session immediately after.</p>
 </li>
 <li>
-<p>Interested applicants to submit their P5 NAPFA test results.</p>
+<p>Interested applicants to submit their P4 and P6 NAPFA test results.</p>
 </li>
 </ul>
 </td>
