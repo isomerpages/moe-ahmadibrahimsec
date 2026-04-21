@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>School Stalls</h3>
-<p>There are currently 5 food stalls and 1 drink/snack stall at our school.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
