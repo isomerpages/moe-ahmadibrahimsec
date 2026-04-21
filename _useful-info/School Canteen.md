@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>School Stalls</h3>
-<p>There are currently 5 food stalls and 1 drink/snack stall at our school.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -26,14 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese stall selling Chinese noodles</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2025, 6pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ahmadibrahimsec.moe.edu.sg/school-canteen-advertisement-01/" rel="noopener nofollow" target="_blank">Apply here</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
