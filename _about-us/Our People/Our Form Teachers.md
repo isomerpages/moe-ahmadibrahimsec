@@ -192,7 +192,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jovene Tan Shi Yi
-<br><a href="mailto:jovene_tan_shi_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_ting_doris@moe.edu.sg</a>
+<br><a href="jovene_tan_shi_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">jovene_tan_shi_yi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
