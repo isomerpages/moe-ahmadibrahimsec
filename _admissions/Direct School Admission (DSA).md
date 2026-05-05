@@ -115,7 +115,7 @@ School are encouraged to apply through the following DSA talent areas.</p>
 <h3><strong>Application Procedures</strong></h3>
 <h4>Step 1: Submission of application form through DSA - Sec Portal</h4>
 <p>Application for DSA-Sec can be submitted through online DSA-Sec Portal.
-The application is free-of-charge and will be open from<strong> 11am on Wednesday, 6 May 2026 to 3pm on Tuesday, 2 June 2026</strong>.
+The application is free-of-charge and will be open from<strong> 11am on Wednesday, 6 May 2026 to 4.30pm on Tuesday, 2 June 2026</strong>.
 For more details, please refer to MOE website -&nbsp;www.moe.gov.sg/dsa-sec
 -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
