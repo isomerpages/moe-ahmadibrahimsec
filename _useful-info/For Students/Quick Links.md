@@ -12,6 +12,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://padlet.com/aiss/aiss-ecg-o6u2tuksav50o1wl" rel="noopener nofollow" target="_blank">AISS ECG resources</a>
+</p>
+</li>
+<li>
 <p><a href="https://accounts.google.com/AccountChooser?sacu=1&amp;continue=https://sites.google.com/a/aiss.edu.sg/ai-dsa-jc-eae-scas-system/&amp;hd=aiss.edu.sg#identifier" rel="noopener noreferrer nofollow" target="_blank">Online Library Catalogue</a>
 </p>
 </li>
