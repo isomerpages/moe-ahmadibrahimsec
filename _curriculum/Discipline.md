@@ -263,16 +263,14 @@ need arises.</p>
 <td rowspan="2" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</strong>
-</p>
+<p>Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</p>
 </li>
 <li>
-<p><strong>Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</strong>
-</p>
+<p>Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</p>
 </li>
 <li>
-<p><strong>Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment, or both</strong>
-</p>
+<p>Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment,
+or both</p>
 </li>
 </ul>
 <p></p>
@@ -280,16 +278,13 @@ need arises.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>3 to 5 days of detention and/or suspension; and/or</strong>
-</p>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
 </li>
 <li>
-<p><strong>Up to 2 strokes of the cane (for boys only)</strong>
-</p>
+<p>Up to 2 strokes of the cane (for boys only)</p>
 </li>
 <li>
-<p><strong>AND conduct grade adjustment (no better than ‘Fair’)</strong>
-</p>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
 </li>
 </ul>
 </td>
@@ -302,16 +297,13 @@ need arises.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>5 to 14 days of detention and/or suspension; and/or</strong>
-</p>
+<p>5 to 14 days of detention and/or suspension; and/or</p>
 </li>
 <li>
-<p><strong>Up to 3 strokes of the cane (for boys only)</strong>
-</p>
+<p>Up to 3 strokes of the cane (for boys only)</p>
 </li>
 <li>
-<p><strong>AND conduct grade adjustment (‘Poor’)</strong>
-</p>
+<p>AND conduct grade adjustment (‘Poor’)</p>
 </li>
 </ul>
 </td>
@@ -348,32 +340,28 @@ need arises.</p>
 <td rowspan="3" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Suppliers:&nbsp;Mandatory imprisonment for up to 6 years, and a fine of up to $200,000&nbsp;</strong>
-</p>
+<p>Suppliers:&nbsp;Mandatory imprisonment for up to 6 years, and a fine of
+up to $200,000&nbsp;</p>
 </li>
 <li>
-<p><strong>Importers:&nbsp;Mandatory imprisonment for up to 9 years, and a fine of up to $300,000&nbsp;</strong>
-</p>
+<p>Importers:&nbsp;Mandatory imprisonment for up to 9 years, and a fine of
+up to $300,000&nbsp;</p>
 </li>
 <li>
-<p><strong>Individuals:&nbsp;Can be fined up to $10,000</strong>
-</p>
+<p>Individuals:&nbsp;Can be fined up to $10,000</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>1 to 3 days of detention and/or suspension; and/or</strong>
-</p>
+<p>1 to 3 days of detention and/or suspension; and/or</p>
 </li>
 <li>
-<p><strong>1 stroke of the cane (for boys only)</strong>
-</p>
+<p>1 stroke of the cane (for boys only)</p>
 </li>
 <li>
-<p><strong>AND conduct grade adjustment</strong>
-</p>
+<p>AND conduct grade adjustment</p>
 </li>
 </ul>
 </td>
@@ -386,20 +374,16 @@ need arises.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>3 to 5 days of detention and/or suspension; and/or</strong>
-</p>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
 </li>
 <li>
-<p><strong>Up to 2 strokes of the cane (for boys only)</strong>
-</p>
+<p>Up to 2 strokes of the cane (for boys only)</p>
 </li>
 <li>
-<p><strong>AND conduct grade adjustment (no better than ‘Fair’)</strong>
-</p>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -410,16 +394,13 @@ need arises.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>5 to 14 days of detention and/or suspension; and/or</strong>
-</p>
+<p>5 to 14 days of detention and/or suspension; and/or</p>
 </li>
 <li>
-<p><strong>Up to 3 strokes of the cane (for boys only)</strong>
-</p>
+<p>Up to 3 strokes of the cane (for boys only)</p>
 </li>
 <li>
-<p><strong>AND conduct grade adjustment (‘Poor’)</strong>
-</p>
+<p>AND conduct grade adjustment (‘Poor’)</p>
 </li>
 </ul>
 </td>
