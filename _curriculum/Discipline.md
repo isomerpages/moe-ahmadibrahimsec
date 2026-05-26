@@ -260,10 +260,18 @@ need arises.</p>
 <p>First-time offenders</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>• Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</p>
-<p>• Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</p>
-<p>• Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment,
+<ul data-tight="true" class="tight">
+<li>
+<p>Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</p>
+</li>
+<li>
+<p>Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</p>
+</li>
+<li>
+<p>Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment,
 or both</p>
+</li>
+</ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
