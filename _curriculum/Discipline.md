@@ -195,30 +195,46 @@ along with photos or supporting evidence if available.</p>
 <p><strong><u>Response Time Guidelines</u></strong>
 </p>
 <p>The school commits to the following response time guidelines:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 working days: Acknowledge all feedback
-and reply to straightforward enquiries.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 working days: For cases needing investigation,
-including gathering statements and reviewing evidence.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21 working days: For complex cases involving
-detailed investigations, multiple parties, or external agencies.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 working days: Acknowledge all feedback and reply to straightforward
+enquiries.</p>
+</li>
+<li>
+<p>7 working days: For cases needing investigation, including gathering statements
+and reviewing evidence.</p>
+</li>
+<li>
+<p>21 working days: For complex cases involving detailed investigations,
+multiple parties, or external agencies.</p>
+</li>
+</ul>
 <p><strong><u>Vaping enforcement</u></strong>
 </p>
-<p>Electronic vaporisers, also known as e-cigarettes, e-vaporisers or vapes,
-are electronic devices that vaporise a liquid solution (e-liquid) to be
-inhaled.</p>
-<p>Health Sciences Authority's Tobacco Regulation Branch administers and
-enforces the Tobacco (Control of Advertisements and Sale) Act (TCASA).
-From 1 February 2018, the purchase, possession, and use of emerging and
-imitation tobacco products, which include e-vaporisers, have been prohibited.
-This is in addition to earlier prohibitions on the importation, sale, and
-distribution of these products.</p>
-<p>From 1 September 2025, etomidate and its analogues will be classified
-as Class C controlled drugs under the Misuse of Drugs Act 1973 (MDA) for
-six months, pending introduction of more fit-for-purpose legislation.</p>
+<p>Vaporisers are electronic devices that convert a liquid solution (e-liquid)
+into a gaseous form to be inhaled. The possession and use of vaporisers
+have been prohibited in Singapore since 2018.</p>
+<p>These devices have evolved from delivering nicotine to the user, into
+ones that are used for abusing etomidate (which is used by medical professionals
+for the induction of general anaesthesia in a clinical setting), and other
+controlled drugs.</p>
+<p>The Tobacco and Vaporisers Control Act (TVCA), renamed from the Tobacco
+(Control of Advertisements &amp; Sale) Act, with effect from 1 May 2026),
+reflects the enhanced focus on vaporisers. TVCA will consolidate enforcement,
+rehabilitation and educational frameworks for users of vaporisers including
+those containing specified psychoactive substance (SPS) such as etomidate.
+Enhanced penalties under TVCA apply to the possession, use, import and
+supply of vaporisers.</p>
 <p>For such cases, schools will mete out school-based consequences, <strong><u>in addition</u></strong> to
 the consequences meted out by the authorities.</p>
+<p>With effect from 1 May 2026, etomidate and its analogues will be listed
+as SPS in a new Schedule under TVCA. This Schedule will provide the Ministry
+of Health and HSA with the powers to enforce against substances or products
+that can cause a psychoactive effect when consumed, and are abused or likely
+to be abused by using a tobacco product, vaporiser, or imitation tobacco
+product. New substances and products can be listed in the future when the
+need arises.</p>
 <h4><strong>Penalty and School Based Consequence for Possession, Use and Purchase of Etomidate E-vaporisers:</strong></h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -231,7 +247,7 @@ the consequences meted out by the authorities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Health Sciences Authority</u></strong>
+<p><strong>Stiff Penalties Remain for SPS Offences:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,65 +257,45 @@ the consequences meted out by the authorities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First-time offenders under 18 years old</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Composition fine of $500</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory rehabilitation programme (up
-to six months)</p>
+<p>First-time offenders</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (no better
-than ‘Fair’)</p>
+<p>• Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</p>
+<p>• Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</p>
+<p>• Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment,
+or both</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First-time offenders aged 18 years and above</p>
+<p>Subsequent offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Composition fine of $700</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory rehabilitation programme (up
-to six months)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Second-time offenders</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory six-month supervision with drug
-testing and rehabilitation</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (‘Poor’)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Third or subsequent offences (under 16 years)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory 12-month community supervision</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Third or subsequent offences (16 years and above)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Admission to Drug Rehabilitation Centre
-to undergo rehabilitation,</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subsequently undergo 12 months of drug
-testing and supervision</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
