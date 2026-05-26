@@ -26,31 +26,45 @@ to become positive agents of transformation who can make meaningful contribution
 to their communities and beyond.</p>
 <h4><strong><u>An Overview of Serious and Minor Offences, and Baseline Disciplinary Consequences in AISS</u></strong></h4>
 <p>&nbsp;An offence is considered <strong>serious </strong>when a student:</p>
-<p>•&nbsp; causes serious harm and/or disruption to self, whether physical,
-psychological or social; and/or</p>
-<p>• causes serious harm and/or disruption to others, whether physical, psychological
+<ul data-tight="true" class="tight">
+<li>
+<p>causes serious harm and/or disruption to self, whether physical, psychological
 or social; and/or</p>
-<p>• causes serious damage to property or resources; and/or</p>
-<p>• shows defiance against authorities.</p>
+</li>
+<li>
+<p>causes serious harm and/or disruption to others, whether physical, psychological
+or social; and/or</p>
+</li>
+<li>
+<p>causes serious damage to property or resources; and/or</p>
+</li>
+<li>
+<p>shows defiance against authorities.</p>
+</li>
+</ul>
 <p>For <strong>serious </strong>offences which also involve a breach of the
 law (e.g., Substance Abuse, Vaping, Theft, Possession of weapons, Scams
 and Frauds), schools will report the offence to the relevant law enforcement
 agencies (LEAs) promptly. For such cases, schools will mete out school-based
 consequences, in addition to the consequences meted out by the authorities.</p>
-<p><strong>Very serious</strong> offences include Drug Abuse, Vaping (with
+<p><strong>Very serious </strong>offences include Drug Abuse, Vaping (with
 etomidate), Sexual Misconduct, Assault, Fighting, Gangsterism, Severe bullying
 and other illegal/criminal offences under s424 or offences which result
-in grievous hurt. Examples of very serious (egregious) and serious offences:
-Substance Abuse, Vaping, Vaping (Etomidate), Pornography, Leaving school
+in grievous hurt.</p>
+<p><u>Examples of very serious (egregious) and serious offences:</u>
+</p>
+<p>Substance Abuse, Vaping, Vaping (Etomidate), Pornography, Leaving school
 grounds without permission, Truancy, Assault, Bullying, Fighting, Gangsterism,
 Sexual Misconduct, Arson, Cybersecurity Violations, Trespassing, Vandalism,
 Open Defiance to School Leaders/Teachers/Staff.</p>
+<p></p>
 <p><strong>Minor</strong> offences in school refer to behaviours that disrupt
 learning, affect school discipline, or show a lack of responsibility. While
 these offences may not be severe, they are taken seriously as they impact
 the learning environment and the well-being of the school community.</p>
-<p>Examples of minor offences:</p>
-<p>Late-coming, Skipping classes, Negligent Damage of Property, Playful/uncooperative
+<p><u>Examples of minor offences:</u>
+</p>
+<p>Latecoming, Skipping classes, Negligent Damage of Property, Playful/uncooperative
 behaviour, Online misconduct, Improper attire and grooming.</p>
 <p>If the student commits multiple minor offences despite warnings/reminders,
 it could also be reported as “Open Defiance” under Serious Offence.</p>
@@ -80,18 +94,30 @@ it could also be reported as “Open Defiance” under Serious Offence.</p>
 <p>First-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 3 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 stroke of the cane (for boys only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 to 3 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>1 stroke of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (no better
-than ‘Fair’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -99,19 +125,30 @@ than ‘Fair’)</p>
 <p>Second-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (no better
-than ‘Fair’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 <td rowspan="2" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (‘Poor’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -119,21 +156,27 @@ only)</p>
 <p>Subsequent offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct grade
-adjustment (‘Poor’)</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h4><strong><u>Zero Tolerance Policy against Bullying in AISS</u></strong></h4>
-<p>&nbsp;Bullying is a repeated pattern of behaviour where a student or group
-intentionally targets others to cause distress. It can be cyber, physical,
-social/relational or verbal in nature.</p>
+<p>Bullying is a repeated pattern of behaviour where a student or group intentionally
+targets others to cause distress. It can be cyber, physical, social/relational
+or verbal in nature.</p>
 <p>In AISS, we believe that every student has the right to learn in a safe
 and supportive environment. Our school is committed to being a place where
 all individuals can grow and develop without fear of bullying or harassment.
@@ -152,30 +195,46 @@ along with photos or supporting evidence if available.</p>
 <p><strong><u>Response Time Guidelines</u></strong>
 </p>
 <p>The school commits to the following response time guidelines:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 working days: Acknowledge all feedback
-and reply to straightforward enquiries.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 working days: For cases needing investigation,
-including gathering statements and reviewing evidence.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21 working days: For complex cases involving
-detailed investigations, multiple parties, or external agencies.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 working days: Acknowledge all feedback and reply to straightforward
+enquiries.</p>
+</li>
+<li>
+<p>7 working days: For cases needing investigation, including gathering statements
+and reviewing evidence.</p>
+</li>
+<li>
+<p>21 working days: For complex cases involving detailed investigations,
+multiple parties, or external agencies.</p>
+</li>
+</ul>
 <p><strong><u>Vaping enforcement</u></strong>
 </p>
-<p>Electronic vaporisers, also known as e-cigarettes, e-vaporisers or vapes,
-are electronic devices that vaporise a liquid solution (e-liquid) to be
-inhaled.</p>
-<p>Health Sciences Authority's Tobacco Regulation Branch administers and
-enforces the Tobacco (Control of Advertisements and Sale) Act (TCASA).
-From 1 February 2018, the purchase, possession, and use of emerging and
-imitation tobacco products, which include e-vaporisers, have been prohibited.
-This is in addition to earlier prohibitions on the importation, sale, and
-distribution of these products.</p>
-<p>From 1 September 2025, etomidate and its analogues will be classified
-as Class C controlled drugs under the Misuse of Drugs Act 1973 (MDA) for
-six months, pending introduction of more fit-for-purpose legislation.</p>
+<p>Vaporisers are electronic devices that convert a liquid solution (e-liquid)
+into a gaseous form to be inhaled. The possession and use of vaporisers
+have been prohibited in Singapore since 2018.</p>
+<p>These devices have evolved from delivering nicotine to the user, into
+ones that are used for abusing etomidate (which is used by medical professionals
+for the induction of general anaesthesia in a clinical setting), and other
+controlled drugs.</p>
+<p>The Tobacco and Vaporisers Control Act (TVCA), renamed from the Tobacco
+(Control of Advertisements &amp; Sale) Act, with effect from 1 May 2026),
+reflects the enhanced focus on vaporisers. TVCA will consolidate enforcement,
+rehabilitation and educational frameworks for users of vaporisers including
+those containing specified psychoactive substance (SPS) such as etomidate.
+Enhanced penalties under TVCA apply to the possession, use, import and
+supply of vaporisers.</p>
 <p>For such cases, schools will mete out school-based consequences, <strong><u>in addition</u></strong> to
 the consequences meted out by the authorities.</p>
+<p>With effect from 1 May 2026, etomidate and its analogues will be listed
+as SPS in a new Schedule under TVCA. This Schedule will provide the Ministry
+of Health and HSA with the powers to enforce against substances or products
+that can cause a psychoactive effect when consumed, and are abused or likely
+to be abused by using a tobacco product, vaporiser, or imitation tobacco
+product. New substances and products can be listed in the future when the
+need arises.</p>
 <h4><strong>Penalty and School Based Consequence for Possession, Use and Purchase of Etomidate E-vaporisers:</strong></h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -188,7 +247,7 @@ the consequences meted out by the authorities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Health Sciences Authority</u></strong>
+<p><strong>Stiff Penalties Remain for SPS Offences:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,68 +257,162 @@ the consequences meted out by the authorities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First-time offenders under 18 years old</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Composition fine of $500</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory rehabilitation programme (up
-to six months)</p>
+<p><strong>First-time offenders</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (no better
-than ‘Fair’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</p>
+</li>
+<li>
+<p>Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</p>
+</li>
+<li>
+<p>Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment,
+or both</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First-time offenders aged 18 years and above</p>
+<p><strong>Subsequent offenders</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Composition fine of $700</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory rehabilitation programme (up
-to six months)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Second-time offenders</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory six-month supervision with drug
-testing and rehabilitation</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (‘Poor’)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Third or subsequent offences (under 16 years)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandatory 12-month community supervision</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Third or subsequent offences (16 years and above)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Admission to Drug Rehabilitation Centre
-to undergo rehabilitation,</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subsequently undergo 12 months of drug
-testing and supervision</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
-<p></p>
+<h4><strong>Penalty and School Based Consequence for Possession, Use and Purchase of E-vaporisers:</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Enhanced Penalties for All Prohibited Products:&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>School Based Consequence for Serious Offences</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First time offenders</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Suppliers:&nbsp;Mandatory imprisonment for up to 6 years, and a fine of
+up to $200,000&nbsp;</p>
+</li>
+<li>
+<p>Importers:&nbsp;Mandatory imprisonment for up to 9 years, and a fine of
+up to $300,000&nbsp;</p>
+</li>
+<li>
+<p>Individuals:&nbsp;Can be fined up to $10,000</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 to 3 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>1 stroke of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Second time offenders</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subsequent offenders</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>Continued Rehabilitation for Offenders</u></strong></h4>
+<p>Rehabilitation remains a main intervention for etomidate vaporiser offenders
+and repeat vaporiser offenders. The Chief Executive of HSA will be empowered
+to order community-based rehabilitation and institutional treatment and
+rehabilitation under the TVCA. This also includes requiring persons, such
+as those under the community-based rehabilitation order or those discharged
+from the Drug Rehabilitation Centre after treatment and rehabilitation
+for SPS consumption, to provide urine or hair specimens to check if they
+are still consuming SPS. Those who do not comply can be prosecuted.</p>
