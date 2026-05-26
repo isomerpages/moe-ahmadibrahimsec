@@ -24,6 +24,7 @@ and values. The Student Management Committee will support and work with
 all staff to nurture our students as Champions of Change, empowering them
 to become positive agents of transformation who can make meaningful contributions
 to their communities and beyond.</p>
+<p></p>
 <h4><strong><u>An Overview of Serious and Minor Offences, and Baseline Disciplinary Consequences in AISS</u></strong></h4>
 <p>&nbsp;An offence is considered <strong>serious </strong>when a student:</p>
 <p>•&nbsp; causes serious harm and/or disruption to self, whether physical,
