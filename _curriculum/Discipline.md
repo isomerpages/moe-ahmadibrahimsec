@@ -263,14 +263,16 @@ need arises.</p>
 <td rowspan="2" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</p>
+<p><strong>Suppliers: 2 to 10 years' imprisonment and 2 to 5 strokes of the cane</strong>
+</p>
 </li>
 <li>
-<p>Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</p>
+<p><strong>Importers: 3 to 20 years' imprisonment and 5 to 10 strokes of the cane</strong>
+</p>
 </li>
 <li>
-<p>Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment,
-or both</p>
+<p><strong>Individuals: Can be fined up to $20,000, or face up to 10 years of imprisonment, or both</strong>
+</p>
 </li>
 </ul>
 <p></p>
@@ -278,13 +280,16 @@ or both</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>3 to 5 days of detention and/or suspension; and/or</p>
+<p><strong>3 to 5 days of detention and/or suspension; and/or</strong>
+</p>
 </li>
 <li>
-<p>Up to 2 strokes of the cane (for boys only)</p>
+<p><strong>Up to 2 strokes of the cane (for boys only)</strong>
+</p>
 </li>
 <li>
-<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+<p><strong>AND conduct grade adjustment (no better than ‘Fair’)</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -297,13 +302,16 @@ or both</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>5 to 14 days of detention and/or suspension; and/or</p>
+<p><strong>5 to 14 days of detention and/or suspension; and/or</strong>
+</p>
 </li>
 <li>
-<p>Up to 3 strokes of the cane (for boys only)</p>
+<p><strong>Up to 3 strokes of the cane (for boys only)</strong>
+</p>
 </li>
 <li>
-<p>AND conduct grade adjustment (‘Poor’)</p>
+<p><strong>AND conduct grade adjustment (‘Poor’)</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -340,28 +348,32 @@ or both</p>
 <td rowspan="3" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Suppliers:&nbsp;Mandatory imprisonment for up to 6 years, and a fine of
-up to $200,000&nbsp;</p>
+<p><strong>Suppliers:&nbsp;Mandatory imprisonment for up to 6 years, and a fine of up to $200,000&nbsp;</strong>
+</p>
 </li>
 <li>
-<p>Importers:&nbsp;Mandatory imprisonment for up to 9 years, and a fine of
-up to $300,000&nbsp;</p>
+<p><strong>Importers:&nbsp;Mandatory imprisonment for up to 9 years, and a fine of up to $300,000&nbsp;</strong>
+</p>
 </li>
 <li>
-<p>Individuals:&nbsp;Can be fined up to $10,000</p>
+<p><strong>Individuals:&nbsp;Can be fined up to $10,000</strong>
+</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1 to 3 days of detention and/or suspension; and/or</p>
+<p><strong>1 to 3 days of detention and/or suspension; and/or</strong>
+</p>
 </li>
 <li>
-<p>1 stroke of the cane (for boys only)</p>
+<p><strong>1 stroke of the cane (for boys only)</strong>
+</p>
 </li>
 <li>
-<p>AND conduct grade adjustment</p>
+<p><strong>AND conduct grade adjustment</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -372,19 +384,22 @@ up to $300,000&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3 to 5 days of detention and/or suspension; and/or</p>
+<p><strong>3 to 5 days of detention and/or suspension; and/or</strong>
+</p>
 </li>
 <li>
-<p>Up to 2 strokes of the cane (for boys only)</p>
+<p><strong>Up to 2 strokes of the cane (for boys only)</strong>
+</p>
 </li>
 <li>
-<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+<p><strong>AND conduct grade adjustment (no better than ‘Fair’)</strong>
+</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -393,14 +408,30 @@ up to $300,000&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of
-detention and/or suspension; and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes
-of the cane (for boys only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade
-adjustment (‘Poor’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>5 to 14 days of detention and/or suspension; and/or</strong>
+</p>
+</li>
+<li>
+<p><strong>Up to 3 strokes of the cane (for boys only)</strong>
+</p>
+</li>
+<li>
+<p><strong>AND conduct grade adjustment (‘Poor’)</strong>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong><u>Continued Rehabilitation for Offenders</u></strong></h4>
+<p>Rehabilitation remains a main intervention for etomidate vaporiser offenders
+and repeat vaporiser offenders. The Chief Executive of HSA will be empowered
+to order community-based rehabilitation and institutional treatment and
+rehabilitation under the TVCA. This also includes requiring persons, such
+as those under the community-based rehabilitation order or those discharged
+from the Drug Rehabilitation Centre after treatment and rehabilitation
+for SPS consumption, to provide urine or hair specimens to check if they
+are still consuming SPS. Those who do not comply can be prosecuted.</p>
