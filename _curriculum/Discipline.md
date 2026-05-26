@@ -24,34 +24,47 @@ and values. The Student Management Committee will support and work with
 all staff to nurture our students as Champions of Change, empowering them
 to become positive agents of transformation who can make meaningful contributions
 to their communities and beyond.</p>
-<p></p>
 <h4><strong><u>An Overview of Serious and Minor Offences, and Baseline Disciplinary Consequences in AISS</u></strong></h4>
 <p>&nbsp;An offence is considered <strong>serious </strong>when a student:</p>
-<p>•&nbsp; causes serious harm and/or disruption to self, whether physical,
-psychological or social; and/or</p>
-<p>• causes serious harm and/or disruption to others, whether physical, psychological
+<ul data-tight="true" class="tight">
+<li>
+<p>causes serious harm and/or disruption to self, whether physical, psychological
 or social; and/or</p>
-<p>• causes serious damage to property or resources; and/or</p>
-<p>• shows defiance against authorities.</p>
+</li>
+<li>
+<p>causes serious harm and/or disruption to others, whether physical, psychological
+or social; and/or</p>
+</li>
+<li>
+<p>causes serious damage to property or resources; and/or</p>
+</li>
+<li>
+<p>shows defiance against authorities.</p>
+</li>
+</ul>
 <p>For <strong>serious </strong>offences which also involve a breach of the
 law (e.g., Substance Abuse, Vaping, Theft, Possession of weapons, Scams
 and Frauds), schools will report the offence to the relevant law enforcement
 agencies (LEAs) promptly. For such cases, schools will mete out school-based
 consequences, in addition to the consequences meted out by the authorities.</p>
-<p><strong>Very serious</strong> offences include Drug Abuse, Vaping (with
+<p><strong>Very serious </strong>offences include Drug Abuse, Vaping (with
 etomidate), Sexual Misconduct, Assault, Fighting, Gangsterism, Severe bullying
 and other illegal/criminal offences under s424 or offences which result
-in grievous hurt. Examples of very serious (egregious) and serious offences:
-Substance Abuse, Vaping, Vaping (Etomidate), Pornography, Leaving school
+in grievous hurt.</p>
+<p><u>Examples of very serious (egregious) and serious offences:</u>
+</p>
+<p>Substance Abuse, Vaping, Vaping (Etomidate), Pornography, Leaving school
 grounds without permission, Truancy, Assault, Bullying, Fighting, Gangsterism,
 Sexual Misconduct, Arson, Cybersecurity Violations, Trespassing, Vandalism,
 Open Defiance to School Leaders/Teachers/Staff.</p>
+<p></p>
 <p><strong>Minor</strong> offences in school refer to behaviours that disrupt
 learning, affect school discipline, or show a lack of responsibility. While
 these offences may not be severe, they are taken seriously as they impact
 the learning environment and the well-being of the school community.</p>
-<p>Examples of minor offences:</p>
-<p>Late-coming, Skipping classes, Negligent Damage of Property, Playful/uncooperative
+<p><u>Examples of minor offences:</u>
+</p>
+<p>Latecoming, Skipping classes, Negligent Damage of Property, Playful/uncooperative
 behaviour, Online misconduct, Improper attire and grooming.</p>
 <p>If the student commits multiple minor offences despite warnings/reminders,
 it could also be reported as “Open Defiance” under Serious Offence.</p>
@@ -81,18 +94,30 @@ it could also be reported as “Open Defiance” under Serious Offence.</p>
 <p>First-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 3 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 stroke of the cane (for boys only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 to 3 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>1 stroke of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (no better
-than ‘Fair’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -100,19 +125,30 @@ than ‘Fair’)</p>
 <p>Second-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (no better
-than ‘Fair’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 <td rowspan="2" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention and/or suspension;
-and/or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade adjustment (‘Poor’)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -120,12 +156,18 @@ only)</p>
 <p>Subsequent offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for boys
-only)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct grade
-adjustment (‘Poor’)</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
