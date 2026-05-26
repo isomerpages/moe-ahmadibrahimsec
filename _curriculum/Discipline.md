@@ -257,7 +257,8 @@ need arises.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First-time offenders</p>
+<p><strong>First-time offenders</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <ul data-tight="true" class="tight">
@@ -290,7 +291,8 @@ or both</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subsequent offenders</p>
+<p><strong>Subsequent offenders</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -308,5 +310,97 @@ or both</p>
 </tr>
 </tbody>
 </table>
-<hr>
+<h4><strong>Penalty and School Based Consequence for Possession, Use and Purchase of E-vaporisers:</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Enhanced Penalties for All Prohibited Products:&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>School Based Consequence for Serious Offences</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First time offenders</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Suppliers:&nbsp;Mandatory imprisonment for up to 6 years, and a fine of
+up to $200,000&nbsp;</p>
+</li>
+<li>
+<p>Importers:&nbsp;Mandatory imprisonment for up to 9 years, and a fine of
+up to $300,000&nbsp;</p>
+</li>
+<li>
+<p>Individuals:&nbsp;Can be fined up to $10,000</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 to 3 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>1 stroke of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Second time offenders</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention and/or suspension; and/or</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for boys only)</p>
+</li>
+<li>
+<p>AND conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subsequent offenders</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of
+detention and/or suspension; and/or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes
+of the cane (for boys only)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND conduct grade
+adjustment (‘Poor’)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
