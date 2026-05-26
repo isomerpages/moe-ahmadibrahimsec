@@ -174,9 +174,9 @@ it could also be reported as “Open Defiance” under Serious Offence.</p>
 </table>
 <p>&nbsp;</p>
 <h4><strong><u>Zero Tolerance Policy against Bullying in AISS</u></strong></h4>
-<p>&nbsp;Bullying is a repeated pattern of behaviour where a student or group
-intentionally targets others to cause distress. It can be cyber, physical,
-social/relational or verbal in nature.</p>
+<p>Bullying is a repeated pattern of behaviour where a student or group intentionally
+targets others to cause distress. It can be cyber, physical, social/relational
+or verbal in nature.</p>
 <p>In AISS, we believe that every student has the right to learn in a safe
 and supportive environment. Our school is committed to being a place where
 all individuals can grow and develop without fear of bullying or harassment.
