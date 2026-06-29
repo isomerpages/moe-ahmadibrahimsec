@@ -309,7 +309,7 @@ of the outdoor cooking skill set that every Scout possesses.</p>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaR5xN53i63qFNB2tIUbWLys6eo3dNv2qNMTydpMDtP-zHxH4Dbei_Jn8bg8zpJNeneEJYCNyTUrrs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaR5xN53i63qFNB2tIUbWLys6eo3dNv2qNMTydpMDtP-zHxH4Dbei_Jn8bg8zpJNeneEJYCNyTUrrs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -317,9 +317,9 @@ of the outdoor cooking skill set that every Scout possesses.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Wednesday</strong>
-<br>3pm to 5.30 pm</p>
+<br>3pm to 5.00 pm</p>
 <p><strong>Friday</strong>
-<br>2.30 pm to 5.30 pm
+<br>2.00 pm to 5.30 pm
 <br>
 <br><a href="https://go.gov.sg/aiwscalendar" rel="noopener nofollow" target="_blank">Scouts Training Calendar</a>
 </p>
