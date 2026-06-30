@@ -396,8 +396,8 @@ of the outdoor cooking skill set that every Scout possesses.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Ms Tania Chia Mei Lin (OIC)<br>Contact:&nbsp;<a href="mailto:chia_mei_lin_tania@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chia_mei_lin_tania@moe.edu.sg</a></strong>
-<br>Ms Tam Ye Ting
-<br>Ms Fong Yuen Han</p>
+<br>Mr Enzo Charles Victor Buttazzoni
+<br>Ms Tam Ye Ting</p>
 </div>
 </details>
 </div>
