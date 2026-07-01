@@ -6,7 +6,7 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
-<p><em>*Timetable to be updated closer to exam date</em>
+<p><em>*Timetable updated on 1/7/26</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
