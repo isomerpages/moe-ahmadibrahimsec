@@ -5,6 +5,23 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
+<p><em>*Timetable to be updated closer to exam date</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1SUUEXeUWb0gbmVVy4uNeG2CdWiLkyrwq8aaU0rnAesc/edit?usp=sharing" rel="noopener nofollow" target="_blank">Prelims N Level (NT)</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/18wgL8Hnre7VBDt1XiybA0YDjR6n8IF6SKYwvqcb7mOs/edit?usp=sharing" rel="noopener nofollow" target="_blank">Prelims N Level (NA)</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1p-wthukG1nxidQpwcSENCG59OmOBcRkWn-is80Yehmw/edit?usp=sharing" rel="noopener nofollow" target="_blank">Prelims O Level</a>
+</p>
+</li>
+</ul>
 <h4><strong>Class Timetable</strong></h4>
 <p><em>*Timetable updated on 16 January 2026</em>
 </p>
@@ -55,20 +72,6 @@ odd and even week timetable.</p>
 <li>
 <p><a href="https://docs.google.com/document/d/1p2tBTmz9GvTg35yKF99kbjKrs-B5hhye/edit?usp=sharing&amp;ouid=107804459623383672407&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
-</li>
-</ul>
-<h4><strong>GCE O &amp; N Level Preliminary Examinations Timetable</strong></h4>
-<p><em>*Timetable to be updated closer to exam date</em>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Prelims N Level (NT)</p>
-</li>
-<li>
-<p>Prelims N Level (NA)</p>
-</li>
-<li>
-<p>Prelims O Level</p>
 </li>
 </ul>
 <h4></h4>
