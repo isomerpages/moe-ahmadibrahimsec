@@ -5,40 +5,47 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>EDUSAVE CHARACTER AWARD (ECHA) 2025</h3>
-<p>The Ministry of Education introduced Edusave Character Award (ECHA) in
-2012 to recognise students who demonstrate exemplary character and outstanding
+<h3><strong>Edusave Character Award (ECHA)</strong></h3>
+<p>The Edusave Character Award (ECHA) was introduced in 2012 to enable schools
+to recognise students who demonstrate exemplary character and outstanding
 personal qualities through their behaviour and actions. This is part of
-the larger goal to foster an inclusive and stronger Singapore, as we broaden
-qualities and achievements to be encouraged and applauded.</p>
-<h4>The eligibility criteria of the award are as follows:</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>The eligibility criteria of the award are as follows:</p>
-</li>
-<li>
-<p>The nominee must, on a consistent basis, demonstrated good character and
-values. In particular, the nominee has demonstrated the following types
-of qualities:</p>
+the larger goal to foster an inclusive and stronger Singapore as we broaden
+the qualities and achievements to be encouraged and applauded. The award
+also supports schools’ continuing efforts in nurturing students of character
+and values, who are active contributors and concerned citizens.</p>
+<p><strong>Objectives</strong>
+<br>The objectives of the ECHA are:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To send a clear and strong signal
+of the importance that MOE places on character and values, on par with
+achievements in the academic domain; and</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To recognise outstanding students
+in each school who are exemplary in character, and who can be role models
+to inspire others.</p>
+<p>&nbsp;<strong>Eligibility Criteria</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The nominee is a Singapore citizen.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The nominee must, on a consistent
+basis, demonstrated good character and values. In particular, the nominee
+has demonstrated the following types of qualities:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School values of Al RISES (<strong><u>R</u></strong>esilience, <strong><u>I</u></strong>ntegrity, <strong><u>S</u></strong>teadfastness, <strong><u>E</u></strong>xcellence
-and <strong><u>S</u></strong>ervice) with <strong><u>C</u></strong>are, <strong><u>C</u></strong>ourage,
-and <strong><u>G</u></strong>ratitude; and/or</p>
+<p>school values of ACE (Adaptability, Courage and Empathy) and/or</p>
 </li>
 <li>
-<p>Qualities associated with outstanding character where nominee has demonstrated
+<p>qualities associated with outstanding character where nominee has demonstrated
 exemplary character, and who can be role models to inspire others.</p>
 </li>
 </ul>
-</li>
-</ol>
-<p>If you wish to nominate a deserving student for the ECHA, please fill
-in and submit your nomination via the following link: <a href="https://go.gov.sg/aiss-echa-eagles-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aiss-echa-eagles-2025</a>
+<p><strong>Nomination and Selection Process</strong>
 </p>
-<p>The deadline for nomination is <strong>5 pm on Friday, 18 July 2025</strong>.</p>
-<p>We look forward to your nominations.</p>
-<p>Yours sincerely
-<br><strong>Mr Goh Soon Hoe </strong>
-<br>Principal</p>
+<p>All nominations have to be made using the online nomination form, here
+(link to this site <a href="https://forms.moe.edu.sg/forms/v8gO0M" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v8gO0M</a> ),
+available from the school website and Parent Gateway from Friday, 3 July
+2026.</p>
+<p>The main stages of the selection process include nomination, shortlisting
+and endorsement.</p>
+<p>The closing date for nomination is Friday, 17 July 2026 (5 pm) and all
+nominations must be submitted by the closing date and time.</p>
+<p>For more information on ECHA, please visit here (link to this <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards</a> )
+for more information. Thank you.</p>
 <p></p>
