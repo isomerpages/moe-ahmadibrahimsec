@@ -5,36 +5,31 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h3>Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) 2025</h3>
-<p>Dear Parent/Guardian,</p>
-<p>The Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES)
-was introduced in 2001 to recognise students' leadership qualities, excellence
-in non-academic activities, and service to community and schools. This
-yearly award is open to students who are Singapore Citizens. With effect
-from 2024, EAGLES was enhanced to recognise students with consistent and
-exemplary demonstration of Emerging 21st Century Competencies (E21CC).
+<h3><strong>Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES – Emerging 21st Century Competencies)</strong></h3>
+<p>&nbsp;EAGLES was introduced in 2001 to recognise students' leadership
+qualities, excellence in non-academic activities, and service to community
+and schools.
+<br>With effect from 2024, EAGLES was enhanced to recognise students with
+consistent and exemplary demonstration of Emerging 21st Century Competencies<strong> </strong>(E21CC).
 This enhancement supports the broader goal of nurturing students holistically
 and preparing them to thrive in a fast-changing, complex, and interconnected
 world.</p>
-<h4>The eligibility criteria of the award are as follows:</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>The nominee is a Singapore Citizen.</p>
-</li>
-<li>
-<p>The nominee must, on a consistent basis, demonstrate one or more of the
-21CCs in an exemplary manner as observed in school settings and contexts.</p>
-</li>
-<li>
-<p>The nominee must attain a conduct grade of ‘Good’ or better.</p>
-</li>
-</ol>
-<p>After collating all nominations, a panel consisting of different school
-personnel will convene to shortlist the nominees.</p>
-<p>If you wish to nominate a deserving student or your child for the EAGLES
-(E21CC), please fill in the FormSG nomination form at <a href="https://go.gov.sg/aiss-echa-eagles-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aiss-echa-eagles-2025</a> by <strong>5 pm, Friday, 18 July 2025</strong>.</p>
-<p>For any queries, kindly contact Ms Andrea Lee at <a href="mailto:andrea_lee_shu_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrea_lee_shu_qi@moe.edu.sg</a>.</p>
-<p>We look forward to your nominations.</p>
-<p>Yours sincerely,
-<br><strong>Mr Goh Soon Hoe</strong>
-<br>Principal</p>
+<p>&nbsp;At AISS, eligible nominees must:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be Singapore Citizens.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate any one or more competencies
+in a consistent and exemplary manner:</p>
+<p>o&nbsp;&nbsp; &nbsp;Critical, Adaptive and Inventive Thinking</p>
+<p>o&nbsp;&nbsp; Communication, Collaboration and Information Skills</p>
+<p>o&nbsp;&nbsp; Civic, Global and Cross-Cultural Literacy</p>
+<p>&nbsp;<strong>Nomination and Selection Process</strong>
+</p>
+<p>All nominations have to be made using the online nomination form, here
+(link to this site <a href="https://forms.moe.edu.sg/forms/v8gO0M" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v8gO0M</a> ),
+available from the school website and Parent Gateway from Friday, 3 July
+2026.</p>
+<p>The main stages of the selection process include nomination, shortlisting
+and endorsement.</p>
+<p>The closing date for nomination is Friday, 17 July 2026 (5 pm) and all
+nominations must be submitted by the closing date and time.</p>
+<p>For more information on EAGLES, please visit here (link to this <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards</a> )
+for more information. Thank you.</p>
