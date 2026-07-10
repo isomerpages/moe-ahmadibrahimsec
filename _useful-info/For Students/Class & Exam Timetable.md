@@ -38,15 +38,15 @@ odd and even week timetable.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/document/d/1HLYiuAhuuekwqNE0PEpPfVuRYvOTOoEG/edit?usp=sharing&amp;ouid=107804459623383672407&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="https://docs.google.com/document/d/1OxHcvd93quz1KN_NJYivN6EfaNqS2Agl/edit?usp=sharing&amp;ouid=107804459623383672407&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1MgvAKJ60cEAkA3BuRlxx4cjY02j4Cl7b/edit?usp=sharing&amp;ouid=107804459623383672407&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="https://docs.google.com/document/d/1yEHxDeWXlqa-SKuavBFVwKCXkM1Z7Y6D/edit?usp=sharing&amp;ouid=107804459623383672407&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1QOy0p70ZNfDl9m4rNEOOmZdl7OBKmSPk/edit?usp=sharing&amp;ouid=107804459623383672407&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="https://docs.google.com/document/d/1H3drl7kHqpKD7dYDdtIWjFS0R0g5uGh_/edit?usp=sharing&amp;ouid=107804459623383672407&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 <li>
