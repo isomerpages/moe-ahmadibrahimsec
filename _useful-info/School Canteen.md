@@ -27,7 +27,8 @@ hours</p>
 <p>Applicants who adopt green practices are also preferred</p>
 <h4><strong><u>Application Procedure</u></strong></h4>
 <p>Application form is available at our General Office (751 Yishun Ave 7,
-Singapore 768928) or can be downloaded here</p>
+Singapore 768928) or can be downloaded <a href="/files/Admin/canteen_application_form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p>Interested applicants must submit the following documents:</p>
 <p>a) Completed application form</p>
 <p>b) Proposed menu and price list of all items to be sold</p>
