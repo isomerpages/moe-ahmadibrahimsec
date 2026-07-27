@@ -46,7 +46,8 @@ to provide food sampling.</p>
 </li>
 <li>
 <p>Successful applicant will be expected to commence operation of the stall
-from January 2027.</p>
+from <strong>January 2027.</strong>
+</p>
 </li>
 <li>
 <p>Closing date for Application:&nbsp;<strong>31 December 2026, 6pm.</strong>
