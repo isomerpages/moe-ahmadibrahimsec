@@ -325,7 +325,7 @@ variant: tiptap
 <p>Mdm Chong Chew Luan Penny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Learning Needs (Educational Support)</p>
+<p>ST / Special Educational Needs</p>
 </td>
 </tr>
 </tbody>
